@@ -16,6 +16,8 @@ Zhao, Yunpu, et al. "Assessing and understanding creativity in large language mo
 
 ## Top-p and Nucleus Sampling Studies
 
+Holtzman, Ari, et al. "The curious case of neural text degeneration." arXiv preprint arXiv:1904.09751 (2019).
+
 Üzümcü, Taha, and Murat Can Ganiz. "Analysis of Consistency of Large Language Models for Low-Resource Languages like Turkish with Min-P and Top-P Sampling Parameters." 2025 33rd Signal Processing and Communications Applications Conference (SIU). IEEE, 2025.
 
 Ravfogel, Shauli, Yoav Goldberg, and Jacob Goldberger. "Conformal nucleus sampling." arXiv preprint arXiv:2305.02633 (2023).
@@ -23,10 +25,9 @@ Ravfogel, Shauli, Yoav Goldberg, and Jacob Goldberger. "Conformal nucleus sampli
 ---
 
 **Critical Missing Sources Still Needed:**
-- Holtzman, Ari, et al. "The curious case of neural text degeneration." arXiv preprint arXiv:1904.09751 (2019).
-- Top-p parameter specific studies
+- Top-p parameter specific studies (additional sources)
 - Controllable text generation studies
 - Sampling strategies comparison research
 
-**Total Sources:** 7  
+**Total Sources:** 8  
 **Last Updated:** September 23, 2025
