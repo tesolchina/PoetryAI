@@ -48,17 +48,23 @@ Benefits:
 
 ## 📊 **Refined Research Design Matrix**
 
-### **2×2 Factorial Design**
+### **2×2 Factorial Design with Control Group Focus**
 ```
-                    AWARE UI        UNAWARE UI
-STRUCTURED      Room 1           Room 2
-(Temp 0.3,      (n=5)           (n=5)
-Top-p 0.4)      
-
-EXPLORATORY     Room 3           Room 4  
-(Temp 0.8,      (n=5)           (n=5)
+                    AWARE UI           UNAWARE UI
+                   (Bias Check)      (CONTROL GROUP)
+STRUCTURED      Room 1              Room 2 ←──┐
+(Temp 0.3,      (n=5)              (n=5)     │
+Top-p 0.4)                                   │ PRIMARY
+                                             │ RESEARCH
+EXPLORATORY     Room 3              Room 4 ←──┘ COMPARISON
+(Temp 0.8,      (n=5)              (n=5)
 Top-p 0.9)
 ```
+
+### **Research Focus Clarification**
+- **PRIMARY COMPARISON**: Room 2 vs Room 4 (Unaware participants = pure parameter effects)
+- **AWARENESS VALIDATION**: Room 1 vs Room 2, Room 3 vs Room 4 (bias check)
+- **CONTROL GROUP**: Unaware UI conditions (Rooms 2 & 4) provide cleanest parameter comparison
 
 ### **Sample Size Justification**
 - **Total N = 20** participants (5 per condition)
@@ -374,40 +380,47 @@ class RoomAccessControl {
 
 ---
 
-## 🔬 **Enhanced Research Questions**
+## 🔬 **Research Questions (Corrected Hierarchy)**
 
-### **Original RQs (Enhanced)**
-- **RQ1:** How do different LLM parameter settings affect human-AI creative writing collaboration patterns?
-- **RQ2:** What types of interactions emerge in structured vs. exploratory parameter conditions?
-- **RQ3:** How do parameter settings influence scaffolding quality in L2 creative writing contexts?
-- **RQ4:** What is the relationship between parameter settings and student agency in collaborative poetry creation?
+### **PRIMARY Research Questions (Main Study - Unaware Control Groups)**
+- **RQ1:** How do different LLM parameter settings affect human-AI creative writing collaboration patterns? 
+  *(Primary comparison: Room 2 vs Room 4 - unaware participants)*
+- **RQ2:** What types of interactions emerge in structured vs. exploratory parameter conditions? 
+  *(Focus on Rooms 2 & 4 - pure parameter effects)*
+- **RQ3:** How do parameter settings influence scaffolding quality in L2 creative writing contexts? 
+  *(Control group analysis - no awareness bias)*
+- **RQ4:** What is the relationship between parameter settings and student agency in collaborative poetry creation? 
+  *(Unaware condition comparison)*
 
-### **New RQs (Awareness Focus)**
-- **RQ5:** How does awareness of AI parameter settings affect participant collaboration strategies?
-- **RQ6:** Do aware participants demonstrate different interaction patterns compared to unaware participants?
-- **RQ7:** What is the interaction effect between parameter settings and awareness conditions on creative outcomes?
-- **RQ8:** How does post-session debriefing affect participant perceptions in unaware conditions?
+### **SECONDARY Research Questions (Methodological Validation - Awareness Check)**
+- **RQ5:** Does awareness of AI parameter settings introduce bias in collaboration behavior? 
+  *(Room 1 vs Room 2, Room 3 vs Room 4)*
+- **RQ6:** Are parameter effects consistent regardless of participant awareness? 
+  *(Cross-condition validation)*
+- **RQ7:** How does post-session debriefing affect participant perceptions in unaware conditions? 
+  *(Room 2 & 4 post-session analysis)*
 
 ---
 
 ## 📊 **Data Analysis Framework**
 
-### **Quantitative Analysis**
+### **Quantitative Analysis (Corrected Focus)**
 ```
-2×2 Factorial ANOVA:
-- Factor 1: Parameter Setting (Structured vs. Exploratory)
-- Factor 2: Awareness Condition (Aware vs. Unaware)
+PRIMARY Analysis (Control Group Comparison):
+- Main Comparison: Room 2 vs Room 4 (Unaware participants only)
+- Independent t-tests for parameter effects
+- Effect sizes for pure parameter differences
 - Dependent Variables:
   * Interaction frequency by type (A, B, C)
   * Creative output measures (word count, creativity scores)
   * Collaboration quality ratings
   * Session engagement metrics
 
-Effect Sizes:
-- Main effect of parameters
-- Main effect of awareness  
-- Interaction effects
-- Room-specific patterns
+SECONDARY Analysis (Awareness Validation):
+- 2×2 Factorial ANOVA (if needed for bias check)
+- Factor 1: Parameter Setting (Structured vs. Exploratory)  
+- Factor 2: Awareness Condition (Aware vs. Unaware)
+- Focus on interaction effects (parameter × awareness)
 ```
 
 ### **Qualitative Analysis**
