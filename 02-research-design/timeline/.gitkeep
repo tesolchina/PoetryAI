@@ -1,0 +1,348 @@
+# PoetryAI Research Project Timeline
+## 8-Week Implementation Schedule (October 7 - December 2, 2024)
+
+---
+
+## 📅 **Week 1: October 7-13, 2024**
+### **Ethics & Technical Foundation**
+
+#### **Monday, October 7**
+- [ ] **Submit Research Ethics Committee (REC) application**
+  - Complete IRB/ethics approval forms for HKBU
+  - Include informed consent forms for aware/unaware conditions
+  - Submit data protection and privacy compliance documentation
+  - **Deadline:** End of day for REC review cycle
+
+#### **Tuesday-Wednesday, October 8-9**
+- [ ] **Begin interface development**
+  - Set up development environment for four-room architecture
+  - Configure basic chat interface framework
+  - Test OpenAI API integration with parameter settings
+  - Create room-specific URL structure (poetryai.hkbu.edu.hk/room1-4)
+
+#### **Thursday-Friday, October 10-11**
+- [ ] **Website/chatroom establishment**
+  - Implement Room 1 (Structured + Aware) interface
+  - Implement Room 2 (Structured + Unaware) interface
+  - Begin Room 3 & 4 development
+  - Set up basic logging and data collection systems
+
+#### **Weekend Tasks**
+- [ ] **Documentation preparation**
+  - Finalize technical specifications document
+  - Prepare participant recruitment materials
+  - Create research assistant training materials
+
+**Week 1 Deliverables:**
+✅ REC application submitted  
+✅ Basic four-room interface framework established  
+✅ Development environment and API integration working  
+
+---
+
+## 📅 **Week 2: October 14-20, 2024**
+### **Pre-Orientations & Technical Completion**
+
+#### **Monday, October 14**
+- [ ] **Complete website development**
+  - Finish Room 3 (Exploratory + Aware) interface
+  - Finish Room 4 (Exploratory + Unaware) interface
+  - Implement debriefing modals for unaware conditions
+  - Test all room-specific parameter configurations
+
+#### **Tuesday-Wednesday, October 15-16**
+- [ ] **Pre-orientations preparation**
+  - Prepare presentation materials for NYU Singapore
+  - Create demo versions of all four rooms for demonstration
+  - Develop research overview presentation
+  - Test presentation technical setup
+
+#### **Thursday, October 17**
+- [ ] **NYU Singapore Presentation**
+  - Present PoetryAI research methodology and four-room design
+  - Demonstrate live interface functionality
+  - Gather feedback on research approach
+  - Network for potential collaboration and participant recruitment
+
+#### **Friday, October 18**
+- [ ] **Interface buildup completion**
+  - Integrate feedback from NYU presentation
+  - Complete audio recording synchronization
+  - Finalize data logging and export systems
+  - Conduct comprehensive system testing
+
+#### **Weekend Tasks**
+- [ ] **Quality assurance testing**
+  - Test all four rooms extensively
+  - Validate parameter differentiation between rooms
+  - Check data collection completeness
+  - Prepare user testing documentation
+
+**Week 2 Deliverables:**
+✅ All four rooms fully functional  
+✅ NYU Singapore presentation completed  
+✅ System testing and QA passed  
+
+---
+
+## 📅 **Week 3: October 21-27, 2024**
+### **Recruitment & Training Preparation**
+
+#### **Monday-Tuesday, October 21-22**
+- [ ] **Student helper recruitment**
+  - Post research assistant positions at HKBU
+  - Interview and select 2-3 research assistants
+  - Conduct background checks and training preparation
+  - Prepare research assistant contracts and materials
+
+#### **Wednesday, October 23**
+- [ ] **Research assistant training (briefing)**
+  - Conduct comprehensive training session using prepared briefing
+  - Practice session management protocols
+  - Test technical troubleshooting procedures
+  - Role-play participant support scenarios
+
+#### **Thursday-Friday, October 24-25**
+- [ ] **Participant recruitment preparation**
+  - Distribute recruitment flyers across HKBU and partner institutions
+  - Set up participant screening and scheduling system
+  - Create participant information packets
+  - Establish participant database and tracking system
+
+#### **Weekend Tasks**
+- [ ] **Final preparation for pilot testing**
+  - Schedule pilot testing appointments (pending REC approval)
+  - Prepare pilot testing materials and documentation
+  - Conduct final system stress testing
+  - Review all protocols with research assistants
+
+**Week 3 Deliverables:**
+✅ Research assistants recruited and trained  
+✅ Participant recruitment initiated  
+✅ All systems ready for pilot testing (pending REC approval)  
+
+---
+
+## 📅 **Week 4: October 28 - November 3, 2024**
+### **REC Approval & Pilot Testing**
+
+#### **Monday, October 28**
+- [ ] **REC approval confirmation**
+  - Receive and review Research Ethics Committee approval
+  - Address any conditions or modifications required
+  - Update consent forms and procedures if needed
+  - Notify research team of approval and proceed authorization
+
+#### **Tuesday-Friday, October 29 - November 1**
+- [ ] **Pilot testing execution**
+  - **Day 1:** Pilot Participant 1 → Room 1 (Structured + Aware)
+  - **Day 2:** Pilot Participant 2 → Room 2 (Structured + Unaware)
+  - **Day 3:** Pilot Participant 3 → Room 3 (Exploratory + Aware)
+  - **Day 4:** Pilot Participant 4 → Room 4 (Exploratory + Unaware)
+
+#### **Daily Pilot Schedule:**
+- **10:00-11:30 AM:** Participant session (55 min + setup/survey)
+- **11:30 AM-12:00 PM:** Immediate technical debrief
+- **2:00-2:30 PM:** Participant feedback interview
+- **3:00-4:00 PM:** Data analysis and issue documentation
+
+#### **Weekend Tasks**
+- [ ] **Pilot analysis and reporting**
+  - Compile comprehensive pilot testing report
+  - Analyze technical performance across all rooms
+  - Document participant feedback and suggestions
+  - Identify system improvements needed
+
+**Week 4 Deliverables:**
+✅ REC approval obtained  
+✅ Four pilot sessions completed successfully  
+✅ Pilot testing report with improvement recommendations  
+
+---
+
+## 📅 **Week 5: November 4-10, 2024**
+### **System Improvement & Experiment Preparation**
+
+#### **Monday-Tuesday, November 4-5**
+- [ ] **Chatbot improvement implementation**
+  - Address technical issues identified in pilot testing
+  - Optimize AI response quality and consistency
+  - Improve user interface based on pilot feedback
+  - Enhance data logging and collection systems
+
+#### **Wednesday-Thursday, November 6-7**
+- [ ] **Experiment preparations**
+  - Finalize participant recruitment (20 participants confirmed)
+  - Complete participant screening and room assignment
+  - Prepare all session materials and documentation
+  - Schedule main study sessions (Week 6)
+
+#### **Friday, November 8**
+- [ ] **Final system validation**
+  - Conduct comprehensive system testing post-improvements
+  - Validate all four rooms function optimally
+  - Test research assistant protocols with improved system
+  - Confirm all materials and procedures ready
+
+#### **Weekend Tasks**
+- [ ] **Main study logistics**
+  - Confirm all participant appointments for Week 6
+  - Prepare session materials (consent forms, surveys, etc.)
+  - Brief research assistants on final protocols
+  - Set up data collection and backup systems
+
+**Week 5 Deliverables:**
+✅ System improvements implemented and tested  
+✅ 20 participants recruited and scheduled  
+✅ All experiment materials and procedures finalized  
+
+---
+
+## 📅 **Week 6: November 11-17, 2024**
+### **Main Experiment Execution**
+
+#### **Daily Schedule (Monday-Friday)**
+- **Morning Session:** 9:00-11:00 AM (Participant session + immediate processing)
+- **Afternoon Session:** 2:00-4:00 PM (Participant session + immediate processing)
+- **Evening:** Data backup and daily progress review
+
+#### **Participant Distribution:**
+- **Monday, Nov 11:** Participants 1-2 (Room 1)
+- **Tuesday, Nov 12:** Participants 3-4 (Room 1) + Participant 6 (Room 2)
+- **Wednesday, Nov 13:** Participants 5, 7 (Room 2)
+- **Thursday, Nov 14:** Participants 8-9 (Room 2) + Participant 11 (Room 3)
+- **Friday, Nov 15:** Participants 10, 12 (Room 2, Room 3)
+
+#### **Weekend Sessions (if needed)**
+- **Saturday, Nov 16:** Participants 13-14 (Room 3)
+- **Sunday, Nov 17:** Participants 15-16 (Room 3) + Participants 17-18 (Room 4)
+
+#### **Daily Protocol:**
+- [ ] Pre-session setup and participant verification
+- [ ] 55-minute collaborative poetry session
+- [ ] Immediate post-session feedback survey collection
+- [ ] Data backup and session documentation
+- [ ] Technical issue resolution if needed
+
+**Week 6 Deliverables:**
+✅ 20 participant sessions completed successfully  
+✅ Complete data collection (chat logs, audio, surveys)  
+✅ All participants debriefed appropriately  
+
+---
+
+## 📅 **Week 7: November 18-24, 2024**
+### **Data Analysis & Feedback Collection**
+
+#### **Monday-Tuesday, November 18-19**
+- [ ] **Data compilation and organization**
+  - Compile all chat logs, audio recordings, and survey responses
+  - Organize data by room and participant ID
+  - Verify data completeness and quality
+  - Prepare data for analysis pipeline
+
+#### **Wednesday-Thursday, November 20-21**
+- [ ] **Quantitative data analysis**
+  - Perform 2×2 factorial ANOVA (Parameter × Awareness)
+  - Calculate AI response creativity scores and interaction classifications
+  - Analyze engagement metrics and satisfaction ratings
+  - Generate statistical summary and effect size calculations
+
+#### **Friday, November 22**
+- [ ] **Qualitative data analysis**
+  - Transcribe and code conversation data
+  - Identify thematic patterns across rooms
+  - Analyze creative output quality and L2 development
+  - Document cross-room comparison insights
+
+#### **Weekend Tasks**
+- [ ] **Participant rewards and feedback**
+  - Process participant compensation/course credit
+  - Send thank you messages with study summary
+  - Provide individual feedback on creative output (if requested)
+  - Create participant results summary document
+
+**Week 7 Deliverables:**
+✅ Complete data analysis (quantitative + qualitative)  
+✅ Statistical results and effect size calculations  
+✅ Participant rewards distributed and feedback provided  
+
+---
+
+## 📅 **Week 8: November 25 - December 2, 2024**
+### **Paper Writing & Submission Preparation**
+
+#### **Monday, November 25**
+- [ ] **Paper structure and outline**
+  - Create comprehensive paper outline based on analysis results
+  - Begin Introduction and Literature Review sections
+  - Draft methodology section with four-room experimental design
+  - Prepare figures and tables for results presentation
+
+#### **Tuesday-Wednesday, November 26-27**
+- [ ] **Results and Discussion sections**
+  - Write comprehensive Results section with statistical findings
+  - Develop Discussion section linking to theoretical framework
+  - Create implications for L2 writing pedagogy and AI education
+  - Draft limitations and future research directions
+
+#### **Thursday-Friday, November 28-29**
+- [ ] **Paper completion and revision**
+  - Complete Abstract, Conclusion, and References
+  - Conduct comprehensive editing and revision
+  - Format for target journal submission
+  - Prepare supplementary materials and data appendices
+
+#### **Weekend Tasks**
+- [ ] **Final submission preparation**
+  - Final proofreading and quality check
+  - Prepare submission materials for target journal
+  - Create conference presentation version
+  - Submit paper well before January 30 deadline
+
+**Week 8 Deliverables:**
+✅ Complete research paper ready for submission  
+✅ Conference presentation materials prepared  
+✅ All project documentation finalized  
+
+---
+
+## 🎯 **Critical Milestones & Dependencies**
+
+### **Week 1 Critical Path:**
+- **REC approval submission** → Determines Week 4 pilot timing
+- **Basic technical framework** → Required for Week 2 demonstration
+
+### **Week 4 Gateway:**
+- **REC approval** → Must receive before any participant contact
+- **Successful pilot testing** → Required before main study launch
+
+### **Week 6 Success Factors:**
+- **20 confirmed participants** → Recruitment must be complete by Week 5
+- **Technical system stability** → All improvements from Week 5 implemented
+
+### **Final Deadline:**
+- **January 30, 2025:** Paper submission deadline
+- **Buffer time:** 8 weeks provides 6+ weeks cushion for revisions
+
+---
+
+## 📋 **Risk Management & Contingencies**
+
+### **Week 1-2 Risks:**
+- **REC approval delays** → Submit complete application, follow up weekly
+- **Technical development issues** → Have backup developer identified
+
+### **Week 4-5 Risks:**
+- **Pilot testing reveals major issues** → Build extra time for improvements
+- **Participant recruitment challenges** → Over-recruit by 25% (25 participants)
+
+### **Week 6 Risks:**
+- **Technical failures during sessions** → Have backup systems and protocols
+- **Participant no-shows** → Maintain waitlist of backup participants
+
+### **Week 7-8 Risks:**
+- **Data analysis complexity** → Have statistical consultation arranged
+- **Writing timeline pressure** → Begin drafting sections during data collection
+
+**Status: Comprehensive 8-week implementation timeline ready for execution** ✅

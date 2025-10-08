@@ -1,0 +1,169 @@
+# Pilot Testing Feedback Questionnaire
+## Post-Session Evaluation (Maximum 10 Questions)
+
+---
+
+## 📝 **Pilot Testing Feedback Form**
+
+**Participant ID:** _______ **Room:** _______ **Date:** _______
+
+---
+
+### **Section A: Technical Experience (3 Questions)**
+
+**Q1. How would you rate the overall technical performance of the system?**
+- [ ] Excellent - Everything worked smoothly without any issues
+- [ ] Good - Minor delays or glitches, but didn't affect my experience
+- [ ] Fair - Some technical problems that were noticeable but manageable
+- [ ] Poor - Frequent technical issues that disrupted my session
+- [ ] Very Poor - Major technical failures that significantly impacted my experience
+
+**Q2. How user-friendly did you find the chat interface?**
+- [ ] Very easy to use - Intuitive and straightforward
+- [ ] Easy to use - Clear with minimal learning needed
+- [ ] Somewhat easy - Required some figuring out but manageable
+- [ ] Difficult - Confusing or hard to navigate
+- [ ] Very difficult - Frustrating and hard to use
+
+**Q3. How satisfied were you with the AI's response speed?**
+- [ ] Very satisfied - Responses felt immediate and natural
+- [ ] Satisfied - Quick enough for smooth conversation
+- [ ] Neutral - Acceptable speed, occasionally noticeable delays
+- [ ] Dissatisfied - Noticeably slow responses that interrupted flow
+- [ ] Very dissatisfied - Unacceptably slow responses
+
+---
+
+### **Section B: AI Collaboration Experience (4 Questions)**
+
+**Q4. How helpful was the AI writing partner in supporting your creative process?**
+- [ ] Extremely helpful - Significantly enhanced my creative writing
+- [ ] Very helpful - Provided valuable assistance and inspiration
+- [ ] Moderately helpful - Some useful suggestions and support
+- [ ] Slightly helpful - Limited assistance, mostly on my own
+- [ ] Not helpful - Did not contribute meaningfully to my writing
+
+**Q5. How would you describe the AI's collaboration style? (Select the best match)**
+- [ ] Systematic and structured - Step-by-step, methodical guidance
+- [ ] Creative and exploratory - Imaginative, varied, inspiring suggestions
+- [ ] Balanced approach - Mix of structured and creative elements
+- [ ] Inconsistent - Varied approach without clear pattern
+- [ ] Unclear - Difficult to identify a specific style
+
+**Q6. How appropriate was the AI's language and suggestions for your English level?**
+- [ ] Perfect match - Exactly right for my language abilities
+- [ ] Good match - Mostly appropriate with occasional challenges
+- [ ] Acceptable - Generally suitable with some difficulty
+- [ ] Too difficult - Often beyond my current English level
+- [ ] Too simple - Below my English abilities
+
+**Q7. How satisfied are you with the creative writing you produced during the session?**
+- [ ] Very satisfied - Proud of the creative work I accomplished
+- [ ] Satisfied - Happy with my creative output and progress
+- [ ] Neutral - Acceptable results, met basic expectations
+- [ ] Dissatisfied - Not pleased with the quality of my writing
+- [ ] Very dissatisfied - Disappointed with my creative output
+
+---
+
+### **Section C: Overall Experience & Research Participation (3 Questions)**
+
+**Q8. How engaging did you find the overall poetry writing session?**
+- [ ] Highly engaging - Fully absorbed and motivated throughout
+- [ ] Engaging - Interested and involved for most of the session
+- [ ] Somewhat engaging - Mixed levels of interest and involvement
+- [ ] Not very engaging - Struggled to maintain interest
+- [ ] Not engaging - Found it boring or difficult to stay focused
+
+**Q9. Would you recommend participating in this study to other L2 English learners?**
+- [ ] Definitely yes - Excellent experience, highly recommend
+- [ ] Probably yes - Good experience, would recommend with minor reservations
+- [ ] Maybe - Mixed experience, depends on individual preferences
+- [ ] Probably no - Some concerns or issues that limit recommendation
+- [ ] Definitely no - Would not recommend due to significant problems
+
+**Q10. How valuable was this experience for your English learning and creative development?**
+- [ ] Extremely valuable - Significant learning and creative growth
+- [ ] Very valuable - Notable improvement in language and creativity
+- [ ] Moderately valuable - Some learning and creative benefits
+- [ ] Slightly valuable - Minimal learning or creative benefits
+- [ ] Not valuable - No noticeable learning or creative development
+
+---
+
+## 📝 **Optional Open-Ended Comments**
+
+**What did you like most about the AI collaboration experience?**
+_________________________________________________________________
+_________________________________________________________________
+
+**What could be improved in the system or session design?**
+_________________________________________________________________
+_________________________________________________________________
+
+**Any other feedback or suggestions?**
+_________________________________________________________________
+_________________________________________________________________
+
+---
+
+## 🎯 **Condition-Specific Follow-Up Questions**
+
+### **For Aware Participants (Rooms 1 & 3 Only):**
+**How did knowing about the AI's parameter settings affect your collaboration approach?**
+- [ ] Made me more strategic in how I interacted with the AI
+- [ ] Helped me understand and appreciate the AI's responses better
+- [ ] No significant impact on my collaboration approach
+- [ ] Made me overthink the interaction and reduced naturalness
+- [ ] Was confusing or distracting from the creative process
+
+### **For Unaware Participants (Rooms 2 & 4 Only):**
+**After learning about the AI parameter settings in the debriefing, how do you feel about not knowing this information during the session?**
+- [ ] Prefer not knowing - allowed for more natural collaboration
+- [ ] Neutral - doesn't matter much either way
+- [ ] Would have preferred knowing - could have collaborated more effectively
+- [ ] Understand the research need for both approaches
+- [ ] Feel uncertain about the impact of awareness vs. non-awareness
+
+---
+
+## 📊 **Questionnaire Design Rationale**
+
+### **Question Distribution Strategy:**
+- **Technical Validation (Q1-3):** System performance, usability, response quality
+- **AI Collaboration (Q4-7):** Helpfulness, style recognition, appropriateness, satisfaction
+- **Overall Experience (Q8-10):** Engagement, recommendation, learning value
+- **Condition-Specific:** Awareness impact assessment
+
+### **Response Format Benefits:**
+✅ **5-point Likert scales** - Quantifiable data with clear gradations  
+✅ **Specific descriptors** - Clear interpretation and consistent responses  
+✅ **Balanced options** - Equal positive/negative choices with neutral middle  
+✅ **Targeted questions** - Each question addresses specific validation needs  
+
+### **Analysis Mapping:**
+```
+Technical Readiness Assessment:
+- Q1 (Technical Performance) + Q2 (Usability) + Q3 (Response Speed)
+- Success Threshold: ≥80% "Good" or "Excellent" responses
+
+AI Effectiveness Validation:
+- Q4 (Helpfulness) + Q5 (Style Recognition) + Q6 (Appropriateness) + Q7 (Output Satisfaction)
+- Success Threshold: ≥80% "Moderately Helpful" or higher + Style recognition accuracy
+
+Research Value Confirmation:
+- Q8 (Engagement) + Q9 (Recommendation) + Q10 (Learning Value)
+- Success Threshold: ≥80% positive responses across all three measures
+
+Condition Effect Measurement:
+- Condition-specific follow-up questions for awareness impact assessment
+- Cross-room comparison analysis for parameter and awareness effects
+```
+
+### **Data Collection Efficiency:**
+✅ **10-minute completion time** - Respects participant time while gathering essential data  
+✅ **Quantifiable responses** - Enables statistical analysis and comparison  
+✅ **Open-ended opportunities** - Captures unexpected insights and suggestions  
+✅ **Condition validation** - Directly assesses experimental manipulation effectiveness  
+
+**Status: Comprehensive 10-question pilot feedback questionnaire ready for implementation** ✅

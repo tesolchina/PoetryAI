@@ -1,0 +1,497 @@
+# Four-Room Pilot Testing Plan
+## Comprehensive System Validation with One Participant Per Room
+
+---
+
+## 🎯 **Pilot Testing Objectives**
+
+### **Primary Goals**
+- **Validate all four room configurations** with real participant interactions
+- **Test parameter differentiation** between structured (0.3/0.4) and exploratory (0.8/0.9) conditions
+- **Verify UI condition effectiveness** (aware vs unaware interfaces)
+- **Ensure technical stability** across all four websites
+- **Validate data collection systems** for each room configuration
+
+### **Success Criteria**
+- ✅ **Clear parameter effects** observable between Room 1&2 vs Room 3&4
+- ✅ **Distinct UI experiences** between aware vs unaware conditions
+- ✅ **Stable technical performance** across all rooms
+- ✅ **Complete data logging** for all interaction types (A, B, C)
+- ✅ **Smooth session flow** from warm-up through revision phases
+
+---
+
+## 👥 **Pilot Participant Configuration**
+
+### **Four-Participant Design**
+```
+Pilot Participant 1 → Room 1 (Structured + Aware)
+- Test systematic AI responses with parameter awareness
+- Validate structured collaboration interface
+- Verify aware UI educational content effectiveness
+
+Pilot Participant 2 → Room 2 (Structured + Unaware) 
+- Test systematic AI responses without parameter knowledge
+- Validate standard creative writing interface
+- Verify debriefing system functionality
+
+Pilot Participant 3 → Room 3 (Exploratory + Aware)
+- Test creative AI responses with parameter awareness  
+- Validate exploratory collaboration interface
+- Verify aware UI creative inspiration content
+
+Pilot Participant 4 → Room 4 (Exploratory + Unaware)
+- Test creative AI responses without parameter knowledge
+- Validate standard interface with exploratory parameters
+- Verify debriefing system with exploratory condition
+```
+
+### **Participant Selection Criteria**
+- **L2 English learners** (intermediate level)
+- **Diverse language backgrounds** (representing target population)
+- **Poetry writing experience:** Beginner to intermediate
+- **Tech comfort:** Comfortable with web-based chat interfaces
+- **Availability:** 40 minute commitment for session + follow-up survey
+
+---
+
+## 🔬 **Comprehensive Testing Protocol**
+
+### **Pre-Pilot Setup Phase**
+
+#### **Technical Preparation Checklist**
+- [ ] **Room 1 deployment:** Structured + Aware interface fully functional
+- [ ] **Room 2 deployment:** Structured + Unaware interface + debriefing system
+- [ ] **Room 3 deployment:** Exploratory + Aware interface fully functional  
+- [ ] **Room 4 deployment:** Exploratory + Unaware interface + debriefing system
+- [ ] **AI parameter configuration:** Verified settings for each room
+- [ ] **Data logging systems:** All room-specific loggers active and tested
+- [ ] **Audio recording setup:** Synchronized across all rooms
+- [ ] **Backup systems:** Emergency protocols in place for technical issues
+
+#### **Content Validation**
+- [ ] **Unified prompt system:** Same base prompt loaded in all rooms
+- [ ] **Parameter differentiation:** Temperature/top-p settings confirmed per room
+- [ ] **UI condition content:** Aware vs unaware interfaces properly configured
+- [ ] **Session flow scripts:** Warm-up → Creation → Revision sequences ready
+- [ ] **Debriefing content:** Accurate parameter explanations for Rooms 2 & 4
+
+### **Pilot Execution Schedule**
+
+#### **Week 1: Sequential Room Testing**
+```
+Monday: Room 1 Pilot (Structured + Aware)
+- 10:00-11:30 AM: Pilot Participant 1 session
+- 11:30-12:00 PM: Immediate technical debrief
+- 2:00-2:30 PM: Participant feedback interview
+
+Tuesday: Room 2 Pilot (Structured + Unaware)
+- 10:00-11:30 AM: Pilot Participant 2 session  
+- 11:30-12:00 PM: Debriefing system test
+- 2:00-2:30 PM: Participant feedback interview
+
+Wednesday: Room 3 Pilot (Exploratory + Aware)  
+- 10:00-11:30 AM: Pilot Participant 3 session
+- 11:30-12:00 PM: Technical validation
+- 2:00-2:30 PM: Participant feedback interview
+
+Thursday: Room 4 Pilot (Exploratory + Unaware)
+- 10:00-11:30 AM: Pilot Participant 4 session
+- 11:30-12:00 PM: Final debriefing system test
+- 2:00-2:30 PM: Participant feedback interview
+
+Friday: Cross-Room Analysis Day
+- 9:00-11:00 AM: Data analysis and comparison
+- 11:00-12:00 PM: Technical issues resolution
+- 2:00-4:00 PM: Pilot report compilation
+```
+
+---
+
+## 📊 **Room-Specific Testing Protocols**
+
+### **Room 1: Structured + Aware Testing**
+
+#### **Specific Validation Points**
+```
+UI Awareness Elements:
+✓ Parameter disclosure content displays correctly
+✓ "Structured Creative Partner" branding visible
+✓ Educational content about systematic guidance
+✓ Research context explanation present
+
+AI Response Pattern Validation:
+✓ Systematic, step-by-step responses to creative prompts
+✓ Consistent vocabulary suggestions
+✓ Clear rule-based poetry guidance
+✓ Methodical scaffolding approach
+
+Expected Interaction Flow:
+1. Participant reads parameter awareness content
+2. AI provides structured warm-up guidance
+3. Systematic haiku instruction with syllable count
+4. Clear, consistent revision suggestions
+5. Methodical free verse creation support
+```
+
+#### **Room 1 Test Script**
+```
+Warm-up Test: "Let's explore sensory words together"
+Expected: Structured categorization of sensory words with clear examples
+
+Creation Test: "Help me write a haiku about rain"  
+Expected: Step-by-step syllable counting, systematic line construction
+
+Enhancement Test: "I need a better word than 'nice'"
+Expected: Specific alternatives with clear explanations
+
+Surprise Test: Natural creative opportunity emergence
+Expected: Logical connections and structured creative extensions
+```
+
+### **Room 2: Structured + Unaware Testing**
+
+#### **Specific Validation Points**
+```
+UI Standard Elements:
+✓ No parameter disclosure or technical information
+✓ Standard "Creative Writing Assistant" branding
+✓ Focus on creative collaboration without AI mechanics
+✓ Post-session debriefing modal functionality
+
+AI Response Consistency:
+✓ Same systematic responses as Room 1
+✓ No awareness-related language in AI responses
+✓ Structured guidance without parameter explanation
+✓ Natural, educational tone maintained
+
+Debriefing System Test:
+✓ Automatic modal appearance after session
+✓ Accurate parameter explanation provided
+✓ Research context clearly communicated
+✓ Consent reconfirmation functionality
+```
+
+### **Room 3: Exploratory + Aware Testing**
+
+#### **Specific Validation Points**
+```
+UI Awareness Elements:
+✓ "Exploratory Creative Partner" branding
+✓ Creative, imaginative language in interface
+✓ Parameter effects education (temp 0.8, top-p 0.9)
+✓ Emphasis on creative discovery and surprise
+
+AI Response Pattern Validation:
+✓ Creative, varied responses with metaphorical language
+✓ Imaginative vocabulary suggestions
+✓ Adaptive, discovery-oriented guidance
+✓ Unexpected creative connections and surprises
+
+Expected Creative Differentiation:
+✓ Noticeably different from Room 1 systematic approach
+✓ Rich, varied vocabulary in AI responses
+✓ Playful, inspiring creative language
+✓ Flexible adaptation to participant input
+```
+
+#### **Room 3 Test Script**
+```
+Warm-up Test: "Let's explore sensory words together"
+Expected: Creative, imaginative word exploration with surprises
+
+Creation Test: "Help me write a haiku about rain"
+Expected: Metaphorical language, varied suggestions, creative imagery
+
+Enhancement Test: "I need a better word than 'nice'"  
+Expected: Imaginative alternatives with creative connections
+
+Surprise Test: Natural creative opportunity emergence
+Expected: Unexpected associations and inspiring creative leaps
+```
+
+### **Room 4: Exploratory + Unaware Testing**
+
+#### **Specific Validation Points**
+```
+UI Consistency:
+✓ Same standard interface as Room 2
+✓ No creative/exploratory branding differences
+✓ Standard creative writing assistant presentation
+✓ Post-session debriefing with exploratory explanation
+
+Parameter Effect Validation:
+✓ Creative AI responses despite unaware interface
+✓ Natural emergence of exploratory behavior
+✓ Participant surprise at creative AI suggestions
+✓ Clear contrast with structured conditions when debriefed
+```
+
+---
+
+## 📋 **Data Collection Framework**
+
+### **Quantitative Metrics (Per Room)**
+```
+Technical Performance:
+- Response time measurements
+- System stability indicators  
+- Error frequency and resolution
+- Audio-chat synchronization quality
+
+AI Response Analysis:
+- Response creativity scores (1-5 scale)
+- Vocabulary diversity measures
+- Scaffolding consistency ratings
+- Interaction type distribution (A, B, C)
+
+Participant Engagement:
+- Session completion rates
+- Message frequency and length
+- Creative output quality measures
+- Collaboration satisfaction scores
+```
+
+### **Qualitative Assessment Points**
+```
+Room 1 Focus Areas:
+- Awareness impact on strategic collaboration
+- Systematic guidance effectiveness
+- Parameter understanding demonstration
+- Educational content clarity
+
+Room 2 Focus Areas:  
+- Natural collaboration patterns
+- Structured AI effectiveness without awareness
+- Debriefing comprehension and acceptance
+- Surprise at parameter revelation
+
+Room 3 Focus Areas:
+- Creative collaboration enhancement through awareness
+- Exploratory AI response appreciation
+- Meta-cognitive awareness of creative process
+- Parameter effect recognition
+
+Room 4 Focus Areas:
+- Natural creative collaboration patterns  
+- Exploratory AI surprise and delight
+- Creative output differences from structured
+- Post-debriefing insights and reactions
+```
+
+---
+
+## 🔍 **Cross-Room Comparison Analysis**
+
+### **Parameter Effect Validation**
+```
+Structured vs Exploratory Comparison:
+Room 1 vs Room 3 (Aware):
+- AI response creativity differential
+- Participant awareness of parameter effects  
+- Strategic adaptation differences
+- Creative output variation
+
+Room 2 vs Room 4 (Unaware):
+- Natural collaboration pattern differences
+- AI response style recognition
+- Creative process variation
+- Post-debriefing insight differences
+```
+
+### **Awareness Effect Validation**
+```
+Aware vs Unaware Comparison:
+Room 1 vs Room 2 (Structured):
+- Strategic vs natural collaboration
+- Meta-cognitive awareness differences
+- Parameter knowledge impact on behavior
+- Session engagement variations
+
+Room 3 vs Room 4 (Exploratory):  
+- Creative collaboration strategic enhancement
+- Natural vs intentional creative exploration
+- Parameter awareness creative benefits
+- Collaboration satisfaction differences
+```
+
+---
+
+## 📝 **Pilot Feedback Collection**
+
+### **Immediate Post-Session Interview (30 minutes)**
+```
+Technical Experience Questions:
+1. How was the overall technical experience?
+2. Did you encounter any bugs or issues?
+3. Was the interface intuitive and easy to use?
+4. How was the AI response speed and quality?
+
+Collaboration Experience Questions:  
+5. How did you find working with the AI partner?
+6. What did you think about the AI's responses and suggestions?
+7. Did the AI help improve your creative writing?
+8. What surprised you most about the collaboration?
+
+Condition-Specific Questions:
+Aware Participants (Rooms 1 & 3):
+9. How did knowing about the AI settings affect your collaboration?
+10. Did you notice the parameter effects in the AI responses?
+11. Did the awareness help or hinder your creative process?
+
+Unaware Participants (Rooms 2 & 4):
+12. What did you think about the debriefing explanation?
+13. Looking back, can you identify the AI's collaboration style?
+14. How do you feel about not knowing the technical details initially?
+```
+
+### **Creative Output Assessment**
+```
+Poetry Quality Evaluation:
+- Haiku structural correctness
+- Creative imagery and language use
+- L2 language development demonstration
+- Personal expression and voice
+
+Collaboration Process Analysis:
+- Interaction type frequency and effectiveness
+- Scaffolding utilization and success
+- Creative risk-taking and exploration
+- Revision engagement and improvement
+```
+
+---
+
+## 🛠️ **Issue Resolution Protocol**
+
+### **Technical Issues**
+```
+Minor Issues (Continue session):
+- Response delays > 5 seconds
+- UI display inconsistencies  
+- Audio sync problems
+- Data logging gaps
+
+Major Issues (Pause/reschedule):
+- Complete AI response failure
+- Room access problems
+- Data loss incidents
+- Participant inability to continue
+
+Emergency Protocol:
+- Immediate technical team notification
+- Participant communication and rescheduling
+- Issue documentation and resolution tracking
+- Backup session arrangement within 48 hours
+```
+
+### **Content Issues**
+```
+AI Response Problems:
+- Inappropriate or unhelpful responses
+- Parameter effects not evident
+- Inconsistent collaboration quality
+- Prompt system failures
+
+UI Condition Problems:
+- Awareness content not displaying properly
+- Unaware condition revealing parameters
+- Debriefing system failures
+- Interface confusion or errors
+```
+
+---
+
+## 📊 **Pilot Success Evaluation**
+
+### **Go/No-Go Decision Criteria**
+
+#### **Technical Requirements (Must Pass All)**
+- [ ] **100% session completion** across all four rooms
+- [ ] **Data logging functionality** complete and accurate
+- [ ] **AI response quality** meets educational standards
+- [ ] **Parameter differentiation** clearly observable
+- [ ] **UI conditions** function as designed
+
+#### **Research Validity Requirements**
+- [ ] **Clear parameter effects** between structured/exploratory conditions
+- [ ] **Awareness impact** measurable between aware/unaware conditions
+- [ ] **Interaction types (A, B, C)** emerge naturally in all rooms
+- [ ] **Educational appropriateness** confirmed for L2 learners
+- [ ] **Ethical protocols** (debriefing) function correctly
+
+#### **Participant Experience Requirements**
+- [ ] **Positive collaboration experience** in all rooms
+- [ ] **Creative output quality** meets research standards
+- [ ] **Technical satisfaction** with platform usability
+- [ ] **Clear understanding** of research purpose (post-debriefing)
+- [ ] **Willingness to recommend** participation to others
+
+---
+
+## 🚀 **Post-Pilot Action Plan**
+
+### **Successful Pilot Outcome**
+```
+Immediate Actions (Week 2):
+- Compile comprehensive pilot report
+- Document all technical specifications
+- Finalize participant recruitment materials
+- Schedule main study participant sessions
+- Brief research team on pilot findings
+
+Main Study Launch (Week 3):
+- Begin full participant recruitment (N=20 target)
+- Implement sequential room assignment (5 per room)
+- Execute data collection protocol
+- Monitor system performance continuously
+```
+
+### **Issues Requiring Resolution**
+```
+Minor Issues:
+- UI/UX improvements based on feedback
+- AI response fine-tuning for better parameter effects
+- Technical performance optimizations
+- Content clarifications and improvements
+
+Major Issues:
+- Parameter configuration adjustments
+- UI condition redesign if awareness effects unclear
+- Technical architecture modifications
+- Timeline adjustments for issue resolution
+```
+
+---
+
+## 📈 **Expected Pilot Outcomes**
+
+### **Anticipated Findings**
+```
+Technical Validation:
+✓ All four rooms functionally stable
+✓ Clear parameter differentiation confirmed
+✓ Data collection systems operating correctly
+✓ Participant experience positive across conditions
+
+Research Validation:
+✓ Measurable differences between structured/exploratory
+✓ Awareness effects observable in participant behavior
+✓ Interaction types emerging as expected
+✓ Creative collaboration successful in all conditions
+
+Process Validation:
+✓ Session flow smooth and engaging
+✓ Participant management protocol effective
+✓ Ethics and debriefing procedures satisfactory
+✓ Data analysis pipeline ready for main study
+```
+
+### **Pilot Report Deliverables**
+- **Technical Performance Report:** System stability and functionality
+- **Participant Experience Summary:** Feedback and satisfaction analysis
+- **Parameter Effect Analysis:** Evidence of AI behavior differentiation
+- **UI Condition Evaluation:** Awareness vs unaware interface effectiveness
+- **Research Readiness Assessment:** Go/no-go recommendation for main study
+
+**Status: Comprehensive four-room pilot testing plan ready for immediate implementation** ✅
