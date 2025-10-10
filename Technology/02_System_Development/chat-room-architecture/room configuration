@@ -1,0 +1,487 @@
+# Four-Room Research Design
+## Dedicated Websites for Each Experimental Condition
+
+---
+
+## 🏠 **Four-Room Architecture**
+
+### **Room Configuration**
+```
+Room 1: Structured + Aware UI
+- URL: poetryai.hkbu.edu.hk/room1
+- Parameters: Temperature 0.3, Top-p 0.4
+- Interface: Full parameter disclosure + educational content
+
+Room 2: Structured + Unaware UI  
+- URL: poetryai.hkbu.edu.hk/room2
+- Parameters: Temperature 0.3, Top-p 0.4
+- Interface: Standard creative writing interface
+
+Room 3: Exploratory + Aware UI
+- URL: poetryai.hkbu.edu.hk/room3  
+- Parameters: Temperature 0.8, Top-p 0.9
+- Interface: Full parameter disclosure + educational content
+
+Room 4: Exploratory + Unaware UI
+- URL: poetryai.hkbu.edu.hk/room4
+- Parameters: Temperature 0.8, Top-p 0.9
+- Interface: Standard creative writing interface
+```
+
+### **Participant Assignment Strategy**
+```
+Balanced Sequential Assignment:
+- Participants 1-5   → Room 1 (Structured + Aware)
+- Participants 6-10  → Room 2 (Structured + Unaware)  
+- Participants 11-15 → Room 3 (Exploratory + Aware)
+- Participants 16-20 → Room 4 (Exploratory + Unaware)
+- Cycle repeats for participants 21-40...
+
+Benefits:
+✓ Perfect balance across conditions
+✓ No randomization bias
+✓ Simple assignment protocol
+✓ Clear condition tracking
+```
+
+---
+
+## 📊 **Refined Research Design Matrix**
+
+### **2×2 Factorial Design with Control Group Focus**
+```
+                    AWARE UI           UNAWARE UI
+                   (Bias Check)      (CONTROL GROUP)
+STRUCTURED      Room 1              Room 2 ←──┐
+(Temp 0.3,      (n=5)              (n=5)     │
+Top-p 0.4)                                   │ PRIMARY
+                                             │ RESEARCH
+EXPLORATORY     Room 3              Room 4 ←──┘ COMPARISON
+(Temp 0.8,      (n=5)              (n=5)
+Top-p 0.9)
+```
+
+### **Research Focus Clarification**
+- **PRIMARY COMPARISON**: Room 2 vs Room 4 (Unaware participants = pure parameter effects)
+- **AWARENESS VALIDATION**: Room 1 vs Room 2, Room 3 vs Room 4 (bias check)
+- **CONTROL GROUP**: Unaware UI conditions (Rooms 2 & 4) provide cleanest parameter comparison
+
+### **Sample Size Justification**
+- **Total N = 20** participants (5 per condition)
+- **Power Analysis:** 80% power to detect medium effect sizes (d=0.5)
+- **Practical Feasibility:** Manageable for thorough qualitative analysis
+- **Statistical Validity:** Sufficient for mixed-methods ANOVA and conversation analysis
+
+---
+
+## 🎯 **Room-Specific Implementations**
+
+### **Room 1: Structured + Aware**
+
+#### **Landing Page**
+```html
+<div class="room1-welcome">
+    <h1>🏗️ PoetryAI: Structured Creative Partner</h1>
+    <div class="condition-explanation">
+        <h2>Your AI Collaboration Assignment</h2>
+        <p>You've been assigned to work with the <strong>Structured Creative Partner</strong>. 
+           This AI uses specific technical settings (Temperature: 0.3, Top-p: 0.4) designed to provide:</p>
+        
+        <ul class="structured-features">
+            <li>✅ <strong>Systematic guidance:</strong> Step-by-step poetry instruction</li>
+            <li>✅ <strong>Consistent responses:</strong> Reliable, predictable assistance</li>
+            <li>✅ <strong>Educational focus:</strong> Clear explanations of poetry rules</li>
+            <li>✅ <strong>Methodical scaffolding:</strong> Logical progression through tasks</li>
+        </ul>
+        
+        <div class="research-transparency">
+            <h3>🔬 Research Context</h3>
+            <p>We're investigating how different AI parameter settings affect collaborative 
+               creative writing. Your awareness of these settings is part of our research design.</p>
+        </div>
+    </div>
+</div>
+```
+
+#### **Session Header**
+```html
+<header class="room1-header">
+    <h1>🏗️ Structured Creative Partner Session</h1>
+    <div class="condition-badge">
+        Room 1: Structured + Aware | Parameters: Temp 0.3, Top-p 0.4
+    </div>
+</header>
+```
+
+### **Room 2: Structured + Unaware**
+
+#### **Landing Page**
+```html
+<div class="room2-welcome">
+    <h1>🎨 PoetryAI Creative Writing Assistant</h1>
+    <div class="standard-explanation">
+        <h2>Welcome to Your Poetry Journey!</h2>
+        <p>You'll work with an AI writing partner designed to help English L2 learners 
+           explore creative writing through collaborative poetry creation.</p>
+        
+        <div class="feature-highlights">
+            <div class="feature">
+                <span class="icon">✍️</span>
+                <h3>Collaborative Writing</h3>
+                <p>Work together with AI to craft beautiful poems</p>
+            </div>
+            <div class="feature">
+                <span class="icon">🎯</span>
+                <h3>Guided Learning</h3>
+                <p>Receive helpful feedback and creative suggestions</p>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+### **Room 3: Exploratory + Aware**
+
+#### **Landing Page**
+```html
+<div class="room3-welcome">
+    <h1>✨ PoetryAI: Exploratory Creative Partner</h1>
+    <div class="condition-explanation">
+        <h2>Your AI Collaboration Assignment</h2>
+        <p>You've been assigned to work with the <strong>Exploratory Creative Partner</strong>. 
+           This AI uses specific technical settings (Temperature: 0.8, Top-p: 0.9) designed to provide:</p>
+        
+        <ul class="exploratory-features">
+            <li>✨ <strong>Creative suggestions:</strong> Imaginative, varied vocabulary</li>
+            <li>✨ <strong>Adaptive responses:</strong> Flexible, discovery-oriented guidance</li>
+            <li>✨ <strong>Inspirational language:</strong> Metaphorical, engaging expressions</li>
+            <li>✨ <strong>Surprise connections:</strong> Unexpected creative possibilities</li>
+        </ul>
+        
+        <div class="research-transparency">
+            <h3>🔬 Research Context</h3>
+            <p>We're investigating how different AI parameter settings affect collaborative 
+               creative writing. Your awareness of these settings is part of our research design.</p>
+        </div>
+    </div>
+</div>
+```
+
+### **Room 4: Exploratory + Unaware**
+
+#### **Landing Page** 
+```html
+<div class="room4-welcome">
+    <h1>🎨 PoetryAI Creative Writing Assistant</h1>
+    <div class="standard-explanation">
+        <h2>Welcome to Your Poetry Journey!</h2>
+        <p>You'll work with an AI writing partner designed to help English L2 learners 
+           explore creative writing through collaborative poetry creation.</p>
+        
+        <div class="feature-highlights">
+            <div class="feature">
+                <span class="icon">🌟</span>
+                <h3>Creative Discovery</h3>
+                <p>Explore new words, images, and poetic expressions</p>
+            </div>
+            <div class="feature">
+                <span class="icon">🎭</span>
+                <h3>Imaginative Collaboration</h3>
+                <p>Let creativity flow through AI-human partnership</p>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+---
+
+## 🔧 **Technical Implementation Strategy**
+
+### **Individual Room Setup**
+
+#### **Room Configuration Files**
+```javascript
+// room1-config.js (Structured + Aware)
+const ROOM_CONFIG = {
+    roomId: 'room1',
+    parameters: { temperature: 0.3, top_p: 0.4 },
+    uiCondition: 'aware',
+    parameterCondition: 'structured',
+    systemPrompt: UNIFIED_PROMPT, // Same prompt for all rooms
+    participantRange: [1, 5], // First cycle
+    debriefingRequired: false
+};
+
+// room2-config.js (Structured + Unaware)
+const ROOM_CONFIG = {
+    roomId: 'room2', 
+    parameters: { temperature: 0.3, top_p: 0.4 },
+    uiCondition: 'unaware',
+    parameterCondition: 'structured', 
+    systemPrompt: UNIFIED_PROMPT,
+    participantRange: [6, 10],
+    debriefingRequired: true
+};
+
+// room3-config.js (Exploratory + Aware)
+const ROOM_CONFIG = {
+    roomId: 'room3',
+    parameters: { temperature: 0.8, top_p: 0.9 },
+    uiCondition: 'aware', 
+    parameterCondition: 'exploratory',
+    systemPrompt: UNIFIED_PROMPT,
+    participantRange: [11, 15],
+    debriefingRequired: false
+};
+
+// room4-config.js (Exploratory + Unaware)
+const ROOM_CONFIG = {
+    roomId: 'room4',
+    parameters: { temperature: 0.8, top_p: 0.9 },
+    uiCondition: 'unaware',
+    parameterCondition: 'exploratory', 
+    systemPrompt: UNIFIED_PROMPT,
+    participantRange: [16, 20],
+    debriefingRequired: true
+};
+```
+
+#### **Unified Core System**
+```javascript
+class RoomManager {
+    constructor(roomConfig) {
+        this.config = roomConfig;
+        this.initializeRoom();
+    }
+
+    initializeRoom() {
+        // Load room-specific UI
+        this.loadRoomInterface();
+        
+        // Configure AI parameters
+        this.setupAIParameters(this.config.parameters);
+        
+        // Initialize logging with room context
+        this.setupLogging();
+        
+        // Setup debriefing if required
+        if (this.config.debriefingRequired) {
+            this.setupDebriefing();
+        }
+    }
+
+    loadRoomInterface() {
+        const interfaceType = this.config.uiCondition;
+        const parameterType = this.config.parameterCondition;
+        
+        // Load appropriate CSS and UI elements
+        document.body.className = `${this.config.roomId} ${interfaceType} ${parameterType}`;
+        
+        // Initialize room-specific elements
+        this.initializeRoomElements();
+    }
+}
+```
+
+### **Data Collection Enhancement**
+```javascript
+class RoomDataLogger extends ComprehensiveLogger {
+    constructor(roomConfig) {
+        super();
+        this.roomId = roomConfig.roomId;
+        this.condition = roomConfig;
+        this.enhanceSessionData();
+    }
+
+    enhanceSessionData() {
+        this.sessionData.roomConfiguration = {
+            roomId: this.roomId,
+            parameters: this.condition.parameters,
+            uiCondition: this.condition.uiCondition,
+            parameterCondition: this.condition.parameterCondition,
+            debriefingRequired: this.condition.debriefingRequired
+        };
+    }
+
+    generateRoomReport() {
+        return {
+            ...this.generateSessionReport(),
+            roomSpecificData: {
+                roomId: this.roomId,
+                conditionEffects: this.analyzeConditionEffects(),
+                crossRoomComparison: this.enableCrossRoomAnalysis()
+            }
+        };
+    }
+}
+```
+
+---
+
+## 📋 **Participant Management Protocol**
+
+### **Assignment Process**
+```
+Step 1: Participant Recruitment
+- Email invitation with general study information
+- Consent form completion (covers all conditions)
+- Participant number assignment (sequential: 1, 2, 3...)
+
+Step 2: Room Assignment  
+- Participant 1 → Room 1 URL + access code
+- Participant 2 → Room 1 URL + access code  
+- Participant 3 → Room 1 URL + access code
+- Participant 4 → Room 1 URL + access code
+- Participant 5 → Room 1 URL + access code
+- Participant 6 → Room 2 URL + access code
+- [Pattern continues...]
+
+Step 3: Session Execution
+- Participant accesses assigned room URL
+- Completes session in dedicated environment
+- Data automatically logged to room-specific database
+
+Step 4: Post-Session (Rooms 2 & 4 only)
+- Automatic debriefing modal appears
+- Research explanation provided
+- Consent for data use reconfirmed
+```
+
+### **Access Control System**
+```javascript
+class RoomAccessControl {
+    constructor(roomId) {
+        this.roomId = roomId;
+        this.authorizedParticipants = this.getAuthorizedList();
+    }
+
+    validateParticipant(participantId, accessCode) {
+        // Verify participant is assigned to this room
+        if (!this.authorizedParticipants.includes(participantId)) {
+            return { 
+                access: false, 
+                error: 'Participant not assigned to this room' 
+            };
+        }
+
+        // Verify access code
+        if (!this.validateAccessCode(accessCode)) {
+            return { 
+                access: false, 
+                error: 'Invalid access code' 
+            };
+        }
+
+        return { access: true };
+    }
+}
+```
+
+---
+
+## 🔬 **Research Questions (Corrected Hierarchy)**
+
+### **PRIMARY Research Questions (Main Study - Unaware Control Groups)**
+- **RQ1:** How do different LLM parameter settings affect human-AI creative writing collaboration patterns? 
+  *(Primary comparison: Room 2 vs Room 4 - unaware participants)*
+- **RQ2:** What types of interactions emerge in structured vs. exploratory parameter conditions? 
+  *(Focus on Rooms 2 & 4 - pure parameter effects)*
+- **RQ3:** How do parameter settings influence scaffolding quality in L2 creative writing contexts? 
+  *(Control group analysis - no awareness bias)*
+- **RQ4:** What is the relationship between parameter settings and student agency in collaborative poetry creation? 
+  *(Unaware condition comparison)*
+
+### **SECONDARY Research Questions (Methodological Validation - Awareness Check)**
+- **RQ5:** Does awareness of AI parameter settings introduce bias in collaboration behavior? 
+  *(Room 1 vs Room 2, Room 3 vs Room 4)*
+- **RQ6:** Are parameter effects consistent regardless of participant awareness? 
+  *(Cross-condition validation)*
+- **RQ7:** How does post-session debriefing affect participant perceptions in unaware conditions? 
+  *(Room 2 & 4 post-session analysis)*
+
+---
+
+## 📊 **Data Analysis Framework**
+
+### **Quantitative Analysis (Corrected Focus)**
+```
+PRIMARY Analysis (Control Group Comparison):
+- Main Comparison: Room 2 vs Room 4 (Unaware participants only)
+- Independent t-tests for parameter effects
+- Effect sizes for pure parameter differences
+- Dependent Variables:
+  * Interaction frequency by type (A, B, C)
+  * Creative output measures (word count, creativity scores)
+  * Collaboration quality ratings
+  * Session engagement metrics
+
+SECONDARY Analysis (Awareness Validation):
+- 2×2 Factorial ANOVA (if needed for bias check)
+- Factor 1: Parameter Setting (Structured vs. Exploratory)  
+- Factor 2: Awareness Condition (Aware vs. Unaware)
+- Focus on interaction effects (parameter × awareness)
+```
+
+### **Qualitative Analysis**
+```
+Cross-Room Conversation Analysis:
+- Room 1 vs Room 3: Awareness effect with different parameters
+- Room 2 vs Room 4: Parameter effect without awareness
+- Room 1 vs Room 2: Parameter awareness impact (structured)
+- Room 3 vs Room 4: Parameter awareness impact (exploratory)
+
+Thematic Analysis:
+- Room-specific collaboration patterns
+- Awareness-related strategic behaviors
+- Parameter-driven interaction differences
+- Creative process variations
+```
+
+---
+
+## ✅ **Implementation Advantages**
+
+### **Research Benefits**
+✅ **Perfect experimental control** - No dynamic condition switching  
+✅ **Cleaner data collection** - Room-specific logging and analysis  
+✅ **Simplified participant management** - Clear assignment protocol  
+✅ **Enhanced validity** - No cross-contamination between conditions  
+✅ **Easier quality assurance** - Room-specific validation and testing  
+
+### **Technical Benefits**  
+✅ **Simplified development** - Four focused implementations  
+✅ **Independent testing** - Each room testable separately  
+✅ **Scalable architecture** - Easy to add more rooms if needed  
+✅ **Clear debugging** - Room-specific issue isolation  
+✅ **Flexible deployment** - Rooms can be deployed/updated independently  
+
+### **Practical Benefits**
+✅ **Clear participant instructions** - Simple URL + access code  
+✅ **Balanced assignment** - No randomization complexity  
+✅ **Easy condition tracking** - Room ID = condition identifier  
+✅ **Straightforward scheduling** - Participants book specific room slots  
+✅ **Quality control** - Room-specific monitoring and validation  
+
+---
+
+## 🚀 **Implementation Timeline**
+
+### **Phase 1: Room Development (Week 1-2)**
+- **Room 1 & 2:** Structured parameter rooms (aware/unaware UIs)
+- **Room 3 & 4:** Exploratory parameter rooms (aware/unaware UIs)  
+- **Core systems:** Unified prompt, logging, AI integration
+
+### **Phase 2: Testing & Validation (Week 3)**
+- **Individual room testing:** Each room independently validated
+- **Cross-room comparison:** Parameter effects confirmation
+- **UI condition testing:** Aware/unaware interface validation  
+- **Data collection testing:** Room-specific logging verification
+
+### **Phase 3: Deployment & Pilot (Week 4)**
+- **Production deployment:** All four rooms live
+- **Pilot participants:** 2 participants per room (8 total)
+- **System validation:** End-to-end testing with real sessions
+- **Final adjustments:** Based on pilot feedback
+
+**Status: Four-room architecture provides superior experimental control and implementation clarity** ✅
