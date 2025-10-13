@@ -1,0 +1,43 @@
+# Introduction
+
+The emergence of Large Language Models (LLMs) has fundamentally transformed creative writing pedagogy, particularly in second language (L2) contexts where learners face dual challenges of linguistic competence and creative expression (Li, 2025). Recent advances in AI-assisted writing tools demonstrate significant potential for supporting L2 poetry composition through collaborative human-AI interaction (Coenen et al., 2022; Chakrabarty et al., 2022). However, critical questions remain regarding how specific AI parameter configurations affect the quality and nature of these collaborative interactions, particularly in structured educational settings.
+
+## Problem Statement
+
+While existing research has established the pedagogical value of human-AI creative collaboration (Clark et al., 2018; Qian et al., 2023), limited empirical investigation exists into how LLM generation parameters—specifically temperature and top-p nucleus sampling (Holtzman et al., 2019)—influence the collaborative process in L2 poetry writing contexts. Temperature controls response variability through probability distribution adjustment (Li et al., 2025), while top-p determines vocabulary selection scope through nucleus sampling (Ravfogel et al., 2023). These parameters fundamentally shape AI output characteristics, yet their pedagogical implications for L2 creative writing remain underexplored.
+
+Furthermore, most human-AI creativity studies focus on experienced writers or native speakers (Ippolito et al., 2022; Nguyen et al., 2024), leaving significant gaps in understanding how L2 learners—who simultaneously navigate linguistic constraints and creative goals—experience and benefit from AI-mediated poetry composition. This study addresses these gaps by examining how parameter awareness and configuration affect collaborative interaction patterns in controlled L2 educational environments.
+
+## Theoretical Framework
+
+This research builds on three established frameworks: **L2 creative writing pedagogy** (Hanauer, 2010), **corrective feedback and uptake theory** (Lyster & Ranta, 1997), and **human-AI co-creativity research** (Coenen et al., 2022). We conceptualize AI-human poetry collaboration as involving three distinct interaction types, each serving different pedagogical functions:
+
+**Type A: Diagnosis → Repair** occurs when AI identifies structural, formal, or linguistic issues in student drafts and provides targeted corrections or suggestions. This interaction type aligns with Lyster and Ranta's (1997) corrective feedback taxonomy, where AI functions as a diagnostic tool that surfaces specific areas needing attention—from meter irregularities to unclear imagery—enabling focused revision activities.
+
+**Type B: Exemplar Pivot** involves AI providing model texts, templates, or comparative examples that students can adapt or transform for their own creative purposes. Grounded in Hanauer's (2010) imitation-transformation pedagogy, this interaction type supports scaffolded learning where students analyze exemplary features before applying similar techniques in their own work.
+
+**Type C: Surprise Harvest** emerges when AI generates unexpected creative possibilities that inspire new directions or reveal previously unconsidered options. Following Coenen et al.'s (2022) findings on serendipitous discovery in human-AI collaboration, this interaction type capitalizes on AI's capacity to expand creative search spaces and offer novel combinatorial possibilities.
+
+## Research Questions
+
+This study investigates how different LLM parameter configurations influence these three interaction types in L2 poetry writing contexts:
+
+1. **How do structured (low temperature/top-p) versus exploratory (high temperature/top-p) parameter settings affect the frequency and quality of each interaction type?**
+
+2. **What role does parameter awareness play in shaping student engagement with AI-generated content and collaborative behaviors?**
+
+3. **How do different parameter configurations support or hinder L2 learners' development of poetic craft and creative confidence?**
+
+4. **What patterns emerge in the sequencing and chaining of interaction types during collaborative poetry composition sessions?**
+
+## Study Significance
+
+This research contributes to three domains: **L2 creative writing pedagogy** by providing empirical evidence for optimal AI parameter configurations in poetry instruction; **human-AI interaction research** by examining collaborative patterns in constrained creative tasks; and **educational technology** by establishing evidence-based guidelines for implementing AI writing assistants in L2 contexts.
+
+The study's significance extends beyond academic inquiry to practical applications in language education, where AI tools are increasingly integrated without sufficient pedagogical grounding. By systematically examining how technical parameters translate into educational outcomes, this research provides educators with evidence-based frameworks for maximizing AI's pedagogical potential while preserving authentic human creative agency.
+
+Moreover, this investigation addresses critical questions about human-AI creative partnership in educational contexts, examining not merely whether AI can support L2 creative writing, but how different configurations of AI behavior affect the collaborative process and learning outcomes. Understanding these dynamics is essential as AI writing tools become ubiquitous in educational settings, requiring informed integration that serves pedagogical rather than merely technological objectives.
+
+## Structure of the Study
+
+This manuscript is organized into five chapters. Chapter 2 reviews relevant literature on L2 creative writing pedagogy, human-AI collaboration, and LLM parameter effects. Chapter 3 details the mixed-methods experimental methodology, including the four-room design for investigating parameter and awareness effects. Chapter 4 presents findings from interaction analysis, focusing on the frequency, quality, and sequencing patterns of the three interaction types across different experimental conditions. Chapter 5 discusses implications for L2 pedagogy, human-AI interaction design, and educational technology implementation, concluding with recommendations for practice and future research directions.

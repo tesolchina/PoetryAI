@@ -1,0 +1,308 @@
+# 3. Methodology
+
+## 3.1 Research Design
+
+This study employed a 2×2 factorial experimental design to investigate how LLM parameter configurations affect collaborative interaction patterns in L2 poetry writing. Two independent variables were systematically manipulated: AI parameter configuration (Structured: temperature=0.3, top-p=0.4 vs. Exploratory: temperature=0.8, top-p=0.9) and parameter awareness condition (Aware vs. Unaware interface). This design enabled examination of pure parameter effects while controlling for potential awareness bias in educational contexts.
+
+The investigation was conducted over six weeks with 20 English L2 undergraduate students enrolled in a creative writing poetry course at Hong Kong Baptist University. The primary analysis focused on unaware control groups (Room 2 vs. Room 4) to isolate parameter effects from awareness bias, while secondary analyses examined awareness conditions for methodological validation.
+
+## 3.2 Theoretical Framework
+
+The study operationalizes human-AI collaboration through three interaction types derived from established L2 pedagogy and creative collaboration research:
+
+**Type A (Diagnosis → Repair)** conceptualizes AI as a diagnostic feedback provider, aligned with Lyster and Ranta's (1997) corrective feedback taxonomy. In this interaction mode, AI identifies structural, linguistic, or poetic issues and provides targeted suggestions for improvement.
+
+**Type B (Exemplar Pivot)** positions AI as a model provider following Hanauer's (2010) imitation-transformation approach to L2 poetry writing. AI supplies templates, examples, or comparative texts that students adapt for their creative purposes.
+
+**Type C (Surprise Harvest)** leverages AI's capacity for serendipitous discovery as documented by Coenen et al. (2022). AI generates unexpected combinations or novel suggestions that inspire creative directions previously unconsidered by students.
+
+## 3.3 Experimental Conditions
+
+Four web-based environments were implemented to ensure experimental control and eliminate cross-contamination between conditions. Each room employed identical system prompts with only parameter settings and interface awareness varied.
+
+The Structured configuration (temperature=0.3, top-p=0.4) was designed to produce coherent, predictable outputs favoring systematic scaffolding and educational feedback. This configuration was hypothesized to increase Type A (Diagnosis → Repair) and Type B (Exemplar Pivot) interactions through consistent, methodical AI responses.
+
+The Exploratory configuration (temperature=0.8, top-p=0.9) was designed to generate creative, diverse outputs with unexpected combinations. This configuration was hypothesized to increase Type C (Surprise Harvest) interactions through surprising, inspirational AI contributions.
+
+Interface awareness was manipulated through parameter transparency: Aware conditions displayed technical settings with educational explanations, while Unaware conditions provided standard creative writing interfaces without parameter visibility. Sequential balanced assignment allocated five participants per condition (n=5 each) to ensure equal distribution while preventing randomization artifacts.
+
+## 3.3 Participants and Sampling
+
+### 3.3.1 Participant Criteria
+
+**Target Population**: 20 English L2 undergraduate students enrolled in creative writing poetry unit at HKBU
+
+**Inclusion Criteria**:
+- English proficiency: B1+ level on CEFR framework or institutional equivalent (IELTS 6.0+)
+- Enrollment in target creative writing course for homogeneous baseline conditions
+- Basic computer literacy confirmed through pre-screening questionnaire
+- Commitment to complete six-week participation period
+- Voluntary participation with informed consent
+
+**Exclusion Criteria**:
+- Extensive prior poetry writing experience (advanced level)
+- Previous participation in AI-assisted writing research
+- Technical constraints preventing consistent session attendance
+
+### 3.3.2 Sample Size Justification
+
+**Statistical Power**: Sample size of n=20 (5 per condition) provides 80% power to detect medium effect sizes (Cohen's d=0.5) using independent t-tests for primary Room 2 vs. Room 4 comparison, based on power analysis conducted with G*Power 3.1.9.
+
+**Practical Feasibility**: The sample size balances **statistical validity** with **intensive qualitative analysis requirements**, enabling thorough conversation analysis and individual case study development while maintaining manageable data collection and analysis workload.
+
+**Precedent**: Sample size aligns with established human-AI creativity studies (Coenen et al., 2022: n=15 professional writers; Qian et al., 2023: n=18 university students) while exceeding typical conversation analysis studies in L2 contexts.
+
+## 3.4 Chatbot System Design and Implementation
+
+### 3.4.1 Technical Architecture
+
+The chatbot system employs a **unified backend architecture** with **room-specific parameter configurations** to ensure consistency while enabling systematic manipulation of AI behavior across experimental conditions.
+
+**Core Components**:
+- **Frontend Interface**: React-based web application with room-specific UI variants
+- **Backend API**: Node.js server managing user authentication, session control, and data logging
+- **AI Integration**: OpenRouter API providing access to GPT-4 with configurable parameters
+- **Database System**: MySQL database for comprehensive interaction logging and participant management
+- **Analytics Dashboard**: Real-time monitoring interface for session oversight and data quality assurance
+
+**System Prompt Design**: All rooms employ an **identical base system prompt** to control for content bias, with only parameter settings varied:
+
+```
+You are an AI writing partner helping English L2 learners explore creative poetry composition. 
+Your role is to collaborate respectfully while encouraging creative expression and language development.
+Provide supportive guidance appropriate for intermediate English learners developing poetic voice.
+Adapt your communication style to be encouraging, constructive, and culturally sensitive.
+```
+
+### 3.4.2 Interaction Flow Architecture
+
+**Session Initialization**:
+1. Participant authentication with room-specific access codes
+2. Welcome interface presentation (aware/unaware variants)
+3. Poetry composition prompt delivery
+4. Real-time chat interface activation with logging
+
+**Conversation Management**:
+- **Turn-taking protocol**: Clear user/AI alternation with typing indicators
+- **Response latency**: Standardized 2-3 second delay to simulate natural conversation
+- **Session duration**: 50-minute sessions with 5-minute warnings
+- **Emergency protocols**: Technical support access and session recovery procedures
+
+**Data Capture Pipeline**:
+- **Message logging**: Every user input and AI response with precise timestamps
+- **Parameter tracking**: Real-time verification of temperature/top-p settings
+- **Interaction classification**: Automated preliminary tagging with manual validation
+- **Behavioral analytics**: User engagement metrics, session patterns, and completion rates
+
+### 3.4.3 Privacy and Security Implementation
+
+**Data Protection**:
+- **Participant anonymization**: Automatic replacement of names with coded identifiers
+- **Secure transmission**: HTTPS encryption for all data transfer
+- **Access control**: Role-based permissions for research team members
+- **Data retention**: Clear protocols for storage duration and deletion procedures
+
+**Ethical Compliance**:
+- **Informed consent**: Comprehensive consent process covering all data collection aspects
+- **Withdrawal rights**: Participants may withdraw at any time with data deletion option
+- **Transparency protocols**: Post-session debriefing for unaware conditions (Rooms 2 & 4)
+- **IRB approval**: Full institutional review board approval prior to data collection
+
+## 3.5 Data Collection Procedures
+
+### 3.5.1 Multi-Modal Data Sources
+
+**Primary Data Sources**:
+
+1. **Chat Interaction Logs**: Complete conversation transcripts with timestamp precision, parameter settings verification, and automated interaction type preliminary classification
+
+2. **Audio Recordings**: Weekly focus group sessions (with explicit consent) capturing collaborative discussion, peer interaction, and metalinguistic reflection on AI collaboration experience
+
+3. **Poem Artifacts**: Version-controlled creative outputs with revision tracking, enabling analysis of creative development and AI influence on final products
+
+4. **Reflection Journals**: Weekly structured reflection prompts addressing collaboration experience, creative process insights, and parameter awareness effects (aware conditions only)
+
+5. **Pre/Post Surveys**: Validated instruments measuring creative self-efficacy (Creative Personality Scale), AI attitudes (Technology Acceptance Model), and poetry writing confidence (adapted Writing Self-Efficacy Scale)
+
+**Secondary Data Sources**:
+
+6. **API Logging**: Granular technical data including exact parameter values, response generation times, token counts, and system performance metrics
+
+7. **Behavioral Analytics**: Session engagement patterns, typing speed variations, pause durations, and interaction frequency distributions
+
+### 3.5.2 Data Collection Timeline
+
+**Week 1: Baseline and Orientation**
+- Pre-experiment surveys and poetry writing assessment
+- Informed consent process with condition-specific briefing
+- Parameter awareness training (Rooms 1 & 3) or standard orientation (Rooms 2 & 4)
+- Initial technical familiarization session
+
+**Weeks 2-5: Interaction Phase**
+- Twice-weekly 50-minute collaborative poetry sessions
+- Real-time chat logging and parameter verification
+- Weekly reflection journal completion
+- Ongoing behavioral analytics collection
+
+**Week 6: Post-Experiment Data Collection**
+- Individual exit interviews with semi-structured protocol
+- Final surveys replicating baseline measures
+- Focus group sessions for collaborative reflection
+- Member-checking validation of preliminary interpretations
+
+## 3.6 Data Analysis Framework
+
+### 3.6.1 Mixed-Methods Integration Approach
+
+The analysis employs **convergent parallel mixed-methods design** (Creswell & Plano Clark, 2017) where quantitative and qualitative data are collected simultaneously, analyzed independently, and integrated for comprehensive interpretation of parameter effects on collaborative interactions.
+
+**Quantitative Analysis Strand**:
+
+**Primary Analysis** (Unaware Control Group Comparison):
+- **Independent samples t-tests** comparing Room 2 vs. Room 4 for interaction type frequencies, creative output measures, and engagement metrics
+- **Effect size calculations** (Cohen's d) for practical significance assessment
+- **Mann-Whitney U tests** for non-parametric distributions (Likert scale responses)
+
+**Secondary Analysis** (Awareness Bias Detection):
+- **2×2 factorial ANOVA** with Parameter Setting (Structured/Exploratory) and Awareness (Aware/Unaware) as factors
+- **Interaction effect analysis** to detect parameter × awareness relationships
+- **Simple effects analysis** for significant interactions
+
+**Dependent Variables**:
+- Interaction type frequency (Types A, B, C per session)
+- Creative output quality (expert-rated using adapted Consensual Assessment Technique)
+- Collaborative satisfaction (5-point Likert scales)
+- Session engagement metrics (messages per session, session duration, turn-taking patterns)
+
+**Qualitative Analysis Strand**:
+
+**Conversation Analysis** (Jefferson, 2004):
+- **Turn-by-turn analysis** of repair sequences, uptake patterns, and collaborative sequences
+- **Interaction type identification** using theoretically-grounded coding scheme
+- **Sequential analysis** examining Type A→B→C transition patterns and their relationship to learning outcomes
+
+**Thematic Analysis** (Braun & Clarke, 2006):
+- **Inductive coding** of reflection journals and interview transcripts
+- **Pattern identification** across parameter conditions and awareness states
+- **Member checking** validation with participant feedback on interpretations
+
+**Inter-rater Reliability**:
+- **Interaction type coding**: Minimum Cohen's κ > 0.8 across two independent coders
+- **Creative output rating**: Pearson r > 0.7 correlation between three expert raters
+- **Thematic coding**: Regular calibration meetings and consensus-building protocols
+
+### 3.6.2 Integration and Validation Procedures
+
+**Data Integration Points**:
+1. **Interaction type triangulation**: Quantitative frequencies validated against qualitative conversation analysis
+2. **Creative process correlation**: Statistical measures correlated with thematic insights from journals and interviews
+3. **Parameter effect confirmation**: Quantitative parameter effects interpreted through qualitative experience descriptions
+
+**Validation Strategies**:
+- **Member checking**: Participant validation of preliminary findings through structured feedback sessions
+- **Peer debriefing**: Regular consultation with experienced CALL researchers external to the project
+- **Audit trail**: Comprehensive documentation of analytical decisions and interpretive processes
+- **Negative case analysis**: Active search for disconfirming evidence and alternative explanations
+
+## 3.7 Validity and Reliability Considerations
+
+### 3.7.1 Internal Validity Measures
+
+**Experimental Control**:
+- **Identical system prompts** across all conditions to eliminate content bias
+- **Standardized session procedures** with detailed protocols for all research assistants
+- **Parameter verification logging** ensuring actual AI settings match intended configurations
+- **Balanced assignment** preventing selection bias through sequential rather than random assignment
+
+**Threat Mitigation**:
+- **History effects**: Single cohort recruitment within concentrated timeframe
+- **Maturation effects**: Short six-week duration minimizes developmental confounds
+- **Testing effects**: Different instruments for pre/post measurement to prevent practice effects
+- **Instrumentation**: Calibrated coding procedures with reliability checks
+
+### 3.7.2 External Validity and Generalizability
+
+**Population Validity**:
+- **Target population representation**: HKBU L2 learners representative of Hong Kong university English learners
+- **Skill level specification**: B1+ proficiency clearly defined for replication contexts
+- **Cultural context acknowledgment**: Hong Kong multilingual context documented for transfer considerations
+
+**Ecological Validity**:
+- **Authentic learning context**: Integration within actual creative writing course rather than artificial laboratory setting
+- **Natural interaction duration**: 50-minute sessions align with typical class periods
+- **Realistic technology integration**: Web-based platform replicable in standard educational technology environments
+
+### 3.7.3 Construct Validity
+
+**Theoretical Alignment**:
+- **Interaction type definitions** directly derived from established theoretical frameworks (Lyster & Ranta, 1997; Hanauer, 2010; Coenen et al., 2022)
+- **Parameter operationalization** based on documented effects in AI creativity literature (Peeperkorn et al., 2024; Li et al., 2025)
+- **Measurement instruments** validated in comparable L2 writing contexts (Creative Self-Efficacy Scale adapted for L2 contexts)
+
+**Content Validity**:
+- **Expert review** of interaction coding scheme by three specialists in L2 writing and conversation analysis
+- **Pilot validation** with five participants external to main study confirming interaction type recognizability
+- **Theoretical coherence** ensured through systematic literature review and framework integration
+
+## 3.8 Ethical Considerations
+
+### 3.8.1 Informed Consent and Transparency
+
+**Consent Process**:
+- **Comprehensive information sheets** explaining research purposes, procedures, and participant rights
+- **Graduated consent** allowing withdrawal from specific data collection aspects while continuing course participation
+- **Language accommodation**: Consent materials available in Chinese and English for full comprehension
+
+**Awareness Condition Management**:
+- **Transparent research purposes** explained to all participants while maintaining condition integrity
+- **Post-session debriefing** for unaware conditions (Rooms 2 & 4) revealing parameter manipulation and requesting continued consent
+- **No deception protocols**: All information accurate with only parameter visibility varied, not research purposes
+
+### 3.8.2 Data Protection and Privacy
+
+**Anonymization Procedures**:
+- **Immediate pseudonymization**: Real names replaced with coded identifiers (P001-P020) in all data files
+- **Secure storage**: Encrypted local servers with limited research team access
+- **Retention policies**: Clear timeline for data destruction following publication requirements
+
+**Participant Welfare**:
+- **Academic grade protection**: Alternative assignments available for non-participants ensuring no academic penalty
+- **Technical support**: Dedicated assistance for technical difficulties preventing participation barriers
+- **Cultural sensitivity**: AI system prompting designed with cultural awareness and inclusive language practices
+
+## 3.9 Limitations and Risk Management
+
+### 3.9.1 Acknowledged Limitations
+
+**Sample Size Constraints**: While adequate for detecting medium effect sizes, small sample limits generalizability and prevents detection of small effect sizes that may be educationally meaningful.
+
+**Single Context Study**: Hong Kong university context may limit transferability to other cultural and educational settings, particularly regarding L2 learner characteristics and institutional technology integration.
+
+**Short-term Investigation**: Six-week duration captures immediate collaboration effects but cannot assess long-term learning outcomes or sustained creative development impacts.
+
+**AI Model Dependency**: Results specific to GPT-4 architecture and may not generalize to other LLM families or future model versions with different parameter behavior.
+
+### 3.9.2 Risk Mitigation Strategies
+
+**Technical Risks**:
+- **System redundancy**: Backup servers and offline data collection protocols for technical failures
+- **API stability**: Rate limiting management and alternative model access through multiple API providers
+- **Data integrity**: Real-time backup systems and version control for all data collection
+
+**Research Risks**:
+- **Participant attrition**: Over-recruitment (25% buffer) and flexible scheduling to maintain sample size
+- **Data quality**: Multiple validation checkpoints and cleaning protocols for incomplete or inconsistent data
+- **Timeline adherence**: Built-in flexibility with priority milestone identification for essential completion targets
+
+**Ethical Risks**:
+- **Participant burden**: Session duration monitoring and break protocols to prevent fatigue
+- **Academic impact**: Clear separation of research participation from course evaluation and grading
+- **Privacy breaches**: Comprehensive data security protocols and team access restrictions
+
+## 3.10 Summary
+
+This methodology employs a rigorous experimental design that systematically manipulates AI parameter settings while controlling for awareness bias to examine how different LLM configurations affect collaborative interaction patterns in L2 poetry writing contexts. The four-room architecture ensures experimental control while the mixed-methods approach provides comprehensive insights into both quantitative parameter effects and qualitative collaboration experiences.
+
+The **Three Interaction Types framework** provides theoretical grounding for analyzing how **Diagnosis → Repair**, **Exemplar Pivot**, and **Surprise Harvest** interactions emerge under different parameter conditions, while the **unaware control group design** ensures detection of pure parameter effects without awareness bias. Integration of quantitative interaction frequency analysis with qualitative conversation analysis enables robust conclusions about optimal AI configurations for L2 creative writing pedagogy.
+
+The methodology addresses identified gaps in human-AI creativity research by focusing specifically on L2 learners, systematic parameter manipulation, and educational context integration while maintaining rigorous experimental standards for validity, reliability, and ethical conduct. Results will provide evidence-based recommendations for AI parameter configuration in L2 creative writing instruction and advance theoretical understanding of human-AI collaborative creativity in educational contexts.

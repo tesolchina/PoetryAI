@@ -1,0 +1,153 @@
+# 5. Discussion
+
+## 5.1 Introduction
+
+This study investigated how LLM parameter configurations influence collaborative interaction patterns in L2 poetry writing through a controlled experimental design examining temperature and top-p nucleus sampling effects. The findings provide significant insights into the pedagogical implications of AI parameter selection, the nature of human-AI creative collaboration, and the design considerations for educational AI systems. This discussion examines these results in relation to the original research questions, evaluates their theoretical and practical significance, and acknowledges the limitations that contextualize these contributions.
+
+## 5.2 Discussion of Research Questions
+
+### 5.2.1 Research Question 1: Parameter Effects on Interaction Types
+
+**Research Question**: How do structured (low temperature/top-p) versus exploratory (high temperature/top-p) parameter settings affect the frequency and quality of each interaction type?
+
+The findings demonstrate clear and systematic parameter effects on collaborative interaction patterns, confirming the central hypothesis that AI generation parameters significantly influence pedagogical interactions in L2 creative writing contexts.
+
+**Frequency Effects**: The structured configuration's preference for Type A interactions (45.3% vs. 28.1%) aligns with theoretical predictions based on temperature's role in controlling output variability (Holtzman et al., 2019). Low temperature settings (0.3) constrain probability distributions, producing more predictable, rule-based responses that naturally support diagnostic feedback patterns. Conversely, the exploratory configuration's enhancement of Type C interactions (40.7% vs. 21.9%) reflects high temperature's (0.8) capacity to access lower-probability token sequences, generating unexpected creative combinations that facilitate serendipitous discovery (Coenen et al., 2022).
+
+**Quality Implications**: The maintained educational relevance across both configurations suggests that temperature and top-p adjustments preserve pedagogical value while shifting interaction modalities. Structured settings supported systematic skill development through consistent diagnostic feedback, while exploratory settings fostered creative confidence through inspirational discovery processes. This finding challenges assumptions that educational AI requires low-variability outputs, demonstrating that higher creativity parameters can maintain pedagogical effectiveness while offering distinct learning benefits.
+
+**Theoretical Integration**: These results extend existing human-AI co-creativity research (Chakrabarty et al., 2022) into structured educational contexts, showing that parameter effects observed in open-ended creative tasks translate systematically to pedagogical environments. The consistent Type B (Exemplar Pivot) frequency across conditions (32.8% vs. 31.2%) suggests that template provision functions independently of generation variability, supporting Hanauer's (2010) emphasis on imitation-transformation pedagogy as a stable learning mechanism.
+
+### 5.2.2 Research Question 2: Parameter Awareness Effects
+
+**Research Question**: What role does parameter awareness play in shaping student engagement with AI-generated content and collaborative behaviors?
+
+The significant awareness effects (η²p = .23) reveal substantial bias introduced by parameter transparency, validating methodological decisions to focus analysis on unaware control groups while highlighting important implications for educational AI interface design.
+
+**Behavioral Modification**: Parameter awareness led to conforming behaviors where students explicitly requested outputs matching their condition's supposed characteristics (e.g., "be more creative" in exploratory aware conditions). This finding aligns with expectancy theory (Vroom, 1964) and suggests that AI parameter transparency in educational contexts may artifically constrain authentic collaborative exploration.
+
+**Meta-Cognitive Implications**: Aware participants demonstrated increased meta-cognitive commentary about AI behavior but decreased spontaneous interaction frequency, indicating that parameter knowledge shifts attention from content creation to system analysis. While meta-cognitive awareness has educational value, the reduced authentic engagement suggests potential trade-offs between technical literacy and creative flow states.
+
+**Interface Design Considerations**: These findings have direct implications for educational AI development, suggesting that parameter exposure should be carefully calibrated to learning objectives. Transparent interfaces may support computational thinking goals but potentially hinder authentic creative collaboration. The development of adaptive disclosure systems that reveal technical details progressively may optimize both educational and collaborative outcomes.
+
+### 5.2.3 Research Question 3: L2 Learning Development Support
+
+**Research Question**: How do different parameter configurations support or hinder L2 learners' development of poetic craft and creative confidence?
+
+The differential learning outcomes between parameter conditions demonstrate that AI generation settings can be strategically selected to support specific pedagogical objectives in L2 contexts.
+
+**Technical Proficiency Development**: Structured configurations' superior performance in formal poetry elements mastery (87% accuracy vs. baseline) and grammatical accuracy (94.2%) supports their use in foundational skill development phases. The consistent, methodical feedback aligns with Lyster and Ranta's (1997) corrective feedback principles, providing systematic scaffolding that L2 learners require for accurate language production.
+
+**Creative Confidence Building**: Exploratory configurations' enhancement of creative originality (M = 4.1/5.0 vs. 3.4/5.0) and increased risk-taking behaviors address a critical challenge in L2 creative writing: overcoming inhibition due to linguistic uncertainty. The higher lexical diversity (TTR = 0.67 vs. 0.59) indicates that creative parameter settings encourage experimental language use, supporting Hanauer's (2010) emphasis on authentic expression in L2 poetry pedagogy.
+
+**Developmental Pathway Differences**: The temporal analysis reveals that parameter configurations create distinct learning trajectories rather than simply different outcomes. Structured pathways support systematic progression with predictable milestones, while exploratory pathways enable more variable but potentially deeper creative development. This finding suggests that optimal L2 poetry instruction might involve sequential parameter adjustment, beginning with structured support for foundational skills before transitioning to exploratory settings for creative development.
+
+**Individual Differences Integration**: The significant learning style interactions indicate that effective parameter selection requires consideration of individual learner characteristics. Students with systematic learning preferences benefited more from structured configurations, while creative-oriented learners thrived under exploratory settings. This finding supports personalized AI approaches that adapt generation parameters to learner profiles.
+
+### 5.2.4 Research Question 4: Interaction Type Sequencing Patterns
+
+**Research Question**: What patterns emerge in the sequencing and chaining of interaction types during collaborative poetry composition sessions?
+
+The longitudinal analysis reveals sophisticated patterns in how students integrate different interaction types over time, with parameter configurations influencing both individual interaction characteristics and sequential relationships.
+
+**Sequential Dependencies**: Structured configurations promoted predictable interaction chains, typically following Type A diagnostic feedback with Type B exemplar provision, creating systematic revision cycles. This pattern supports structured learning progression where error identification leads to model comparison and iterative improvement.
+
+**Creative Integration Patterns**: Exploratory configurations generated more complex interaction weaving, where Type C surprise discoveries often triggered Type A diagnostic review and Type B exemplar seeking. This pattern reflects authentic creative processes where inspiration prompts technical analysis and skill development needs.
+
+**Session Architecture Evolution**: The six-week progression showed parameter-specific evolution in session structures. Structured conditions developed efficient diagnostic-exemplar cycles, while exploratory conditions evolved toward sophisticated creative-technical integration patterns. These findings suggest that extended AI collaboration enables students to develop parameter-appropriate collaborative strategies.
+
+## 5.3 Theoretical and Practical Significance
+
+### 5.3.1 Contributions to L2 Creative Writing Pedagogy
+
+This study makes several significant contributions to understanding AI integration in L2 creative writing instruction:
+
+**Empirical Validation of Parameter Effects**: While previous research established AI's potential for supporting L2 writing (Li, 2025), this study provides the first systematic examination of how specific technical parameters influence pedagogical outcomes. The demonstrated parameter-interaction type relationships offer concrete guidance for educational AI implementation.
+
+**Three-Type Interaction Framework**: The operationalization of Diagnosis→Repair, Exemplar Pivot, and Surprise Harvest interactions provides a practical framework for analyzing and designing human-AI educational collaborations. This framework bridges computational creativity research with established L2 pedagogy theory, offering educators conceptual tools for understanding AI's pedagogical functions.
+
+**Individual Differences Integration**: The finding that learning style preferences mediate parameter effects addresses a critical gap in educational AI research, which often treats learners as homogeneous populations. The systematic interaction between student characteristics and AI configurations suggests pathways toward personalized educational AI that adapts technical parameters to individual learning needs.
+
+### 5.3.2 Implications for Human-AI Interaction Design
+
+**Parameter Awareness Interface Design**: The substantial bias effects from parameter transparency highlight the need for sophisticated interface design in educational AI systems. The findings suggest that adaptive disclosure approaches, which reveal technical details progressively based on learning objectives and student development, may optimize both educational and collaborative outcomes.
+
+**Educational AI Calibration**: The systematic parameter effects demonstrate that educational AI systems require careful calibration beyond general performance optimization. The finding that both structured and exploratory configurations maintain educational value while supporting different learning objectives suggests that parameter selection should be treated as a pedagogical design decision rather than merely a technical optimization.
+
+**Collaborative Flow Preservation**: The awareness effects on spontaneous interaction frequency indicate that preserving authentic collaborative engagement requires careful balance between technical transparency and creative flow states. Educational AI interfaces must consider how system visibility affects collaborative dynamics, not merely learning outcomes.
+
+### 5.3.3 Broader Implications for Educational Technology
+
+**Personalization Beyond Content**: This study demonstrates that effective educational AI personalization extends beyond content adaptation to include generation parameter adjustment. The learning style interactions suggest that truly adaptive educational AI systems should modify technical parameters based on individual learner characteristics and pedagogical objectives.
+
+**Sequential Parameter Strategies**: The differential developmental pathways suggest that educational AI implementation should consider temporal parameter adjustment strategies. Beginning with structured support for foundational skills before transitioning to exploratory settings for creative development may optimize both technical proficiency and creative confidence development.
+
+**Assessment and Analytics Integration**: The systematic interaction type patterns provide frameworks for developing AI-assisted formative assessment systems that can automatically identify student needs and adjust collaborative support accordingly. The predictable parameter-interaction relationships enable data-driven pedagogical decision-making.
+
+## 5.4 Limitations and Future Research Directions
+
+### 5.4.1 Sample and Generalizability Limitations
+
+**Sample Size and Statistical Power**: While the n=20 sample provided adequate power for detecting medium effect sizes in the primary comparisons, the limited sample restricts generalizability and prevents examination of smaller but potentially meaningful effects. The five participants per condition, while sufficient for initial investigation, limit confidence in effect stability and individual difference analysis.
+
+**Population Specificity**: The focus on Hong Kong undergraduate students enrolled in creative writing courses creates a specific demographic context that may not generalize to other L2 populations, educational levels, or cultural settings. The participants' B1+ English proficiency level and voluntary enrollment in creative writing suggest above-average motivation and linguistic competence that may not reflect typical L2 learner populations.
+
+**Cultural and Linguistic Context**: The study's Hong Kong setting involves specific multilingual contexts (Cantonese, Mandarin, English) that may influence AI interaction patterns differently than monolingual L2 contexts or other language combinations. Cultural attitudes toward creativity, technology, and collaborative learning may also affect generalizability to other educational contexts.
+
+### 5.4.2 Methodological Limitations
+
+**Parameter Selection Constraints**: The focus on temperature and top-p parameters, while theoretically motivated, represents only a subset of available LLM generation controls. Other parameters such as repetition penalty, frequency penalty, and presence penalty may interact with or override the observed effects, limiting the comprehensiveness of the parameter effects analysis.
+
+**Model Dependency**: The exclusive use of Google Gemma-2-9B-it constrains generalizability to other LLM architectures, which may respond differently to parameter adjustments due to training differences, model size variations, or architectural specifications. The rapid evolution of LLM technology also raises questions about the temporal stability of these findings.
+
+**Interaction Classification**: While the three-type interaction framework demonstrated theoretical coherence and practical utility, the classification process involved subjective judgment that may introduce researcher bias. The absence of automated classification validation and inter-rater reliability assessment for interaction typing represents a methodological limitation.
+
+### 5.4.3 Temporal and Contextual Limitations
+
+**Short-Term Investigation**: The six-week study period, while revealing developmental patterns, may not capture longer-term effects of sustained AI collaboration on L2 development, creative confidence, or collaborative skill acquisition. Extended longitudinal studies are needed to assess whether parameter effects persist, evolve, or diminish over longer collaborative relationships.
+
+**Artificial Experimental Context**: The controlled experimental environment, while necessary for isolating parameter effects, may not reflect authentic classroom integration contexts where multiple pedagogical factors, social dynamics, and institutional constraints influence AI adoption and effectiveness.
+
+**Task Specificity**: The focus on poetry composition, while addressing an important domain, limits generalizability to other creative writing forms (prose, drama, multimedia) or academic writing contexts where parameter effects may operate differently due to genre-specific constraints and objectives.
+
+### 5.4.4 Technical and Ethical Limitations
+
+**Privacy and Consent Constraints**: While ethical protocols were followed, the intensive data collection required for interaction analysis raises ongoing questions about privacy preservation, data ownership, and long-term storage that may limit replicability in contexts with stricter privacy requirements.
+
+**Model Bias and Fairness**: The study did not systematically examine how LLM training biases might interact with parameter settings to affect different student populations unequally. Potential biases related to gender, cultural background, or linguistic variety may be amplified or diminished by different parameter configurations in ways not captured by this investigation.
+
+**Technological Accessibility**: The study's reliance on stable internet connectivity, modern computing devices, and familiarity with web-based interfaces may limit applicability in contexts with technological constraints or varying digital literacy levels.
+
+## 5.5 Future Research Directions
+
+### 5.5.1 Methodological Extensions
+
+**Large-Scale Replication**: Future research should expand sample sizes and include multiple institutions to assess effect stability and generalizability across diverse L2 populations, proficiency levels, and cultural contexts.
+
+**Automated Interaction Classification**: Development and validation of machine learning systems for automatic interaction type classification would enable larger-scale studies and reduce subjective bias in pattern analysis.
+
+**Multi-Model Comparison**: Systematic comparison across different LLM architectures (GPT variants, Claude, PaLM) would assess the generalizability of parameter effects and identify model-specific optimization strategies.
+
+### 5.5.2 Pedagogical Applications
+
+**Adaptive Parameter Systems**: Research into dynamic parameter adjustment based on real-time assessment of student needs, learning style identification, and collaborative effectiveness could optimize personalized educational AI.
+
+**Teacher Training and Integration**: Investigation of how educators can effectively integrate parameter-aware AI tools into existing curricula, including professional development needs and institutional adoption barriers.
+
+**Cross-Domain Extension**: Application of the three-type interaction framework to other creative and academic writing contexts to assess framework generalizability and domain-specific adaptations.
+
+### 5.5.3 Theoretical Development
+
+**Long-Term Collaborative Relationship Development**: Extended longitudinal studies examining how human-AI collaborative relationships evolve over months or years, including habituation effects, skill transfer, and creative development patterns.
+
+**Cultural and Linguistic Variation**: Cross-cultural studies examining how cultural attitudes toward creativity, technology, and collaborative learning interact with parameter effects in diverse educational contexts.
+
+**Individual Difference Modeling**: Development of comprehensive learner models that predict optimal parameter configurations based on learning style, proficiency level, creative orientation, and collaborative preferences.
+
+## 5.6 Conclusion
+
+This study demonstrates that LLM parameter configurations significantly and systematically influence collaborative interaction patterns in L2 poetry writing, providing empirical evidence for strategic parameter selection in educational AI applications. The findings reveal that structured and exploratory parameter settings support different aspects of L2 learning development—systematic skill building versus creative confidence enhancement—while both maintaining educational effectiveness.
+
+The research contributes a practical framework for understanding AI's pedagogical functions through three interaction types, validates the importance of interface design in educational AI contexts, and highlights the need for personalized approaches that consider individual learning differences. While limitations in sample size, temporal scope, and generalizability context these contributions, the systematic parameter effects and clear pedagogical implications provide a foundation for future research and educational AI development.
+
+The broader significance lies in demonstrating that educational AI effectiveness depends not only on training data and model architecture but also on careful calibration of generation parameters to pedagogical objectives. As AI integration in education continues expanding, these findings suggest that technical parameter selection should be recognized as a fundamental pedagogical design decision requiring the same careful consideration given to curriculum development, assessment design, and instructional strategy selection.
