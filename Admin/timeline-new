@@ -1,0 +1,160 @@
+# PoetryAI Research Project Timeline
+## October - November 2025
+
+**Project**: L2 Poetry Writing AI Parameter Effects Study  
+**Experimental Design**: Single 60-minute classroom session with co-creation and feedback  
+**Duration**: October 20 - November 30, 2025  
+**Current Date**: October 15, 2025  
+
+---
+
+## Phase 1: Chatbot Setup and Interface Building
+### October 20-25, 2025
+**Focus**: Technical Development and System Preparation
+
+#### October 20-21: Core System Development
+- [ ] Finalize chatbot framework architecture
+- [ ] Complete four-room experimental setup (parameter configurations)
+- [ ] Implement unified prompt design across all conditions
+- [ ] Test OpenRouter API integration and stability
+
+#### October 22-23: Interface Development
+- [ ] Build user interface for classroom session
+- [ ] Create participant authentication system
+- [ ] Develop session management tools
+- [ ] Implement real-time interaction logging
+
+#### October 24-25: System Integration and Testing
+- [ ] Complete end-to-end system testing
+- [ ] Validate all four room configurations
+- [ ] Test data collection and export functionality
+- [ ] Finalize technical setup for classroom deployment
+
+---
+
+## Phase 2: Pilot Testing and Participant Recruitment
+### October 25-30, 2025
+**Focus**: System Validation and Participant Preparation
+
+#### October 25-27: Pilot Testing
+- [ ] Conduct internal pilot testing with 3-5 volunteers
+- [ ] Test 60-minute session timing and flow
+- [ ] Validate classroom setup and technical requirements
+- [ ] Refine interface based on pilot feedback
+
+#### October 28-30: Participant Recruitment and Consent
+- [ ] Launch recruitment campaign at HKBU
+- [ ] Distribute information sessions and materials
+- [ ] Collect participant consent forms
+- [ ] Screen for English proficiency (B1+ CEFR required)
+- [ ] Schedule single classroom session for all participants
+
+---
+
+## Phase 3: In-Person Experiment Setup
+### November 5-10, 2025
+**Focus**: Classroom Session Preparation and Execution
+
+#### November 5-7: Classroom Setup and Preparation
+- [ ] Secure and prepare classroom for 60-minute session
+- [ ] Set up computers and technical infrastructure
+- [ ] Test internet connectivity and system access
+- [ ] Prepare session materials and facilitator guidelines
+
+#### November 8-10: Single Classroom Session Execution
+- [ ] **Main Experimental Session**: 60-minute in-person session
+  - All participants in one classroom
+  - Co-creation activities with AI assistance
+  - Real-time feedback and interaction
+  - Four different room conditions (randomized assignment)
+- [ ] Facilitate collaborative poetry writing activities
+- [ ] Monitor technical performance and participant engagement
+- [ ] Collect immediate session data and outputs
+
+---
+
+## Phase 4: Data Collection
+### November 10-20, 2025
+**Focus**: Comprehensive Data Processing and Analysis
+
+#### November 10-12: Immediate Data Processing
+- [ ] Export all session data and chat logs
+- [ ] Validate data completeness and quality
+- [ ] Organize participant outputs by room condition
+- [ ] Begin preliminary interaction type classification
+
+#### November 13-17: Detailed Data Analysis
+- [ ] Analyze parameter effects across four room conditions
+- [ ] Classify interaction types (A: guided, B: assisted, C: collaborative)
+- [ ] Assess poetry quality and creativity measures
+- [ ] Compare participant engagement patterns
+
+#### November 18-20: Data Validation and Documentation
+- [ ] Cross-validate findings and statistical analysis
+- [ ] Document key patterns and parameter effects
+- [ ] Prepare data visualizations and summaries
+- [ ] Organize materials for follow-up interviews
+
+---
+
+## Phase 5: Questionnaire and Follow-up Interviews
+### November 20-30, 2025
+**Focus**: Post-Session Assessment and Feedback Collection
+
+#### November 20-23: Online Questionnaire Distribution
+- [ ] Deploy post-session questionnaire to all participants
+- [ ] Collect feedback on AI interaction experience
+- [ ] Assess perceived learning outcomes and engagement
+- [ ] Gather suggestions for system improvement
+
+#### November 24-27: Individual Follow-up Interviews (Online)
+- [ ] Schedule and conduct individual interviews via video call
+- [ ] Explore participant experiences in depth
+- [ ] Discuss specific interactions and parameter effects
+- [ ] Collect qualitative insights on learning process
+
+#### November 28-30: Final Data Integration and Report
+- [ ] Integrate questionnaire and interview data
+- [ ] Complete comprehensive analysis report
+- [ ] Document research findings and conclusions
+- [ ] Prepare materials for publication and dissemination
+
+---
+
+## Critical Success Factors
+
+### Technical Requirements
+- [ ] Stable internet connection for classroom session
+- [ ] Functional chatbot system across all four room conditions
+- [ ] Reliable data logging and collection
+- [ ] User-friendly interface for 60-minute session
+
+### Participant Management
+- [ ] Successful recruitment of target number of participants
+- [ ] High attendance rate for single classroom session
+- [ ] Engaged participation in co-creation activities
+- [ ] Complete follow-up questionnaire and interview participation
+
+### Research Quality
+- [ ] Clear parameter effects demonstration in single session
+- [ ] Comprehensive data collection during 60-minute period
+- [ ] Valid interaction type classification
+- [ ] Meaningful qualitative insights from interviews
+
+---
+
+## Timeline Overview
+
+| Phase | Duration | Key Activities | Deliverables |
+|-------|----------|----------------|--------------|
+| **Phase 1** | Oct 20-25 | Chatbot & Interface Building | Complete technical system |
+| **Phase 2** | Oct 25-30 | Pilot Testing & Recruitment | Recruited participants, validated system |
+| **Phase 3** | Nov 5-10 | In-Person Experiment | 60-min classroom session data |
+| **Phase 4** | Nov 10-20 | Data Collection & Analysis | Processed research data |
+| **Phase 5** | Nov 20-30 | Questionnaire & Interviews | Complete research findings |
+
+---
+
+**Created**: October 15, 2025  
+**Project Status**: Ready to Begin Phase 1  
+**Next Milestone**: October 25 - Complete Technical System  
