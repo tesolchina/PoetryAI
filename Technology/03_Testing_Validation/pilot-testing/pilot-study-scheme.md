@@ -19,8 +19,8 @@ This pilot study will test the PoetryAI chatbot system with 4 individual partici
 |-------------|--------------|---------------|
 | T1 | Email/Password | Room A |
 | T2 | Email/Password | Room B |
-| T3 | Email OTP | Room C |
-| T4 | Email OTP | Room D |
+| T3 | Email/Password | Room C |
+| T4 | Email/Password | Room D |
 
 ---
 
@@ -44,22 +44,14 @@ This pilot study will test the PoetryAI chatbot system with 4 individual partici
 
 ### Phase 2: Login Testing (5 minutes)
 
-**T1 & T2 (Email/Password Login):**
+**All Participants (Email/Password Login):**
 1. Navigate to login page
 2. Enter provided email address
 3. Enter provided password
 4. Test login functionality
 5. Note any issues or observations
 
-**T3 & T4 (Email OTP Login):**
-1. Navigate to login page
-2. Enter provided email address
-3. Request OTP (One-Time Password)
-4. Check email for OTP code
-5. Enter OTP code to login
-6. Note any issues or observations
-
-**All Participants:**
+**Room Assignment:**
 - T1 enters Room A
 - T2 enters Room B
 - T3 enters Room C

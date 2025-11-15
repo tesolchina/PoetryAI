@@ -3,7 +3,7 @@
 **PoetryAI Pilot Testing - User Manual**
 
 **Tester ID:** T3  
-**Login Method:** Email OTP (One-Time Password)  
+**Login Method:** Email/Password  
 **Assigned Room:** Room C  
 **Website:** https://poetry.aitutor.ink/
 
@@ -11,7 +11,7 @@
 
 ## Welcome!
 
-Thank you for participating as Tester 3! Your focus will be on testing the OTP (One-Time Password) login system and providing user experience feedback. This manual will guide you through the testing process with emphasis on the OTP authentication method.
+Thank you for participating as Tester 3! Your focus will be on testing the Email/Password login system and providing user experience feedback. This manual will guide you through the testing process.
 
 ---
 
@@ -19,9 +19,7 @@ Thank you for participating as Tester 3! Your focus will be on testing the OTP (
 
 ### Step 1: Pre-Test Setup
 1. Open your web browser
-2. **Important:** Have your email inbox open in another tab or device
-   - You will need to check email quickly for OTP codes
-3. Navigate to: **https://poetry.aitutor.ink/**
+2. Navigate to: **https://poetry.aitutor.ink/**
 
 **Initial Observations:**
 - Website loads properly? ☐ Yes ☐ No
@@ -30,113 +28,71 @@ Thank you for participating as Tester 3! Your focus will be on testing the OTP (
 ### Step 2: Review Tutorial
 1. Find and read the Tutorial section
 2. Note how clear the instructions are
-3. Look for any information about OTP login
+3. Look for login instructions
 
 **Tutorial Notes:**
-- OTP login mentioned? ☐ Yes ☐ No
+- Login process explained? ☐ Yes ☐ No
 - Instructions clear? ☐ Yes ☐ No
 - Questions you have: _________________
 
 ---
 
-## Phase 2: OTP Login Testing (10 minutes)
+## Phase 2: Email/Password Login Testing (5 minutes)
 
-### Step 3: Request OTP
+### Step 3: Login with Email/Password
 
-**Task 1: Initiate OTP Login**
+**Task 1: Complete Login Process**
 
 1. **Find the login area:**
    - Click on Login/Sign In button
-   - Look for login options
+   - Locate the login form
 
-2. **Select OTP login method:**
-   - You should see options for different login methods
-   - Select "Email OTP" or "Login with OTP" option
-   - If you don't see this option, note it down
-
-3. **Enter your email:**
+2. **Enter your credentials:**
    - Email address: [Provided by program director]
-   - Click "Send OTP" or "Request Code" button
+   - Password: [Provided by program director]
+   - Double-check both fields before submitting
+
+3. **Submit login:**
+   - Click "Login" or "Submit" button
    - **Start timer now**
+   - Wait for authentication
+   - **Stop timer when successfully logged in**
+   - Login time: _______ seconds
 
-**Request Process Observations:**
-- Easy to find OTP option? ☐ Yes ☐ No
-- Clear instructions? ☐ Yes ☐ No
-- Button clearly labeled? ☐ Yes ☐ No
+**Login Process Observations:**
+- Easy to find login form? ☐ Yes ☐ No
+- Fields clearly labeled? ☐ Yes ☐ No
+- Login button visible? ☐ Yes ☐ No
 - Any error messages? _________________
+- Login successful on first attempt? ☐ Yes ☐ No
+
+**Important:** If login fails, try again. If it fails twice, contact the program director.
 
 ---
 
-### Step 4: Receive and Enter OTP
+### Step 4: Evaluate Login Experience
 
-**Task 2: Email Verification**
+**Task 2: Assess the Login System**
 
-1. **Check your email:**
-   - Switch to your email inbox
-   - Look for OTP email
-   - **Stop timer when email arrives**
-   - Email arrival time: _______ seconds
-
-2. **Examine the email:**
-   - From: _______________
-   - Subject: _______________
-   - OTP code clearly visible? ☐ Yes ☐ No
-   - OTP code format: _______________
-   - Email landed in: ☐ Inbox ☐ Spam ☐ Other
-
-3. **Copy the OTP code:**
-   - OTP code: _______________
-   - Easy to copy? ☐ Yes ☐ No
-
-4. **Return to website:**
-   - Paste or type OTP code
-   - Click Submit/Verify button
-   - **Start timer**
-
-5. **Wait for verification:**
-   - **Stop timer when logged in**
-   - Verification time: _______ seconds
-
-**Email Quality Assessment:**
-- Email looked professional? ☐ Yes ☐ No
-- OTP code easy to identify? ☐ Yes ☐ No
-- Instructions in email clear? ☐ Yes ☐ No
-- Expiry time mentioned? ☐ Yes ☐ No
-- If yes, how long? _______ minutes
-
-**OTP Entry Experience:**
-- Entry field easy to find? ☐ Yes ☐ No
-- Entry field size appropriate? ☐ Yes ☐ No
-- Could paste code? ☐ Yes ☐ No
-- Auto-detect OTP? ☐ Yes ☐ No
-- Any error messages? _________________
-
----
-
-### Step 5: OTP Login Evaluation
-
-**Task 3: Compare OTP vs Traditional Login**
-
-**Rate your OTP login experience:**
-
-**Convenience:** ☐ 1 (Very inconvenient) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very convenient)
-
-**Speed:** ☐ 1 (Very slow) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very fast)
+**Rate your login experience:**
 
 **Ease of use:** ☐ 1 (Very difficult) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very easy)
 
-**Security feeling:** ☐ 1 (Insecure) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very secure)
+**Speed:** ☐ 1 (Very slow) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very fast)
 
-**Total time from start to logged in:** _______ seconds
+**Clarity:** ☐ 1 (Confusing) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very clear)
 
-**Your preference for future use:**
-- [ ] Strongly prefer OTP
-- [ ] Prefer OTP
-- [ ] No preference
-- [ ] Prefer password
-- [ ] Strongly prefer password
+**Overall login satisfaction:**
+- [ ] Very satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very dissatisfied
 
-**Why?** _________________________________
+**Comments on login process:**
+```
+_________________________________________________
+```
 
 ---
 
@@ -503,8 +459,7 @@ _________________________________________________
 
 Before finishing, ensure you've:
 
-- [ ] Tested OTP login thoroughly
-- [ ] Evaluated email delivery time
+- [ ] Tested Email/Password login thoroughly
 - [ ] Entered Room C successfully
 - [ ] Had conversation with chatbot
 - [ ] Tested multiple functions
@@ -517,26 +472,26 @@ Before finishing, ensure you've:
 
 ---
 
-## Special Notes for OTP Testing
+## Special Testing Notes
 
 **Key Things to Observe:**
 
-1. **Time Efficiency:**
-   - How long did each step take?
-   - Was waiting for email annoying?
+1. **Login Efficiency:**
+   - How long did login take?
+   - Was the process smooth?
 
 2. **User Experience:**
-   - Was the process smooth?
    - Were instructions clear?
+   - Was navigation intuitive?
 
-3. **Email Quality:**
+3. **Overall System:**
    - Professional appearance?
    - Clear information?
-   - Easy to act on?
+   - Easy to use?
 
-4. **Overall Preference:**
-   - Better or worse than password?
-   - Would you recommend OTP?
+4. **Feedback:**
+   - Note any issues
+   - Provide constructive suggestions
 
 ---
 
@@ -550,7 +505,7 @@ Before finishing, ensure you've:
 
 ## Thank You!
 
-Your feedback on the OTP system and overall experience is invaluable. Thank you for your careful testing and detailed observations!
+Your feedback on the login system and overall experience is invaluable. Thank you for your careful testing and detailed observations!
 
 **Good luck with your testing!**
 
@@ -563,7 +518,7 @@ Your feedback on the OTP system and overall experience is invaluable. Thank you 
 **PoetryAI 试点测试 - 用户手册**
 
 **测试员编号:** T3  
-**登录方式:** 电邮OTP（一次性密码）  
+**登录方式:** 电邮/密码  
 **分配房间:** C房间  
 **网站:** https://poetry.aitutor.ink/
 
@@ -571,7 +526,7 @@ Your feedback on the OTP system and overall experience is invaluable. Thank you 
 
 ## 欢迎！
 
-感谢您作为测试员3参与测试！您的重点将是测试OTP（一次性密码）登录系统并提供用户体验反馈。本手册将指导您完成测试过程，重点关注OTP认证方法。
+感谢您作为测试员3参与测试！您的重点将是测试电邮/密码登录系统并提供用户体验反馈。本手册将指导您完成测试过程。
 
 ---
 
@@ -599,104 +554,62 @@ Your feedback on the OTP system and overall experience is invaluable. Thank you 
 
 ---
 
-## 第2阶段：OTP登录测试 (10分钟)
+## 第2阶段：电邮/密码登录测试 (5分钟)
 
-### 步骤3：请求OTP
+### 步骤3：使用电邮/密码登录
 
-**任务1：启动OTP登录**
+**任务1：完成登录过程**
 
 1. **找到登录区域：**
    - 点击登录/Sign In按钮
-   - 寻找登录选项
+   - 找到登录表单
 
-2. **选择OTP登录方式：**
-   - 您应该看到不同登录方式的选项
-   - 选择"Email OTP"或"Login with OTP"选项
-   - 如果看不到此选项，请记下来
-
-3. **输入您的电邮：**
+2. **输入您的凭据：**
    - 电邮地址：[由项目主管提供]
-   - 点击"Send OTP"或"Request Code"按钮
+   - 密码：[由项目主管提供]
+   - 提交前仔细检查两个字段
+
+3. **提交登录：**
+   - 点击"Login"或"Submit"按钮
    - **现在开始计时**
+   - 等待验证
+   - **成功登录时停止计时**
+   - 登录时间：_______ 秒
 
-**请求过程观察：**
-- 容易找到OTP选项？ ☐ 是 ☐ 否
-- 说明清晰？ ☐ 是 ☐ 否
-- 按钮标签清楚？ ☐ 是 ☐ 否
+**登录过程观察：**
+- 易于找到登录表单？ ☐ 是 ☐ 否
+- 字段标签清楚？ ☐ 是 ☐ 否
+- 登录按钮可见？ ☐ 是 ☐ 否
 - 任何错误消息？_________________
+- 首次尝试登录成功？ ☐ 是 ☐ 否
+
+**重要：** 如果登录失败，请再试一次。如果失败两次，请立即联系项目主管。
 
 ---
 
-### 步骤4：接收并输入OTP
+### 步骤4：评估登录体验
 
-**任务2：电邮验证**
+**任务2：评估登录系统**
 
-1. **检查您的电邮：**
-   - 切换到您的电邮收件箱
-   - 查找OTP电邮
-   - **电邮到达时停止计时**
-   - 电邮到达时间：_______ 秒
-
-2. **检查电邮：**
-   - 发件人：_______________
-   - 主题：_______________
-   - OTP代码清晰可见？ ☐ 是 ☐ 否
-   - OTP代码格式：_______________
-   - 电邮进入：☐ 收件箱 ☐ 垃圾邮件 ☐ 其他
-
-3. **复制OTP代码：**
-   - OTP代码：_______________
-   - 易于复制？ ☐ 是 ☐ 否
-
-4. **返回网站：**
-   - 粘贴或输入OTP代码
-   - 点击提交/验证按钮
-   - **开始计时**
-
-5. **等待验证：**
-   - **登录时停止计时**
-   - 验证时间：_______ 秒
-
-**电邮质量评估：**
-- 电邮看起来专业？ ☐ 是 ☐ 否
-- OTP代码易于识别？ ☐ 是 ☐ 否
-- 电邮中的说明清晰？ ☐ 是 ☐ 否
-- 提到过期时间？ ☐ 是 ☐ 否
-- 如果是，多长时间？_______ 分钟
-
-**OTP输入体验：**
-- 输入框易于找到？ ☐ 是 ☐ 否
-- 输入框大小适当？ ☐ 是 ☐ 否
-- 可以粘贴代码？ ☐ 是 ☐ 否
-- 自动检测OTP？ ☐ 是 ☐ 否
-- 任何错误消息？_________________
-
----
-
-### 步骤5：OTP登录评估
-
-**任务3：比较OTP与传统登录**
-
-**评价您的OTP登录体验：**
-
-**便利性：** ☐ 1 (非常不便) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常便利)
-
-**速度：** ☐ 1 (非常慢) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常快)
+**评价您的登录体验：**
 
 **易用性：** ☐ 1 (非常困难) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常容易)
 
-**安全感：** ☐ 1 (不安全) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常安全)
+**速度：** ☐ 1 (非常慢) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常快)
 
-**从开始到登录的总时间：** _______ 秒
+**清晰度：** ☐ 1 (令人困惑) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (非常清楚)
 
-**您对未来使用的偏好：**
-- [ ] 强烈偏好OTP
-- [ ] 偏好OTP
-- [ ] 无偏好
-- [ ] 偏好密码
-- [ ] 强烈偏好密码
+**整体登录满意度：**
+- [ ] 非常满意
+- [ ] 满意
+- [ ] 一般
+- [ ] 不满意
+- [ ] 非常不满意
 
-**为什么？** _________________________________
+**对登录过程的评论：**
+```
+_________________________________________________
+```
 
 ---
 

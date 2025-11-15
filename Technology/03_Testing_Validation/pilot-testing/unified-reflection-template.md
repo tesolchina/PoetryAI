@@ -20,7 +20,7 @@ Please complete this form immediately after your testing session while your expe
 
 **Tester ID:** ☐ T1 ☐ T2 ☐ T3 ☐ T4  
 **Date:** _______________  
-**Login Method:** ☐ Email/Password ☐ Email OTP  
+**Login Method:** Email/Password  
 **Assigned Room:** ☐ Room A ☐ Room B ☐ Room C ☐ Room D  
 **Testing Duration:** _______________
 
@@ -29,10 +29,6 @@ Please complete this form immediately after your testing session while your expe
 ## Part 1: Login Experience
 
 ### 1.1 Login Process
-
-**Which login method did you use?**
-- [ ] Email/Password
-- [ ] Email OTP (One-Time Password)
 
 **Did the login process work smoothly?**
 - [ ] Yes, worked perfectly
@@ -51,34 +47,18 @@ Please complete this form immediately after your testing session while your expe
 [Your response here]
 ```
 
----
+**Rate your login experience:**
 
-### 1.2 For OTP Users Only (T3, T4)
+**Ease of use:** ☐ 1 (Very difficult) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very easy)
 
-**How long did it take to receive the OTP email?** _______ seconds
+**Speed:** ☐ 1 (Very slow) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very fast)
 
-**Email delivery location:**
-- [ ] Inbox
-- [ ] Spam/Junk folder
-- [ ] Other: _______________
+**Clarity:** ☐ 1 (Confusing) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (Very clear)
 
-**Was the OTP email professional and clear?**
-- [ ] Yes
-- [ ] Somewhat
-- [ ] No
-
-**How would you rate the OTP login compared to traditional password login?**
-
-**Convenience:** ☐ 1 (Less convenient) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (More convenient)
-
-**Security feeling:** ☐ 1 (Less secure) ☐ 2 ☐ 3 ☐ 4 ☐ 5 (More secure)
-
-**Would you prefer OTP or password login for future use?**
-- [ ] Prefer OTP
-- [ ] Prefer password
-- [ ] No preference
-
-**Why?** _______________
+**Comments on login improvements:**
+```
+[Your response here]
+```
 
 ---
 
@@ -123,11 +103,20 @@ Please complete this form immediately after your testing session while your expe
 
 ### 2.2 Chatbot Functions
 
-**List the main functions you tested:**
-1. ____________________________________
-2. ____________________________________
-3. ____________________________________
-4. ____________________________________
+**Check all the functions you tested during your session:**
+
+- [ ] Starting a new conversation/chat
+- [ ] Asking the chatbot for poetry writing help
+- [ ] Getting creative suggestions or prompts
+- [ ] Receiving feedback on your poetry ideas
+- [ ] Asking for inspiration or examples
+- [ ] Exploring different poetry themes
+- [ ] Requesting help with word choices or vocabulary
+- [ ] Getting guidance on poetry structure (rhyme, rhythm, etc.)
+- [ ] Revising or refining your poetry with chatbot help
+- [ ] Asking general questions about poetry
+- [ ] Testing the chatbot's response to different inputs
+- [ ] Other: ____________________________________
 
 **Which functions worked well?**
 ```
@@ -139,7 +128,7 @@ Please complete this form immediately after your testing session while your expe
 [Your response here]
 ```
 
-****
+**Any functions you expected but couldn't find?**
 ```
 [Your response here]
 ```

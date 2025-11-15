@@ -3,7 +3,7 @@
 **PoetryAI Pilot Testing - User Manual**
 
 **Tester ID:** T4  
-**Login Method:** Email OTP (One-Time Password)  
+**Login Method:** Email/Password  
 **Assigned Room:** Room D  
 **Website:** https://poetry.aitutor.ink/
 
@@ -11,7 +11,7 @@
 
 ## Welcome!
 
-Thank you for being Tester 4! You will conduct comprehensive testing with detailed documentation. Your feedback will provide deep insights into the entire system from OTP login to advanced features. This manual guides you through an in-depth testing process.
+Thank you for being Tester 4! You will conduct comprehensive testing with detailed documentation. Your feedback will provide deep insights into the entire system from Email/Password login to advanced features. This manual guides you through an in-depth testing process.
 
 ---
 
@@ -61,7 +61,7 @@ _________________________________________________
    - Usefulness: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 
 **Tutorial Content Checklist:**
-- [ ] Explains OTP login
+- [ ] Explains Email/Password login
 - [ ] Describes Poetry Lab
 - [ ] Mentions room system
 - [ ] Explains chatbot features
@@ -80,9 +80,9 @@ _________________________________________________
 
 ---
 
-## Phase 2: Detailed OTP Login Testing (10 minutes)
+## Phase 2: Detailed Email/Password Login Testing (7 minutes)
 
-### Step 3: Complete OTP Authentication Journey
+### Step 3: Complete Email/Password Authentication Journey
 
 **Task 1: Comprehensive Login Process Documentation**
 
@@ -92,100 +92,71 @@ _________________________________________________
    - Button design: _______________
    - Time to locate: _______ seconds
 
-2. View login options
-   - OTP option visibility: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
-   - Option labeling clarity: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
+2. View login form
+   - Form layout: ☐ Clear ☐ Moderate ☐ Confusing
+   - Field arrangement: ☐ Vertical ☐ Horizontal ☐ Other
 
-3. Select OTP method
-   - Selection method: ☐ Button ☐ Link ☐ Radio ☐ Other
-   - Confirmation of selection: ☐ Yes ☐ No
-
-**Stage 2: Email Submission**
-4. Enter email address
-   - Field format: _______________
+**Stage 2: Credential Entry**
+3. Email field
+   - Field label: _______________
    - Placeholder text: _______________
    - Validation present: ☐ Yes ☐ No
-   - Email: [Provided by director]
+   - Enter email: [Provided by director]
+   - Auto-complete offered: ☐ Yes ☐ No
 
-5. Request OTP
+4. Password field
+   - Field label: _______________
+   - Placeholder text: _______________
+   - Show/hide password option: ☐ Yes ☐ No
+   - Password masked: ☐ Yes ☐ No
+   - Enter password: [Provided by director]
+
+5. Additional options observed:
+   - "Remember me" checkbox: ☐ Yes ☐ No
+   - "Forgot password" link: ☐ Yes ☐ No
+   - Other options: _______________
+
+**Stage 3: Submission**
+6. Submit login
    - Button text: _______________
    - **START TIMER**
    - Click time: _______
 
-6. Observe feedback
+7. Observe feedback
    - Loading indicator: ☐ Yes ☐ No
-   - Confirmation message: ☐ Yes ☐ No
+   - Indicator type: _______________
+   - Processing time: _______ seconds
+
+**Stage 4: Authentication**
+8. Wait for verification
+   - **STOP TIMER when logged in**
+   - Total login time: _______ seconds
+   - Success message: ☐ Yes ☐ No
    - Message text: _______________
+   - Redirect automatic: ☐ Yes ☐ No
 
-**Stage 3: Email Receipt**
-7. Monitor email
-   - Email provider: _______________
-   - **STOP TIMER when email arrives**
-   - Delivery time: _______ seconds
-   - Delivery location: ☐ Inbox ☐ Spam ☐ Promotions ☐ Other
+**Login Process Quality Assessment:**
+- Form clarity: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
+- Field labeling: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
+- Error handling: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐ N/A
+- Speed: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
+- Intuitiveness: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 
-8. Analyze email
-   - From address: _______________
-   - Subject line: _______________
-   - Email professional?: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
-   - OTP prominence: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
-   - OTP format: _______________
-   - OTP length: _______ characters
-   - Expiry mentioned: ☐ Yes ☐ No
-   - Expiry duration: _______ minutes
-   - Additional instructions: _______________
-
-**Email Content Quality:**
-- Professional branding: ☐ Yes ☐ No
-- Clear call-to-action: ☐ Yes ☐ No
-- Security information: ☐ Yes ☐ No
-- Contact information: ☐ Yes ☐ No
-
-**Stage 4: OTP Entry**
-9. Return to website
-   - Tab still active: ☐ Yes ☐ No
-   - Session maintained: ☐ Yes ☐ No
-
-10. Enter OTP
-    - Entry method: ☐ Type ☐ Paste ☐ Auto-fill
-    - Field type: ☐ Single field ☐ Multiple boxes ☐ Other
-    - Character masking: ☐ Yes ☐ No
-    - Copy/paste allowed: ☐ Yes ☐ No
-    - **START TIMER**
-
-11. Submit OTP
-    - Button text: _______________
-    - Click time: _______
-
-12. Verification
-    - Processing time: _______ seconds
-    - Loading indicator: ☐ Yes ☐ No
-    - **STOP TIMER when logged in**
-    - Success message: ☐ Yes ☐ No
-    - Redirect automatic: ☐ Yes ☐ No
-
-**Stage 5: Complete Timeline**
-- Total OTP login time: _______ seconds
-- Time distribution:
-  - Request to email: _______ sec
-  - Email reading: _______ sec
-  - Entry to login: _______ sec
-
-**OTP Login Experience Rating:**
+**Login Experience Rating:**
 - Overall convenience: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 - Security perception: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 - Speed satisfaction: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 - User-friendliness: ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5
 - Would use again: ☐ Definitely ☐ Probably ☐ Maybe ☐ Probably not ☐ Definitely not
 
-**Detailed comparison with password login:**
+**Detailed observations:**
 _________________________________________________
 _________________________________________________
 
-**OTP advantages you noticed:**
+**Advantages you noticed:**
 _________________________________________________
 
-**OTP disadvantages you noticed:**
+**Disadvantages you noticed:**
 _________________________________________________
 
 **Security concerns (if any):**
@@ -722,7 +693,7 @@ _________________________________________________
 
 **Reflection Priorities:**
 
-**Section 1: OTP Authentication**
+**Section 1: Email/Password Authentication**
 - Complete timeline analysis
 - Security perception details
 - Comparison with alternatives
@@ -752,11 +723,11 @@ _________________________________________________
 
 Ensure you've completed:
 
-**OTP Login:**
+**Email/Password Login:**
 - [ ] Complete timeline documented
-- [ ] Email analyzed in detail
+- [ ] Login process analyzed in detail
 - [ ] Security assessed
-- [ ] Preference determined
+- [ ] User experience evaluated
 - [ ] Improvements suggested
 
 **Navigation:**
@@ -831,7 +802,7 @@ Your comprehensive testing and detailed analysis are invaluable. Thank you for y
 **PoetryAI 试点测试 - 用户手册**
 
 **测试员编号:** T4  
-**登录方式:** 电邮OTP（一次性密码）  
+**登录方式:** 电邮/密码  
 **分配房间:** D房间  
 **网站:** https://poetry.aitutor.ink/
 
@@ -839,7 +810,7 @@ Your comprehensive testing and detailed analysis are invaluable. Thank you for y
 
 ## 欢迎！
 
-感谢您成为测试员4！您将进行全面测试并提供详细文档。您的反馈将为从OTP登录到高级功能的整个系统提供深入见解。本手册指导您完成深入的测试过程。
+感谢您成为测试员4！您将进行全面测试并提供详细文档。您的反馈将为从电邮/密码登录到高级功能的整个系统提供深入见解。本手册指导您完成深入的测试过程。
 
 ---
 
