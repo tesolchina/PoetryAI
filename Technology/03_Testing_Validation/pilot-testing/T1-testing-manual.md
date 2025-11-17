@@ -577,7 +577,7 @@ Your feedback is invaluable for improving the PoetryAI system. We appreciate you
 1. 寻找**历史**（History）按钮或部分
    - 检查菜单栏
    - 寻找图标或标签
-   - 可能称为"History"、"Past Chats"或"Conversations"
+
 
 2. 点击打开历史部分
 

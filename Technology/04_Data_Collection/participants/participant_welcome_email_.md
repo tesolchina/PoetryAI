@@ -2,11 +2,11 @@
 
 ---
 
-**Subject:** Welcome to the AI-Assisted Poetry Writing Study – Session Details (Nov 17, 2025)
+**Subject:** Welcome to the AI-Assisted Poetry Writing Study – Session Details 
 
 ---
 
-Dear [Participant Name],
+Dear Participants,
 
 Thank you for registering to participate in our AI-Assisted Poetry Writing research study! We are excited to have you join us for this innovative exploration of creative writing and artificial intelligence.
 
@@ -16,7 +16,7 @@ This email contains important information about your upcoming session. Please re
 
 ## Session Details
 
-**📅 Date:** Sunday, November 17, 2025  
+**📅 Date:** Monday, November 17, 2025  
 **🕙 Time:** 10:00 AM – 11:30 AM (1.5 hours)  
 **📍 Venue:** OEE 702, Hong Kong Baptist University  
 **⚠️ Please arrive by 9:50 AM for check-in**
@@ -27,7 +27,10 @@ This email contains important information about your upcoming session. Please re
 
 Your participation will involve the following steps:
 
-### 1. **Ethical Consent Form (10 mins)**
+Registration
+   - Participants will be seated into four small groups
+
+### 1. **Ethical Consent Form (5 mins)**
    - Review and sign the ethical consent form
    - Ask any questions about the study, data use, and your rights as a participant
 
@@ -36,19 +39,15 @@ Your participation will involve the following steps:
    - Overview of poetry writing objectives and guidelines
    - Q&A session
 
-### 3. **Group Division (5 mins)**
-   - Participants will be divided into small groups
-   - Each group will work collaboratively throughout the session
-
-### 4. **AI-Assisted Poetry Writing (30 mins)**
+### 3. **AI-Assisted Poetry Writing (20 mins)**
    - Work individually with the AI chatbot to compose poems
    - Experiment with different prompts and creative approaches
    - Receive AI-generated suggestions and feedback
 
-### 5. **In-Group Discussion (15 mins)**
+### 4. **In-Group Discussion (10 mins)**
    - Share your poems with group members
    - Discuss experiences with the AI tool
-   - Collaboratively select 2-3 example poems for panel discussion
+   - Collaboratively select 1-2 example poems for panel discussion
 
 ### 6. **Inter-Group Panel Discussion (20 mins)**
    - Present selected poems to all participants
@@ -56,16 +55,12 @@ Your participation will involve the following steps:
    - Engage in constructive debate about AI's role in creative writing
    - Compare different approaches and outcomes
 
-### 7. **Session Conclusion (10 mins)**
-   - Brief reflection and feedback
-   - Administrative matters
-
----
+------
 
 ## Important Information
 
 ### ✅ What to Bring
-- Your student ID
+- Your student ID 
 - A laptop or tablet (recommended, but not required – devices will be available)
 - An open mind and creative spirit!
 
@@ -77,9 +72,9 @@ Your participation will involve the following steps:
 ### 📧 Contact Information
 If you have any questions or need to inform us of any changes to your availability, please contact:
 
-[Your Contact Information]  
-Email: [Your Email]  
-WhatsApp: [Your Number]
+  
+Email: [24484008@life.hkbu.edu.hk]  
+WhatsApp: [96130119]
 
 ---
 
@@ -95,9 +90,9 @@ We look forward to seeing you on November 17th and exploring the exciting inters
 
 Best regards,
 
-[Your Name]  
-[Your Title/Position]  
-[Department/Institution]  
+Yu Ruobin
+PhD student
+English department, Faculty of Arts and Social Science
 Hong Kong Baptist University
 
 ---
