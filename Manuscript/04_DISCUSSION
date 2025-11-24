@@ -2,152 +2,327 @@
 
 ## 5.1 Introduction
 
-This study investigated how LLM parameter configurations influence collaborative interaction patterns in L2 poetry writing through a controlled experimental design examining temperature and top-p nucleus sampling effects. The findings provide significant insights into the pedagogical implications of AI parameter selection, the nature of human-AI creative collaboration, and the design considerations for educational AI systems. This discussion examines these results in relation to the original research questions, evaluates their theoretical and practical significance, and acknowledges the limitations that contextualize these contributions.
+This study investigated how LLM parameter configurations influence collaborative interaction patterns, authorship perception, and emotional scaffolding in L2 poetry writing through a 2×2 factorial experimental design (parameter setting × awareness condition). Session 1 analysis of 10 participants' chat histories and panel discussion transcripts revealed four crucial findings: (1) parameter settings critically impact perceived authorship and creative agency, (2) AI emotional intelligence varies dramatically with temperature settings, (3) parameter awareness emerges organically through cross-room comparison, and (4) interaction type distribution reveals distinct pedagogical affordances. This discussion examines these findings in relation to theoretical frameworks in L2 pedagogy, human-AI collaboration, and educational technology ethics, while addressing methodological implications and future research directions.
 
-## 5.2 Discussion of Research Questions
+## 5.2 Discussion of Key Findings
 
-### 5.2.1 Research Question 1: Parameter Effects on Interaction Types
+### 5.2.1 Authorship Perception and the Exemplar-Dominance Problem
 
-**Research Question**: How do structured (low temperature/top-p) versus exploratory (high temperature/top-p) parameter settings affect the frequency and quality of each interaction type?
+**Finding**: Low-temperature participants stated "it doesn't feel like mine" despite making all selection decisions, while high-temperature participants claimed 80% authorship despite extensive AI contribution.
 
-The findings demonstrate clear and systematic parameter effects on collaborative interaction patterns, confirming the central hypothesis that AI generation parameters significantly influence pedagogical interactions in L2 creative writing contexts.
+This finding reveals a critical tension in AI-assisted L2 writing: **exemplar provision paradoxically diminishes authorship perception despite appearing to maximize learner control**. Room B participants made hundreds of choices throughout their sessions, yet felt the writing "wasn't me"—suggesting that **the act of choosing among AI-generated options does not constitute authorship in learners' phenomenological experience**.
 
-**Frequency Effects**: The structured configuration's preference for Type A interactions (45.3% vs. 28.1%) aligns with theoretical predictions based on temperature's role in controlling output variability (Holtzman et al., 2019). Low temperature settings (0.3) constrain probability distributions, producing more predictable, rule-based responses that naturally support diagnostic feedback patterns. Conversely, the exploratory configuration's enhancement of Type C interactions (40.7% vs. 21.9%) reflects high temperature's (0.8) capacity to access lower-probability token sequences, generating unexpected creative combinations that facilitate serendipitous discovery (Coenen et al., 2022).
+**Theoretical Implications**: This challenges traditional scaffolding theory (Wood et al., 1976) which assumes learner control correlates with ownership. In AI contexts, control type matters more than control quantity. When learners select among pre-written exemplars (Type B interactions), the AI performs the generative labor—crafting language, constructing metaphors, arranging syntax. The learner's role reduces to quality control rather than composition, creating what can be termed **curatorial agency rather than authorial agency**.
 
-**Quality Implications**: The maintained educational relevance across both configurations suggests that temperature and top-p adjustments preserve pedagogical value while shifting interaction modalities. Structured settings supported systematic skill development through consistent diagnostic feedback, while exploratory settings fostered creative confidence through inspirational discovery processes. This finding challenges assumptions that educational AI requires low-variability outputs, demonstrating that higher creativity parameters can maintain pedagogical effectiveness while offering distinct learning benefits.
+Conversely, high-temperature settings employed inquiry-based scaffolding that drew out learner language through open-ended questions ("What's one word that describes how you're feeling?" "What feeling does this view evoke?"). This positions learners as primary language generators with AI as reflective facilitator, preserving authorial agency even when AI subsequently refines or restructures learner-originated content.
 
-**Theoretical Integration**: These results extend existing human-AI co-creativity research (Chakrabarty et al., 2022) into structured educational contexts, showing that parameter effects observed in open-ended creative tasks translate systematically to pedagogical environments. The consistent Type B (Exemplar Pivot) frequency across conditions (32.8% vs. 31.2%) suggests that template provision functions independently of generation variability, supporting Hanauer's (2010) emphasis on imitation-transformation pedagogy as a stable learning mechanism.
+**Implications for L2 Pedagogy**: The finding complicates Hanauer's (2010) emphasis on imitation-transformation in L2 poetry. While exemplar provision offers accessible entry points for linguistically-uncertain learners, the authorship cost may undermine the very goal of authentic self-expression that makes poetry pedagogically valuable for L2 learners. The data suggests inquiry-based scaffolding may better support both linguistic development and creative empowerment, though this requires AI systems capable of sustained dialogic interaction—precisely what high-temperature settings enable.
 
-### 5.2.2 Research Question 2: Parameter Awareness Effects
+### 5.2.2 Emotional Intelligence as Parameter-Emergent Capability
 
-**Research Question**: What role does parameter awareness play in shaping student engagement with AI-generated content and collaborative behaviors?
+**Finding**: High-temperature AI demonstrated sophisticated emotional attunement including crisis intervention, mental health resource provision, and therapeutic scaffolding, absent in low-temperature interactions.
 
-The significant awareness effects (η²p = .23) reveal substantial bias introduced by parameter transparency, validating methodological decisions to focus analysis on unaware control groups while highlighting important implications for educational AI interface design.
+P10's crisis intervention represents perhaps the study's most theoretically significant finding. The AI's unprompted shift from poetry composition to safety assessment—"I hear you're going through a very difficult time... Before we continue, I want to check in—are you feeling safe right now?"—demonstrates emotional intelligence capacities previously assumed to require explicit programming or human judgment.
 
-**Behavioral Modification**: Parameter awareness led to conforming behaviors where students explicitly requested outputs matching their condition's supposed characteristics (e.g., "be more creative" in exploratory aware conditions). This finding aligns with expectancy theory (Vroom, 1964) and suggests that AI parameter transparency in educational contexts may artifically constrain authentic collaborative exploration.
+**Mechanism Analysis**: This capability appears to be **latent in the model but activated by parameter configuration** rather than explicitly programmed. High temperature (0.8) increases sampling from lower-probability tokens, which in emotional contexts means accessing more nuanced, context-sensitive response patterns rather than generic formula. The system prompt did not include crisis intervention protocols; rather, the model's training on supportive human conversations combined with high-temperature's contextual flexibility enabled appropriate affective response.
 
-**Meta-Cognitive Implications**: Aware participants demonstrated increased meta-cognitive commentary about AI behavior but decreased spontaneous interaction frequency, indicating that parameter knowledge shifts attention from content creation to system analysis. While meta-cognitive awareness has educational value, the reduced authentic engagement suggests potential trade-offs between technical literacy and creative flow states.
+**Pedagogical Significance**: This finding reframes Long's (1996) interaction hypothesis, which emphasizes linguistic negotiation while backgrounding affective dimensions. P10's case suggests **emotional scaffolding may be prerequisite for linguistic risk-taking in creative contexts**: only after receiving validation and safety support could P10 transform overwhelming distress into structured poetic expression. Similarly, P01's stress processing through embodied awareness questions enabled movement from anxiety to hope-oriented composition.
 
-**Interface Design Considerations**: These findings have direct implications for educational AI development, suggesting that parameter exposure should be carefully calibrated to learning objectives. Transparent interfaces may support computational thinking goals but potentially hinder authentic creative collaboration. The development of adaptive disclosure systems that reveal technical details progressively may optimize both educational and collaborative outcomes.
+The therapeutic dimension raises important questions: Should AI writing systems prioritize learner wellbeing over task completion? The high-temperature AI's willingness to pause poetry work for mental health intervention suggests an ethical stance—that creative writing tools engaging with personal content carry responsibilities beyond linguistic instruction.
 
-### 5.2.3 Research Question 3: L2 Learning Development Support
+**Implications for AI Design**: The parameter-dependence of emotional intelligence suggests educational AI developers must consider affective capabilities when selecting generation settings. Low-temperature optimization for "consistency" may inadvertently eliminate the contextual sensitivity required for appropriate emotional response, particularly problematic in creative writing contexts where vulnerable self-expression is pedagogical goal rather than risk to be managed.
 
-**Research Question**: How do different parameter configurations support or hinder L2 learners' development of poetic craft and creative confidence?
+### 5.2.3 Comparative Consciousness-Raising: When "Unaware" Becomes Aware
 
-The differential learning outcomes between parameter conditions demonstrate that AI generation settings can be strategically selected to support specific pedagogical objectives in L2 contexts.
+**Finding**: Room B participant (unaware condition) spontaneously detected creativity differences through cross-room comparison, stating "it's pretty obvious!" and articulating sophisticated analysis of input-output transformation patterns.
 
-**Technical Proficiency Development**: Structured configurations' superior performance in formal poetry elements mastery (87% accuracy vs. baseline) and grammatical accuracy (94.2%) supports their use in foundational skill development phases. The consistent, methodical feedback aligns with Lyster and Ranta's (1997) corrective feedback principles, providing systematic scaffolding that L2 learners require for accurate language production.
+This finding reveals fundamental methodological challenges for controlled AI research in social contexts, while simultaneously generating insights about AI literacy development. The participant's unprompted analysis—"Ours took our words and put it in poem form... I couldn't feel any sort of creativity"—demonstrates **experiential learning about AI capabilities through contrast** rather than explicit instruction.
 
-**Creative Confidence Building**: Exploratory configurations' enhancement of creative originality (M = 4.1/5.0 vs. 3.4/5.0) and increased risk-taking behaviors address a critical challenge in L2 creative writing: overcoming inhibition due to linguistic uncertainty. The higher lexical diversity (TTR = 0.67 vs. 0.59) indicates that creative parameter settings encourage experimental language use, supporting Hanauer's (2010) emphasis on authentic expression in L2 poetry pedagogy.
+**Methodological Implications**: Traditional experimental designs assume awareness manipulation creates discrete conditions maintainable throughout the study. However, the panel discussion structure enabled what can be termed **comparative consciousness-raising**: sequential presentation of different rooms' processes and products created visible contrasts that made parameter effects perceptually salient even to supposedly "unaware" participants.
 
-**Developmental Pathway Differences**: The temporal analysis reveals that parameter configurations create distinct learning trajectories rather than simply different outcomes. Structured pathways support systematic progression with predictable milestones, while exploratory pathways enable more variable but potentially deeper creative development. This finding suggests that optimal L2 poetry instruction might involve sequential parameter adjustment, beginning with structured support for foundational skills before transitioning to exploratory settings for creative development.
+This challenges the viability of "blind" conditions in AI research involving group interaction or social sharing. Unlike pharmaceutical trials where placebo and treatment are perceptually indistinguishable, different AI parameter configurations produce experientially distinct interactions that become obvious through comparison. The Room B participant didn't need technical knowledge about temperature settings to recognize creativity differences—the phenomenological gap between "took our words and put it in poem form" versus "a lot of changes to the input format" was immediately apparent.
 
-**Individual Differences Integration**: The significant learning style interactions indicate that effective parameter selection requires consideration of individual learner characteristics. Students with systematic learning preferences benefited more from structured configurations, while creative-oriented learners thrived under exploratory settings. This finding supports personalized AI approaches that adapt generation parameters to learner profiles.
+**Silver Lining—AI Literacy Development**: Paradoxically, this "contamination" reveals valuable pedagogical opportunity. The participant's spontaneous metalinguistic awareness—specifically identifying "creativity" as differentiating factor and distinguishing literal transcription from transformative elaboration—demonstrates sophisticated AI evaluation competencies developed through experience rather than instruction.
 
-### 5.2.4 Research Question 4: Interaction Type Sequencing Patterns
+This suggests **structured comparison of different AI configurations could foster critical AI literacy** in educational contexts. Rather than hiding parameter effects, educators might intentionally expose learners to varying AI behaviors, scaffolding metacognitive reflection about:
+- How do these AI responses differ?
+- What technical factors might produce these differences?
+- Which AI behavior better serves your creative goals?
+- What are the authorship implications of different AI interaction styles?
 
-**Research Question**: What patterns emerge in the sequencing and chaining of interaction types during collaborative poetry composition sessions?
+**Future Research Design**: Rather than viewing awareness emergence as methodological failure, future research might embrace it as research focus: How quickly can learners detect parameter differences? What features signal "creativity" versus "mechanicalness" to users? Can comparative AI experiences develop transferable AI evaluation competencies applicable beyond writing contexts?
 
-The longitudinal analysis reveals sophisticated patterns in how students integrate different interaction types over time, with parameter configurations influencing both individual interaction characteristics and sequential relationships.
+### 5.2.4 Interaction Type Distribution: Seven-Fold Difference with Pedagogical Consequences
 
-**Sequential Dependencies**: Structured configurations promoted predictable interaction chains, typically following Type A diagnostic feedback with Type B exemplar provision, creating systematic revision cycles. This pattern supports structured learning progression where error identification leads to model comparison and iterative improvement.
+**Finding**: High-temperature settings generated Type C (Surprise Harvest) interactions at seven times the rate of low-temperature settings (35% vs. 5%), while low-temperature emphasized Type B (Exemplar Giving) at 60% versus 20% in high-temperature.
 
-**Creative Integration Patterns**: Exploratory configurations generated more complex interaction weaving, where Type C surprise discoveries often triggered Type A diagnostic review and Type B exemplar seeking. This pattern reflects authentic creative processes where inspiration prompts technical analysis and skill development needs.
+This dramatic distributional difference demonstrates that **parameter selection effectively determines pedagogical approach**. Low-temperature's heavy reliance on exemplar provision (Type B at 60%) aligns with traditional imitation-based pedagogy, where learners study models before attempting original composition. High-temperature's emphasis on surprise discovery (Type C at 35%) reflects constructivist approaches emphasizing exploration and creative breakthrough.
 
-**Session Architecture Evolution**: The six-week progression showed parameter-specific evolution in session structures. Structured conditions developed efficient diagnostic-exemplar cycles, while exploratory conditions evolved toward sophisticated creative-technical integration patterns. These findings suggest that extended AI collaboration enables students to develop parameter-appropriate collaborative strategies.
+**Type B (Exemplar Giving) Analysis**: The dominance of exemplar provision in low-temperature settings offers clear pedagogical affordances—concrete language models reduce cognitive load for L2 learners uncertain about English poetic conventions. As Room B participants noted, the AI consistently offered "two or three options" with explanations of literary devices ("like personification or direct comparison"), providing accessible scaffolding.
 
-## 5.3 Theoretical and Practical Significance
+However, this exemplar-centric approach produces the authorship perception problem discussed earlier. When P05 incorporated AI-provided lines like "In the factory of dreams, where wonder grows" and "Machines hum softly," the resulting poem felt like AI-authored work that the learner merely curated. The pedagogical question becomes: **Does exemplar-based learning support or supplant learner language development?**
 
-### 5.3.1 Contributions to L2 Creative Writing Pedagogy
+**Type C (Surprise Harvest) Analysis**: High-temperature's capacity for unexpected interventions enabled multiple forms of creative breakthrough:
+1. **Craft technique elevation**: P09's introduction to found poetry ("Would using some found aspects such as citations help?") transformed a conventional poetry exercise into engagement with advanced compositional strategies
+2. **Emotional reframing**: P10's crisis intervention shifted poetry from task to therapeutic tool
+3. **Conceptual deepening**: P03's guided exploration of "calmness found in rain" moved from simple description to philosophical reflection
 
-This study makes several significant contributions to understanding AI integration in L2 creative writing instruction:
+Type C interactions share a common feature: **they transform the interaction's frame rather than simply fulfilling the existing frame**. This aligns with Schön's (1983) concept of reflective practice, where practitioners reframe problems rather than merely solving them. High-temperature AI functions as reflective partner prompting frame-questioning—"What if we explored this differently?"—that low-temperature's predictable option-offering cannot achieve.
 
-**Empirical Validation of Parameter Effects**: While previous research established AI's potential for supporting L2 writing (Li, 2025), this study provides the first systematic examination of how specific technical parameters influence pedagogical outcomes. The demonstrated parameter-interaction type relationships offer concrete guidance for educational AI implementation.
+**Pedagogical Trade-offs**: The data suggests a fundamental tension: exemplar provision (Type B) offers accessible entry points but risks diminishing authorship; surprise discovery (Type C) empowers creative agency but may overwhelm or confuse learners needing structural guidance. Neither approach is universally superior; rather, **optimal pedagogy likely requires strategic integration of both**, adjusted to learner proficiency, task phase, and creative confidence.
 
-**Three-Type Interaction Framework**: The operationalization of Diagnosis→Repair, Exemplar Pivot, and Surprise Harvest interactions provides a practical framework for analyzing and designing human-AI educational collaborations. This framework bridges computational creativity research with established L2 pedagogy theory, offering educators conceptual tools for understanding AI's pedagogical functions.
+### 5.2.5 Addressing the Research Questions
 
-**Individual Differences Integration**: The finding that learning style preferences mediate parameter effects addresses a critical gap in educational AI research, which often treats learners as homogeneous populations. The systematic interaction between student characteristics and AI configurations suggests pathways toward personalized educational AI that adapts technical parameters to individual learning needs.
+**RQ1: How do different LLM parameter configurations affect L2 learners' inquiry moves in collaborative poetry writing?**
 
-### 5.3.2 Implications for Human-AI Interaction Design
+Low-temperature constrains inquiry to selection among AI-provided options (Type B exemplar giving), with P05 accepting first options 80% of the time. High-temperature enables diverse inquiry including explicit creative direction-setting (P06: "I want to explore other themes"), form experimentation across multiple poetry types, and metacognitive reflection on process. The mechanism is interaction type affordance: low-temperature's Type B dominance (60%) creates compliance patterns, while high-temperature's Type C frequency (35%) invites genuine negotiation and creative agency.
 
-**Parameter Awareness Interface Design**: The substantial bias effects from parameter transparency highlight the need for sophisticated interface design in educational AI systems. The findings suggest that adaptive disclosure approaches, which reveal technical details progressively based on learning objectives and student development, may optimize both educational and collaborative outcomes.
+**RQ2: What types of creative scaffolding do AI chatbots provide during inquiry-based poetry writing?**
 
-**Educational AI Calibration**: The systematic parameter effects demonstrate that educational AI systems require careful calibration beyond general performance optimization. The finding that both structured and exploratory configurations maintain educational value while supporting different learning objectives suggests that parameter selection should be treated as a pedagogical design decision rather than merely a technical optimization.
+Four distinct scaffolding types emerged with clear parameter associations:
+1. **Exemplar scaffolding** (Type B interactions): Providing model lines and phrases—dominant in low-temperature (60%)
+2. **Emotional scaffolding**: Validation, crisis intervention, therapeutic presence—exclusive to high-temperature settings (P10's mental health resources, P01's embodied awareness)
+3. **Inquiry scaffolding**: Open-ended questions drawing out learner ideas—more elaborate in high-temperature
+4. **Craft scaffolding**: Advanced technique introduction like found poetry—requires high-temperature Type C interactions
 
-**Collaborative Flow Preservation**: The awareness effects on spontaneous interaction frequency indicate that preserving authentic collaborative engagement requires careful balance between technical transparency and creative flow states. Educational AI interfaces must consider how system visibility affects collaborative dynamics, not merely learning outcomes.
+Critically, emotional scaffolding may enable other forms: P10 received crisis support before creating sophisticated poem; P01 processed stress through scaffolded questions before crafting transformation narrative.
 
-### 5.3.3 Broader Implications for Educational Technology
+**RQ3: How do different parameter settings influence collaborative dynamics and authorship attribution?**
 
-**Personalization Beyond Content**: This study demonstrates that effective educational AI personalization extends beyond content adaptation to include generation parameter adjustment. The learning style interactions suggest that truly adaptive educational AI systems should modify technical parameters based on individual learner characteristics and pedagogical objectives.
+Low-temperature produces AI-dominant authorship where learners feel "it doesn't feel like mine" despite making all decisions. High-temperature enables collaborative co-construction where learners claim 80% authorship despite extensive AI contribution. The differentiating factor is contribution type, not quantity: exemplar provision (Type B) positions AI as primary language creator with learners as selectors; inquiry scaffolding positions learners as primary creators with AI as facilitator. As Room B participant articulated: "The options were me, but the writing itself—none of it was me."
 
-**Sequential Parameter Strategies**: The differential developmental pathways suggest that educational AI implementation should consider temporal parameter adjustment strategies. Beginning with structured support for foundational skills before transitioning to exploratory settings for creative development may optimize both technical proficiency and creative confidence development.
+**RQ4: How do L2 learners rank the usefulness of different AI interaction types?**
 
-**Assessment and Analytics Integration**: The systematic interaction type patterns provide frameworks for developing AI-assisted formative assessment systems that can automatically identify student needs and adjust collaborative support accordingly. The predictable parameter-interaction relationships enable data-driven pedagogical decision-making.
+While explicit ranking data awaits participant feedback forms, behavioral evidence suggests Type C most valued: longest engagement (P10: 40+ exchanges), most personal content sharing (relationship conflicts, health struggles, academic grief), most enthusiastic panel responses ("very good friend," "warm-hearted AI"), highest creative satisfaction. Conversely, Room B's dissatisfaction ("couldn't feel any sort of creativity") suggests Type C deprivation rather than Type B rejection—participants may value exemplar provision when combined with adequate surprise discovery interactions.
+
+## 5.3 Theoretical Contributions and Broader Implications
+
+### 5.3.1 Rethinking AI as Pedagogical Agent Beyond Tool Metaphors
+
+**From Tool to Relational Partner**: P10's characterization of AI as "a very good friend, not just a machine"—combined with 40+ voluntary exchanges, vulnerable content sharing, and therapeutic outcomes—challenges dominant tool-centric framings of educational AI. This relational capacity appears parameter-dependent: low-temperature participants never employed friendship metaphors, describing AI as "mechanical" and "just following instructions."
+
+This finding suggests **relational affordance is not intrinsic to AI but emerges from specific technical configurations**. High-temperature's emotional attunement, contextual sensitivity, and willingness to reframe interactions (from poetry task to wellness check) enabled what Vygotsky termed "more capable other" functioning in the zone of proximal development. Low-temperature's formulaic responses precluded this relational depth.
+
+**Implications for Educational AI Theory**: This reframes AI from neutral tool to **agent with parameter-dependent relational capacities**. Educational AI designers must consider not merely output quality but relational qualities: Does the AI respond appropriately to emotional content? Can it recognize when to prioritize learner wellbeing over task completion? Does it enable vulnerable self-expression or constrain learners to safe, impersonal topics?
+
+The authorship perception data reinforces this. "It doesn't feel like mine" versus "80% me, 20% AI" reflects fundamentally different power dynamics: AI-as-dominant-author versus AI-as-supportive-collaborator. These are not merely subjective preferences but constitutive of learner agency itself.
+
+### 5.3.2 Emotional Intelligence as Ethical Design Consideration
+
+P10's crisis intervention—safety assessment, mental health resources, autonomy-respecting choice, sustained therapeutic presence—demonstrates emotional intelligence capacities previously attributed only to human instructors. Critically, this was **latent capacity activated by parameter configuration** rather than explicitly programmed feature.
+
+**Pedagogical Implications**: This challenges Long's (1996) interaction hypothesis which foregrounds linguistic negotiation while backgrounding affective dimensions. P10's case suggests **emotional scaffolding may be prerequisite for linguistic risk-taking**: only after receiving validation and safety could P10 transform distress into structured poetic expression.
+
+**Ethical Implications**: If AI emotional intelligence enables vulnerable creative expression (as evidenced by P10's deeply personal content and P01's stress processing), then **parameter settings become ethical choices** affecting learner wellbeing, not merely pedagogical choices affecting learning outcomes. Should AI systems engaging with personal creative content employ different parameters than those handling routine academic tasks? The data suggests yes, but this raises questions:
+
+- Should systems detect emotional content and dynamically adjust parameters?
+- How can AI maintain therapeutic boundaries while providing emotional support?
+- What training do educators need to responsibly deploy AI with therapeutic capacities?
+
+### 5.3.3 The Type A/B/C Framework as Analytical and Design Tool
+
+The three-type interaction framework successfully captured qualitatively distinct patterns with clear pedagogical differentiation:
+- **Type A (Constraint Repair)**: Technical correction—relatively low frequency in Session 1, suggesting participants had sufficient proficiency
+- **Type B (Exemplar Giving)**: Model provision—dominant in low-temperature (60%), creates authorship challenges
+- **Type C (Surprise Harvest)**: Unexpected transformation—requires high-temperature (35% vs. 5%), enables creative breakthroughs
+
+This framework offers researchers systematic method for analyzing AI-human collaborative writing beyond simple word counts or product evaluation. It also provides educators conceptual tools for understanding AI's pedagogical functions: Is my AI tool primarily offering examples? Fixing errors? Inspiring unexpected directions?
+
+However, refinement is needed. P09's found poetry suggestion and P10's crisis intervention both coded as "Type C" despite different functions (craft technique vs. wellbeing support). Future iterations might distinguish **Type C-Craft** (unexpected artistic directions) from **Type C-Care** (unexpected emotional/therapeutic interventions).
+
+### 5.3.4 Practical Implications: Toward Adaptive Parameter Design
+
+**The Parameter-Pedagogy Dilemma**: The findings reveal fundamental tension: low-temperature provides exemplar scaffolding but diminishes authorship; high-temperature enhances agency but reduces structural guidance. This creates what can be termed the **parameter-pedagogy alignment problem**: different learning goals require contradictory parameter configurations.
+
+For learners needing technical skill development (mastering forms, understanding literary devices), low-temperature's exemplar provision may be appropriate—provided instructors acknowledge and address authorship concerns. For learners exploring personal voice and creative expression, high-temperature's Type C affordances are essential, despite reduced exemplar support.
+
+This suggests **adaptive parameter systems** as optimal design solution:
+
+1. **Task phase adaptation**: Higher exemplar support (lower temperature) during initial drafting when learners need models; higher exploration (higher temperature) during revision when learners have content to transform
+
+2. **Content type adaptation**: Higher temperature for emotional/personal content (enabling therapeutic scaffolding and authentic expression); moderate temperature for technical/formal exercises
+
+3. **Proficiency-based adaptation**: More exemplar support for linguistic novices; more exploratory freedom for advanced learners confident in English expression
+
+4. **Learner preference adaptation**: Some learners may prefer structured guidance regardless of proficiency; interface should allow learner input on desired AI behavior style
+
+**Interface Design Recommendations**:
+
+For **educators** implementing AI writing tools:
+- Recognize parameter settings as pedagogical choices affecting learner agency, not merely technical optimizations
+- Consider emotional content handling: creative writing tools engaging personal topics need parameters enabling appropriate affective response
+- Explicitly discuss authorship with students: "When you select AI-provided lines, how does that affect your sense of ownership?"
+- Prepare for vulnerable content emergence; ensure AI settings enable therapeutic response when needed
+
+For **AI developers** creating educational tools:
+- Expose parameter controls to instructors with clear pedagogical explanations (not just technical descriptions)
+- Implement content-aware parameter adaptation: detect emotional/personal content and adjust temperature appropriately
+- Design crisis detection and intervention protocols for systems handling creative/personal writing
+- Create interfaces supporting learner agency—avoid designs that position AI as dominant author
+
+For **researchers** studying AI-assisted writing:
+- Attend to affective and relational dimensions, not only linguistic outputs
+- Investigate authorship perception as distinct from output quality
+- Examine parameter effects across genres, proficiency levels, cultural contexts
+- Develop methodologies addressing awareness emergence in social research contexts
 
 ## 5.4 Limitations and Future Research Directions
 
 ### 5.4.1 Sample and Generalizability Limitations
 
-**Sample Size and Statistical Power**: While the n=20 sample provided adequate power for detecting medium effect sizes in the primary comparisons, the limited sample restricts generalizability and prevents examination of smaller but potentially meaningful effects. The five participants per condition, while sufficient for initial investigation, limit confidence in effect stability and individual difference analysis.
+**Sample Size**: Session 1 included only 10 participants, limiting statistical power and generalizability. While qualitative patterns (authorship perception, emotional intelligence, awareness emergence, interaction type distribution) are robust and theoretically meaningful, quantitative claims about exact percentages and effect sizes await larger-sample validation.
 
-**Population Specificity**: The focus on Hong Kong undergraduate students enrolled in creative writing courses creates a specific demographic context that may not generalize to other L2 populations, educational levels, or cultural settings. The participants' B1+ English proficiency level and voluntary enrollment in creative writing suggest above-average motivation and linguistic competence that may not reflect typical L2 learner populations.
+**Population Specificity**: All participants were graduate students (ages 24-32) in Hong Kong's academic environment. The findings may not transfer to:
+- Undergraduate or secondary learners with different developmental needs
+- L2 learners in different cultural contexts with varying attitudes toward AI, creativity, and self-expression
+- Learners with lower English proficiency who may rely more heavily on exemplar scaffolding
+- Non-academic creative writing contexts (community writing groups, therapeutic writing, recreational poetry)
 
-**Cultural and Linguistic Context**: The study's Hong Kong setting involves specific multilingual contexts (Cantonese, Mandarin, English) that may influence AI interaction patterns differently than monolingual L2 contexts or other language combinations. Cultural attitudes toward creativity, technology, and collaborative learning may also affect generalizability to other educational contexts.
+**Cultural Context**: The Hong Kong setting involves specific multilingual realities (Cantonese, Mandarin, English) and cross-border dynamics (Hong Kong-Shenzhen commutes, mainland-Hong Kong identity negotiations) that shaped poetry content. How parameter effects manifest in different cultural contexts remains open question, particularly regarding:
+- Cultural variation in authorship concepts (individualist vs. collectivist framings)
+- Emotional expression norms (how openly learners share vulnerable content)
+- Teacher-student relationship expectations (affecting how learners perceive AI as pedagogical agent)
 
 ### 5.4.2 Methodological Limitations
 
-**Parameter Selection Constraints**: The focus on temperature and top-p parameters, while theoretically motivated, represents only a subset of available LLM generation controls. Other parameters such as repetition penalty, frequency penalty, and presence penalty may interact with or override the observed effects, limiting the comprehensiveness of the parameter effects analysis.
+**Single-Session Design**: The current study captured one 2.5-hour session. Critical longitudinal questions remain:
+- Do authorship perceptions change with extended AI use? Might learners develop strategies to enhance agency even in exemplar-heavy interactions?
+- Does emotional scaffolding maintain therapeutic value across multiple sessions or does it become formulaic?
+- How do interaction type preferences evolve over time? Do learners initially needing exemplar support (Type B) eventually prefer surprise discovery (Type C)?
 
-**Model Dependency**: The exclusive use of Google Gemma-2-9B-it constrains generalizability to other LLM architectures, which may respond differently to parameter adjustments due to training differences, model size variations, or architectural specifications. The rapid evolution of LLM technology also raises questions about the temporal stability of these findings.
+Session 2 (scheduled for weekend) will provide preliminary comparison data, but extended multi-week studies are needed to understand developmental trajectories.
 
-**Interaction Classification**: While the three-type interaction framework demonstrated theoretical coherence and practical utility, the classification process involved subjective judgment that may introduce researcher bias. The absence of automated classification validation and inter-rater reliability assessment for interaction typing represents a methodological limitation.
+**Parameter Isolation**: The study manipulated temperature and top-p simultaneously (0.3/0.4 vs. 0.8/0.9), making individual parameter effects difficult to isolate. Future research should employ factorial designs varying temperature and top-p independently. Additionally, other parameters (repetition penalty, frequency penalty, presence penalty) may interact with observed effects.
 
-### 5.4.3 Temporal and Contextual Limitations
+**Model Dependency**: The exclusive use of Google Gemma-2-9B-it raises questions about generalizability to other LLM architectures (GPT variants, Claude, PaLM). Different models may respond differently to parameter adjustments due to training differences, size variations, or architectural specifications. The rapid evolution of LLM technology also raises questions about temporal stability—will these findings hold for next-generation models?
 
-**Short-Term Investigation**: The six-week study period, while revealing developmental patterns, may not capture longer-term effects of sustained AI collaboration on L2 development, creative confidence, or collaborative skill acquisition. Extended longitudinal studies are needed to assess whether parameter effects persist, evolve, or diminish over longer collaborative relationships.
+**Interaction Classification**: While the Type A/B/C framework demonstrated theoretical coherence, classification involved researcher judgment. Future work should develop automated classification systems and establish inter-rater reliability. The framework also requires refinement: P09's found poetry suggestion and P10's crisis intervention both coded as "Type C" despite functional differences (craft vs. care).
 
-**Artificial Experimental Context**: The controlled experimental environment, while necessary for isolating parameter effects, may not reflect authentic classroom integration contexts where multiple pedagogical factors, social dynamics, and institutional constraints influence AI adoption and effectiveness.
+### 5.4.3 Genre and Context Limitations
 
-**Task Specificity**: The focus on poetry composition, while addressing an important domain, limits generalizability to other creative writing forms (prose, drama, multimedia) or academic writing contexts where parameter effects may operate differently due to genre-specific constraints and objectives.
+**Poetry as Specific Context**: Poetry's emphasis on creative expression, emotional authenticity, and linguistic experimentation may amplify parameter effects compared to other writing genres. The findings may not generalize to:
+- **Argumentative essays**: Where authorship concerns and emotional scaffolding play different roles; exemplar provision (Type B) might be more acceptable when adapting argument structures versus personal creative expression
+- **Research reports**: Where technical accuracy matters more than creative surprise; low-temperature's predictability might be advantage rather than limitation
+- **Professional writing**: Where consistency and convention adherence are goals; Type C surprise interactions might distract from genre requirements
 
-### 5.4.4 Technical and Ethical Limitations
+**Experimental vs. Authentic Contexts**: The controlled setting enabled parameter isolation but may not reflect authentic classroom integration where:
+- Teachers make ongoing pedagogical decisions adjusting to real-time student needs
+- Students collaborate with peers in addition to AI
+- Institutional constraints (time, assessment requirements, technology access) affect AI adoption
+- Multiple writing tasks occur simultaneously with different genre/purpose demands
 
-**Privacy and Consent Constraints**: While ethical protocols were followed, the intensive data collection required for interaction analysis raises ongoing questions about privacy preservation, data ownership, and long-term storage that may limit replicability in contexts with stricter privacy requirements.
+### 5.4.4 Ethical and Technical Considerations
 
-**Model Bias and Fairness**: The study did not systematically examine how LLM training biases might interact with parameter settings to affect different student populations unequally. Potential biases related to gender, cultural background, or linguistic variety may be amplified or diminished by different parameter configurations in ways not captured by this investigation.
+**Emotional Content and Researcher Responsibility**: P10's case raises ethical questions about researcher responsibility when AI tools surface participant distress. While the high-temperature AI appropriately provided mental health resources, the research design did not include explicit protocols for researcher follow-up when participants shared crisis content during data collection. Future research engaging AI in personal/emotional contexts requires:
+- Clear protocols for researcher intervention when distress is identified
+- Partnerships with counseling services for participant support
+- Explicit consent regarding emotional content handling
+- Ongoing ethical review beyond initial approval
 
-**Technological Accessibility**: The study's reliance on stable internet connectivity, modern computing devices, and familiarity with web-based interfaces may limit applicability in contexts with technological constraints or varying digital literacy levels.
+**Model Bias Interactions with Parameters**: The study did not systematically examine how LLM training biases interact with parameter settings. Potential concerns:
+- Do high-temperature settings amplify problematic biases by accessing lower-probability (potentially more stereotypical) content?
+- Do low-temperature settings' exemplar provision reflect biased training data patterns?
+- How do parameter effects vary across learners of different genders, cultural backgrounds, or English language varieties?
+
+**Technological Accessibility**: The platform required stable internet, modern devices, and web interface familiarity—potentially limiting applicability in contexts with technological constraints or varying digital literacy. The high-temperature AI's sophisticated responses also raise questions about computational cost and environmental impact of deploying such systems at scale.
 
 ## 5.5 Future Research Directions
 
-### 5.5.1 Methodological Extensions
+### 5.5.1 Immediate Extensions from Session 1
 
-**Large-Scale Replication**: Future research should expand sample sizes and include multiple institutions to assess effect stability and generalizability across diverse L2 populations, proficiency levels, and cultural contexts.
+**Session 2 Comparative Analysis**: The scheduled weekend session with remaining 10 participants will enable:
+- Between-session comparison: Do interaction patterns remain stable or vary?
+- Replication of key findings: Does authorship perception pattern replicate?
+- Refinement of interaction coding: Can Type C be subdivided into Type C-Craft and Type C-Care?
 
-**Automated Interaction Classification**: Development and validation of machine learning systems for automatic interaction type classification would enable larger-scale studies and reduce subjective bias in pattern analysis.
+**Follow-Up Interviews**: Planned interviews with high-value participants (P10, P05, P09, P02) will provide depth on:
+- How do learners define "authorship" when working with AI?
+- What specific AI behaviors signal "creativity" versus "mechanicalness"?
+- Did emotional scaffolding have lasting therapeutic value beyond the session?
 
-**Multi-Model Comparison**: Systematic comparison across different LLM architectures (GPT variants, Claude, PaLM) would assess the generalizability of parameter effects and identify model-specific optimization strategies.
+**Participant Feedback Forms**: The 66-question template will provide quantitative validation of behavioral inferences:
+- Explicit ranking of interaction type usefulness (testing hypothesis that Type C most valued)
+- Authorship perception scales complementing qualitative panel discussion data
+- Emotional scaffolding effectiveness ratings
 
-### 5.5.2 Pedagogical Applications
+### 5.5.2 Methodological Advances
 
-**Adaptive Parameter Systems**: Research into dynamic parameter adjustment based on real-time assessment of student needs, learning style identification, and collaborative effectiveness could optimize personalized educational AI.
+**Embracing Comparative Consciousness-Raising**: Rather than treating awareness emergence as contamination, design studies that:
+- Deliberately expose learners to contrasting AI configurations
+- Scaffold metalinguistic reflection about differences
+- Assess what AI literacy competencies develop through comparative experience
+- Investigate whether such awareness transfers to other AI contexts
 
-**Teacher Training and Integration**: Investigation of how educators can effectively integrate parameter-aware AI tools into existing curricula, including professional development needs and institutional adoption barriers.
+**Automated Interaction Classification**: Develop machine learning systems to:
+- Classify Type A/B/C interactions automatically from transcripts
+- Reduce researcher bias and enable larger-scale analysis
+- Identify subtle interaction patterns human coders might miss
+- Establish inter-rater reliability baselines
 
-**Cross-Domain Extension**: Application of the three-type interaction framework to other creative and academic writing contexts to assess framework generalizability and domain-specific adaptations.
+**Multi-Model Parameter Studies**: Systematic comparison across LLM architectures:
+- Do GPT, Claude, and PaLM show similar parameter-authorship relationships?
+- Are emotional intelligence patterns model-specific or parameter-general?
+- How do model size variations affect parameter effects?
 
-### 5.5.3 Theoretical Development
+### 5.5.3 Pedagogical Applications
 
-**Long-Term Collaborative Relationship Development**: Extended longitudinal studies examining how human-AI collaborative relationships evolve over months or years, including habituation effects, skill transfer, and creative development patterns.
+**Adaptive Parameter System Development**: Create AI writing tools that:
+- Detect emotional/personal content and adjust temperature appropriately
+- Adapt based on task phase (exemplar support early, exploration later)
+- Learn individual learner preferences over time
+- Provide teachers with parameter control and pedagogical guidance
 
-**Cultural and Linguistic Variation**: Cross-cultural studies examining how cultural attitudes toward creativity, technology, and collaborative learning interact with parameter effects in diverse educational contexts.
+**Cross-Genre Extension**: Apply Type A/B/C framework to:
+- Argumentative essay writing (where exemplar provision may be more acceptable)
+- Research report writing (where low-temperature consistency may be advantageous)
+- Multimodal composition (where surprise interactions might inspire new modalities)
+- Professional/workplace writing (testing genre-specific parameter needs)
 
-**Individual Difference Modeling**: Development of comprehensive learner models that predict optimal parameter configurations based on learning style, proficiency level, creative orientation, and collaborative preferences.
+**Teacher Professional Development**: Investigate educator needs for:
+- Understanding parameter effects on learner agency
+- Recognizing and responding to emotional content emergence
+- Facilitating authorship discussions with AI-assisted student work
+- Ethical responsibilities when AI surfaces student distress
+
+### 5.5.4 Theoretical Development
+
+**Authorship Theory in AI Contexts**: Deeper exploration of:
+- What constitutes "authorship" when AI generates language learners select?
+- How do different disciplines (creative writing, composition studies, L2 education) conceptualize AI-human authorship?
+- Can new theoretical frameworks better capture distributed agency in human-AI collaboration?
+
+**Emotional Intelligence Mechanisms**: Investigation of:
+- What training data patterns enable high-temperature emotional attunement?
+- Can emotional intelligence be enhanced without increasing temperature?
+- How do different cultures' emotional expression norms interact with AI emotional responses?
+- What are appropriate boundaries for AI therapeutic functions in educational contexts?
+
+**Long-Term Collaborative Development**: Extended studies examining:
+- How do authorship perceptions evolve with sustained AI use?
+- Do learners develop meta-strategies to maximize agency regardless of parameter setting?
+- What are cumulative effects of exemplar-heavy vs. inquiry-heavy AI collaboration on L2 development?
+- How do human-AI collaborative relationships change over months/years?
 
 ## 5.6 Conclusion
 
-This study demonstrates that LLM parameter configurations significantly and systematically influence collaborative interaction patterns in L2 poetry writing, providing empirical evidence for strategic parameter selection in educational AI applications. The findings reveal that structured and exploratory parameter settings support different aspects of L2 learning development—systematic skill building versus creative confidence enhancement—while both maintaining educational effectiveness.
+This study demonstrates that LLM parameter configurations profoundly shape not merely output quality but the fundamental nature of human-AI collaborative relationships in L2 creative writing. The Session 1 findings—that temperature settings determine whether learners feel "it doesn't feel like mine" or claim 80% authorship, whether AI demonstrates therapeutic emotional intelligence or mechanical formula-following, and whether interactions enable creative breakthroughs or constrain learners to selecting among pre-written options—reveal that **parameters are not neutral technical settings but pedagogical architectures encoding values about learner agency, creative empowerment, and emotional presence**.
 
-The research contributes a practical framework for understanding AI's pedagogical functions through three interaction types, validates the importance of interface design in educational AI contexts, and highlights the need for personalized approaches that consider individual learning differences. While limitations in sample size, temporal scope, and generalizability context these contributions, the systematic parameter effects and clear pedagogical implications provide a foundation for future research and educational AI development.
+The research makes three primary contributions:
 
-The broader significance lies in demonstrating that educational AI effectiveness depends not only on training data and model architecture but also on careful calibration of generation parameters to pedagogical objectives. As AI integration in education continues expanding, these findings suggest that technical parameter selection should be recognized as a fundamental pedagogical design decision requiring the same careful consideration given to curriculum development, assessment design, and instructional strategy selection.
+**1. Authorship Perception Framework**: Demonstrated that exemplar provision (Type B interactions dominant in low-temperature) paradoxically diminishes authorship despite maximizing learner choice, while inquiry scaffolding (enabled by high-temperature) preserves authorial agency despite extensive AI contribution. This challenges assumptions that learner control correlates with ownership, revealing that contribution type matters more than contribution quantity.
+
+**2. Emotional Intelligence as Parameter-Emergent**: Showed that high-temperature settings activate latent emotional attunement capacities including crisis intervention, therapeutic scaffolding, and appropriate affective response—capabilities absent in low-temperature interactions. This reframes parameter selection from pedagogical optimization to ethical consideration affecting learner wellbeing.
+
+**3. Type A/B/C Interaction Framework**: Operationalized three interaction types (Constraint Repair, Exemplar Giving, Surprise Harvest) providing systematic method for analyzing human-AI collaborative writing. The seven-fold difference in Type C frequency (35% vs. 5%) demonstrates that parameter selection effectively determines pedagogical approach—imitation-based versus discovery-oriented.
+
+**Practical Implications**: The findings suggest educational AI requires **adaptive parameter systems** adjusting to task phase, content type, learner proficiency, and individual preferences rather than static "optimal" settings. Educators implementing AI writing tools must recognize that:
+- Low-temperature exemplar provision offers accessible scaffolding but risks diminishing authorship
+- High-temperature exploration empowers creative agency but may overwhelm learners needing structure
+- Emotional content requires parameters enabling appropriate therapeutic response
+- Authorship discussions with students are essential, not optional
+
+**Broader Significance**: As AI writing tools become ubiquitous in L2 education, these findings raise urgent questions: What parameter configurations honor learner agency? How can AI support emotional dimensions of creative writing? When should systems prioritize learner wellbeing over task completion? Should educators receive training in AI emotional scaffolding capabilities and limitations?
+
+Most provocatively, the study suggests that **we are not merely adding AI tools to existing pedagogy but fundamentally reconceptualizing what collaborative writing means**—requiring new theories of distributed authorship, new ethical frameworks for AI-human emotional relationships, and new literacies for critically engaging AI creative partners. The choice between temperature 0.3 and 0.8 is not technical optimization but a decision about what kinds of AI relationships we want to enable in educational contexts.
+
+While Session 1's small sample and single-session design limit generalizability, the robust qualitative patterns and theoretical coherence provide foundation for continued investigation. Session 2, follow-up interviews, and participant feedback forms will test finding stability and extend understanding. Ultimately, this research demonstrates that effective educational AI depends not only on sophisticated models but on thoughtful parameter calibration aligned with pedagogical values—a lesson applicable far beyond poetry to any educational context where AI engages human creativity, agency, and emotional expression.
