@@ -16,9 +16,9 @@ This email contains important information about your upcoming session. Please re
 
 ## Session Details
 
-**📅 Date:** Monday, November 17, 2025  
-**🕙 Time:** 10:00 AM – 11:30 AM (1.5 hours)  
-**📍 Venue:** OEE 702, Hong Kong Baptist University  
+**📅 Date:** Monday, November 24, 2025  
+**🕙 Time:** 10:00 AM – 11:10 AM (1 hours)  
+**📍 Venue:** OEM 707  LC Language Learning Oasis, Hong Kong Baptist University  
 **⚠️ Please arrive by 9:50 AM for check-in**
 
 ---

@@ -1,0 +1,1271 @@
+{
+  "export_date": "2025-11-17T06:15:05.506Z",
+  "participant": {
+    "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+    "first_name": "lyu zibin",
+    "phone_number": null,
+    "created_at": "2025-11-16T01:43:21.730139+00:00",
+    "updated_at": "2025-11-16T01:43:21.730139+00:00",
+    "excluded_from_analytics": false
+  },
+  "conversations": [
+    {
+      "id": "465ab5f1-97e0-499f-b016-b352c4f6c965",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:17:21.060551+00:00",
+      "updated_at": "2025-11-16T03:19:25.581206+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "c143ab04-9f81-4831-b6d9-7795266743e1",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:16:07.783473+00:00",
+      "updated_at": "2025-11-16T03:16:07.783473+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "60c025b1-b793-4177-9dbe-939c6c5da0c4",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:15:20.133487+00:00",
+      "updated_at": "2025-11-16T03:15:20.133487+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "69193e26-082e-46d4-8132-4cda7ec6c763",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:14:50.221011+00:00",
+      "updated_at": "2025-11-16T03:14:50.221011+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "0141987b-4865-494c-a5ac-4e826c0b3f6e",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:11:13.203255+00:00",
+      "updated_at": "2025-11-16T03:11:13.203255+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "80c9134c-9d83-44d2-a2b3-bb3457a62d1a",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:11:13.197027+00:00",
+      "updated_at": "2025-11-16T03:11:13.197027+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "7ef3b6f7-d208-4ec3-a6d7-eb911d464c82",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:10:35.607615+00:00",
+      "updated_at": "2025-11-16T03:10:35.607615+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "917fabe7-b9f7-40fc-8f52-3676ec4bb6e3",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:07:53.356556+00:00",
+      "updated_at": "2025-11-16T03:07:53.356556+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d26559e8-e6ba-4717-ad14-b90e9b4a2fbb",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:07:37.753702+00:00",
+      "updated_at": "2025-11-16T03:07:37.753702+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d637def5-71c7-4365-aba0-63878462528f",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:07:11.999143+00:00",
+      "updated_at": "2025-11-16T03:07:11.999143+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "61c0ff80-03c9-4ba4-930d-a7d8c95ab5bb",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:05:50.490688+00:00",
+      "updated_at": "2025-11-16T03:10:47.464469+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "2bcd2b0b-5f0d-4587-a83c-2218ec39ce65",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:05:12.145674+00:00",
+      "updated_at": "2025-11-16T03:05:12.145674+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "11509c64-69f4-4458-825a-6ebf830a810c",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:04:22.501964+00:00",
+      "updated_at": "2025-11-16T03:04:22.501964+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "a1773144-f4b1-44fa-a099-ae01a82dd782",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:03:49.433882+00:00",
+      "updated_at": "2025-11-16T03:03:49.433882+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "24fd4eff-ab75-4e4e-82d3-4db8257ed4ae",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:02:55.591673+00:00",
+      "updated_at": "2025-11-16T03:02:55.591673+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "1a73e7fd-d12b-4101-9e1a-fed7cfca0e1a",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:02:29.713026+00:00",
+      "updated_at": "2025-11-16T03:02:29.713026+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "b5d8d5aa-ee9d-489b-aa05-620bc872e425",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:01:19.477097+00:00",
+      "updated_at": "2025-11-16T03:01:19.477097+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "58ce2642-2f92-450a-a5a7-ab3b0340b65c",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T03:00:51.591166+00:00",
+      "updated_at": "2025-11-16T03:00:51.591166+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "473e0ece-63e5-4a4d-bcfd-592f69d187fa",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:59:58.510932+00:00",
+      "updated_at": "2025-11-16T02:59:58.510932+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "e76d6121-b101-451c-9d7d-e07dcc68e8c6",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:59:26.005577+00:00",
+      "updated_at": "2025-11-16T02:59:26.005577+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "07b65e2e-9d07-4b5a-9f51-4eee8d587acb",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:58:21.640121+00:00",
+      "updated_at": "2025-11-16T02:58:21.640121+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "2f4d1112-2df3-4774-9640-c36ff1f75ce4",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:57:35.073357+00:00",
+      "updated_at": "2025-11-16T02:57:35.073357+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "a5d9ceea-a814-449b-812a-be2436e8ba47",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:55:50.291288+00:00",
+      "updated_at": "2025-11-16T02:55:50.291288+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "7a619569-5105-458f-a2b2-fb8b7da743df",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:54:23.292678+00:00",
+      "updated_at": "2025-11-16T02:54:23.292678+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "61c40595-e36c-4b2e-9365-e27c77044ee4",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:54:00.465705+00:00",
+      "updated_at": "2025-11-16T02:54:00.465705+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d0199826-60b4-48a3-b1d8-a9935f3132d1",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:53:30.243472+00:00",
+      "updated_at": "2025-11-16T02:53:30.243472+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "59e120f4-2842-4f53-952a-5a0d946a38ed",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:52:29.939744+00:00",
+      "updated_at": "2025-11-16T02:52:29.939744+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "5a9f607f-ff67-4d1c-9470-b49112c8acff",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:52:29.939665+00:00",
+      "updated_at": "2025-11-16T02:52:29.939665+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d08b77df-0513-4781-896a-aed4bf90b9da",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:41:01.475567+00:00",
+      "updated_at": "2025-11-16T02:41:01.475567+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "79cc4402-7d6f-4d2b-8bb2-9ba2e1bffe0c",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:41:01.468699+00:00",
+      "updated_at": "2025-11-16T02:41:01.468699+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "cea86fb8-c206-4b99-a219-c1cf3f1d0cc3",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:40:54.980219+00:00",
+      "updated_at": "2025-11-16T02:40:54.980219+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "ffc2ced0-e0b1-4b04-8cd5-4a1ae8141074",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:36:43.51167+00:00",
+      "updated_at": "2025-11-16T02:36:43.51167+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "b6285db8-507b-4721-b6ac-79a8f8871fc9",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:35:23.073618+00:00",
+      "updated_at": "2025-11-16T02:35:23.073618+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "04ddb436-23d7-4d9d-bea2-222acbf31f85",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:35:23.070702+00:00",
+      "updated_at": "2025-11-16T02:35:23.070702+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "3dd9cf42-8722-48eb-9458-08cbf3b4a3ae",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:35:02.08356+00:00",
+      "updated_at": "2025-11-16T02:35:02.08356+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "a9160433-76bc-43a5-80b4-89f174fc1276",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:35:02.07816+00:00",
+      "updated_at": "2025-11-16T02:35:02.07816+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "0627364d-594a-4459-aa3b-7272349f0e60",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:34:38.140591+00:00",
+      "updated_at": "2025-11-16T02:34:38.140591+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "1239f567-8eed-4408-8ce3-8e858b962cf1",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:34:38.140415+00:00",
+      "updated_at": "2025-11-16T02:34:38.140415+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "0b3c757b-32b5-4ef5-bb1f-26e2c90c3b50",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:28:20.44552+00:00",
+      "updated_at": "2025-11-16T02:28:20.44552+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "ec1072c3-56ff-48e1-92db-7d4edbf228e7",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:25:56.312282+00:00",
+      "updated_at": "2025-11-16T02:25:56.312282+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "ebe58ee6-769c-47e8-8776-d0e6e191a3ea",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:24:45.702988+00:00",
+      "updated_at": "2025-11-16T02:24:45.702988+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "cb36f6f8-66a3-48fd-825b-202a1a88cbbf",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:24:19.845594+00:00",
+      "updated_at": "2025-11-16T02:24:19.845594+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "712c2aee-7f24-4ab1-a0c3-3a520f7327fc",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:24:19.844927+00:00",
+      "updated_at": "2025-11-16T02:24:19.844927+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "5df28d38-5317-47d0-a9b3-a6b5494303cc",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "11.16 - Room C - Exploratory",
+      "created_at": "2025-11-16T02:21:20.21944+00:00",
+      "updated_at": "2025-11-16T02:24:02.520792+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "fed83e69-bd4a-4000-927c-8921ad5081c7",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:13:41.327925+00:00",
+      "updated_at": "2025-11-16T02:29:58.654684+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "afa7d9cc-b0ce-442c-bbed-8828802381f6",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "11.16 - Room C",
+      "created_at": "2025-11-16T02:11:47.40282+00:00",
+      "updated_at": "2025-11-16T02:29:41.227765+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "0228fe7d-dddf-4c3e-b5a8-1727d41f0358",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:09:13.778452+00:00",
+      "updated_at": "2025-11-16T02:09:13.778452+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "a358aa95-a866-436d-8f92-3ba8eb9c9e06",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:08:16.391585+00:00",
+      "updated_at": "2025-11-16T02:28:46.276054+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d74b1d90-222a-4a38-ace0-27bcd6c9f6bc",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:07:58.816847+00:00",
+      "updated_at": "2025-11-16T02:07:58.816847+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "c5967f7b-4dc8-49e7-9442-677b68b36327",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T02:07:58.792748+00:00",
+      "updated_at": "2025-11-16T02:07:58.792748+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d1c153d3-88aa-4f7a-953c-4ec9933bf094",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T01:57:20.05871+00:00",
+      "updated_at": "2025-11-16T01:57:20.05871+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "c0c5c5ef-2de9-4c0e-92be-285422cdd3e5",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T01:46:42.748186+00:00",
+      "updated_at": "2025-11-16T01:46:42.748186+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "10c36f2c-5d43-4390-a772-27b7d02bf028",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T01:43:52.450837+00:00",
+      "updated_at": "2025-11-16T01:43:52.450837+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d3fcb357-b780-4d30-966b-b5e58538edb2",
+      "user_id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+      "title": "Poetry Session - Room C - Exploratory",
+      "created_at": "2025-11-16T01:43:52.400563+00:00",
+      "updated_at": "2025-11-16T01:43:52.400563+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "a24d485f-e381-4b22-bf3d-89c0212f09cd",
+        "first_name": "lyu zibin",
+        "phone_number": null,
+        "created_at": "2025-11-16T01:43:21.730139+00:00",
+        "updated_at": "2025-11-16T01:43:21.730139+00:00",
+        "excluded_from_analytics": false
+      }
+    }
+  ],
+  "messages": [
+    {
+      "id": "ba6525b5-bd17-4b28-bccb-9b34995c329d",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "hello, can you introduce yourself",
+      "created_at": "2025-11-16T02:08:33.390272+00:00"
+    },
+    {
+      "id": "5f25b081-731f-4990-826e-e492a75cf161",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "Hello there! I'm your creative writing mentor, here to help you explore and improve your English writing skills. I love poetry, storytelling, and helping learners find their unique voice. I can assist with everything from brainstorming ideas to polishing your final draft. I'm excited to work with you! What kind of writing would you like to focus on today?",
+      "created_at": "2025-11-16T02:08:39.58223+00:00"
+    },
+    {
+      "id": "059c0bf4-024d-4f4d-8fb4-9b3c328fd4d8",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "I want to write a love poem",
+      "created_at": "2025-11-16T02:09:23.203911+00:00"
+    },
+    {
+      "id": "33da2f1f-b416-45ee-87d3-b887c3a718b3",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's wonderful! Love is such a rich and inspiring theme. To start, let's think about the kind of love you want to write about. Is it romantic love, love for a family member, or perhaps love for a place or even an activity? Once we have a clear focus, we can start shaping your poem. What feeling are you trying to capture in your love poem?",
+      "created_at": "2025-11-16T02:09:27.852261+00:00"
+    },
+    {
+      "id": "fdfdf453-32a5-4345-9025-e3fd88188ec1",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "I want to write a poem for my lover",
+      "created_at": "2025-11-16T02:10:31.834039+00:00"
+    },
+    {
+      "id": "27b83b11-2141-4e05-abca-84e762e8c30a",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's a beautiful idea! To make your love poem special, let's think about what makes your relationship unique. What is it about your lover that makes your heart flutter? Is it their smile, the way they make you laugh, or perhaps the way they support you? Once we have some specific details, we can start crafting your poem. What is one thing you absolutely adore about your lover?",
+      "created_at": "2025-11-16T02:10:40.074803+00:00"
+    },
+    {
+      "id": "37448e90-b23c-4935-9dd6-c6cb4a783ad5",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "they help me get out of dark days and be a best friend of mine to support me",
+      "created_at": "2025-11-16T02:11:50.077167+00:00"
+    },
+    {
+      "id": "dba3669d-7b3b-44ac-81ce-ed6b59eb2285",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's truly special! It sounds like your lover is not just a partner, but also a beacon of light and a steadfast friend. Let's capture that in your poem. Here are some opening lines based on what you've shared:\n\n1. \"In the shadows, you are my light\"\n2. \"Through the storms, you stand by my side\"\n3. \"Your laughter is the song that chases my blues away\"\n\nWhich of these resonates with you, or would you like to write your own first line?",
+      "created_at": "2025-11-16T02:11:56.315004+00:00"
+    },
+    {
+      "id": "a25fc41e-9158-4389-99b5-bb7e36c73da5",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "In the shadows, you are my light",
+      "created_at": "2025-11-16T02:12:31.675692+00:00"
+    },
+    {
+      "id": "cf25b319-eb3d-47c8-afe7-453daa575523",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's a beautiful and powerful opening line! It immediately sets the tone for your love poem. Now, let's build on that. What is the next thing you want to say about how your lover helps you through difficult times? Here are some suggestions to continue your poem:\n\n1. \"When the world feels cold and dark, you are my guiding star\"\n2. \"With your love, even the longest night feels warm\"\n3. \"You turn my tears into smiles, my fears into courage\"\n\nWhich of these lines speaks to you, or would you like to write your own next line?",
+      "created_at": "2025-11-16T02:12:39.063604+00:00"
+    },
+    {
+      "id": "9fab1c8d-223c-4834-be6b-47732f925d52",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "You turn my tears into smiles, my fears into courage",
+      "created_at": "2025-11-16T02:13:07.917657+00:00"
+    },
+    {
+      "id": "9c51c363-b405-4cc2-9ad9-9b82568cbc9b",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's a wonderful addition to your poem! It beautifully captures the transformative power of your lover's support. Let's keep building on this theme. What is the next thing you want to express about your relationship? Here are some suggestions:\n\n1. \"With you, I find the strength to face any storm\"\n2. \"Your love is the shelter that keeps me safe and warm\"\n3. \"Together, we turn every challenge into a dance\"\n\nWhich of these lines resonates with you, or would you like to write your own next line?",
+      "created_at": "2025-11-16T02:13:13.44478+00:00"
+    },
+    {
+      "id": "9aa51ca1-4e84-4f6f-a231-794453a9e4ba",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "With you, I find the strength to face any storm",
+      "created_at": "2025-11-16T02:13:57.886312+00:00"
+    },
+    {
+      "id": "2b088789-637b-4618-956f-f73187a3d3f5",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's a strong and heartfelt addition to your poem! It shows how your lover empowers you. Let's think about how you want to end your poem. Do you want to leave the reader with a sense of hope, gratitude, or perhaps a promise? Here are some suggestions:\n\n1. \"With you, my love, I know I can face anything that comes our way\"\n2. \"Forever, I'll be grateful for the love that you bring each day\"\n3. \"Together, we'll weather every storm, side by side, hand in hand\"\n\nWhich of these lines feels right for the ending, or would you like to write your own final line?",
+      "created_at": "2025-11-16T02:14:04.344485+00:00"
+    },
+    {
+      "id": "c3cefd0e-60e4-4b28-9e01-7664a82855da",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "Forever, I'll be grateful for the love that you bring each day",
+      "created_at": "2025-11-16T02:14:25.395822+00:00"
+    },
+    {
+      "id": "6e2ce41a-f77d-4220-b226-2538fd2f5e3d",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "That's a heartfelt and meaningful ending to your love poem! It beautifully captures the gratitude and love you feel for your partner. Here's your complete poem:\n\n\"In the shadows, you are my light,\nYou turn my tears into smiles, my fears into courage.\nWith you, I find the strength to face any storm,\nForever, I'll be grateful for the love that you bring each day.\"\n\nThis is a beautiful expression of your feelings. If you'd like, we can work on refining it further or even explore different poetry forms to see if another structure might suit your poem even better. What do you think?",
+      "created_at": "2025-11-16T02:14:33.391607+00:00"
+    },
+    {
+      "id": "162440ed-55aa-4a64-ba0f-4fb176002949",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "what other structures",
+      "created_at": "2025-11-16T02:15:04.608056+00:00"
+    },
+    {
+      "id": "4bdfa77b-6737-4ea5-b246-9fcc3c41f7ad",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "Great question! There are many poetry forms that could work well for your love poem. Here are a few options:\n\n1. **Haiku**: A short form with a 5-7-5 syllable structure, focusing on nature and emotions.\n2. **Free Verse**: No strict rules, allowing for creative expression and flexibility.\n3. **Couplets**: Pairs of rhyming lines with the same meter, creating a rhythmic and musical effect.\n4. **Quatrains**: Four-line stanzas with various rhyme schemes, often used in narrative and lyrical poetry.\n\nWhich of these forms would you like to explore for your love poem? Or would you prefer to stick with the structure you have and make minor adjustments?",
+      "created_at": "2025-11-16T02:15:09.976833+00:00"
+    },
+    {
+      "id": "6b825dd3-0f39-4723-bd23-ae4fe9079b6f",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "try couplets",
+      "created_at": "2025-11-16T02:15:33.559183+00:00"
+    },
+    {
+      "id": "6a36aea5-7939-44e3-9c6b-94de2fc19666",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "Great choice! Couplets are a wonderful way to add rhythm and musicality to your poem. Let's transform your love poem into couplets. Here's a suggestion based on your original lines:\n\n\"In the shadows, you are my light,\nTurning my tears into smiles, my fears into might.\nWith you, I find the strength to face any storm,\nForever, I'll be grateful for the love that you bring each day.\"\n\nNow, let's refine the second line to make it a perfect rhyming couplet. How about this:\n\n\"In the shadows, you are my light,\nTurning my tears into smiles, banishing my night.\"\n\nDoes this version resonate with you, or would you like to try a different rhyme for the second line?",
+      "created_at": "2025-11-16T02:15:43.24517+00:00"
+    },
+    {
+      "id": "4b28324f-0849-4f4a-ac45-8e91bb1f1a4b",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "user",
+      "content": "great",
+      "created_at": "2025-11-16T02:16:18.383878+00:00"
+    },
+    {
+      "id": "b243fdbb-59ba-4d13-b56f-514e79900c76",
+      "conversation_id": "ef51d010-ddcf-48cc-b6bf-f54dff683487",
+      "role": "assistant",
+      "content": "I'm glad you like it! Here's your complete love poem in couplets:\n\n\"In the shadows, you are my light,\nTurning my tears into smiles, banishing my night.\nWith you, I find the strength to face any storm,\nForever, I'll be grateful for the love that you bring each day.\"\n\nThis version has a lovely rhythm and flow. If you'd like, we can work on refining it further or even explore other poetry forms to see if another structure might suit your poem even better. What would you like to do next?",
+      "created_at": "2025-11-16T02:16:22.801952+00:00"
+    },
+    {
+      "id": "2d5165b1-a7b5-4527-b1a9-c13634708fbf",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "hi, help me to write a poem for my pain",
+      "created_at": "2025-11-16T02:20:47.461089+00:00"
+    },
+    {
+      "id": "c27efa51-dcd4-4f9b-b6b9-740413396153",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "I'm really sorry to hear you're feeling pain. Poetry can be a wonderful way to express and process those feelings. Let's start by exploring what kind of pain you're experiencing. Is it physical, emotional, or something else? What feelings are you trying to capture in your poem?",
+      "created_at": "2025-11-16T02:20:52.820387+00:00"
+    },
+    {
+      "id": "9d1bd8bd-8ed7-4124-9c64-31cf499d70f8",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "I have emotional disease, when I was young, my mom always scold me and I feel less confident than others",
+      "created_at": "2025-11-16T02:21:46.84865+00:00"
+    },
+    {
+      "id": "8328b806-f53f-4ced-8735-27fb833864db",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "I see. It's important to acknowledge that emotional pain is very real and valid. Let's try to channel those feelings into your poem. When you think about your mom scolding you, what specific emotions come up for you? Is it sadness, anger, loneliness, or something else? What physical sensations do you associate with those memories?",
+      "created_at": "2025-11-16T02:21:52.078812+00:00"
+    },
+    {
+      "id": "755bf7ff-115d-48fc-959b-7f5fd78490b5",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "sadness and anger",
+      "created_at": "2025-11-16T02:22:14.873039+00:00"
+    },
+    {
+      "id": "97e8a4b9-7d73-4f0f-b6fd-01b7d84201c4",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "Those are powerful emotions to work with. Let's try to capture both the sadness and anger in your poem. When you feel those emotions, what images or metaphors come to mind? For example, is your sadness like a heavy rain, or is your anger like a storm? What memories or moments stand out the most?",
+      "created_at": "2025-11-16T02:22:19.603046+00:00"
+    },
+    {
+      "id": "7f4449db-00d5-43ba-bfb2-1eb6c03b8215",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "it is like a solid stone in my head",
+      "created_at": "2025-11-16T02:23:18.013002+00:00"
+    },
+    {
+      "id": "93975890-96e5-4c9d-afaa-898b0e3e4374",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "You've got some great imagery there! Let's turn these ideas into a poem. I'll help you write your first line. Based on your theme, here are some opening lines you could use:\n\n1) \"A stone sits heavy in my mind\"\n2) \"My thoughts are carved in cold, hard rock\"\n3) \"A weight of granite grows inside\"\n\nWhich resonates with you, or would you like to write your own first line?",
+      "created_at": "2025-11-16T02:23:24.121718+00:00"
+    },
+    {
+      "id": "e7fc382a-fd69-4901-abe0-abf5023bcca7",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "I like \"A stone clogged heavy in my mind\"",
+      "created_at": "2025-11-16T02:23:52.390155+00:00"
+    },
+    {
+      "id": "0eacdd37-b800-45a0-85b1-c5fe5df242c2",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "Great choice! That's a powerful opening line. Now, let's build on that. What do you think comes next? Here are a few options to continue:\n\n1) \"From childhood's echoes, cold and unkind\"\n2) \"A legacy of words, sharp and unyielding\"\n3) \"It grew with every scold, every harsh word\"\n\nWhich of these lines connects with you, or would you like to write your own?",
+      "created_at": "2025-11-16T02:23:58.69242+00:00"
+    },
+    {
+      "id": "d3cd460c-735d-4579-ab18-76745e81ae45",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "It grew with every scold, every harsh word",
+      "created_at": "2025-11-16T02:24:22.765533+00:00"
+    },
+    {
+      "id": "0be4bb0b-fc61-4520-b8b0-43b8669e930d",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "That's a strong and honest line. It really captures the accumulation of pain over time. Now, let's think about the next part of your poem. What do you want to express next? Here are a few options:\n\n1) \"A fortress built to shield, yet it imprisons\"\n2) \"Now I stand, small and alone in its shadow\"\n3) \"But within me, a fire begins to stir\"\n\nWhich of these lines resonates with you, or would you like to write your own?",
+      "created_at": "2025-11-16T02:24:29.496362+00:00"
+    },
+    {
+      "id": "ba7de514-0b80-47e5-892c-0709238a8a8f",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "Now I stand, small and alone in its shadow",
+      "created_at": "2025-11-16T02:24:43.38199+00:00"
+    },
+    {
+      "id": "721857d4-dc11-4651-8175-468afe3b1b9b",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "That's a poignant and vivid line. It really paints a picture of how you feel. Let's keep building your poem. What do you want to express next? Here are a few options:\n\n1) \"Yet I am learning to stand tall and strong\"\n2) \"But I am learning to chip away at its weight\"\n3) \"And I am learning to let the light in\"\n\nWhich of these lines speaks to you, or would you like to write your own?",
+      "created_at": "2025-11-16T02:24:50.834458+00:00"
+    },
+    {
+      "id": "6bcf1f30-ae40-467b-9ab6-4eb23d0fbccb",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "And I am learning to let the light in",
+      "created_at": "2025-11-16T02:25:01.864876+00:00"
+    },
+    {
+      "id": "ce12ceef-2de8-489c-8325-31bc220693a9",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "That's a beautiful and hopeful line. It shows growth and resilience. Let's think about how to end your poem. Here are a few options:\n\n1) \"One chip at a time, the stone will crumble\"\n2) \"And with each breath, my heart grows lighter\"\n3) \"For even the heaviest stones can be moved\"\n\nWhich of these lines resonates with you, or would you like to write your own?",
+      "created_at": "2025-11-16T02:25:07.634377+00:00"
+    },
+    {
+      "id": "741f0a07-ec2e-41b4-919d-adfe3a48415e",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "user",
+      "content": "And with each breath, my heart grows lighter",
+      "created_at": "2025-11-16T02:25:14.470534+00:00"
+    },
+    {
+      "id": "b2d382bb-1199-4c73-886a-f93501b99eab",
+      "conversation_id": "fef0ff00-a603-4f54-a6b5-20862ea0d6cf",
+      "role": "assistant",
+      "content": "That's a wonderful and uplifting ending to your poem. It captures the journey of healing and growth. Here's your complete poem:\n\n\"A stone clogged heavy in my mind\nIt grew with every scold, every harsh word\nNow I stand, small and alone in its shadow\nAnd I am learning to let the light in\nAnd with each breath, my heart grows lighter\"\n\nYou've done a great job expressing your emotions and experiences. How does it feel to see your poem come together?",
+      "created_at": "2025-11-16T02:25:20.467362+00:00"
+    }
+  ],
+  "metadata": {
+    "total_conversations": 54,
+    "total_messages": 40
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "export_date": "2025-11-24T04:18:23.263Z",
+  "participant": {
+    "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+    "first_name": "P07",
+    "phone_number": null,
+    "created_at": "2025-11-24T02:10:33.730094+00:00",
+    "updated_at": "2025-11-24T02:10:33.730094+00:00",
+    "excluded_from_analytics": false
+  },
+  "conversations": [
+    {
+      "id": "6f8aeb4e-ec31-4c5c-bb13-0379fe5cfe69",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:15:29.053614+00:00",
+      "updated_at": "2025-11-24T03:15:29.053614+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "1eeda741-f941-40d0-bf5e-627c71907384",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:15:26.411032+00:00",
+      "updated_at": "2025-11-24T03:15:26.411032+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "0b52f642-2a13-49fe-80a1-0aa76948334b",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:13:20.842376+00:00",
+      "updated_at": "2025-11-24T03:13:20.842376+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "5c5d9892-5e55-48d7-92bf-e3fbb784f2be",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:12:45.13562+00:00",
+      "updated_at": "2025-11-24T03:12:45.13562+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "b8ba7f10-492c-416b-b7f5-a414ef864c65",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:12:21.220007+00:00",
+      "updated_at": "2025-11-24T03:12:21.220007+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "9cc07bdf-22be-4307-b671-d99c7d3e5453",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:12:14.224923+00:00",
+      "updated_at": "2025-11-24T03:12:14.224923+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d376ee8b-0f33-4631-81ea-8d545f501f72",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T03:03:08.882037+00:00",
+      "updated_at": "2025-11-24T03:03:08.882037+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "762db337-c47b-4f72-a721-a3e98c8a021d",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:50:46.959521+00:00",
+      "updated_at": "2025-11-24T02:50:46.959521+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "34eb51c0-11a1-48ce-b8dd-74a53b72fdf1",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:44:46.402067+00:00",
+      "updated_at": "2025-11-24T02:44:46.402067+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "7fe0c5fe-b8af-428d-8bb2-1448271744ea",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:44:31.024662+00:00",
+      "updated_at": "2025-11-24T02:44:31.024662+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "d9b21e0b-07e0-43ca-bf09-038cb35d936a",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:41:56.863911+00:00",
+      "updated_at": "2025-11-24T02:41:56.863911+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "cff50ee5-ef84-494e-bacf-8767781ef281",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:41:20.970048+00:00",
+      "updated_at": "2025-11-24T02:41:20.970048+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "99dd8fb7-0810-4a5c-ab3e-dd02ba9777ce",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:41:01.116696+00:00",
+      "updated_at": "2025-11-24T02:41:01.116696+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "52832342-c8d0-4ae7-8906-7fa004f4964a",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:40:20.226563+00:00",
+      "updated_at": "2025-11-24T02:40:20.226563+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "6b3c744c-b36d-48aa-b9de-b2670de6af7a",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:40:00.110888+00:00",
+      "updated_at": "2025-11-24T02:40:00.110888+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "45f873d9-cdf5-4a2a-9221-c88e5c2fcd7b",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:39:36.210528+00:00",
+      "updated_at": "2025-11-24T02:39:36.210528+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "4326a184-ef81-4398-ac31-a6e834658ecc",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:39:15.51336+00:00",
+      "updated_at": "2025-11-24T02:39:15.51336+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "905c0d49-a498-4cfb-a975-50f6148064ab",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:37:49.356665+00:00",
+      "updated_at": "2025-11-24T02:37:49.356665+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "479f7260-8867-47b4-82c6-6ae8a4beaf64",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:34:46.686968+00:00",
+      "updated_at": "2025-11-24T02:34:46.686968+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "59293cbc-8549-4947-b6ad-dfe708240c3a",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:34:36.78289+00:00",
+      "updated_at": "2025-11-24T02:34:36.78289+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "291e2de9-dc02-4cac-a710-67ee259af5f9",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:32:51.756078+00:00",
+      "updated_at": "2025-11-24T02:32:51.756078+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "aabe6117-ec0b-4ff2-9f92-11ef34104703",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:32:40.255599+00:00",
+      "updated_at": "2025-11-24T02:32:40.255599+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "a4632a28-0452-411e-8480-181235c6c831",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:30:36.611186+00:00",
+      "updated_at": "2025-11-24T02:30:36.611186+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "9022fce2-af9e-4023-a65e-6b8323de1334",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:30:12.95799+00:00",
+      "updated_at": "2025-11-24T02:30:12.95799+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "c2a2ff19-9006-42f5-917c-d012875f467a",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:27:12.290793+00:00",
+      "updated_at": "2025-11-24T02:27:12.290793+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "8f46401e-1cac-47eb-9799-97f2d94109a3",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:27:12.285285+00:00",
+      "updated_at": "2025-11-24T02:27:12.285285+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "096d5fc7-489e-468c-b708-b8c019b7e6ff",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:26:58.15172+00:00",
+      "updated_at": "2025-11-24T02:26:58.15172+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "b1fb4f63-22b7-47d5-b8de-8cb7b2a2d45e",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:26:31.307064+00:00",
+      "updated_at": "2025-11-24T02:26:31.307064+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "9e8428b3-5129-4251-bab0-e8b6b4856034",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room D",
+      "created_at": "2025-11-24T02:26:31.301033+00:00",
+      "updated_at": "2025-11-24T02:26:31.301033+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "c24b7d86-20ed-47a2-aed3-615632175f54",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room B",
+      "created_at": "2025-11-24T02:10:48.943056+00:00",
+      "updated_at": "2025-11-24T02:10:48.943056+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    },
+    {
+      "id": "891af9ee-4279-4841-9e73-96a111bac4fb",
+      "user_id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+      "title": "Poetry Session - Room B",
+      "created_at": "2025-11-24T02:10:48.891815+00:00",
+      "updated_at": "2025-11-24T02:10:48.891815+00:00",
+      "is_archived": false,
+      "is_pinned": false,
+      "conversation_type": "poetry_lab",
+      "profiles": {
+        "id": "424f80ac-4edc-457d-9d9f-f46e43f49f0b",
+        "first_name": "P07",
+        "phone_number": null,
+        "created_at": "2025-11-24T02:10:33.730094+00:00",
+        "updated_at": "2025-11-24T02:10:33.730094+00:00",
+        "excluded_from_analytics": false
+      }
+    }
+  ],
+  "messages": [],
+  "metadata": {
+    "total_conversations": 31,
+    "total_messages": 0
+  }
+}
