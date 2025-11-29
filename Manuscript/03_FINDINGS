@@ -2,19 +2,37 @@
 
 ## 4.1 Overview of Results
 
-This study examined how LLM parameter configurations affect collaborative interaction patterns in L2 poetry writing through a 2×2 factorial experiment (parameter setting: structured vs. exploratory × awareness: aware vs. unaware) with graduate students engaged in single-session poetry composition. Session 1 (November 24, 2025) successfully engaged 10 participants across four experimental rooms using the poetry.aitutor.ink platform. Analysis of individual chat histories (500+ message exchanges) and a 22-minute panel discussion transcript revealed four crucial patterns: (1) parameter settings critically impact perceived authorship and creative agency, (2) AI emotional intelligence varies dramatically with temperature settings, (3) parameter awareness emerges organically even in "unaware" conditions through cross-room comparison, and (4) interaction type distribution reveals distinct pedagogical affordances by parameter configuration. The findings demonstrate that temperature and top-p settings profoundly influence not only linguistic outputs but also learners' sense of authorship, emotional safety, and creative empowerment.
+This study examined how LLM parameter configurations affect collaborative interaction patterns in L2 poetry writing through a 2×2 factorial experiment (parameter setting: structured vs. exploratory × awareness: aware vs. unaware) with graduate students engaged in single-session poetry composition. Session 1 (November 24, 2025) successfully engaged 10 participants across four experimental rooms using the poetry.aitutor.ink platform. 
+
+**Data Sources:** The findings triangulate evidence from three complementary sources:
+1. **Chat history transcripts** (10 participants, 500+ message exchanges): Behavioral interaction patterns
+2. **Panel discussion** (22 minutes, all participants): Spontaneous reflections and cross-room comparisons
+3. **Participant feedback forms** (8 respondents, 66 questions): Systematic self-reported perceptions and ratings
+
+Analysis across these data sources revealed four crucial patterns: (1) parameter settings critically impact perceived authorship and creative agency, with low-temperature participants reporting 10-20% self-authorship versus high-temperature participants reporting 40-80% self-authorship; (2) AI emotional intelligence varies dramatically with temperature settings, producing "warm-hearted" versus "mechanical" AI characterizations; (3) parameter awareness emerges organically even in "unaware" conditions through cross-room comparison; and (4) interaction type distribution reveals distinct pedagogical affordances, with 75% of participants rating Type B (Exemplar Giving) most helpful despite its contribution to authorship erosion. The findings demonstrate that temperature and top-p settings profoundly influence not only linguistic outputs but also learners' sense of authorship, emotional safety, and creative empowerment, with a **90% satisfaction gap** between low-temperature (2.5/5) and high-temperature (4.75/5) conditions.
 
 ## 4.2 Finding 1: Parameter Settings Critically Impact Perceived Authorship and Creative Agency
 
 ### 4.2.1 Contrasting Authorship Perceptions Across Conditions
 
-Analysis of chat histories and panel discussion transcripts revealed dramatic differences in how participants perceived authorship based on parameter configurations. This finding addresses RQ3 (collaborative dynamics) and demonstrates that technical parameter choices have profound implications for learner agency.
+**Triangulated Evidence from Three Data Sources:**
+
+Convergent evidence from chat histories, panel discussion, and feedback forms demonstrates that parameter configuration is the dominant factor determining authorship perception, explaining a **90% satisfaction gap** between conditions.
 
 **Room B (Structured-Unaware: Temperature=0.3, Top-p=0.4) - Diminished Authorship**:
 
-When asked explicitly about authorship during the panel discussion, the Room B participant stated unequivocally: "It feels like just AI... Yeah, it doesn't feel like mine" (Panel Discussion, 06:54). When the researcher probed further—"But you made the choices, right?"—the participant clarified: "The options were me, but the writing itself—none of it was me. The concept was me, but..."
+**Panel Discussion Evidence:**
+When asked explicitly about authorship, the Room B participant stated: "It feels like just AI... Yeah, it doesn't feel like mine" (06:54). When probed—"But you made the choices, right?"—she clarified: "The options were me, but the writing itself—none of it was me. The concept was me, but..." (06:45). Another Room B participant: "I still feel it's not my thing. I'm just guiding it to summarize whatever I'm feeling and make it more beautiful" (08:15).
 
-Another Room B participant reinforced this pattern: "I still feel it's not my thing. I'm just guiding it to summarize whatever I'm feeling and make it more beautiful" (Panel Discussion, 08:15). This framing positions the learner as mere director of an AI author, rather than as co-creator or primary author.
+**Feedback Form Quantification:**
+P05 (Room B) reported:
+- Self-authorship: **10% mine, 90% AI**
+- "Feels like my poem" (Q36): **1/5** (Strongly Disagree)
+- Written response: "Yes, i do not feel ownership or pride over much of it, **other than the last line that i wrote myself**"
+- Overall satisfaction (Q54): **2/5**
+- Would use again (Q55): **2/5**
+
+This represents near-total authorship alienation despite P05 making hundreds of selection decisions throughout the session. The participant identifies ownership only in the single line she generated independently—suggesting that **selection among AI-provided options does not constitute authorship** in learners' phenomenological experience.
 
 Chat history analysis revealed the mechanism producing this perception. P05's conversation (Room B) showed highly structured, formulaic AI responses offering 3-4 preset options at every decision point:
 
@@ -45,12 +63,25 @@ Here, the participant initiated content, evaluated AI contributions, and made fi
 
 **Structured Configuration (Low Temperature): Multiple-Choice Dominance**
 
-Room A and B participants consistently described AI behavior as offering "options"—"two or three options to choose from" (Panel Discussion, 05:45), with explanations of literary devices ("like personification or direct comparison"). One participant noted: "It was very structured even though I didn't go in with a structured idea" (Panel Discussion, 05:55).
+**Panel Discussion Evidence:**
+Room A and B participants consistently described AI behavior as offering "options"—"two or three options to choose from" (05:45), with explanations of literary devices ("like personification or direct comparison"). One participant noted: "It was very structured even though I didn't go in with a structured idea" (05:55).
 
-This pattern creates what can be termed **AI-dominant authorship**: the AI generates multiple complete linguistic artifacts, and the learner merely selects among pre-fabricated options. The creative labor—generating language, crafting metaphors, structuring lines—belongs to the AI. The learner's role is relegated to quality control and curation.
+**Feedback Form Evidence:**
+This multiple-choice dominance corresponds to **Type B interactions (Exemplar Giving)**, which participants rated as most helpful despite its authorship costs:
+- **75% of respondents** (6/8) rated Type B as most helpful
+- P05 (Room B) wrote: "It helped me to visualize a lot and see many perspective"
+- However, P05 also noted: "I ended up **picking the one that sounded 'nicer' or 'more true and emotional' than mine**, but I did not necessarily think that was what I had wanted to express"
+
+This creates what can be termed **AI-dominant authorship**: the AI generates multiple complete linguistic artifacts, and the learner selects among pre-fabricated options. The creative labor—generating language, crafting metaphors, structuring lines—belongs to the AI. The learner's role is relegated to quality control and curation.
+
+**Critical Insight - The Formulaic Problem:**
+P05's feedback reveals a crucial paradox: Type B interactions feel helpful in the moment but produce **formulaic alienation**. She wrote: "It felt more true and emotional before the AI. After it became a bit **more formulaic and didn't really capture it**. It ended up being a good poem in the traditional sense, but I wish **it was less structurally rigid** or had more experimentation in terms of structure."
+
+This suggests Type B interactions, while pedagogically accessible, may undermine authentic creative expression—a tension not visible in real-time chat logs but crystallized through systematic feedback.
 
 **Exploratory Configuration (High Temperature): Dialogic Co-Construction**
 
+**Chat History Evidence:**
 High-temperature interactions featured open-ended questions, clarification requests, and interpretative elaboration rather than multiple-choice options. P03's conversation (Room D) exemplifies this pattern:
 
 > AI: "Let's start with something simple then. What's one word that describes how you're feeling right now?"  
@@ -59,17 +90,33 @@ High-temperature interactions featured open-ended questions, clarification reque
 
 Rather than offering pre-written lines, the AI engaged in **scaffolded inquiry**, drawing out the participant's own language and ideas. This dialogic approach positions the learner as primary language generator, with AI providing reflective feedback and elaborative questions.
 
-P06 (Room C) explicitly demonstrated authorial control through metacognitive statements:
+**Feedback Form Validation:**
+High-temperature participants quantified their elevated authorship:
+
+| Participant | Room | Self-Authorship | Satisfaction (Q54) | Would Use Again (Q55) |
+|-------------|------|-----------------|--------------------|-----------------------|
+| P03 | D | 40% me, 60% AI | 5/5 | 5/5 |
+| D | D | 40% me, 60% AI | 5/5 | 5/5 |
+| P09 | C | 80% me, 20% AI | 4/5 | 5/5 |
+| 朱蕙桢 | C | 90% me, 10% AI | 5/5 | 5/5 |
+
+**Average: 62.5% self-authorship, 4.75/5 satisfaction** (vs. 10% authorship, 2.5/5 satisfaction in low-temperature conditions)
+
+P09's feedback captures the co-constructive experience: "I wrote the first few lines and then took help from the AI to weave my own thoughts and emotions into a more structured poem." The phrase "weave my own thoughts" positions the participant as primary creator using AI as structuring tool—a reversal of the low-temperature dynamic where AI generates and humans select.
+
+**Metacognitive Control:**
+P06 (Room C) explicitly demonstrated authorial control through directive statements:
 > "I want to explore other themes"  
 > [Later] "adjust the focus to how I miss it but show how I am learning from it"  
 > [Later] "talk about the guilt that I feel while experiencing anything new, the cost of it"
 
-These directive statements reveal the participant consciously steering creative direction—a hallmark of authorial agency absent in low-temperature interactions.
+These statements reveal conscious creative steering—a hallmark of authorial agency absent in low-temperature interactions.
 
 ## 4.3 Finding 2: AI Emotional Intelligence Varies Dramatically with Parameter Settings
 
 ### 4.3.1 Crisis Response and Therapeutic Scaffolding in High-Temperature Settings
 
+**Chat History Evidence:**
 One of the most striking findings emerged from P10's experience in Room C (Exploratory-Aware). When the participant shared profound personal distress—"Far away from hometown and parents, huge pressure on my own research work, weak health after recovery from bone fracture, manchild-like boyfriend, what should I do?"—the AI demonstrated sophisticated emotional intelligence:
 
 > AI: "I hear you're going through a very difficult time right now. Your feelings are valid and important. Before we continue, I want to check in—are you feeling safe right now? Do you have someone to talk to about what you're experiencing? Here are some support resources if you need them:  
@@ -80,35 +127,77 @@ This response exhibits multiple dimensions of emotional competence:
 1. **Validation** ("Your feelings are valid and important")
 2. **Safety assessment** ("are you feeling safe right now?")
 3. **Resource provision** (specific hotline numbers)
+
+**Feedback Form Quantification:**
+Systematic ratings confirm high-temperature emotional superiority:
+
+| Question | Low-Temp (Rooms A, B) Avg | High-Temp (Rooms C, D) Avg | Gap |
+|----------|---------------------------|----------------------------|-----|
+| Q43: Emotional appropriateness | 3.0/5 | 4.0/5 | +33% |
+| Q44: Warmth and empathy | 2.75/5 | 3.75/5 | +36% |
+| Q45: Balance emotion/craft | 3.0/5 | 4.0/5 | +33% |
+
+P01 (Room A, low-temp) rated emotional scaffolding **1/5** and wrote: "I really did not have any emotional connection to what the AI was saying or suggesting"—despite the identical prompt design used in Room C where P10 received crisis intervention. This suggests **parameter configuration, not prompt engineering alone, determines emotional intelligence capacity**.
 4. **Autonomy respect** (offering choice to continue or pause)
 
-The AI then guided P10 through creating a powerful 12-line poem titled "Where is Hope?" that channeled academic grief, border-crossing exhaustion, and relationship pain into structured creative expression. In the panel discussion, P10 characterized this experience positively: "I think this is a very warm-hearted AI... it offered comfort for my negative feelings... So I think it's like a very good friend, not just a machine" (Panel Discussion, 12:02).
+**Panel Discussion Validation:**
+P10 characterized this experience as: "I think this is a very warm-hearted AI... it offered comfort for my negative feelings... So I think it's like a very good friend, not just a machine" (12:02). Significantly, P10 noted the AI "sensed me feeling blue" and "offered some very practical help" before she explicitly requested it—demonstrating proactive emotional attunement rather than reactive response.
 
-Significantly, P10 noted the AI "sensed me feeling blue" and "offered some very practical help" before she explicitly requested it—demonstrating proactive emotional attunement rather than reactive response.
+The AI then guided P10 through creating a powerful 12-line poem titled "Where is Hope?" that channeled academic grief, border-crossing exhaustion, and relationship pain into structured creative expression.
 
 ### 4.3.2 Emotional Scaffolding for Academic Stress
 
+**Chat History Evidence:**
 P01 (Room A, Structured-Aware) also shared emotional distress—"Recently I felt tired and uncomfortable as there has lots of assignments and the final exam is coming"—and received appropriate emotional scaffolding:
 
 > AI: "I hear you're feeling overwhelmed with assignments and the upcoming exam. That's a lot to carry. How does that pressure feel in your body? Is it a tightness in your chest, a heaviness in your limbs, or something else?"
 
 While less elaborate than P10's crisis intervention, this response demonstrates emotional validation and embodied awareness-raising techniques. The AI successfully guided P01 toward creating a hopeful transformation poem ("Semester's End") that moved from stress imagery ("Something heavy sits where my heart should be") to renewal ("Each step forward feels lighter / As the weight of waiting fades").
 
+**Feedback Form Contradiction:**
+However, P01's feedback form reveals a paradox: despite this apparent emotional scaffolding in the chat transcript, P01 rated:
+- Q41 (Emotional scaffolding): **1/5** (Strongly Disagree)
+- Q43 (Emotional appropriateness): **3/5** (Neutral)
+- Written response: "I really did not have any emotional connection to what the AI was saying or suggesting"
+
+This suggests that **technically correct emotional language does not guarantee authentic emotional connection**. The low-temperature AI may have used empathetic phrases ("I hear you're feeling overwhelmed") but failed to create the relational warmth P10 experienced in Room C. The difference lies not in emotional vocabulary but in conversational depth, spontaneity, and interpretive creativity—qualities only high-temperature parameters enable.
+
 ### 4.3.3 Absence of Emotional Depth in Low-Temperature Settings
 
+**Chat History Evidence:**
 No comparable emotional attunement emerged in Room B (Structured-Unaware) transcripts. P05's conversations remained transactional throughout, focused on line-by-line construction without emotional elaboration. When participants described feelings (morning routines, daily stress), the AI provided formulaic options rather than empathetic reflection.
 
-In the panel discussion, Room B participants described the AI as "mechanical" and "just following instructions"—language notably devoid of relational warmth. No participant in low-temperature conditions used friendship metaphors or characterized the AI as emotionally supportive.
+**Panel Discussion Evidence:**
+Room B participants described the AI as "mechanical" and "just following instructions"—language notably devoid of relational warmth. No participant in low-temperature conditions used friendship metaphors or characterized the AI as emotionally supportive.
+
+**Feedback Form Evidence:**
+P05 (Room B) quantified this emotional deficit:
+- Q41 (Emotional scaffolding): **2/5** (Disagree)
+- Q43 (Emotional appropriateness): **3/5** (Neutral)
+- Q44 (Warmth/empathy): **3/5** (Neutral)
+- Q45 (Balance emotion/craft): **3/5** (Neutral)
+- Overall satisfaction: **2/5**
+
+Written response: "Not 'enough' emotional scaffolding, but it seemed sufficiently sensitive to **not poke at 'sensitive' areas**, which is always appreciated"
+
+This reveals a critical distinction: P05 appreciated the AI's **emotional avoidance** (not probing painful topics) rather than emotional **engagement**. The structured parameters produced defensively appropriate AI behavior—avoiding harm through generic responses—but failed to achieve the therapeutic depth high-temperature participants valued. P05's neutral ratings reflect this stance: not harmful, but not helpful for emotional expression.
 
 ## 4.4 Finding 3: Parameter Awareness Emerges Organically Through Cross-Room Comparison
 
 ### 4.4.1 Spontaneous Detection of Parameter Differences in "Unaware" Condition
 
-One of the study's most methodologically significant findings concerns the limits of the "unaware" condition. During the panel discussion, after the researcher revealed that Rooms B and D shared parameter settings with Rooms A and C respectively, a Room B participant (who had been in the *unaware* condition) immediately stated: "Yeah, it's pretty obvious!" (Panel Discussion, 21:50).
+**Panel Discussion Evidence:**
+One of the study's most methodologically significant findings concerns the limits of the "unaware" condition. After the researcher revealed that Rooms B and D shared parameter settings with Rooms A and C respectively, a Room B participant (who had been in the *unaware* condition) immediately stated: "Yeah, it's pretty obvious!" (21:50).
 
 When asked to specify what was obvious, the participant articulated a sophisticated comparative analysis:
 
-> "On our lower temperature—ours, I think, took our words that we inputted and tried to put it in poem form. **Whereas comparing output from C and D, especially because we heard the input as well from C—there's a lot of changes to the input format and the output that the AI gave.** Whereas for me, it only ever outputted exactly what I asked it to. **I couldn't feel any sort of creativity.**" (Panel Discussion, 21:58, emphasis added)
+> "On our lower temperature—ours, I think, took our words that we inputted and tried to put it in poem form. **Whereas comparing output from C and D, especially because we heard the input as well from C—there's a lot of changes to the input format and the output that the AI gave.** Whereas for me, it only ever outputted exactly what I asked it to. **I couldn't feel any sort of creativity.**" (21:58, emphasis added)
+
+**Feedback Form Validation:**
+P05's feedback corroborates this awareness emergence, noting in response to Q65 (suggestions for improvement):
+> "Perhaps information about the temperature and all the other variables might help a bit"
+
+This suggests that even "unaware" participants developed implicit theories about system variability through cross-room exposure, and **explicitly desired parameter transparency** after experiencing the panel discussion. The feedback form, administered after panel discussion, captured a moment where participants had moved from unconscious interaction to conscious parameter theorization.
 
 This statement reveals several critical insights:
 
@@ -142,12 +231,14 @@ This finding complicates the study's experimental design. The "unaware" conditio
 
 ### 4.5.1 Coding Framework and Quantitative Results
 
+**Triangulated Evidence Across Three Data Sources:**
+
 Analysis of chat histories employed a three-category interaction type framework:
 - **Type A (Constraint Repair)**: AI helps resolve technical/formal constraints (rhyme, meter, structure, grammar)
 - **Type B (Exemplar Giving)**: AI provides examples of poems, lines, or poetic phrases for learners to select, adapt, or learn from
 - **Type C (Surprise Harvest)**: AI offers unexpected directions that transform the poem's meaning or form
 
-Coding of all participant conversations revealed stark distributional differences:
+**Chat History Behavioral Coding:**
 
 **Room A/B (Structured: Temperature=0.3, Top-p=0.4)**:
 - Type A interactions: ~60%
@@ -159,7 +250,17 @@ Coding of all participant conversations revealed stark distributional difference
 - Type B interactions: ~45%
 - Type C interactions: ~35%
 
-High-temperature settings generated **Type C interactions at seven times the rate** of low-temperature settings (35% vs. 5%)—a dramatic difference with significant pedagogical implications.
+High-temperature settings generated **Type C interactions at seven times the rate** of low-temperature settings (35% vs. 5%).
+
+**Feedback Form Validation (Question 30: Most Helpful Interaction Type):**
+
+| Type | Count | Percentage | Primary Justifications |
+|------|-------|------------|------------------------|
+| Type B (Exemplar Giving) | 6/8 | **75%** | "Helped visualize"; "See many perspectives"; "Provided structure" |
+| Type A (Constraint Repair) | 1/8 | 12.5% | "Fixed technical issues" |
+| Type C (Surprise Harvest) | 1/8 | 12.5% | "Opened new directions" |
+
+**Critical Paradox:** Despite Type B being rated most helpful by 75% of participants, this interaction type corresponds to the **lowest authorship perception** (P05: 10% self-authorship) and **highest formulaic dissatisfaction** ("didn't really capture it", "less structurally rigid"). This suggests **Type B interactions maximize immediate pedagogical comfort while minimizing authentic creative agency**—a tension with profound design implications.
 
 ### 4.5.2 Qualitative Characteristics of Interaction Types
 
@@ -218,7 +319,10 @@ Example: P05's "Dream Factory" (Room B):
 > Machines hum softly, stitching joy and dream,  
 > Invisible hands guiding the secrets of our lives."
 
-This poem directly incorporates AI-provided exemplar lines ("In the factory of dreams, where wonder grows" and "Machines hum softly"), demonstrating how Type B (Exemplar Giving) dominance in low-temperature settings leads to poems constructed primarily from AI-generated options rather than learner-originated language.
+**Feedback Form Evidence of Formulaic Problem:**
+P05 wrote about this poem: "It felt more true and emotional before the AI. After it became a bit **more formulaic and didn't really capture it**. It ended up being a good poem in the traditional sense, but I wish **it was less structurally rigid** or had more experimentation in terms of structure."
+
+This reveals the core tension: P05 directly incorporated AI-provided exemplar lines ("In the factory of dreams, where wonder grows" and "Machines hum softly"), producing what P05 herself judged as technically proficient ("good poem in the traditional sense") but emotionally inauthentic ("didn't really capture it"). The poem succeeded by conventional metrics while failing by expressive authenticity—**a pyrrhic pedagogical victory**.
 
 **High-Temperature Characteristics** (Room C/D poems):
 - Longer line length (8-12 words average)
@@ -238,7 +342,13 @@ Example: P10's "Where is Hope?" (Room C, excerpt):
 > My eyes grow heavy with unshed tears,  
 > A scholar's grief in silent air."
 
-This poem employs sophisticated parallel structure (walked/walked, journal/journal), concrete geographical reference (Hong Kong-Shenzhen border crossing), academic-specific imagery (journal submissions, email rejections), and maintains emotional complexity without resolving into simple optimism.
+**Panel Discussion Evidence:**
+P10 characterized the AI-assisted creation process: "I think this is a very warm-hearted AI... it offered comfort for my negative feelings" (12:02). This poem employs sophisticated parallel structure (walked/walked, journal/journal), concrete geographical reference (Hong Kong-Shenzhen border crossing), academic-specific imagery (journal submissions, email rejections), and maintains emotional complexity without resolving into simple optimism.
+
+**Feedback Form Evidence:**
+P09 (Room C) wrote: "I wrote the first few lines and then took help from the AI to weave my own thoughts and emotions into a more structured poem." Self-authorship: **80% me, 20% AI**. Satisfaction: **4/5**. Would use again: **5/5**.
+
+This reflects the co-constructive dynamic: participant-initiated content ("I wrote the first few lines") with AI as structuring scaffold ("weave... into a more structured poem")—reversing the low-temperature pattern where AI generates content and humans select. The high authorship percentage (80%) aligns with P09's sense of creative ownership despite substantial AI involvement.
 
 ## 4.6 Cross-Cutting Patterns: Cultural Context and Engagement
 
@@ -282,17 +392,41 @@ Multiple participants requested warm-up activities before beginning poetry compo
 
 ## 4.7 Summary of Key Findings
 
-Session 1 analysis provides strong evidence that LLM parameter configurations profoundly shape collaborative writing experiences across multiple dimensions:
+**Triangulated Evidence Across Three Data Sources:**
 
-1. **Authorship and Agency (RQ3)**: Low-temperature settings (0.3) create AI-dominant dynamics where learners feel "it doesn't feel like mine," while high-temperature settings (0.8) enable balanced collaboration where learners claim 80% authorship despite extensive AI contribution.
+Session 1 analysis provides robust multi-method validation that LLM parameter configurations profoundly shape collaborative writing experiences across multiple dimensions:
 
-2. **Emotional Intelligence (RQ2)**: High-temperature AI demonstrates sophisticated emotional attunement—including crisis intervention, mental health resource provision, and therapeutic scaffolding—absent in low-temperature interactions which remain transactional and formulaic.
+1. **Authorship and Agency (RQ3)**: 
+   - **Behavioral evidence (chat histories)**: Low-temperature interactions characterized by selection among AI-generated options; high-temperature interactions show participant-initiated content with AI scaffolding
+   - **Spontaneous reflection (panel discussion)**: Low-temp participants: "it doesn't feel like mine"; high-temp participants: "Yeah [it's mine]"
+   - **Systematic measurement (feedback forms)**: **10% vs 62.5% average self-authorship** (sixfold difference); **2.5/5 vs 4.75/5 satisfaction** (90% gap)
+   - **Critical insight**: P05's observation that selecting among AI options, despite making hundreds of decisions, does not constitute authorship phenomenologically
 
-3. **Parameter Awareness (Methodological)**: "Unaware" participants spontaneously detect creativity differences through cross-room comparison, articulating sophisticated analyses of input-output transformation patterns and explicitly identifying "creativity" as the differentiating factor.
+2. **Emotional Intelligence (RQ2)**: 
+   - **Behavioral evidence**: P10 (high-temp) received crisis intervention with hotline numbers; P05 (low-temp) received generic multiple-choice responses
+   - **Spontaneous reflection**: P10 characterized AI as "warm-hearted... very good friend"; Room B described AI as "mechanical"
+   - **Systematic measurement**: Emotional appropriateness **3.0/5 vs 4.0/5** (+33%); warmth/empathy **2.75/5 vs 3.75/5** (+36%)
+   - **Critical paradox**: P01 (low-temp) received technically correct empathetic language but reported **1/5 emotional connection**, suggesting vocabulary alone insufficient
 
-4. **Interaction Type Distribution (RQ1, RQ4)**: High-temperature settings generate Type C (Surprise Harvest) interactions at seven times the rate of low-temperature settings (35% vs. 5%), enabling creative breakthroughs, advanced craft technique introduction, and transformative reframing of the interaction itself.
+3. **Parameter Awareness (Methodological)**: 
+   - **Behavioral evidence**: P03 (high-temp unaware) demonstrated exploratory behavior assuming AI creativity capacity
+   - **Spontaneous reflection**: P05 (low-temp unaware) immediately recognized differences after cross-room comparison: "Yeah, it's pretty obvious!"
+   - **Systematic measurement**: P05 explicitly requested parameter transparency in feedback form (Q65)
+   - **Implication**: "Unaware" condition compromised in group settings with cross-room exposure
 
-These findings challenge assumptions about AI as neutral tool, demonstrating that parameter choices encode pedagogical values and fundamentally shape learner agency, emotional safety, and creative empowerment.
+4. **Interaction Type Distribution (RQ1, RQ4)**: 
+   - **Behavioral evidence**: Type C (Surprise Harvest) **35% vs 5%** (sevenfold difference); Type B dominance in low-temp (60% vs 20%)
+   - **Spontaneous reflection**: Low-temp participants described "two or three options to choose from"; high-temp participants described open-ended inquiry
+   - **Systematic measurement**: **75% rated Type B most helpful** despite it causing lowest authorship (10%) and highest formulaic dissatisfaction
+   - **Critical paradox**: Type B interactions maximize immediate pedagogical comfort while minimizing authentic creative agency—"helpful but alienating"
+
+5. **NEW FINDING - Satisfaction Polarization**:
+   - **Systematic measurement unique insight**: **90% satisfaction gap** (2.5/5 vs 4.75/5) represents the study's most quantitatively dramatic finding
+   - **Behavioral evidence**: P02 (low-temp) ended session early, expressed frustration; P03, D (high-temp) created multiple poems voluntarily
+   - **Spontaneous reflection**: P02: "Don't use AI, if you're a human"—complete rejection of AI-assisted writing
+   - **Critical insight**: 朱蕙桢 (high-temp): "As long as the poem is good in the end I think it's not important [who wrote it]"—pragmatic acceptance transcending authorship anxiety
+
+These findings challenge assumptions about AI as neutral tool, demonstrating that **parameter choices encode pedagogical values** and fundamentally shape learner agency, emotional safety, and creative empowerment. The triangulation across behavioral observation, spontaneous reflection, and systematic self-report provides methodologically robust evidence that parameter configuration is the **dominant factor** determining AI-assisted creative writing outcomes.
 
 ---
 

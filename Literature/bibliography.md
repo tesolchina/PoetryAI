@@ -4,15 +4,15 @@
 *Core concepts, established knowledge, and theoretical grounding*
 
 ### L2 Creative Writing & Poetry Pedagogy
-- **Hanauer, David Ian.** *Poetry as research: Exploring second language poetry writing*. John Benjamins, 2010.
 - Fithriani, Rahmah. "Poetry Writing in EFL Classrooms: Learning from Indonesian Students' Strategies." *KnE Social Sciences* (2021).
+- **Hanauer, David Ian.** *Poetry as research: Exploring second language poetry writing*. John Benjamins, 2010.
 - Iida, Atsushi. "Second language poetry writing as reflective practice: A poetic inquiry into a pre-service teacher's experience of English language learning." *Language Teacher Cognition Research Bulletin* 12.1 (2016): 81-93.
 - Kerbs, Macie, Jessica McQueston, and Lorraine Lawrance. "Playing with Words: Scaffolding Writing through Poetry." *Reading Teacher* 78.1 (2024).
 
 ### Human-AI Creative Collaboration Foundations  
+- Ashktorab, Zahra, et al. "Human-ai collaboration in a cooperative game setting: Measuring social perception and outcomes." *Proceedings of the ACM on Human-Computer Interaction* 4.CSCW2, 2020, pp.1-20.
 - Clark, Elizabeth, et al. "Creative writing with a machine in the loop: Case studies on slogans and stories," *Proceedings of the 23rd International Conference on Intelligent User Interfaces*, 2018.
 - **Coenen, Andy, et al.** "Wordcraft: Story writing with large language models." *Proceedings of the 27th International Conference on Intelligent User Interfaces Companion*, 2022.
-- Ashktorab, Zahra, et al. "Human-ai collaboration in a cooperative game setting: Measuring social perception and outcomes." *Proceedings of the ACM on Human-Computer Interaction* 4.CSCW2, 2020, pp.1-20.
 - Qian, Wan et al. "'It Felt Like Having a Second Mind': Investigating Human-AI Co-creativity in Prewriting with Large Language Models," *arXiv:2307.10811*, 2023.
 
 ### L2 Learning with Technology
@@ -41,8 +41,8 @@
 
 ### L2 Creative Writing Education with AI
 - Nazik, Assylbekova, and Madina L. Anafinova. "EXPLORING AN AI-SUPPORTED APPROACH TO CREATIVE WRITING IN SECONDARY SCHOOL ENGLISH CLASSES." *In The World Of Science and Education* 20 сентябрь ПН2 (2024): 47-49.
-- สหรัฐ ลักษณะ สุต. "The Pedagogical Impact of ChatGPT on High-school Student's Creative Writing Skills: An Exploration of Generative AI Assisted Writing Tools." *วารสาร การ ทดสอบ และ การ ประเมิน ทางการ ศึกษา ระดับ ชาติ* 5.1 (2024): 17-34.
 - Shaumiwaty, et al. "Investigating Students' Achievement in Learning through Artificial Intelligence in Education: A Case Study." *Journal Of Education And Sociology* 4.1 (2025): 12-18.
+- สหรัฐ ลักษณะ สุต. "The Pedagogical Impact of ChatGPT on High-school Student's Creative Writing Skills: An Exploration of Generative AI Assisted Writing Tools." *วารสาร การ ทดสอบ และ การ ประเมิน ทางการ ศึกษา ระดับ ชาติ* 5.1 (2024): 17-34.
 
 ### Poetry-Specific AI Applications
 - Chakrabarty, Tuhin, Vishakh Padmakumar, and He He. "Help me write a poem: Instruction tuning as a vehicle for collaborative poetry writing." *arXiv preprint arXiv:2210.13669* (2022).
