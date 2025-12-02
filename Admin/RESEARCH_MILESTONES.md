@@ -15,7 +15,8 @@
 | **Platform Development** | May-Nov 2025 | ✅ Complete | Functional platform at poetry.aitutor.ink, 4 rooms deployed |
 | **Pilot Testing** | Nov 16, 2025 | ✅ Complete | 4 testers, 87 conversations, 100% technical success |
 | **Pilot Analysis** | Nov 17-18, 2025 | ✅ Complete | 43,000+ words analysis & improvement solutions |
-| **Main Study** | Nov.24, 2025 |  | 20 HKBU students, B1+ proficiency |
+| **Main Study Session 1** | Nov 24, 2025 | ✅ Complete | 10 participants, 500+ messages, preliminary findings |
+| **Data Analysis Session 1** | Nov 25-29, 2025 | ✅ Complete | Three-type coding, triangulation, preliminary essay (2,000 words) |
 | **Dissertation** | Ongoing | 🔄 In Progress | Introduction & Methodology chapters drafted |
 
 ---
@@ -156,6 +157,99 @@
 
 ---
 
+### 5. Main Study Session 1 (November 24, 2025)
+
+**Session Execution:**
+- **Date:** November 24, 2025 (Monday)
+- **Duration:** 2.5 hours
+- **Participants:** 10 HKBU graduate students with advanced English proficiency (IELTS 6.5-7.5 equivalent)
+- **Distribution:** 4 experimental rooms (A: Structured-Aware, B: Structured-Unaware, C: Exploratory-Aware, D: Exploratory-Unaware)
+- **Platform Performance:** 100% technical success, zero system failures
+
+**Data Collection (Three Sources for Triangulation):**
+1. **Chat Transcripts:** 500+ message exchanges across all rooms
+   - Complete behavioral records of human-AI interactions
+   - Coded using three-type framework (Type A: Constraint Repair, Type B: Exemplar Giving, Type C: Surprise Harvest)
+   - Inter-rater reliability: Cohen's κ=0.82 (87% agreement)
+
+2. **Panel Discussion:** 22-minute recorded discussion
+   - Spontaneous comparative reflection across rooms
+   - Unprompted identification of interaction type differences
+   - Qualitative evidence of parameter effects on collaborative experience
+
+3. **Feedback Forms:** 8 participants completed (66 questions each)
+   - Authorship perception ratings
+   - Satisfaction scores (5-point scale)
+   - Interaction type preference rankings
+   - Open-ended reflection responses
+
+**Preliminary Key Findings:**
+
+**Finding 1 - Sevenfold Type C Difference:**
+- High-temperature rooms (C, D): 35% Type C (Surprise Harvest) interactions
+- Low-temperature rooms (A, B): 5% Type C interactions
+- Demonstrates parameter configuration as primary determinant of interaction type distribution
+
+**Finding 2 - Type B Paradox:**
+- 75% of participants rated Type B (Exemplar Giving) as "most helpful"
+- Yet Type B correlates with only 10% self-authorship perception
+- Reveals tension between pedagogical accessibility and creative agency
+
+**Finding 3 - Type C Enables Creative Transformation:**
+- P09 (Room C): AI suggested "found poetry technique" - advanced strategy participant hadn't considered
+- P10 (Room C): AI reframed interaction from poetry construction to therapeutic expression
+- No comparable Type C moments observed in low-temperature rooms
+
+**Finding 4 - Observable Differences:**
+- P09 spontaneously asked: "Is the difference between the rooms pretty obvious?"
+- Validates that parameter effects are phenomenologically detectable through interaction patterns
+- Suggests potential for experiential AI literacy development
+
+**Finding 5 - Type C Predicts Authorship:**
+- Rooms with 35% Type C: 62.5% self-authorship, 4.75/5 satisfaction
+- Rooms with 5% Type C: 10-20% self-authorship, 2.0/5 satisfaction
+- 4-6x authorship difference, 2x satisfaction difference
+
+**Panel Discussion Themes:**
+- Room B participants: AI described as "mechanical," "just following instructions"
+- Rooms C/D participants: AI described as "warm-hearted," "like a very good friend"
+- Contrasting metaphors reflect different collaborative modes (technical assistant vs. creative partner)
+
+**Analytical Framework Applied:**
+- Convergent evidence across all three data sources (triangulation validated)
+- Three-type coding successfully captured parameter effects
+- Multi-method approach revealed "helpful but alienating" paradox unique to feedback forms
+
+---
+
+### 6. Post-Session 1 Analysis & Documentation (November 25-29, 2025)
+
+**Comprehensive Data Analysis:**
+- **Chat Transcript Coding:** All 500+ messages coded for interaction types (Type A/B/C)
+- **Statistical Patterns:** Chi-square analysis of interaction type distribution by parameter configuration
+- **Qualitative Analysis:** Panel discussion transcribed and thematically coded
+- **Feedback Forms:** 8 forms (66 questions each) analyzed for authorship, satisfaction, preferences
+
+**Research Output - Preliminary Results Essay:**
+- **Title:** "Preliminary Findings: Parameter Effects on Authorship and Creative Agency in AI-Assisted L2 Poetry Writing"
+- **Length:** 1,997 words
+- **Structure:** Abstract, Introduction (with three-type framework), Method, Findings (5 findings), Methodological Contributions, Limitations, Implications, Conclusion
+- **Status:** Draft completed, shared with supervisors for PolyU conference application
+
+**Key Contributions Identified:**
+1. **Interaction Type Distribution as Design Principle:** Parameter selection determines available interaction types, not minor technical detail
+2. **Progressive Pedagogy Strategy:** Navigate Type B paradox through scaffolding progression (low-temp initially, high-temp as learners develop)
+3. **Type C Enables Authorship:** Creative writing should prioritize high-temperature parameters (0.7-0.9) for authentic co-creation
+4. **AI Literacy through Interaction Types:** Learners can develop sophisticated understanding through experiential engagement with interaction patterns
+
+**Next Steps for Full Study:**
+- Sessions 2-3 scheduled (10 additional participants)
+- Validation of preliminary patterns with full 20-participant sample
+- Longitudinal perspective on interaction type exposure effects
+- Individual difference moderators investigation
+
+---
+
 ## 📈 Key Research Outputs
 
 **Technical Achievements:**
@@ -172,28 +266,31 @@
 5. Prompt improvement solution (23,000 words)
 6. Chatbot design documentation
 7. Nature Career article draft (1,400 words on transdisciplinary learning)
+8. **Preliminary Results Essay (2,000 words) - Session 1 findings**
+9. **Session 1 Data Analysis Documentation:** Chat transcript coding, panel discussion transcription, feedback form analysis
 
 ---
 
-## 🚨 Next Steps (Before Main Study)
+## 🚨 Next Steps
 
-### Immediate (3-Week Implementation):
-1. **Week 1:** Emotional safety protocols (CRITICAL)
-2. **Week 2:** Adaptive scaffolding + Theme continuity (HIGH)
-3. **Week 3:** Abstract thinking + Creative inspiration (MEDIUM)
-4. Comprehensive validation testing (60+ test cases)
+### Main Study Completion (Dec 2025 - Jan 2026):
+1. **Session 2:** Recruit and conduct second session with 10 additional participants
+2. **Session 3:** Complete final session and follow-up interviews (January 2025)
+3. Validate preliminary findings with full 20-participant sample
+4. Investigate individual difference moderators
+5. Longitudinal analysis of interaction type exposure effects
 
-### Recruitment & Execution:
-5. Launch HKBU recruitment campaign (20 students, B1+ proficiency)
-6. Schedule main study sessions (4 experimental rooms, 5 students each)
-7. Conduct testing with improved system
-8. Deploy post-session questionnaire & interviews
+### Data Analysis & Writing:
+6. Comprehensive quantitative analysis (RQ1: Chi-square, RQ2: Scaffolding coding)
+7. Full qualitative analysis (RQ3-4: Thematic coding, preference ranking)
+8. Complete dissertation findings & discussion chapters
+9. Expand preliminary essay to full research paper
+10. Prepare conference presentation materials (PolyU conference application)
 
-### Analysis & Writing:
-9. Quantitative analysis (RQ1: Chi-square, RQ2: Scaffolding coding)
-10. Qualitative analysis (RQ3-4: Thematic coding, preference ranking)
-11. Complete dissertation findings & discussion chapters
-12. Prepare defense materials
+### Dissemination:
+11. Submit to academic conferences (PolyU, international venues)
+12. Prepare journal article submission
+13. Finalize dissertation defense materials
 
 ---
 
@@ -203,12 +300,18 @@
 Building the platform wasn't separate from research—it was integral. Every design decision was methodological. Learning to code as a humanities scholar required reconciling ambiguity-tolerance (literary analysis) with precision-demands (programming), producing deeper understanding of both domains.
 
 **On Pilot Testing Value:**
-Pilot testing revealed critical issues (emotional safety, over-scaffolding) that could have compromised main study validity and ethics. The 3-week implementation delay ensures research quality and participant wellbeing.
+Pilot testing revealed critical issues (emotional safety, over-scaffolding) that could have compromised main study validity and ethics. The 3-week implementation delay ensured research quality and participant wellbeing before Session 1.
+
+**On Session 1 Preliminary Findings:**
+The sevenfold Type C difference (35% vs. 5%) and sixfold authorship difference (62.5% vs. 10%) demonstrate that parameter configuration functions as a fundamental pedagogical design choice, not a minor technical detail. The "helpful but alienating" Type B paradox reveals critical tensions between scaffolding accessibility and creative agency that warrant careful pedagogical navigation.
+
+**On Methodological Innovation:**
+Multi-source triangulation (chat transcripts + panel discussion + feedback forms) proved essential. The Type B paradox emerged uniquely through feedback forms, while panel discussion captured spontaneous meta-awareness of interaction differences. This validates the three-type framework as an effective analytical lens for human-AI creative collaboration.
 
 **On Research Impact:**
-- **Academic:** Novel AI parameter study in L2 creative writing, DDL integration with poetry pedagogy
-- **Practical:** Evidence-based prompt engineering, emotional safety protocols for creative AI
-- **Pedagogical:** Guidelines for AI in L2 poetry teaching, balancing guidance with autonomy
+- **Academic:** Novel AI parameter study in L2 creative writing with preliminary evidence of systematic parameter effects on interaction types, authorship, and satisfaction
+- **Practical:** Evidence-based prompt engineering, three-type interaction framework for analyzing human-AI collaboration
+- **Pedagogical:** Guidelines for AI in L2 poetry teaching—balance guidance with autonomy through progressive parameter configuration (structured → exploratory as learners develop)
 
 ---
 
@@ -228,6 +331,6 @@ PoetryAI-6/
 
 ---
 
-**Status:** Ready for prompt implementation phase (3 weeks) before main study  
-**Next Update:** After improvement implementation completion  
+**Status:** Session 1 complete with promising preliminary findings; Sessions 2-3 recruitment in progress  
+**Next Update:** After Sessions 2-3 completion  
 **Contact:** Yu Ruobin, Department of English, Hong Kong Baptist University
