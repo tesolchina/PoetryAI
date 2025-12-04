@@ -1,0 +1,11 @@
+# API Keys - DO NOT COMMIT
+openrouterKey.md
+poeAPI.md
+*.key
+*.secret
+.env
+.env.local
+
+# Test results (optional - remove this line if you want to track test results)
+poetry_test_results.json
+

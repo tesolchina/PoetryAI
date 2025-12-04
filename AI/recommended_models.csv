@@ -1,0 +1,202 @@
+cost_tier,name,model_id,context_length,prompt_cost_per_1M,completion_cost_per_1M,provider,description
+Free,Amazon: Nova 2 Lite (free),amazon/nova-2-lite-v1:free,1000000,$0.0000,$0.0000,OpenRouter,"Nova 2 Lite is a fast, cost-effective reasoning model for everyday workloads tha"
+Free,Google: Gemini 2.0 Flash Experimental (free),google/gemini-2.0-flash-exp:free,1048576,$0.0000,$0.0000,OpenRouter,Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compar
+Free,Meta: Llama 3.2 3B Instruct (free),meta-llama/llama-3.2-3b-instruct:free,131072,$0.0000,$0.0000,OpenRouter,"Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimiz"
+Free,Meta: Llama 3.3 70B Instruct (free),meta-llama/llama-3.3-70b-instruct:free,131072,$0.0000,$0.0000,OpenRouter,The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and i
+Free,Mistral: Mistral 7B Instruct (free),mistralai/mistral-7b-instruct:free,32768,$0.0000,$0.0000,OpenRouter,"A high-performing, industry-standard 7.3B parameter model, with optimizations fo"
+Free,Mistral: Mistral Small 3.1 24B (free),mistralai/mistral-small-3.1-24b-instruct:free,128000,$0.0000,$0.0000,OpenRouter,"Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501),"
+Free,Nous: Hermes 3 405B Instruct (free),nousresearch/hermes-3-llama-3.1-405b:free,131072,$0.0000,$0.0000,OpenRouter,"Hermes 3 is a generalist language model with many improvements over Hermes 2, in"
+Free,Qwen: Qwen3 235B A22B (free),qwen/qwen3-235b-a22b:free,131072,$0.0000,$0.0000,OpenRouter,Qwen3-235B-A22B is a 235B parameter mixture-of-experts (MoE) model developed by 
+Free,Qwen: Qwen3 4B (free),qwen/qwen3-4b:free,40960,$0.0000,$0.0000,OpenRouter,"Qwen3-4B is a 4 billion parameter dense language model from the Qwen3 series, de"
+Free,Qwen: Qwen3 Coder 480B A35B (free),qwen/qwen3-coder:free,262000,$0.0000,$0.0000,OpenRouter,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation mod
+Free,TNG: DeepSeek R1T Chimera (free),tngtech/deepseek-r1t-chimera:free,163840,$0.0000,$0.0000,OpenRouter,"DeepSeek-R1T-Chimera is created by merging DeepSeek-R1 and DeepSeek-V3 (0324), c"
+Free,TNG: DeepSeek R1T2 Chimera (free),tngtech/deepseek-r1t2-chimera:free,163840,$0.0000,$0.0000,OpenRouter,DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. 
+Free,Venice: Uncensored (free),cognitivecomputations/dolphin-mistral-24b-venice-edition:free,32768,$0.0000,$0.0000,OpenRouter,Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of 
+Very Low Cost,AionLabs: Aion-RP 1.0 (8B),aion-labs/aion-rp-llama-3.1-8b,32768,$0.2000,$0.2000,OpenRouter,Aion-RP-Llama-3.1-8B ranks the highest in the character evaluation portion of th
+Very Low Cost,Amazon: Nova 2 Lite,amazon/nova-2-lite-v1,1000000,$0.3000,$2.5000,OpenRouter,"Nova 2 Lite is a fast, cost-effective reasoning model for everyday workloads tha"
+Very Low Cost,Amazon: Nova Lite 1.0,amazon/nova-lite-v1,300000,$0.0600,$0.2400,OpenRouter,Amazon Nova Lite 1.0 is a very low-cost multimodal model from Amazon that focuse
+Very Low Cost,Amazon: Nova Micro 1.0,amazon/nova-micro-v1,128000,$0.0350,$0.1400,OpenRouter,Amazon Nova Micro 1.0 is a text-only model that delivers the lowest latency resp
+Very Low Cost,Anthropic: Claude 3 Haiku,anthropic/claude-3-haiku,200000,$0.2500,$1.2500,OpenRouter,"Claude 3 Haiku is Anthropic's fastest and most compact model for
+near-instant re"
+Very Low Cost,Cogito V2 Preview Llama 109B,deepcogito/cogito-v2-preview-llama-109b-moe,32767,$0.1800,$0.5900,OpenRouter,"An instruction-tuned, hybrid-reasoning Mixture-of-Experts model built on Llama-4"
+Very Low Cost,Cohere: Command R (08-2024),cohere/command-r-08-2024,128000,$0.1500,$0.6000,OpenRouter,command-r-08-2024 is an update of the [Command R](/models/cohere/command-r) with
+Very Low Cost,Cohere: Command R7B (12-2024),cohere/command-r7b-12-2024,128000,$0.0375,$0.1500,OpenRouter,"Command R7B (12-2024) is a small, fast update of the Command R+ model, delivered"
+Very Low Cost,DeepSeek: DeepSeek R1 0528 Qwen3 8B,deepseek/deepseek-r1-0528-qwen3-8b,32768,$0.0200,$0.1000,OpenRouter,DeepSeek-R1-0528 is a lightly upgraded release of DeepSeek R1 that taps more com
+Very Low Cost,DeepSeek: DeepSeek V3,deepseek/deepseek-chat,163840,$0.3000,$1.2000,OpenRouter,"DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instru"
+Very Low Cost,DeepSeek: DeepSeek V3 0324,deepseek/deepseek-chat-v3-0324,163840,$0.2000,$0.8800,OpenRouter,"DeepSeek V3, a 685B-parameter, mixture-of-experts model, is the latest iteration"
+Very Low Cost,DeepSeek: DeepSeek V3.1,deepseek/deepseek-chat-v3.1,163840,$0.2000,$0.8000,OpenRouter,"DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) th"
+Very Low Cost,DeepSeek: DeepSeek V3.1 Terminus,deepseek/deepseek-v3.1-terminus,163840,$0.2100,$0.7900,OpenRouter,DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v
+Very Low Cost,DeepSeek: DeepSeek V3.1 Terminus (exacto),deepseek/deepseek-v3.1-terminus:exacto,163840,$0.2100,$0.7900,OpenRouter,DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v
+Very Low Cost,DeepSeek: DeepSeek V3.2,deepseek/deepseek-v3.2,163840,$0.2700,$0.4000,OpenRouter,DeepSeek-V3.2 is a large language model designed to harmonize high computational
+Very Low Cost,DeepSeek: DeepSeek V3.2 Exp,deepseek/deepseek-v3.2-exp,163840,$0.2100,$0.3200,OpenRouter,DeepSeek-V3.2-Exp is an experimental large language model released by DeepSeek a
+Very Low Cost,DeepSeek: DeepSeek V3.2 Speciale,deepseek/deepseek-v3.2-speciale,163840,$0.2700,$0.4100,OpenRouter,DeepSeek-V3.2-Speciale is a high-compute variant of DeepSeek-V3.2 optimized for 
+Very Low Cost,DeepSeek: R1,deepseek/deepseek-r1,163840,$0.3000,$1.2000,OpenRouter,"DeepSeek R1 is here: Performance on par with [OpenAI o1](/openai/o1), but open-s"
+Very Low Cost,DeepSeek: R1 0528,deepseek/deepseek-r1-0528,163840,$0.2000,$4.5000,OpenRouter,May 28th update to the [original DeepSeek R1](/deepseek/deepseek-r1) Performance
+Very Low Cost,DeepSeek: R1 Distill Llama 70B,deepseek/deepseek-r1-distill-llama-70b,131072,$0.0300,$0.1300,OpenRouter,DeepSeek R1 Distill Llama 70B is a distilled large language model based on [Llam
+Very Low Cost,DeepSeek: R1 Distill Qwen 14B,deepseek/deepseek-r1-distill-qwen-14b,32768,$0.1200,$0.1200,OpenRouter,DeepSeek R1 Distill Qwen 14B is a distilled large language model based on [Qwen 
+Very Low Cost,DeepSeek: R1 Distill Qwen 32B,deepseek/deepseek-r1-distill-qwen-32b,64000,$0.2400,$0.2400,OpenRouter,DeepSeek R1 Distill Qwen 32B is a distilled large language model based on [Qwen 
+Very Low Cost,Google: Gemini 2.0 Flash,google/gemini-2.0-flash-001,1048576,$0.1000,$0.4000,OpenRouter,Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compar
+Very Low Cost,Google: Gemini 2.0 Flash Lite,google/gemini-2.0-flash-lite-001,1048576,$0.0750,$0.3000,OpenRouter,Gemini 2.0 Flash Lite offers a significantly faster time to first token (TTFT) c
+Very Low Cost,Google: Gemini 2.5 Flash,google/gemini-2.5-flash,1048576,$0.3000,$2.5000,OpenRouter,"Gemini 2.5 Flash is Google's state-of-the-art workhorse model, specifically desi"
+Very Low Cost,Google: Gemini 2.5 Flash Image (Nano Banana),google/gemini-2.5-flash-image,32768,$0.3000,$2.5000,OpenRouter,"Gemini 2.5 Flash Image, a.k.a. ""Nano Banana,"" is now generally available. It is "
+Very Low Cost,Google: Gemini 2.5 Flash Image Preview (Nano Banana),google/gemini-2.5-flash-image-preview,32768,$0.3000,$2.5000,OpenRouter,"Gemini 2.5 Flash Image Preview, a.k.a. ""Nano Banana,"" is a state of the art imag"
+Very Low Cost,Google: Gemini 2.5 Flash Lite,google/gemini-2.5-flash-lite,1048576,$0.1000,$0.4000,OpenRouter,"Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family,"
+Very Low Cost,Google: Gemini 2.5 Flash Lite Preview 09-2025,google/gemini-2.5-flash-lite-preview-09-2025,1048576,$0.1000,$0.4000,OpenRouter,"Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family,"
+Very Low Cost,Google: Gemini 2.5 Flash Preview 09-2025,google/gemini-2.5-flash-preview-09-2025,1048576,$0.3000,$2.5000,OpenRouter,Gemini 2.5 Flash Preview September 2025 Checkpoint is Google's state-of-the-art 
+Very Low Cost,Llama Guard 3 8B,meta-llama/llama-guard-3-8b,131072,$0.0200,$0.0600,OpenRouter,"Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety "
+Very Low Cost,Meta: Llama 3 70B Instruct,meta-llama/llama-3-70b-instruct,8192,$0.3000,$0.4000,OpenRouter,Meta's latest class of model (Llama 3) launched with a variety of sizes & flavor
+Very Low Cost,Meta: Llama 3 8B Instruct,meta-llama/llama-3-8b-instruct,8192,$0.0300,$0.0600,OpenRouter,Meta's latest class of model (Llama 3) launched with a variety of sizes & flavor
+Very Low Cost,Meta: Llama 3.1 70B Instruct,meta-llama/llama-3.1-70b-instruct,131072,$0.4000,$0.4000,OpenRouter,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flav
+Very Low Cost,Meta: Llama 3.1 8B Instruct,meta-llama/llama-3.1-8b-instruct,131072,$0.0200,$0.0300,OpenRouter,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flav
+Very Low Cost,Meta: Llama 3.2 11B Vision Instruct,meta-llama/llama-3.2-11b-vision-instruct,131072,$0.0490,$0.0490,OpenRouter,"Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed "
+Very Low Cost,Meta: Llama 3.2 1B Instruct,meta-llama/llama-3.2-1b-instruct,60000,$0.0270,$0.2000,OpenRouter,Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently perf
+Very Low Cost,Meta: Llama 3.2 3B Instruct,meta-llama/llama-3.2-3b-instruct,131072,$0.0200,$0.0200,OpenRouter,"Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimiz"
+Very Low Cost,Meta: Llama 3.2 90B Vision Instruct,meta-llama/llama-3.2-90b-vision-instruct,32768,$0.3500,$0.4000,OpenRouter,"The Llama 90B Vision model is a top-tier, 90-billion-parameter multimodal model "
+Very Low Cost,Meta: Llama 3.3 70B Instruct,meta-llama/llama-3.3-70b-instruct,131072,$0.1080,$0.3200,OpenRouter,The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and i
+Very Low Cost,Meta: Llama 4 Maverick,meta-llama/llama-4-maverick,1048576,$0.1360,$0.6800,OpenRouter,Llama 4 Maverick 17B Instruct (128E) is a high-capacity multimodal language mode
+Very Low Cost,Meta: Llama 4 Scout,meta-llama/llama-4-scout,327680,$0.0800,$0.3000,OpenRouter,Llama 4 Scout 17B Instruct (16E) is a mixture-of-experts (MoE) language model de
+Very Low Cost,Meta: Llama Guard 4 12B,meta-llama/llama-guard-4-12b,163840,$0.1800,$0.1800,OpenRouter,"Llama Guard 4 is a Llama 4 Scout-derived multimodal pretrained model, fine-tuned"
+Very Low Cost,Meta: LlamaGuard 2 8B,meta-llama/llama-guard-2-8b,8192,$0.2000,$0.2000,OpenRouter,This safeguard model has 8B parameters and is based on the Llama 3 family. Just 
+Very Low Cost,Microsoft: Phi 4,microsoft/phi-4,16384,$0.0600,$0.1400,OpenRouter,[Microsoft Research](/microsoft) Phi-4 is designed to perform well in complex re
+Very Low Cost,Microsoft: Phi 4 Multimodal Instruct,microsoft/phi-4-multimodal-instruct,131072,$0.0500,$0.1000,OpenRouter,Phi-4 Multimodal Instruct is a versatile 5.6B parameter foundation model that co
+Very Low Cost,Microsoft: Phi 4 Reasoning Plus,microsoft/phi-4-reasoning-plus,32768,$0.0700,$0.3500,OpenRouter,"Phi-4-reasoning-plus is an enhanced 14B parameter model from Microsoft, fine-tun"
+Very Low Cost,Microsoft: Phi-3 Mini 128K Instruct,microsoft/phi-3-mini-128k-instruct,128000,$0.1000,$0.1000,OpenRouter,Phi-3 Mini is a powerful 3.8B parameter model designed for advanced language und
+Very Low Cost,Microsoft: Phi-3.5 Mini 128K Instruct,microsoft/phi-3.5-mini-128k-instruct,128000,$0.1000,$0.1000,OpenRouter,"Phi-3.5 models are lightweight, state-of-the-art open models. These models were "
+Very Low Cost,Mistral Small,mistralai/mistral-small,32768,$0.2000,$0.6000,OpenRouter,"With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point b"
+Very Low Cost,Mistral Tiny,mistralai/mistral-tiny,32768,$0.2500,$0.2500,OpenRouter,Note: This model is being deprecated. Recommended replacement is the newer [Mini
+Very Low Cost,Mistral: Codestral 2501,mistralai/codestral-2501,256000,$0.3000,$0.9000,OpenRouter,[Mistral](/mistralai)'s cutting-edge language model for coding. Codestral specia
+Very Low Cost,Mistral: Codestral 2508,mistralai/codestral-2508,256000,$0.3000,$0.9000,OpenRouter,Mistral's cutting-edge language model for coding released end of July 2025. Code
+Very Low Cost,Mistral: Devstral Medium,mistralai/devstral-medium,131072,$0.4000,$2.0000,OpenRouter,Devstral Medium is a high-performance code generation and agentic reasoning mode
+Very Low Cost,Mistral: Devstral Small 1.1,mistralai/devstral-small,128000,$0.0700,$0.2800,OpenRouter,Devstral Small 1.1 is a 24B parameter open-weight language model for software en
+Very Low Cost,Mistral: Devstral Small 2505,mistralai/devstral-small-2505,128000,$0.0600,$0.1200,OpenRouter,Devstral-Small-2505 is a 24B parameter agentic LLM fine-tuned from Mistral-Small
+Very Low Cost,Mistral: Ministral 3B,mistralai/ministral-3b,131072,$0.0400,$0.0400,OpenRouter,Ministral 3B is a 3B parameter model optimized for on-device and edge computing.
+Very Low Cost,Mistral: Ministral 8B,mistralai/ministral-8b,131072,$0.1000,$0.1000,OpenRouter,Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-win
+Very Low Cost,Mistral: Mistral 7B Instruct,mistralai/mistral-7b-instruct,32768,$0.0280,$0.0540,OpenRouter,"A high-performing, industry-standard 7.3B parameter model, with optimizations fo"
+Very Low Cost,Mistral: Mistral 7B Instruct v0.1,mistralai/mistral-7b-instruct-v0.1,2824,$0.1100,$0.1900,OpenRouter,"A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with opti"
+Very Low Cost,Mistral: Mistral 7B Instruct v0.2,mistralai/mistral-7b-instruct-v0.2,32768,$0.2000,$0.2000,OpenRouter,"A high-performing, industry-standard 7.3B parameter model, with optimizations fo"
+Very Low Cost,Mistral: Mistral 7B Instruct v0.3,mistralai/mistral-7b-instruct-v0.3,32768,$0.2000,$0.2000,OpenRouter,"A high-performing, industry-standard 7.3B parameter model, with optimizations fo"
+Very Low Cost,Mistral: Mistral Medium 3,mistralai/mistral-medium-3,131072,$0.4000,$2.0000,OpenRouter,Mistral Medium 3 is a high-performance enterprise-grade language model designed 
+Very Low Cost,Mistral: Mistral Medium 3.1,mistralai/mistral-medium-3.1,131072,$0.4000,$2.0000,OpenRouter,"Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-pe"
+Very Low Cost,Mistral: Mistral Nemo,mistralai/mistral-nemo,131072,$0.0200,$0.0400,OpenRouter,A 12B parameter model with a 128k token context length built by Mistral in colla
+Very Low Cost,Mistral: Mistral Small 3,mistralai/mistral-small-24b-instruct-2501,32768,$0.0500,$0.0800,OpenRouter,Mistral Small 3 is a 24B-parameter language model optimized for low-latency perf
+Very Low Cost,Mistral: Mistral Small 3.1 24B,mistralai/mistral-small-3.1-24b-instruct,131072,$0.0300,$0.1100,OpenRouter,"Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501),"
+Very Low Cost,Mistral: Mistral Small 3.2 24B,mistralai/mistral-small-3.2-24b-instruct,131072,$0.0600,$0.1800,OpenRouter,Mistral-Small-3.2-24B-Instruct-2506 is an updated 24B parameter model from Mistr
+Very Low Cost,Mistral: Pixtral 12B,mistralai/pixtral-12b,32768,$0.1000,$0.1000,OpenRouter,"The first multi-modal, text+image-to-text model from Mistral AI. Its weights wer"
+Very Low Cost,Mistral: Saba,mistralai/mistral-saba,32768,$0.2000,$0.6000,OpenRouter,Mistral Saba is a 24B-parameter language model specifically designed for the Mid
+Very Low Cost,Mistral: Voxtral Small 24B 2507,mistralai/voxtral-small-24b-2507,32000,$0.1000,$0.3000,OpenRouter,"Voxtral Small is an enhancement of Mistral Small 3, incorporating state-of-the-a"
+Very Low Cost,NVIDIA: Llama 3.3 Nemotron Super 49B V1.5,nvidia/llama-3.3-nemotron-super-49b-v1.5,131072,$0.1000,$0.4000,OpenRouter,"Llama-3.3-Nemotron-Super-49B-v1.5 is a 49B-parameter, English-centric reasoning/"
+Very Low Cost,NeverSleep: Lumimaid v0.2 8B,neversleep/llama-3.1-lumimaid-8b,32768,$0.0900,$0.6000,OpenRouter,Lumimaid v0.2 8B is a finetune of [Llama 3.1 8B](/models/meta-llama/llama-3.1-8b
+Very Low Cost,Nous: DeepHermes 3 Mistral 24B Preview,nousresearch/deephermes-3-mistral-24b-preview,32768,$0.0500,$0.2000,OpenRouter,DeepHermes 3 (Mistral 24B Preview) is an instruction-tuned language model by Nou
+Very Low Cost,Nous: Hermes 3 70B Instruct,nousresearch/hermes-3-llama-3.1-70b,65536,$0.3000,$0.3000,OpenRouter,Hermes 3 is a generalist language model with many improvements over [Hermes 2](/
+Very Low Cost,NousResearch: Hermes 2 Pro - Llama-3 8B,nousresearch/hermes-2-pro-llama-3-8b,8192,$0.0250,$0.0800,OpenRouter,"Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of a"
+Very Low Cost,OpenAI: GPT-4.1 Mini,openai/gpt-4.1-mini,1047576,$0.4000,$1.6000,OpenRouter,GPT-4.1 Mini is a mid-sized model delivering performance competitive with GPT-4o
+Very Low Cost,OpenAI: GPT-4.1 Nano,openai/gpt-4.1-nano,1047576,$0.1000,$0.4000,OpenRouter,"For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest mode"
+Very Low Cost,OpenAI: GPT-4o-mini,openai/gpt-4o-mini,128000,$0.1500,$0.6000,OpenRouter,"GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), "
+Very Low Cost,OpenAI: GPT-4o-mini (2024-07-18),openai/gpt-4o-mini-2024-07-18,128000,$0.1500,$0.6000,OpenRouter,"GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), "
+Very Low Cost,OpenAI: GPT-4o-mini Search Preview,openai/gpt-4o-mini-search-preview,128000,$0.1500,$0.6000,OpenRouter,GPT-4o mini Search Preview is a specialized model for web search in Chat Complet
+Very Low Cost,Qwen2.5 72B Instruct,qwen/qwen-2.5-72b-instruct,32768,$0.0700,$0.2600,OpenRouter,Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings t
+Very Low Cost,Qwen2.5 Coder 32B Instruct,qwen/qwen-2.5-coder-32b-instruct,32768,$0.0300,$0.1100,OpenRouter,Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (
+Very Low Cost,Qwen: QwQ 32B,qwen/qwq-32b,32768,$0.1500,$0.4000,OpenRouter,QwQ is the reasoning model of the Qwen series. Compared with conventional instru
+Very Low Cost,Qwen: Qwen Plus 0728,qwen/qwen-plus-2025-07-28,1000000,$0.4000,$1.2000,OpenRouter,"Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybr"
+Very Low Cost,Qwen: Qwen Plus 0728 (thinking),qwen/qwen-plus-2025-07-28:thinking,1000000,$0.4000,$4.0000,OpenRouter,"Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybr"
+Very Low Cost,Qwen: Qwen VL Plus,qwen/qwen-vl-plus,7500,$0.2100,$0.6300,OpenRouter,Qwen's Enhanced Large Visual Language Model. Significantly upgraded for detailed
+Very Low Cost,Qwen: Qwen-Plus,qwen/qwen-plus,131072,$0.4000,$1.2000,OpenRouter,"Qwen-Plus, based on the Qwen2.5 foundation model, is a 131K context model with a"
+Very Low Cost,Qwen: Qwen-Turbo,qwen/qwen-turbo,1000000,$0.0500,$0.2000,OpenRouter,"Qwen-Turbo, based on Qwen2.5, is a 1M context model that provides fast speed and"
+Very Low Cost,Qwen: Qwen2.5 7B Instruct,qwen/qwen-2.5-7b-instruct,32768,$0.0400,$0.1000,OpenRouter,Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings th
+Very Low Cost,Qwen: Qwen2.5 Coder 7B Instruct,qwen/qwen2.5-coder-7b-instruct,32768,$0.0300,$0.0900,OpenRouter,Qwen2.5-Coder-7B-Instruct is a 7B parameter instruction-tuned language model opt
+Very Low Cost,Qwen: Qwen2.5 VL 32B Instruct,qwen/qwen2.5-vl-32b-instruct,16384,$0.0500,$0.2200,OpenRouter,Qwen2.5-VL-32B is a multimodal vision-language model fine-tuned through reinforc
+Very Low Cost,Qwen: Qwen2.5 VL 72B Instruct,qwen/qwen2.5-vl-72b-instruct,32768,$0.0300,$0.1300,OpenRouter,"Qwen2.5-VL is proficient in recognizing common objects such as flowers, birds, f"
+Very Low Cost,Qwen: Qwen2.5-VL 7B Instruct,qwen/qwen-2.5-vl-7b-instruct,32768,$0.2000,$0.2000,OpenRouter,Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enha
+Very Low Cost,Qwen: Qwen3 14B,qwen/qwen3-14b,40960,$0.0500,$0.2200,OpenRouter,Qwen3-14B is a dense 14.8B parameter causal language model from the Qwen3 series
+Very Low Cost,Qwen: Qwen3 235B A22B,qwen/qwen3-235b-a22b,40960,$0.1800,$0.5400,OpenRouter,Qwen3-235B-A22B is a 235B parameter mixture-of-experts (MoE) model developed by 
+Very Low Cost,Qwen: Qwen3 235B A22B Instruct 2507,qwen/qwen3-235b-a22b-2507,262144,$0.0710,$0.4630,OpenRouter,"Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-ex"
+Very Low Cost,Qwen: Qwen3 235B A22B Thinking 2507,qwen/qwen3-235b-a22b-thinking-2507,262144,$0.1100,$0.6000,OpenRouter,"Qwen3-235B-A22B-Thinking-2507 is a high-performance, open-weight Mixture-of-Expe"
+Very Low Cost,Qwen: Qwen3 30B A3B,qwen/qwen3-30b-a3b,40960,$0.0600,$0.2200,OpenRouter,"Qwen3, the latest generation in the Qwen large language model series, features b"
+Very Low Cost,Qwen: Qwen3 30B A3B Instruct 2507,qwen/qwen3-30b-a3b-instruct-2507,262144,$0.0800,$0.3300,OpenRouter,Qwen3-30B-A3B-Instruct-2507 is a 30.5B-parameter mixture-of-experts language mod
+Very Low Cost,Qwen: Qwen3 30B A3B Thinking 2507,qwen/qwen3-30b-a3b-thinking-2507,32768,$0.0510,$0.3400,OpenRouter,Qwen3-30B-A3B-Thinking-2507 is a 30B parameter Mixture-of-Experts reasoning mode
+Very Low Cost,Qwen: Qwen3 32B,qwen/qwen3-32b,40960,$0.0800,$0.2400,OpenRouter,Qwen3-32B is a dense 32.8B parameter causal language model from the Qwen3 series
+Very Low Cost,Qwen: Qwen3 8B,qwen/qwen3-8b,128000,$0.0280,$0.1104,OpenRouter,"Qwen3-8B is a dense 8.2B parameter causal language model from the Qwen3 series, "
+Very Low Cost,Qwen: Qwen3 Coder 30B A3B Instruct,qwen/qwen3-coder-30b-a3b-instruct,262144,$0.0600,$0.2500,OpenRouter,Qwen3-Coder-30B-A3B-Instruct is a 30.5B parameter Mixture-of-Experts (MoE) model
+Very Low Cost,Qwen: Qwen3 Coder 480B A35B,qwen/qwen3-coder,262144,$0.2200,$0.9500,OpenRouter,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation mod
+Very Low Cost,Qwen: Qwen3 Coder 480B A35B (exacto),qwen/qwen3-coder:exacto,262144,$0.3800,$1.5300,OpenRouter,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation mod
+Very Low Cost,Qwen: Qwen3 Coder Flash,qwen/qwen3-coder-flash,128000,$0.3000,$1.5000,OpenRouter,Qwen3 Coder Flash is Alibaba's fast and cost efficient version of their propriet
+Very Low Cost,Qwen: Qwen3 Next 80B A3B Instruct,qwen/qwen3-next-80b-a3b-instruct,262144,$0.1000,$0.8000,OpenRouter,Qwen3-Next-80B-A3B-Instruct is an instruction-tuned chat model in the Qwen3-Next
+Very Low Cost,Qwen: Qwen3 Next 80B A3B Thinking,qwen/qwen3-next-80b-a3b-thinking,131072,$0.1200,$1.2000,OpenRouter,Qwen3-Next-80B-A3B-Thinking is a reasoning-first chat model in the Qwen3-Next li
+Very Low Cost,Qwen: Qwen3 VL 235B A22B Instruct,qwen/qwen3-vl-235b-a22b-instruct,262144,$0.2000,$1.2000,OpenRouter,Qwen3-VL-235B-A22B Instruct is an open-weight multimodal model that unifies stro
+Very Low Cost,Qwen: Qwen3 VL 235B A22B Thinking,qwen/qwen3-vl-235b-a22b-thinking,262144,$0.3000,$1.2000,OpenRouter,Qwen3-VL-235B-A22B Thinking is a multimodal model that unifies strong text gener
+Very Low Cost,Qwen: Qwen3 VL 30B A3B Instruct,qwen/qwen3-vl-30b-a3b-instruct,262144,$0.1500,$0.6000,OpenRouter,Qwen3-VL-30B-A3B-Instruct is a multimodal model that unifies strong text generat
+Very Low Cost,Qwen: Qwen3 VL 30B A3B Thinking,qwen/qwen3-vl-30b-a3b-thinking,131072,$0.1600,$0.8000,OpenRouter,Qwen3-VL-30B-A3B-Thinking is a multimodal model that unifies strong text generat
+Very Low Cost,Qwen: Qwen3 VL 8B Instruct,qwen/qwen3-vl-8b-instruct,131072,$0.0640,$0.4000,OpenRouter,Qwen3-VL-8B-Instruct is a multimodal vision-language model from the Qwen3-VL ser
+Very Low Cost,Qwen: Qwen3 VL 8B Thinking,qwen/qwen3-vl-8b-thinking,256000,$0.1800,$2.1000,OpenRouter,Qwen3-VL-8B-Thinking is the reasoning-optimized variant of the Qwen3-VL-8B multi
+Very Low Cost,Sao10K: Llama 3 8B Lunaris,sao10k/l3-lunaris-8b,8192,$0.0400,$0.0500,OpenRouter,Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3. It'
+Very Low Cost,TNG: DeepSeek R1T Chimera,tngtech/deepseek-r1t-chimera,163840,$0.3000,$1.2000,OpenRouter,"DeepSeek-R1T-Chimera is created by merging DeepSeek-R1 and DeepSeek-V3 (0324), c"
+Very Low Cost,TNG: DeepSeek R1T2 Chimera,tngtech/deepseek-r1t2-chimera,163840,$0.3000,$1.2000,OpenRouter,DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. 
+Very Low Cost,WizardLM-2 8x22B,microsoft/wizardlm-2-8x22b,65536,$0.4800,$0.4800,OpenRouter,WizardLM-2 8x22B is Microsoft AI's most advanced Wizard model. It demonstrates h
+Low Cost,AlfredPros: CodeLLaMa 7B Instruct Solidity,alfredpros/codellama-7b-instruct-solidity,4096,$0.8000,$1.2000,OpenRouter,A finetuned 7 billion parameters Code LLaMA - Instruct model to generate Solidit
+Low Cost,Amazon: Nova Pro 1.0,amazon/nova-pro-v1,300000,$0.8000,$3.2000,OpenRouter,Amazon Nova Pro 1.0 is a capable multimodal model from Amazon focused on providi
+Low Cost,Anthropic: Claude 3.5 Haiku,anthropic/claude-3.5-haiku,200000,$0.8000,$4.0000,OpenRouter,"Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy"
+Low Cost,Anthropic: Claude 3.5 Haiku (2024-10-22),anthropic/claude-3.5-haiku-20241022,200000,$0.8000,$4.0000,OpenRouter,"Claude 3.5 Haiku features enhancements across all skill sets including coding, t"
+Low Cost,Anthropic: Claude Haiku 4.5,anthropic/claude-haiku-4.5,200000,$1.0000,$5.0000,OpenRouter,"Claude Haiku 4.5 is Anthropic’s fastest and most efficient model, delivering nea"
+Low Cost,Deep Cogito: Cogito V2 Preview Deepseek 671B,deepcogito/cogito-v2-preview-deepseek-671b,163840,$1.2500,$1.2500,OpenRouter,"Cogito v2 is a multilingual, instruction-tuned Mixture of Experts (MoE) large la"
+Low Cost,Deep Cogito: Cogito V2 Preview Llama 70B,deepcogito/cogito-v2-preview-llama-70b,32768,$0.8800,$0.8800,OpenRouter,Cogito v2 70B is a dense hybrid reasoning model that combines direct answering c
+Low Cost,DeepSeek: DeepSeek Prover V2,deepseek/deepseek-prover-v2,163840,$0.5000,$2.1800,OpenRouter,"DeepSeek Prover V2 is a 671B parameter model, speculated to be geared towards lo"
+Low Cost,Google: Gemini 2.5 Pro,google/gemini-2.5-pro,1048576,$1.2500,$10.0000,OpenRouter,Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reaso
+Low Cost,Google: Gemini 2.5 Pro Preview 05-06,google/gemini-2.5-pro-preview-05-06,1048576,$1.2500,$10.0000,OpenRouter,Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reaso
+Low Cost,Google: Gemini 2.5 Pro Preview 06-05,google/gemini-2.5-pro-preview,1048576,$1.2500,$10.0000,OpenRouter,Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reaso
+Low Cost,Microsoft: Phi-3 Medium 128K Instruct,microsoft/phi-3-medium-128k-instruct,128000,$1.0000,$1.0000,OpenRouter,Phi-3 128K Medium is a powerful 14-billion parameter model designed for advanced
+Low Cost,Mistral: Magistral Small 2506,mistralai/magistral-small-2506,40000,$0.5000,$1.5000,OpenRouter,Magistral Small is a 24B parameter instruction-tuned model based on Mistral-Smal
+Low Cost,Mistral: Mistral Large 3 2512,mistralai/mistral-large-2512,262144,$0.5000,$1.5000,OpenRouter,"Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse"
+Low Cost,Mistral: Mixtral 8x7B Instruct,mistralai/mixtral-8x7b-instruct,32768,$0.5400,$0.5400,OpenRouter,"Mixtral 8x7B Instruct is a pretrained generative Sparse Mixture of Experts, by M"
+Low Cost,NVIDIA: Llama 3.1 Nemotron 70B Instruct,nvidia/llama-3.1-nemotron-70b-instruct,131072,$1.2000,$1.2000,OpenRouter,NVIDIA's Llama 3.1 Nemotron 70B is a language model designed for generating prec
+Low Cost,NVIDIA: Llama 3.1 Nemotron Ultra 253B v1,nvidia/llama-3.1-nemotron-ultra-253b-v1,131072,$0.6000,$1.8000,OpenRouter,Llama-3.1-Nemotron-Ultra-253B-v1 is a large language model (LLM) optimized for a
+Low Cost,Nous: Hermes 3 405B Instruct,nousresearch/hermes-3-llama-3.1-405b,131072,$1.0000,$1.0000,OpenRouter,"Hermes 3 is a generalist language model with many improvements over Hermes 2, in"
+Low Cost,OpenAI: GPT-3.5 Turbo,openai/gpt-3.5-turbo,16385,$0.5000,$1.5000,OpenRouter,GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural 
+Low Cost,OpenAI: GPT-3.5 Turbo (older v0613),openai/gpt-3.5-turbo-0613,4095,$1.0000,$2.0000,OpenRouter,GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural 
+Low Cost,OpenAI: GPT-3.5 Turbo Instruct,openai/gpt-3.5-turbo-instruct,4095,$1.5000,$2.0000,OpenRouter,This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omi
+Low Cost,Qwen: Qwen VL Max,qwen/qwen-vl-max,131072,$0.8000,$3.2000,OpenRouter,Qwen VL Max is a visual understanding model with 7500 tokens context length. It 
+Low Cost,Qwen: Qwen-Max ,qwen/qwen-max,32768,$1.6000,$6.4000,OpenRouter,"Qwen-Max, based on Qwen2.5, provides the best inference performance among [Qwen "
+Low Cost,Qwen: Qwen3 Coder Plus,qwen/qwen3-coder-plus,128000,$1.0000,$5.0000,OpenRouter,Qwen3 Coder Plus is Alibaba's proprietary version of the Open Source Qwen3 Coder
+Low Cost,Qwen: Qwen3 Max,qwen/qwen3-max,256000,$1.2000,$6.0000,OpenRouter,"Qwen3-Max is an updated release built on the Qwen3 series, offering major improv"
+Low Cost,Sao10K: Llama 3.1 Euryale 70B v2.2,sao10k/l3.1-euryale-70b,32768,$0.6500,$0.7500,OpenRouter,Euryale L3.1 70B v2.2 is a model focused on creative roleplay from [Sao10k](http
+Low Cost,Sao10K: Llama 3.3 Euryale 70B,sao10k/l3.3-euryale-70b,131072,$0.6500,$0.7500,OpenRouter,Euryale L3.3 70B is a model focused on creative roleplay from [Sao10k](https://k
+Low Cost,Sao10k: Llama 3 Euryale 70B v2.1,sao10k/l3-euryale-70b,8192,$1.4800,$1.4800,OpenRouter,Euryale 70B v2.1 is a model focused on creative roleplay from [Sao10k](https://k
+Medium Cost,Amazon: Nova Premier 1.0,amazon/nova-premier-v1,1000000,$2.5000,$12.5000,OpenRouter,Amazon Nova Premier is the most capable of Amazon’s multimodal models for comple
+Medium Cost,Anthropic: Claude 3.5 Sonnet,anthropic/claude-3.5-sonnet,200000,$6.0000,$30.0000,OpenRouter,"New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet"
+Medium Cost,Anthropic: Claude 3.7 Sonnet,anthropic/claude-3.7-sonnet,200000,$3.0000,$15.0000,OpenRouter,"Claude 3.7 Sonnet is an advanced large language model with improved reasoning, c"
+Medium Cost,Anthropic: Claude 3.7 Sonnet (thinking),anthropic/claude-3.7-sonnet:thinking,200000,$3.0000,$15.0000,OpenRouter,"Claude 3.7 Sonnet is an advanced large language model with improved reasoning, c"
+Medium Cost,Anthropic: Claude Opus 4.5,anthropic/claude-opus-4.5,200000,$5.0000,$25.0000,OpenRouter,Claude Opus 4.5 is Anthropic’s frontier reasoning model optimized for complex so
+Medium Cost,Anthropic: Claude Sonnet 4,anthropic/claude-sonnet-4,1000000,$3.0000,$15.0000,OpenRouter,"Claude Sonnet 4 significantly enhances the capabilities of its predecessor, Sonn"
+Medium Cost,Anthropic: Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,1000000,$3.0000,$15.0000,OpenRouter,"Claude Sonnet 4.5 is Anthropic’s most advanced Sonnet model to date, optimized f"
+Medium Cost,Cohere: Command A,cohere/command-a,256000,$2.5000,$10.0000,OpenRouter,Command A is an open-weights 111B parameter model with a 256k context window foc
+Medium Cost,Cohere: Command R+ (08-2024),cohere/command-r-plus-08-2024,128000,$2.5000,$10.0000,OpenRouter,command-r-plus-08-2024 is an update of the [Command R+](/models/cohere/command-r
+Medium Cost,Deep Cogito: Cogito V2 Preview Llama 405B,deepcogito/cogito-v2-preview-llama-405b,32768,$3.5000,$3.5000,OpenRouter,Cogito v2 405B is a dense hybrid reasoning model that combines direct answering 
+Medium Cost,Google: Gemini 3 Pro Preview,google/gemini-3-pro-preview,1048576,$2.0000,$12.0000,OpenRouter,Gemini 3 Pro is Google’s flagship frontier model for high-precision multimodal r
+Medium Cost,Google: Nano Banana Pro (Gemini 3 Pro Image Preview),google/gemini-3-pro-image-preview,65536,$2.0000,$12.0000,OpenRouter,"Nano Banana Pro is Google’s most advanced image-generation and editing model, bu"
+Medium Cost,Meta: Llama 3.1 405B (base),meta-llama/llama-3.1-405b,32768,$4.0000,$4.0000,OpenRouter,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flav
+Medium Cost,Meta: Llama 3.1 405B Instruct,meta-llama/llama-3.1-405b-instruct,130815,$3.5000,$3.5000,OpenRouter,The highly anticipated 400B class of Llama3 is here! Clocking in at 128k context
+Medium Cost,Mistral Large,mistralai/mistral-large,128000,$2.0000,$6.0000,OpenRouter,"This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-240"
+Medium Cost,Mistral Large 2407,mistralai/mistral-large-2407,131072,$2.0000,$6.0000,OpenRouter,"This is Mistral AI's flagship model, Mistral Large 2 (version mistral-large-2407"
+Medium Cost,Mistral Large 2411,mistralai/mistral-large-2411,131072,$2.0000,$6.0000,OpenRouter,Mistral Large 2 2411 is an update of [Mistral Large 2](/mistralai/mistral-large)
+Medium Cost,Mistral: Magistral Medium 2506,mistralai/magistral-medium-2506,40960,$2.0000,$5.0000,OpenRouter,Magistral is Mistral's first reasoning model. It is ideal for general purpose us
+Medium Cost,Mistral: Magistral Medium 2506 (thinking),mistralai/magistral-medium-2506:thinking,40960,$2.0000,$5.0000,OpenRouter,Magistral is Mistral's first reasoning model. It is ideal for general purpose us
+Medium Cost,Mistral: Mixtral 8x22B Instruct,mistralai/mixtral-8x22b-instruct,65536,$2.0000,$6.0000,OpenRouter,Mistral's official instruct fine-tuned version of [Mixtral 8x22B](/models/mistra
+Medium Cost,Mistral: Pixtral Large 2411,mistralai/pixtral-large-2411,131072,$2.0000,$6.0000,OpenRouter,"Pixtral Large is a 124B parameter, open-weight, multimodal model built on top of"
+Medium Cost,OpenAI: ChatGPT-4o,openai/chatgpt-4o-latest,128000,$5.0000,$15.0000,OpenRouter,OpenAI ChatGPT 4o is continually updated by OpenAI to point to the current versi
+Medium Cost,OpenAI: GPT-3.5 Turbo 16k,openai/gpt-3.5-turbo-16k,16385,$3.0000,$4.0000,OpenRouter,"This model offers four times the context length of gpt-3.5-turbo, allowing it to"
+Medium Cost,OpenAI: GPT-4.1,openai/gpt-4.1,1047576,$2.0000,$8.0000,OpenRouter,GPT-4.1 is a flagship large language model optimized for advanced instruction fo
+Medium Cost,OpenAI: GPT-4o,openai/gpt-4o,128000,$2.5000,$10.0000,OpenRouter,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and im"
+Medium Cost,OpenAI: GPT-4o (2024-05-13),openai/gpt-4o-2024-05-13,128000,$5.0000,$15.0000,OpenRouter,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and im"
+Medium Cost,OpenAI: GPT-4o (2024-08-06),openai/gpt-4o-2024-08-06,128000,$2.5000,$10.0000,OpenRouter,The 2024-08-06 version of GPT-4o offers improved performance in structured outpu
+Medium Cost,OpenAI: GPT-4o (2024-11-20),openai/gpt-4o-2024-11-20,128000,$2.5000,$10.0000,OpenRouter,The 2024-11-20 version of GPT-4o offers a leveled-up creative writing ability wi
+Medium Cost,OpenAI: GPT-4o (extended),openai/gpt-4o:extended,128000,$6.0000,$18.0000,OpenRouter,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and im"
+Medium Cost,OpenAI: GPT-4o Audio,openai/gpt-4o-audio-preview,128000,$2.5000,$10.0000,OpenRouter,The gpt-4o-audio-preview model adds support for audio inputs as prompts. This en
+Medium Cost,OpenAI: GPT-4o Search Preview,openai/gpt-4o-search-preview,128000,$2.5000,$10.0000,OpenRouter,GPT-4o Search Previewis a specialized model for web search in Chat Completions. 
+Medium Cost,Sao10K: Llama 3.1 70B Hanami x1,sao10k/l3.1-70b-hanami-x1,16000,$3.0000,$3.0000,OpenRouter,This is [Sao10K](/sao10k)'s experiment over [Euryale v2.2](/sao10k/l3.1-euryale-
+Premium,Anthropic: Claude 3 Opus,anthropic/claude-3-opus,200000,$15.0000,$75.0000,OpenRouter,Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It bo
+Premium,Anthropic: Claude Opus 4,anthropic/claude-opus-4,200000,$15.0000,$75.0000,OpenRouter,"Claude Opus 4 is benchmarked as the world’s best coding model, at time of releas"
+Premium,Anthropic: Claude Opus 4.1,anthropic/claude-opus-4.1,200000,$15.0000,$75.0000,OpenRouter,"Claude Opus 4.1 is an updated version of Anthropic’s flagship model, offering im"
+Premium,OpenAI: GPT-4,openai/gpt-4,8191,$30.0000,$60.0000,OpenRouter,"OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capabl"
+Premium,OpenAI: GPT-4 (older v0314),openai/gpt-4-0314,8191,$30.0000,$60.0000,OpenRouter,"GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,19"
+Premium,OpenAI: GPT-4 Turbo,openai/gpt-4-turbo,128000,$10.0000,$30.0000,OpenRouter,The latest GPT-4 Turbo model with vision capabilities. Vision requests can now u
+Premium,OpenAI: GPT-4 Turbo (older v1106),openai/gpt-4-1106-preview,128000,$10.0000,$30.0000,OpenRouter,The latest GPT-4 Turbo model with vision capabilities. Vision requests can now u
+Premium,OpenAI: GPT-4 Turbo Preview,openai/gpt-4-turbo-preview,128000,$10.0000,$30.0000,OpenRouter,"The preview GPT-4 model with improved instruction following, JSON mode, reproduc"
