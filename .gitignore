@@ -43,3 +43,9 @@ node_modules/
 *.key
 secrets/
 credentials/
+
+# Specific API key files
+../AI/openrouterKey.md
+../AI/poeAPI.md
+**/openrouterKey.md
+**/poeAPI.md

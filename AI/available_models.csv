@@ -1,0 +1,353 @@
+provider,model_id,name,context_length,prompt_cost,completion_cost,created,description
+OpenRouter,amazon/nova-2-lite-v1:free,Amazon: Nova 2 Lite (free),1000000,0,0,1764696672,"Nova 2 Lite is a fast, cost-effective reasoning model for everyday workloads that can process text, "
+OpenRouter,amazon/nova-2-lite-v1,Amazon: Nova 2 Lite,1000000,0.0000003,0.0000025,1764696672,"Nova 2 Lite is a fast, cost-effective reasoning model for everyday workloads that can process text, "
+OpenRouter,mistralai/mistral-large-2512,Mistral: Mistral Large 3 2512,262144,0.0000005,0.0000015,1764624472,"Mistral Large 3 2512 is Mistral’s most capable model to date, featuring a sparse mixture-of-experts "
+OpenRouter,arcee-ai/trinity-mini:free,Arcee AI: Trinity Mini (free),131072,0,0,1764601720,Trinity Mini is a 26B-parameter (3B active) sparse mixture-of-experts language model featuring 128 e
+OpenRouter,arcee-ai/trinity-mini,Arcee AI: Trinity Mini,131072,0.000000045,0.00000015,1764601720,Trinity Mini is a 26B-parameter (3B active) sparse mixture-of-experts language model featuring 128 e
+OpenRouter,deepseek/deepseek-v3.2-speciale,DeepSeek: DeepSeek V3.2 Speciale,163840,0.00000027,0.00000041,1764594837,DeepSeek-V3.2-Speciale is a high-compute variant of DeepSeek-V3.2 optimized for maximum reasoning an
+OpenRouter,deepseek/deepseek-v3.2,DeepSeek: DeepSeek V3.2,163840,0.00000027,0.0000004,1764594642,DeepSeek-V3.2 is a large language model designed to harmonize high computational efficiency with str
+OpenRouter,prime-intellect/intellect-3,Prime Intellect: INTELLECT-3,131072,0.0000002,0.0000011,1764212534,INTELLECT-3 is a 106B-parameter Mixture-of-Experts model (12B active) post-trained from GLM-4.5-Air-
+OpenRouter,tngtech/tng-r1t-chimera:free,TNG: R1T Chimera (free),163840,0,0,1764184161,TNG-R1T-Chimera is an experimental LLM with a faible for creative storytelling and character interac
+OpenRouter,tngtech/tng-r1t-chimera,TNG: R1T Chimera,163840,0.0000003,0.0000012,1764184161,TNG-R1T-Chimera is an experimental LLM with a faible for creative storytelling and character interac
+OpenRouter,anthropic/claude-opus-4.5,Anthropic: Claude Opus 4.5,200000,0.000005,0.000025,1764010580,"Claude Opus 4.5 is Anthropic’s frontier reasoning model optimized for complex software engineering, "
+OpenRouter,allenai/olmo-3-32b-think:free,AllenAI: Olmo 3 32B Think (free),65536,0,0,1763758276,"Olmo 3 32B Think is a large-scale, 32-billion-parameter model purpose-built for deep reasoning, comp"
+OpenRouter,allenai/olmo-3-7b-instruct,AllenAI: Olmo 3 7B Instruct,65536,0.0000001,0.0000002,1763758273,"Olmo 3 7B Instruct is a supervised instruction-fine-tuned variant of the Olmo 3 7B base model, optim"
+OpenRouter,allenai/olmo-3-7b-think,AllenAI: Olmo 3 7B Think,65536,0.00000012,0.0000002,1763758270,Olmo 3 7B Think is a research-oriented language model in the Olmo family designed for advanced reaso
+OpenRouter,google/gemini-3-pro-image-preview,Google: Nano Banana Pro (Gemini 3 Pro Image Preview),65536,0.000002,0.000012,1763653797,"Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro."
+OpenRouter,x-ai/grok-4.1-fast,xAI: Grok 4.1 Fast,2000000,0.0000002,0.0000005,1763587502,Grok 4.1 Fast is xAI's best agentic tool calling model that shines in real-world use cases like cust
+OpenRouter,google/gemini-3-pro-preview,Google: Gemini 3 Pro Preview,1048576,0.000002,0.000012,1763474668,"Gemini 3 Pro is Google’s flagship frontier model for high-precision multimodal reasoning, combining "
+OpenRouter,deepcogito/cogito-v2.1-671b,Deep Cogito: Cogito v2.1 671B,128000,0.00000125,0.00000125,1763071233,"Cogito v2.1 671B MoE represents one of the strongest open models globally, matching performance of f"
+OpenRouter,openai/gpt-5.1,OpenAI: GPT-5.1,400000,0.00000125,0.00001,1763060305,"GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose re"
+OpenRouter,openai/gpt-5.1-chat,OpenAI: GPT-5.1 Chat,128000,0.00000125,0.00001,1763060302,"GPT-5.1 Chat (AKA Instant is the fast, lightweight member of the 5.1 family, optimized for low-laten"
+OpenRouter,openai/gpt-5.1-codex,OpenAI: GPT-5.1-Codex,400000,0.00000125,0.00001,1763060298,GPT-5.1-Codex is a specialized version of GPT-5.1 optimized for software engineering and coding work
+OpenRouter,openai/gpt-5.1-codex-mini,OpenAI: GPT-5.1-Codex-Mini,400000,0.00000025,0.000002,1763057820,GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex
+OpenRouter,kwaipilot/kat-coder-pro:free,Kwaipilot: KAT-Coder-Pro V1 (free),256000,0,0,1762745912,KAT-Coder-Pro V1 is KwaiKAT's most advanced agentic coding model in the KAT-Coder series. Designed s
+OpenRouter,moonshotai/kimi-linear-48b-a3b-instruct,MoonshotAI: Kimi Linear 48B A3B Instruct,1048576,0.0000005,0.0000006,1762565833,Kimi Linear is a hybrid linear attention architecture that outperforms traditional full attention me
+OpenRouter,moonshotai/kimi-k2-thinking,MoonshotAI: Kimi K2 Thinking,262144,0.00000045,0.00000235,1762440622,"Kimi K2 Thinking is Moonshot AI’s most advanced open reasoning model to date, extending the K2 serie"
+OpenRouter,amazon/nova-premier-v1,Amazon: Nova Premier 1.0,1000000,0.0000025,0.0000125,1761950332,Amazon Nova Premier is the most capable of Amazon’s multimodal models for complex reasoning tasks an
+OpenRouter,perplexity/sonar-pro-search,Perplexity: Sonar Pro Search,200000,0.000003,0.000015,1761854366,"Exclusively available on the OpenRouter API, Sonar Pro's new Pro Search mode is Perplexity's most ad"
+OpenRouter,mistralai/voxtral-small-24b-2507,Mistral: Voxtral Small 24B 2507,32000,0.0000001,0.0000003,1761835144,"Voxtral Small is an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capab"
+OpenRouter,openai/gpt-oss-safeguard-20b,OpenAI: gpt-oss-safeguard-20b,131072,0.000000075,0.0000003,1761752836,gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b. This open-weig
+OpenRouter,nvidia/nemotron-nano-12b-v2-vl:free,NVIDIA: Nemotron Nano 12B 2 VL (free),128000,0,0,1761675565,NVIDIA Nemotron Nano 2 VL is a 12-billion-parameter open multimodal reasoning model designed for vid
+OpenRouter,nvidia/nemotron-nano-12b-v2-vl,NVIDIA: Nemotron Nano 12B 2 VL,131072,0.0000002,0.0000006,1761675565,NVIDIA Nemotron Nano 2 VL is a 12-billion-parameter open multimodal reasoning model designed for vid
+OpenRouter,minimax/minimax-m2,MiniMax: MiniMax M2,204800,0.000000255,0.00000102,1761252093,"MiniMax-M2 is a compact, high-efficiency large language model optimized for end-to-end coding and ag"
+OpenRouter,liquid/lfm2-8b-a1b,LiquidAI/LFM2-8B-A1B,32768,0.00000005,0.0000001,1760970984,Model created via inbox interface
+OpenRouter,liquid/lfm-2.2-6b,LiquidAI/LFM2-2.6B,32768,0.00000005,0.0000001,1760970889,"LFM2 is a new generation of hybrid models developed by Liquid AI, specifically designed for edge AI "
+OpenRouter,ibm-granite/granite-4.0-h-micro,IBM: Granite 4.0 Micro,131000,0.000000017,0.00000011,1760927695,Granite-4.0-H-Micro is a 3B parameter from the Granite 4 family of models. These models are the late
+OpenRouter,deepcogito/cogito-v2-preview-llama-405b,Deep Cogito: Cogito V2 Preview Llama 405B,32768,0.0000035,0.0000035,1760709933,Cogito v2 405B is a dense hybrid reasoning model that combines direct answering capabilities with ad
+OpenRouter,openai/gpt-5-image-mini,OpenAI: GPT-5 Image Mini,400000,0.0000025,0.000002,1760624583,"GPT-5 Image Mini combines OpenAI's advanced language capabilities, powered by [GPT-5 Mini](https://o"
+OpenRouter,anthropic/claude-haiku-4.5,Anthropic: Claude Haiku 4.5,200000,0.000001,0.000005,1760547638,"Claude Haiku 4.5 is Anthropic’s fastest and most efficient model, delivering near-frontier intellige"
+OpenRouter,qwen/qwen3-vl-8b-thinking,Qwen: Qwen3 VL 8B Thinking,256000,0.00000018,0.0000021,1760463746,"Qwen3-VL-8B-Thinking is the reasoning-optimized variant of the Qwen3-VL-8B multimodal model, designe"
+OpenRouter,qwen/qwen3-vl-8b-instruct,Qwen: Qwen3 VL 8B Instruct,131072,0.000000064,0.0000004,1760463308,"Qwen3-VL-8B-Instruct is a multimodal vision-language model from the Qwen3-VL series, built for high-"
+OpenRouter,openai/gpt-5-image,OpenAI: GPT-5 Image,400000,0.00001,0.00001,1760447986,[GPT-5](https://openrouter.ai/openai/gpt-5) Image combines OpenAI's most advanced language model wit
+OpenRouter,openai/o3-deep-research,OpenAI: o3 Deep Research,200000,0.00001,0.00004,1760129661,"o3-deep-research is OpenAI's advanced model for deep research, designed to tackle complex, multi-ste"
+OpenRouter,openai/o4-mini-deep-research,OpenAI: o4 Mini Deep Research,200000,0.000002,0.000008,1760129642,"o4-mini-deep-research is OpenAI's faster, more affordable deep research model—ideal for tackling com"
+OpenRouter,nvidia/llama-3.3-nemotron-super-49b-v1.5,NVIDIA: Llama 3.3 Nemotron Super 49B V1.5,131072,0.0000001,0.0000004,1760101395,"Llama-3.3-Nemotron-Super-49B-v1.5 is a 49B-parameter, English-centric reasoning/chat model derived f"
+OpenRouter,baidu/ernie-4.5-21b-a3b-thinking,Baidu: ERNIE 4.5 21B A3B Thinking,131072,0.000000056,0.000000224,1760048887,"ERNIE-4.5-21B-A3B-Thinking is Baidu's upgraded lightweight MoE model, refined to boost reasoning dep"
+OpenRouter,google/gemini-2.5-flash-image,Google: Gemini 2.5 Flash Image (Nano Banana),32768,0.0000003,0.0000025,1759870431,"Gemini 2.5 Flash Image, a.k.a. ""Nano Banana,"" is now generally available. It is a state of the art i"
+OpenRouter,qwen/qwen3-vl-30b-a3b-thinking,Qwen: Qwen3 VL 30B A3B Thinking,131072,0.00000016,0.0000008,1759794479,Qwen3-VL-30B-A3B-Thinking is a multimodal model that unifies strong text generation with visual unde
+OpenRouter,qwen/qwen3-vl-30b-a3b-instruct,Qwen: Qwen3 VL 30B A3B Instruct,262144,0.00000015,0.0000006,1759794476,Qwen3-VL-30B-A3B-Instruct is a multimodal model that unifies strong text generation with visual unde
+OpenRouter,openai/gpt-5-pro,OpenAI: GPT-5 Pro,400000,0.000015,0.00012,1759776663,"GPT-5 Pro is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, a"
+OpenRouter,z-ai/glm-4.6,Z.AI: GLM 4.6,202752,0.0000004,0.00000175,1759235576,"Compared with GLM-4.5, this generation brings several key improvements:
+
+Longer context window: The "
+OpenRouter,z-ai/glm-4.6:exacto,Z.AI: GLM 4.6 (exacto),202752,0.00000043,0.00000175,1759235576,"Compared with GLM-4.5, this generation brings several key improvements:
+
+Longer context window: The "
+OpenRouter,anthropic/claude-sonnet-4.5,Anthropic: Claude Sonnet 4.5,1000000,0.000003,0.000015,1759161676,"Claude Sonnet 4.5 is Anthropic’s most advanced Sonnet model to date, optimized for real-world agents"
+OpenRouter,deepseek/deepseek-v3.2-exp,DeepSeek: DeepSeek V3.2 Exp,163840,0.00000021,0.00000032,1759150481,DeepSeek-V3.2-Exp is an experimental large language model released by DeepSeek as an intermediate st
+OpenRouter,thedrummer/cydonia-24b-v4.1,TheDrummer: Cydonia 24B V4.1,131072,0.0000003,0.0000005,1758931878,"Uncensored and creative writing model based on Mistral Small 3.2 24B with good recall, prompt adhere"
+OpenRouter,relace/relace-apply-3,Relace: Relace Apply 3,256000,0.00000085,0.00000125,1758891572,Relace Apply 3 is a specialized code-patching LLM that merges AI-suggested edits straight into your 
+OpenRouter,google/gemini-2.5-flash-preview-09-2025,Google: Gemini 2.5 Flash Preview 09-2025,1048576,0.0000003,0.0000025,1758820178,"Gemini 2.5 Flash Preview September 2025 Checkpoint is Google's state-of-the-art workhorse model, spe"
+OpenRouter,google/gemini-2.5-flash-lite-preview-09-2025,Google: Gemini 2.5 Flash Lite Preview 09-2025,1048576,0.0000001,0.0000004,1758819686,"Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family, optimized for ultra"
+OpenRouter,qwen/qwen3-vl-235b-a22b-thinking,Qwen: Qwen3 VL 235B A22B Thinking,262144,0.0000003,0.0000012,1758668690,Qwen3-VL-235B-A22B Thinking is a multimodal model that unifies strong text generation with visual un
+OpenRouter,qwen/qwen3-vl-235b-a22b-instruct,Qwen: Qwen3 VL 235B A22B Instruct,262144,0.0000002,0.0000012,1758668687,Qwen3-VL-235B-A22B Instruct is an open-weight multimodal model that unifies strong text generation w
+OpenRouter,qwen/qwen3-max,Qwen: Qwen3 Max,256000,0.0000012,0.000006,1758662808,"Qwen3-Max is an updated release built on the Qwen3 series, offering major improvements in reasoning,"
+OpenRouter,qwen/qwen3-coder-plus,Qwen: Qwen3 Coder Plus,128000,0.000001,0.000005,1758662707,Qwen3 Coder Plus is Alibaba's proprietary version of the Open Source Qwen3 Coder 480B A35B. It is a 
+OpenRouter,openai/gpt-5-codex,OpenAI: GPT-5 Codex,400000,0.00000125,0.00001,1758643403,GPT-5-Codex is a specialized version of GPT-5 optimized for software engineering and coding workflow
+OpenRouter,deepseek/deepseek-v3.1-terminus:exacto,DeepSeek: DeepSeek V3.1 Terminus (exacto),163840,0.00000021,0.00000079,1758548275,DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v3.1) that maintains 
+OpenRouter,deepseek/deepseek-v3.1-terminus,DeepSeek: DeepSeek V3.1 Terminus,163840,0.00000021,0.00000079,1758548275,DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v3.1) that maintains 
+OpenRouter,x-ai/grok-4-fast,xAI: Grok 4 Fast,2000000,0.0000002,0.0000005,1758240090,Grok 4 Fast is xAI's latest multimodal model with SOTA cost-efficiency and a 2M token context window
+OpenRouter,alibaba/tongyi-deepresearch-30b-a3b:free,Tongyi DeepResearch 30B A3B (free),131072,0,0,1758210804,"Tongyi DeepResearch is an agentic large language model developed by Tongyi Lab, with 30 billion tota"
+OpenRouter,alibaba/tongyi-deepresearch-30b-a3b,Tongyi DeepResearch 30B A3B,131072,0.00000009,0.0000004,1758210804,"Tongyi DeepResearch is an agentic large language model developed by Tongyi Lab, with 30 billion tota"
+OpenRouter,qwen/qwen3-coder-flash,Qwen: Qwen3 Coder Flash,128000,0.0000003,0.0000015,1758115536,Qwen3 Coder Flash is Alibaba's fast and cost efficient version of their proprietary Qwen3 Coder Plus
+OpenRouter,opengvlab/internvl3-78b,OpenGVLab: InternVL3 78B,32768,0.00000007,0.00000026,1757962555,The InternVL3 series is an advanced multimodal large language model (MLLM). Compared to InternVL 2.5
+OpenRouter,qwen/qwen3-next-80b-a3b-thinking,Qwen: Qwen3 Next 80B A3B Thinking,131072,0.00000012,0.0000012,1757612284,Qwen3-Next-80B-A3B-Thinking is a reasoning-first chat model in the Qwen3-Next line that outputs stru
+OpenRouter,qwen/qwen3-next-80b-a3b-instruct,Qwen: Qwen3 Next 80B A3B Instruct,262144,0.0000001,0.0000008,1757612213,Qwen3-Next-80B-A3B-Instruct is an instruction-tuned chat model in the Qwen3-Next series optimized fo
+OpenRouter,meituan/longcat-flash-chat:free,Meituan: LongCat Flash Chat (free),131072,0,0,1757427658,"LongCat-Flash-Chat is a large-scale Mixture-of-Experts (MoE) model with 560B total parameters, of wh"
+OpenRouter,meituan/longcat-flash-chat,Meituan: LongCat Flash Chat,131072,0.00000015,0.00000075,1757427658,"LongCat-Flash-Chat is a large-scale Mixture-of-Experts (MoE) model with 560B total parameters, of wh"
+OpenRouter,qwen/qwen-plus-2025-07-28,Qwen: Qwen Plus 0728,1000000,0.0000004,0.0000012,1757347599,"Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model w"
+OpenRouter,qwen/qwen-plus-2025-07-28:thinking,Qwen: Qwen Plus 0728 (thinking),1000000,0.0000004,0.000004,1757347599,"Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model w"
+OpenRouter,nvidia/nemotron-nano-9b-v2:free,NVIDIA: Nemotron Nano 9B V2 (free),128000,0,0,1757106807,"NVIDIA-Nemotron-Nano-9B-v2 is a large language model (LLM) trained from scratch by NVIDIA, and desig"
+OpenRouter,nvidia/nemotron-nano-9b-v2,NVIDIA: Nemotron Nano 9B V2,131072,0.00000004,0.00000016,1757106807,"NVIDIA-Nemotron-Nano-9B-v2 is a large language model (LLM) trained from scratch by NVIDIA, and desig"
+OpenRouter,moonshotai/kimi-k2-0905,MoonshotAI: Kimi K2 0905,262144,0.00000039,0.0000019,1757021147,Kimi K2 0905 is the September update of [Kimi K2 0711](moonshotai/kimi-k2). It is a large-scale Mixt
+OpenRouter,moonshotai/kimi-k2-0905:exacto,MoonshotAI: Kimi K2 0905 (exacto),262144,0.0000006,0.0000025,1757021147,Kimi K2 0905 is the September update of [Kimi K2 0711](moonshotai/kimi-k2). It is a large-scale Mixt
+OpenRouter,deepcogito/cogito-v2-preview-llama-70b,Deep Cogito: Cogito V2 Preview Llama 70B,32768,0.00000088,0.00000088,1756831784,Cogito v2 70B is a dense hybrid reasoning model that combines direct answering capabilities with adv
+OpenRouter,deepcogito/cogito-v2-preview-llama-109b-moe,Cogito V2 Preview Llama 109B,32767,0.00000018,0.00000059,1756831568,"An instruction-tuned, hybrid-reasoning Mixture-of-Experts model built on Llama-4-Scout-17B-16E. Cogi"
+OpenRouter,deepcogito/cogito-v2-preview-deepseek-671b,Deep Cogito: Cogito V2 Preview Deepseek 671B,163840,0.00000125,0.00000125,1756830949,"Cogito v2 is a multilingual, instruction-tuned Mixture of Experts (MoE) large language model with 67"
+OpenRouter,stepfun-ai/step3,StepFun: Step3,65536,0.00000057,0.00000142,1756415375,Step3 is a cutting-edge multimodal reasoning model—built on a Mixture-of-Experts architecture with 3
+OpenRouter,qwen/qwen3-30b-a3b-thinking-2507,Qwen: Qwen3 30B A3B Thinking 2507,32768,0.000000051,0.00000034,1756399192,Qwen3-30B-A3B-Thinking-2507 is a 30B parameter Mixture-of-Experts reasoning model optimized for comp
+OpenRouter,x-ai/grok-code-fast-1,xAI: Grok Code Fast 1,256000,0.0000002,0.0000015,1756238927,Grok Code Fast 1 is a speedy and economical reasoning model that excels at agentic coding. With reas
+OpenRouter,nousresearch/hermes-4-70b,Nous: Hermes 4 70B,131072,0.00000011,0.00000038,1756236182,"Hermes 4 70B is a hybrid reasoning model from Nous Research, built on Meta-Llama-3.1-70B. It introdu"
+OpenRouter,nousresearch/hermes-4-405b,Nous: Hermes 4 405B,131072,0.0000003,0.0000012,1756235463,Hermes 4 is a large-scale reasoning model built on Meta-Llama-3.1-405B and released by Nous Research
+OpenRouter,google/gemini-2.5-flash-image-preview,Google: Gemini 2.5 Flash Image Preview (Nano Banana),32768,0.0000003,0.0000025,1756218977,"Gemini 2.5 Flash Image Preview, a.k.a. ""Nano Banana,"" is a state of the art image generation model w"
+OpenRouter,deepseek/deepseek-chat-v3.1,DeepSeek: DeepSeek V3.1,163840,0.0000002,0.0000008,1755779628,"DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) that supports both thi"
+OpenRouter,openai/gpt-4o-audio-preview,OpenAI: GPT-4o Audio,128000,0.0000025,0.00001,1755233061,The gpt-4o-audio-preview model adds support for audio inputs as prompts. This enhancement allows the
+OpenRouter,mistralai/mistral-medium-3.1,Mistral: Mistral Medium 3.1,131072,0.0000004,0.000002,1755095639,"Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise"
+OpenRouter,baidu/ernie-4.5-21b-a3b,Baidu: ERNIE 4.5 21B A3B,120000,0.000000056,0.000000224,1755034167,A sophisticated text-based Mixture-of-Experts (MoE) model featuring 21B total parameters with 3B act
+OpenRouter,baidu/ernie-4.5-vl-28b-a3b,Baidu: ERNIE 4.5 VL 28B A3B,30000,0.000000112,0.000000448,1755032836,A powerful multimodal Mixture-of-Experts chat model featuring 28B total parameters with 3B activated
+OpenRouter,z-ai/glm-4.5v,Z.AI: GLM 4.5V,65536,0.00000048,0.00000144,1754922288,GLM-4.5V is a vision-language foundation model for multimodal agent applications. Built on a Mixture
+OpenRouter,ai21/jamba-mini-1.7,AI21: Jamba Mini 1.7,256000,0.0000002,0.0000004,1754670601,"Jamba Mini 1.7 is a compact and efficient member of the Jamba open model family, incorporating key i"
+OpenRouter,ai21/jamba-large-1.7,AI21: Jamba Large 1.7,256000,0.000002,0.000008,1754669020,"Jamba Large 1.7 is the latest model in the Jamba open family, offering improvements in grounding, in"
+OpenRouter,openai/gpt-5-chat,OpenAI: GPT-5 Chat,128000,0.00000125,0.00001,1754587837,"GPT-5 Chat is designed for advanced, natural, multimodal, and context-aware conversations for enterp"
+OpenRouter,openai/gpt-5,OpenAI: GPT-5,400000,0.00000125,0.00001,1754587413,"GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and u"
+OpenRouter,openai/gpt-5-mini,OpenAI: GPT-5 Mini,400000,0.00000025,0.000002,1754587407,"GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It prov"
+OpenRouter,openai/gpt-5-nano,OpenAI: GPT-5 Nano,400000,0.00000005,0.0000004,1754587402,"GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, r"
+OpenRouter,openai/gpt-oss-120b:exacto,OpenAI: gpt-oss-120b (exacto),131072,0.00000004,0.0000002,1754414231,"gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI d"
+OpenRouter,openai/gpt-oss-120b,OpenAI: gpt-oss-120b,131072,0.00000004,0.0000002,1754414231,"gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI d"
+OpenRouter,openai/gpt-oss-20b:free,OpenAI: gpt-oss-20b (free),131072,0,0,1754414229,gpt-oss-20b is an open-weight 21B parameter model released by OpenAI under the Apache 2.0 license. I
+OpenRouter,openai/gpt-oss-20b,OpenAI: gpt-oss-20b,131072,0.00000003,0.00000014,1754414229,gpt-oss-20b is an open-weight 21B parameter model released by OpenAI under the Apache 2.0 license. I
+OpenRouter,anthropic/claude-opus-4.1,Anthropic: Claude Opus 4.1,200000,0.000015,0.000075,1754411591,"Claude Opus 4.1 is an updated version of Anthropic’s flagship model, offering improved performance i"
+OpenRouter,mistralai/codestral-2508,Mistral: Codestral 2508,256000,0.0000003,0.0000009,1754079630,Mistral's cutting-edge language model for coding released end of July 2025. Codestral specializes in
+OpenRouter,qwen/qwen3-coder-30b-a3b-instruct,Qwen: Qwen3 Coder 30B A3B Instruct,262144,0.00000006,0.00000025,1753972379,Qwen3-Coder-30B-A3B-Instruct is a 30.5B parameter Mixture-of-Experts (MoE) model with 128 experts (8
+OpenRouter,qwen/qwen3-30b-a3b-instruct-2507,Qwen: Qwen3 30B A3B Instruct 2507,262144,0.00000008,0.00000033,1753806965,"Qwen3-30B-A3B-Instruct-2507 is a 30.5B-parameter mixture-of-experts language model from Qwen, with 3"
+OpenRouter,z-ai/glm-4.5,Z.AI: GLM 4.5,131072,0.00000035,0.00000155,1753471347,"GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications. It leve"
+OpenRouter,z-ai/glm-4.5-air:free,Z.AI: GLM 4.5 Air (free),131072,0,0,1753471258,"GLM-4.5-Air is the lightweight variant of our latest flagship model family, also purpose-built for a"
+OpenRouter,z-ai/glm-4.5-air,Z.AI: GLM 4.5 Air,131072,0.000000104,0.00000068,1753471258,"GLM-4.5-Air is the lightweight variant of our latest flagship model family, also purpose-built for a"
+OpenRouter,qwen/qwen3-235b-a22b-thinking-2507,Qwen: Qwen3 235B A22B Thinking 2507,262144,0.00000011,0.0000006,1753449557,"Qwen3-235B-A22B-Thinking-2507 is a high-performance, open-weight Mixture-of-Experts (MoE) language m"
+OpenRouter,z-ai/glm-4-32b,Z.AI: GLM 4 32B ,128000,0.0000001,0.0000001,1753376617,"GLM 4 32B is a cost-effective foundation language model.
+
+It can efficiently perform complex tasks a"
+OpenRouter,qwen/qwen3-coder:free,Qwen: Qwen3 Coder 480B A35B (free),262000,0,0,1753230546,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation model developed by the 
+OpenRouter,qwen/qwen3-coder,Qwen: Qwen3 Coder 480B A35B,262144,0.00000022,0.00000095,1753230546,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation model developed by the 
+OpenRouter,qwen/qwen3-coder:exacto,Qwen: Qwen3 Coder 480B A35B (exacto),262144,0.00000038,0.00000153,1753230546,Qwen3-Coder-480B-A35B-Instruct is a Mixture-of-Experts (MoE) code generation model developed by the 
+OpenRouter,bytedance/ui-tars-1.5-7b,ByteDance: UI-TARS 7B ,128000,0.0000001,0.0000002,1753205056,"UI-TARS-1.5 is a multimodal vision-language agent optimized for GUI-based environments, including de"
+OpenRouter,google/gemini-2.5-flash-lite,Google: Gemini 2.5 Flash Lite,1048576,0.0000001,0.0000004,1753200276,"Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family, optimized for ultra"
+OpenRouter,qwen/qwen3-235b-a22b-2507,Qwen: Qwen3 235B A22B Instruct 2507,262144,0.000000071,0.000000463,1753119555,"Qwen3-235B-A22B-Instruct-2507 is a multilingual, instruction-tuned mixture-of-experts language model"
+OpenRouter,switchpoint/router,Switchpoint Router,131072,0.00000085,0.0000034,1752272899,Switchpoint AI's router instantly analyzes your request and directs it to the optimal AI from an eve
+OpenRouter,moonshotai/kimi-k2:free,MoonshotAI: Kimi K2 0711 (free),32768,0,0,1752263252,"Kimi K2 Instruct is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, "
+OpenRouter,moonshotai/kimi-k2,MoonshotAI: Kimi K2 0711,131072,0.000000456,0.00000184,1752263252,"Kimi K2 Instruct is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, "
+OpenRouter,thudm/glm-4.1v-9b-thinking,THUDM: GLM 4.1V 9B Thinking,65536,0.000000028,0.0000001104,1752244385,"GLM-4.1V-9B-Thinking is a 9B parameter vision-language model developed by THUDM, based on the GLM-4-"
+OpenRouter,mistralai/devstral-medium,Mistral: Devstral Medium,131072,0.0000004,0.000002,1752161321,Devstral Medium is a high-performance code generation and agentic reasoning model developed jointly 
+OpenRouter,mistralai/devstral-small,Mistral: Devstral Small 1.1,128000,0.00000007,0.00000028,1752160751,"Devstral Small 1.1 is a 24B parameter open-weight language model for software engineering agents, de"
+OpenRouter,cognitivecomputations/dolphin-mistral-24b-venice-edition:free,Venice: Uncensored (free),32768,0,0,1752094966,Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-In
+OpenRouter,x-ai/grok-4,xAI: Grok 4,256000,0.000003,0.000015,1752087689,Grok 4 is xAI's latest reasoning model with a 256k context window. It supports parallel tool calling
+OpenRouter,google/gemma-3n-e2b-it:free,Google: Gemma 3n 2B (free),8192,0,0,1752074904,"Gemma 3n E2B IT is a multimodal, instruction-tuned model developed by Google DeepMind, designed to o"
+OpenRouter,tencent/hunyuan-a13b-instruct,Tencent: Hunyuan A13B Instruct,131072,0.00000014,0.00000057,1751987664,"Hunyuan-A13B is a 13B active parameter Mixture-of-Experts (MoE) language model developed by Tencent,"
+OpenRouter,tngtech/deepseek-r1t2-chimera:free,TNG: DeepSeek R1T2 Chimera (free),163840,0,0,1751986985,DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parame
+OpenRouter,tngtech/deepseek-r1t2-chimera,TNG: DeepSeek R1T2 Chimera,163840,0.0000003,0.0000012,1751986985,DeepSeek-TNG-R1T2-Chimera is the second-generation Chimera model from TNG Tech. It is a 671 B-parame
+OpenRouter,morph/morph-v3-large,Morph: Morph V3 Large,262144,0.0000009,0.0000019,1751910858,"Morph's high-accuracy apply model for complex code edits. ~4,500 tokens/sec with 98% accuracy for pr"
+OpenRouter,morph/morph-v3-fast,Morph: Morph V3 Fast,81920,0.0000008,0.0000012,1751910002,"Morph's fastest apply model for code edits. ~10,500 tokens/sec with 96% accuracy for rapid code tran"
+OpenRouter,baidu/ernie-4.5-vl-424b-a47b,Baidu: ERNIE 4.5 VL 424B A47B ,123000,0.000000336,0.000001,1751300903,"ERNIE-4.5-VL-424B-A47B is a multimodal Mixture-of-Experts (MoE) model from Baidu’s ERNIE 4.5 series,"
+OpenRouter,baidu/ernie-4.5-300b-a47b,Baidu: ERNIE 4.5 300B A47B ,123000,0.000000224,0.00000088,1751300139,ERNIE-4.5-300B-A47B is a 300B parameter Mixture-of-Experts (MoE) language model developed by Baidu a
+OpenRouter,thedrummer/anubis-70b-v1.1,TheDrummer: Anubis 70B V1.1,131072,0.00000075,0.000001,1751208347,"TheDrummer's Anubis v1.1 is an unaligned, creative Llama 3.3 70B model focused on providing characte"
+OpenRouter,inception/mercury,Inception: Mercury,128000,0.00000025,0.000001,1750973026,Mercury is the first diffusion large language model (dLLM). Applying a breakthrough discrete diffusi
+OpenRouter,mistralai/mistral-small-3.2-24b-instruct,Mistral: Mistral Small 3.2 24B,131072,0.00000006,0.00000018,1750443016,Mistral-Small-3.2-24B-Instruct-2506 is an updated 24B parameter model from Mistral optimized for ins
+OpenRouter,minimax/minimax-m1,MiniMax: MiniMax M1,1000000,0.0000004,0.0000022,1750200414,"MiniMax-M1 is a large-scale, open-weight reasoning model designed for extended context and high-effi"
+OpenRouter,google/gemini-2.5-flash,Google: Gemini 2.5 Flash,1048576,0.0000003,0.0000025,1750172488,"Gemini 2.5 Flash is Google's state-of-the-art workhorse model, specifically designed for advanced re"
+OpenRouter,google/gemini-2.5-pro,Google: Gemini 2.5 Pro,1048576,0.00000125,0.00001,1750169544,"Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathem"
+OpenRouter,moonshotai/kimi-dev-72b,MoonshotAI: Kimi Dev 72B,131072,0.00000029,0.00000115,1750115909,Kimi-Dev-72B is an open-source large language model fine-tuned for software engineering and issue re
+OpenRouter,openai/o3-pro,OpenAI: o3 Pro,200000,0.00002,0.00008,1749598352,The o-series of models are trained with reinforcement learning to think before they answer and perfo
+OpenRouter,x-ai/grok-3-mini,xAI: Grok 3 Mini,131072,0.0000003,0.0000005,1749583245,"A lightweight model that thinks before responding. Fast, smart, and great for logic-based tasks that"
+OpenRouter,x-ai/grok-3,xAI: Grok 3,131072,0.000003,0.000015,1749582908,Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases l
+OpenRouter,mistralai/magistral-small-2506,Mistral: Magistral Small 2506,40000,0.0000005,0.0000015,1749569561,"Magistral Small is a 24B parameter instruction-tuned model based on Mistral-Small-3.1 (2503), enhanc"
+OpenRouter,mistralai/magistral-medium-2506:thinking,Mistral: Magistral Medium 2506 (thinking),40960,0.000002,0.000005,1749354054,Magistral is Mistral's first reasoning model. It is ideal for general purpose use requiring longer t
+OpenRouter,mistralai/magistral-medium-2506,Mistral: Magistral Medium 2506,40960,0.000002,0.000005,1749354054,Magistral is Mistral's first reasoning model. It is ideal for general purpose use requiring longer t
+OpenRouter,google/gemini-2.5-pro-preview,Google: Gemini 2.5 Pro Preview 06-05,1048576,0.00000125,0.00001,1749137257,"Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathem"
+OpenRouter,deepseek/deepseek-r1-0528-qwen3-8b,DeepSeek: DeepSeek R1 0528 Qwen3 8B,32768,0.00000002,0.0000001,1748538543,DeepSeek-R1-0528 is a lightly upgraded release of DeepSeek R1 that taps more compute and smarter pos
+OpenRouter,deepseek/deepseek-r1-0528,DeepSeek: R1 0528,163840,0.0000002,0.0000045,1748455170,May 28th update to the [original DeepSeek R1](/deepseek/deepseek-r1) Performance on par with [OpenAI
+OpenRouter,anthropic/claude-opus-4,Anthropic: Claude Opus 4,200000,0.000015,0.000075,1747931245,"Claude Opus 4 is benchmarked as the world’s best coding model, at time of release, bringing sustaine"
+OpenRouter,anthropic/claude-sonnet-4,Anthropic: Claude Sonnet 4,1000000,0.000003,0.000015,1747930371,"Claude Sonnet 4 significantly enhances the capabilities of its predecessor, Sonnet 3.7, excelling in"
+OpenRouter,mistralai/devstral-small-2505,Mistral: Devstral Small 2505,128000,0.00000006,0.00000012,1747837379,"Devstral-Small-2505 is a 24B parameter agentic LLM fine-tuned from Mistral-Small-3.1, jointly develo"
+OpenRouter,google/gemma-3n-e4b-it:free,Google: Gemma 3n 4B (free),8192,0,0,1747776824,"Gemma 3n E4B-it is optimized for efficient execution on mobile and low-resource devices, such as pho"
+OpenRouter,google/gemma-3n-e4b-it,Google: Gemma 3n 4B,32768,0.00000002,0.00000004,1747776824,"Gemma 3n E4B-it is optimized for efficient execution on mobile and low-resource devices, such as pho"
+OpenRouter,openai/codex-mini,OpenAI: Codex Mini,200000,0.0000015,0.000006,1747409761,codex-mini-latest is a fine-tuned version of o4-mini specifically for use in Codex CLI. For direct u
+OpenRouter,nousresearch/deephermes-3-mistral-24b-preview,Nous: DeepHermes 3 Mistral 24B Preview,32768,0.00000005,0.0000002,1746830904,DeepHermes 3 (Mistral 24B Preview) is an instruction-tuned language model by Nous Research based on 
+OpenRouter,mistralai/mistral-medium-3,Mistral: Mistral Medium 3,131072,0.0000004,0.000002,1746627341,Mistral Medium 3 is a high-performance enterprise-grade language model designed to deliver frontier-
+OpenRouter,google/gemini-2.5-pro-preview-05-06,Google: Gemini 2.5 Pro Preview 05-06,1048576,0.00000125,0.00001,1746578513,"Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathem"
+OpenRouter,arcee-ai/spotlight,Arcee AI: Spotlight,131072,0.00000018,0.00000018,1746481552,Spotlight is a 7‑billion‑parameter vision‑language model derived from Qwen 2.5‑VL and fine‑tuned by 
+OpenRouter,arcee-ai/maestro-reasoning,Arcee AI: Maestro Reasoning,131072,0.0000009,0.0000033,1746481269,Maestro Reasoning is Arcee's flagship analysis model: a 32 B‑parameter derivative of Qwen 2.5‑32 B t
+OpenRouter,arcee-ai/virtuoso-large,Arcee AI: Virtuoso Large,131072,0.00000075,0.0000012,1746478885,"Virtuoso‑Large is Arcee's top‑tier general‑purpose LLM at 72 B parameters, tuned to tackle cross‑dom"
+OpenRouter,arcee-ai/coder-large,Arcee AI: Coder Large,32768,0.0000005,0.0000008,1746478663,Coder‑Large is a 32 B‑parameter offspring of Qwen 2.5‑Instruct that has been further trained on perm
+OpenRouter,microsoft/phi-4-reasoning-plus,Microsoft: Phi 4 Reasoning Plus,32768,0.00000007,0.00000035,1746130961,"Phi-4-reasoning-plus is an enhanced 14B parameter model from Microsoft, fine-tuned from Phi-4 with a"
+OpenRouter,inception/mercury-coder,Inception: Mercury Coder,128000,0.00000025,0.000001,1746033880,Mercury Coder is the first diffusion large language model (dLLM). Applying a breakthrough discrete d
+OpenRouter,qwen/qwen3-4b:free,Qwen: Qwen3 4B (free),40960,0,0,1746031104,"Qwen3-4B is a 4 billion parameter dense language model from the Qwen3 series, designed to support bo"
+OpenRouter,deepseek/deepseek-prover-v2,DeepSeek: DeepSeek Prover V2,163840,0.0000005,0.00000218,1746013094,"DeepSeek Prover V2 is a 671B parameter model, speculated to be geared towards logic and mathematics."
+OpenRouter,meta-llama/llama-guard-4-12b,Meta: Llama Guard 4 12B,163840,0.00000018,0.00000018,1745975193,"Llama Guard 4 is a Llama 4 Scout-derived multimodal pretrained model, fine-tuned for content safety "
+OpenRouter,qwen/qwen3-30b-a3b,Qwen: Qwen3 30B A3B,40960,0.00000006,0.00000022,1745878604,"Qwen3, the latest generation in the Qwen large language model series, features both dense and mixtur"
+OpenRouter,qwen/qwen3-8b,Qwen: Qwen3 8B,128000,0.000000028,0.0000001104,1745876632,"Qwen3-8B is a dense 8.2B parameter causal language model from the Qwen3 series, designed for both re"
+OpenRouter,qwen/qwen3-14b,Qwen: Qwen3 14B,40960,0.00000005,0.00000022,1745876478,"Qwen3-14B is a dense 14.8B parameter causal language model from the Qwen3 series, designed for both "
+OpenRouter,qwen/qwen3-32b,Qwen: Qwen3 32B,40960,0.00000008,0.00000024,1745875945,"Qwen3-32B is a dense 32.8B parameter causal language model from the Qwen3 series, optimized for both"
+OpenRouter,qwen/qwen3-235b-a22b:free,Qwen: Qwen3 235B A22B (free),131072,0,0,1745875757,"Qwen3-235B-A22B is a 235B parameter mixture-of-experts (MoE) model developed by Qwen, activating 22B"
+OpenRouter,qwen/qwen3-235b-a22b,Qwen: Qwen3 235B A22B,40960,0.00000018,0.00000054,1745875757,"Qwen3-235B-A22B is a 235B parameter mixture-of-experts (MoE) model developed by Qwen, activating 22B"
+OpenRouter,tngtech/deepseek-r1t-chimera:free,TNG: DeepSeek R1T Chimera (free),163840,0,0,1745760875,"DeepSeek-R1T-Chimera is created by merging DeepSeek-R1 and DeepSeek-V3 (0324), combining the reasoni"
+OpenRouter,tngtech/deepseek-r1t-chimera,TNG: DeepSeek R1T Chimera,163840,0.0000003,0.0000012,1745760875,"DeepSeek-R1T-Chimera is created by merging DeepSeek-R1 and DeepSeek-V3 (0324), combining the reasoni"
+OpenRouter,microsoft/mai-ds-r1,Microsoft: MAI DS R1,163840,0.0000003,0.0000012,1745194100,MAI-DS-R1 is a post-trained variant of DeepSeek-R1 developed by the Microsoft AI team to improve the
+OpenRouter,openai/o4-mini-high,OpenAI: o4 Mini High,200000,0.0000011,0.0000044,1744824212,OpenAI o4-mini-high is the same model as [o4-mini](/openai/o4-mini) with reasoning_effort set to hig
+OpenRouter,openai/o3,OpenAI: o3,200000,0.000002,0.000008,1744823457,"o3 is a well-rounded and powerful model across domains. It sets a new standard for math, science, co"
+OpenRouter,openai/o4-mini,OpenAI: o4 Mini,200000,0.0000011,0.0000044,1744820942,"OpenAI o4-mini is a compact reasoning model in the o-series, optimized for fast, cost-efficient perf"
+OpenRouter,qwen/qwen2.5-coder-7b-instruct,Qwen: Qwen2.5 Coder 7B Instruct,32768,0.00000003,0.00000009,1744734887,Qwen2.5-Coder-7B-Instruct is a 7B parameter instruction-tuned language model optimized for code-rela
+OpenRouter,openai/gpt-4.1,OpenAI: GPT-4.1,1047576,0.000002,0.000008,1744651385,"GPT-4.1 is a flagship large language model optimized for advanced instruction following, real-world "
+OpenRouter,openai/gpt-4.1-mini,OpenAI: GPT-4.1 Mini,1047576,0.0000004,0.0000016,1744651381,GPT-4.1 Mini is a mid-sized model delivering performance competitive with GPT-4o at substantially lo
+OpenRouter,openai/gpt-4.1-nano,OpenAI: GPT-4.1 Nano,1047576,0.0000001,0.0000004,1744651369,"For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 ser"
+OpenRouter,eleutherai/llemma_7b,EleutherAI: Llemma 7b,4096,0.0000008,0.0000012,1744643225,"Llemma 7B is a language model for mathematics. It was initialized with Code Llama 7B weights, and tr"
+OpenRouter,alfredpros/codellama-7b-instruct-solidity,AlfredPros: CodeLLaMa 7B Instruct Solidity,4096,0.0000008,0.0000012,1744641874,A finetuned 7 billion parameters Code LLaMA - Instruct model to generate Solidity smart contract usi
+OpenRouter,arliai/qwq-32b-arliai-rpr-v1,ArliAI: QwQ 32B RpR v1,32768,0.00000003,0.00000011,1744555982,QwQ-32B-ArliAI-RpR-v1 is a 32B parameter model fine-tuned from Qwen/QwQ-32B using a curated creative
+OpenRouter,x-ai/grok-3-mini-beta,xAI: Grok 3 Mini Beta,131072,0.0000003,0.0000005,1744240195,"Grok 3 Mini is a lightweight, smaller thinking model. Unlike traditional models that generate answer"
+OpenRouter,x-ai/grok-3-beta,xAI: Grok 3 Beta,131072,0.000003,0.000015,1744240068,Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases l
+OpenRouter,nvidia/llama-3.1-nemotron-ultra-253b-v1,NVIDIA: Llama 3.1 Nemotron Ultra 253B v1,131072,0.0000006,0.0000018,1744115059,"Llama-3.1-Nemotron-Ultra-253B-v1 is a large language model (LLM) optimized for advanced reasoning, h"
+OpenRouter,meta-llama/llama-4-maverick,Meta: Llama 4 Maverick,1048576,0.000000136,0.00000068,1743881822,"Llama 4 Maverick 17B Instruct (128E) is a high-capacity multimodal language model from Meta, built o"
+OpenRouter,meta-llama/llama-4-scout,Meta: Llama 4 Scout,327680,0.00000008,0.0000003,1743881519,"Llama 4 Scout 17B Instruct (16E) is a mixture-of-experts (MoE) language model developed by Meta, act"
+OpenRouter,qwen/qwen2.5-vl-32b-instruct,Qwen: Qwen2.5 VL 32B Instruct,16384,0.00000005,0.00000022,1742839838,Qwen2.5-VL-32B is a multimodal vision-language model fine-tuned through reinforcement learning for e
+OpenRouter,deepseek/deepseek-chat-v3-0324,DeepSeek: DeepSeek V3 0324,163840,0.0000002,0.00000088,1742824755,"DeepSeek V3, a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship cha"
+OpenRouter,openai/o1-pro,OpenAI: o1-pro,200000,0.00015,0.0006,1742423211,The o1 series of models are trained with reinforcement learning to think before they answer and perf
+OpenRouter,mistralai/mistral-small-3.1-24b-instruct:free,Mistral: Mistral Small 3.1 24B (free),128000,0,0,1742238937,"Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501), featuring 24 billio"
+OpenRouter,mistralai/mistral-small-3.1-24b-instruct,Mistral: Mistral Small 3.1 24B,131072,0.00000003,0.00000011,1742238937,"Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501), featuring 24 billio"
+OpenRouter,allenai/olmo-2-0325-32b-instruct,AllenAI: Olmo 2 32B Instruct,128000,0.00000005,0.0000002,1741988556,OLMo-2 32B Instruct is a supervised instruction-finetuned variant of the OLMo-2 32B March 2025 base 
+OpenRouter,google/gemma-3-4b-it:free,Google: Gemma 3 4B (free),32768,0,0,1741905510,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,google/gemma-3-4b-it,Google: Gemma 3 4B,96000,0.00000001703012,0.0000000681536,1741905510,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,google/gemma-3-12b-it:free,Google: Gemma 3 12B (free),32768,0,0,1741902625,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,google/gemma-3-12b-it,Google: Gemma 3 12B,131072,0.00000003,0.0000001,1741902625,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,cohere/command-a,Cohere: Command A,256000,0.0000025,0.00001,1741894342,Command A is an open-weights 111B parameter model with a 256k context window focused on delivering g
+OpenRouter,openai/gpt-4o-mini-search-preview,OpenAI: GPT-4o-mini Search Preview,128000,0.00000015,0.0000006,1741818122,GPT-4o mini Search Preview is a specialized model for web search in Chat Completions. It is trained 
+OpenRouter,openai/gpt-4o-search-preview,OpenAI: GPT-4o Search Preview,128000,0.0000025,0.00001,1741817949,GPT-4o Search Previewis a specialized model for web search in Chat Completions. It is trained to und
+OpenRouter,google/gemma-3-27b-it:free,Google: Gemma 3 27B (free),131072,0,0,1741756359,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,google/gemma-3-27b-it,Google: Gemma 3 27B,131072,0.00000007,0.0000005,1741756359,"Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles cont"
+OpenRouter,thedrummer/skyfall-36b-v2,TheDrummer: Skyfall 36B V2,32768,0.0000005,0.0000008,1741636566,"Skyfall 36B v2 is an enhanced iteration of Mistral Small 2501, specifically fine-tuned for improved "
+OpenRouter,microsoft/phi-4-multimodal-instruct,Microsoft: Phi 4 Multimodal Instruct,131072,0.00000005,0.0000001,1741396284,Phi-4 Multimodal Instruct is a versatile 5.6B parameter foundation model that combines advanced reas
+OpenRouter,perplexity/sonar-reasoning-pro,Perplexity: Sonar Reasoning Pro,128000,0.000002,0.000008,1741313308,Note: Sonar Pro pricing includes Perplexity search pricing. See [details here](https://docs.perplexi
+OpenRouter,perplexity/sonar-pro,Perplexity: Sonar Pro,200000,0.000003,0.000015,1741312423,Note: Sonar Pro pricing includes Perplexity search pricing. See [details here](https://docs.perplexi
+OpenRouter,perplexity/sonar-deep-research,Perplexity: Sonar Deep Research,128000,0.000002,0.000008,1741311246,"Sonar Deep Research is a research-focused model designed for multi-step retrieval, synthesis, and re"
+OpenRouter,qwen/qwq-32b,Qwen: QwQ 32B,32768,0.00000015,0.0000004,1741208814,"QwQ is the reasoning model of the Qwen series. Compared with conventional instruction-tuned models, "
+OpenRouter,google/gemini-2.0-flash-lite-001,Google: Gemini 2.0 Flash Lite,1048576,0.000000075,0.0000003,1740506212,Gemini 2.0 Flash Lite offers a significantly faster time to first token (TTFT) compared to [Gemini F
+OpenRouter,anthropic/claude-3.7-sonnet:thinking,Anthropic: Claude 3.7 Sonnet (thinking),200000,0.000003,0.000015,1740422110,"Claude 3.7 Sonnet is an advanced large language model with improved reasoning, coding, and problem-s"
+OpenRouter,anthropic/claude-3.7-sonnet,Anthropic: Claude 3.7 Sonnet,200000,0.000003,0.000015,1740422110,"Claude 3.7 Sonnet is an advanced large language model with improved reasoning, coding, and problem-s"
+OpenRouter,mistralai/mistral-saba,Mistral: Saba,32768,0.0000002,0.0000006,1739803239,Mistral Saba is a 24B-parameter language model specifically designed for the Middle East and South A
+OpenRouter,meta-llama/llama-guard-3-8b,Llama Guard 3 8B,131072,0.00000002,0.00000006,1739401318,"Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification. Simi"
+OpenRouter,openai/o3-mini-high,OpenAI: o3 Mini High,200000,0.0000011,0.0000044,1739372611,OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to hig
+OpenRouter,google/gemini-2.0-flash-001,Google: Gemini 2.0 Flash,1048576,0.0000001,0.0000004,1738769413,Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 
+OpenRouter,qwen/qwen-vl-plus,Qwen: Qwen VL Plus,7500,0.00000021,0.00000063,1738731255,Qwen's Enhanced Large Visual Language Model. Significantly upgraded for detailed recognition capabil
+OpenRouter,aion-labs/aion-1.0,AionLabs: Aion-1.0,131072,0.000004,0.000008,1738697557,"Aion-1.0 is a multi-model system designed for high performance across various tasks, including reaso"
+OpenRouter,aion-labs/aion-1.0-mini,AionLabs: Aion-1.0-Mini,131072,0.0000007,0.0000014,1738697107,"Aion-1.0-Mini 32B parameter model is a distilled version of the DeepSeek-R1 model, designed for stro"
+OpenRouter,aion-labs/aion-rp-llama-3.1-8b,AionLabs: Aion-RP 1.0 (8B),32768,0.0000002,0.0000002,1738696718,Aion-RP-Llama-3.1-8B ranks the highest in the character evaluation portion of the RPBench-Auto bench
+OpenRouter,qwen/qwen-vl-max,Qwen: Qwen VL Max,131072,0.0000008,0.0000032,1738434304,Qwen VL Max is a visual understanding model with 7500 tokens context length. It excels in delivering
+OpenRouter,qwen/qwen-turbo,Qwen: Qwen-Turbo,1000000,0.00000005,0.0000002,1738410974,"Qwen-Turbo, based on Qwen2.5, is a 1M context model that provides fast speed and low cost, suitable "
+OpenRouter,qwen/qwen2.5-vl-72b-instruct,Qwen: Qwen2.5 VL 72B Instruct,32768,0.00000003,0.00000013,1738410311,"Qwen2.5-VL is proficient in recognizing common objects such as flowers, birds, fish, and insects. It"
+OpenRouter,qwen/qwen-plus,Qwen: Qwen-Plus,131072,0.0000004,0.0000012,1738409840,"Qwen-Plus, based on the Qwen2.5 foundation model, is a 131K context model with a balanced performanc"
+OpenRouter,qwen/qwen-max,Qwen: Qwen-Max ,32768,0.0000016,0.0000064,1738402289,"Qwen-Max, based on Qwen2.5, provides the best inference performance among [Qwen models](/qwen), espe"
+OpenRouter,openai/o3-mini,OpenAI: o3 Mini,200000,0.0000011,0.0000044,1738351721,"OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly e"
+OpenRouter,mistralai/mistral-small-24b-instruct-2501,Mistral: Mistral Small 3,32768,0.00000005,0.00000008,1738255409,Mistral Small 3 is a 24B-parameter language model optimized for low-latency performance across commo
+OpenRouter,deepseek/deepseek-r1-distill-qwen-32b,DeepSeek: R1 Distill Qwen 32B,64000,0.00000024,0.00000024,1738194830,DeepSeek R1 Distill Qwen 32B is a distilled large language model based on [Qwen 2.5 32B](https://hug
+OpenRouter,deepseek/deepseek-r1-distill-qwen-14b,DeepSeek: R1 Distill Qwen 14B,32768,0.00000012,0.00000012,1738193940,DeepSeek R1 Distill Qwen 14B is a distilled large language model based on [Qwen 2.5 14B](https://hug
+OpenRouter,perplexity/sonar-reasoning,Perplexity: Sonar Reasoning,127000,0.000001,0.000005,1738131107,Sonar Reasoning is a reasoning model provided by Perplexity based on [DeepSeek R1](/deepseek/deepsee
+OpenRouter,perplexity/sonar,Perplexity: Sonar,127072,0.000001,0.000001,1738013808,"Sonar is lightweight, affordable, fast, and simple to use — now featuring citations and the ability "
+OpenRouter,deepseek/deepseek-r1-distill-llama-70b,DeepSeek: R1 Distill Llama 70B,131072,0.00000003,0.00000013,1737663169,DeepSeek R1 Distill Llama 70B is a distilled large language model based on [Llama-3.3-70B-Instruct](
+OpenRouter,deepseek/deepseek-r1,DeepSeek: R1,163840,0.0000003,0.0000012,1737381095,"DeepSeek R1 is here: Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with full"
+OpenRouter,minimax/minimax-01,MiniMax: MiniMax-01,1000192,0.0000002,0.0000011,1736915462,MiniMax-01 is a combines MiniMax-Text-01 for text generation and MiniMax-VL-01 for image understandi
+OpenRouter,mistralai/codestral-2501,Mistral: Codestral 2501,256000,0.0000003,0.0000009,1736895522,[Mistral](/mistralai)'s cutting-edge language model for coding. Codestral specializes in low-latency
+OpenRouter,microsoft/phi-4,Microsoft: Phi 4,16384,0.00000006,0.00000014,1736489872,[Microsoft Research](/microsoft) Phi-4 is designed to perform well in complex reasoning tasks and ca
+OpenRouter,sao10k/l3.1-70b-hanami-x1,Sao10K: Llama 3.1 70B Hanami x1,16000,0.000003,0.000003,1736302854,This is [Sao10K](/sao10k)'s experiment over [Euryale v2.2](/sao10k/l3.1-euryale-70b).
+OpenRouter,deepseek/deepseek-chat,DeepSeek: DeepSeek V3,163840,0.0000003,0.0000012,1735241320,"DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and "
+OpenRouter,sao10k/l3.3-euryale-70b,Sao10K: Llama 3.3 Euryale 70B,131072,0.00000065,0.00000075,1734535928,Euryale L3.3 70B is a model focused on creative roleplay from [Sao10k](https://ko-fi.com/sao10k). It
+OpenRouter,openai/o1,OpenAI: o1,200000,0.000015,0.00006,1734459999,"The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before"
+OpenRouter,cohere/command-r7b-12-2024,Cohere: Command R7B (12-2024),128000,0.0000000375,0.00000015,1734158152,"Command R7B (12-2024) is a small, fast update of the Command R+ model, delivered in December 2024. I"
+OpenRouter,google/gemini-2.0-flash-exp:free,Google: Gemini 2.0 Flash Experimental (free),1048576,0,0,1733937523,Gemini Flash 2.0 offers a significantly faster time to first token (TTFT) compared to [Gemini Flash 
+OpenRouter,meta-llama/llama-3.3-70b-instruct:free,Meta: Llama 3.3 70B Instruct (free),131072,0,0,1733506137,The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and instruction tuned gen
+OpenRouter,meta-llama/llama-3.3-70b-instruct,Meta: Llama 3.3 70B Instruct,131072,0.000000108,0.00000032,1733506137,The Meta Llama 3.3 multilingual large language model (LLM) is a pretrained and instruction tuned gen
+OpenRouter,amazon/nova-lite-v1,Amazon: Nova Lite 1.0,300000,0.00000006,0.00000024,1733437363,Amazon Nova Lite 1.0 is a very low-cost multimodal model from Amazon that focused on fast processing
+OpenRouter,amazon/nova-micro-v1,Amazon: Nova Micro 1.0,128000,0.000000035,0.00000014,1733437237,Amazon Nova Micro 1.0 is a text-only model that delivers the lowest latency responses in the Amazon 
+OpenRouter,amazon/nova-pro-v1,Amazon: Nova Pro 1.0,300000,0.0000008,0.0000032,1733436303,Amazon Nova Pro 1.0 is a capable multimodal model from Amazon focused on providing a combination of 
+OpenRouter,openai/gpt-4o-2024-11-20,OpenAI: GPT-4o (2024-11-20),128000,0.0000025,0.00001,1732127594,"The 2024-11-20 version of GPT-4o offers a leveled-up creative writing ability with more natural, eng"
+OpenRouter,mistralai/mistral-large-2411,Mistral Large 2411,131072,0.000002,0.000006,1731978685,Mistral Large 2 2411 is an update of [Mistral Large 2](/mistralai/mistral-large) released together w
+OpenRouter,mistralai/mistral-large-2407,Mistral Large 2407,131072,0.000002,0.000006,1731978415,"This is Mistral AI's flagship model, Mistral Large 2 (version mistral-large-2407). It's a proprietar"
+OpenRouter,mistralai/pixtral-large-2411,Mistral: Pixtral Large 2411,131072,0.000002,0.000006,1731977388,"Pixtral Large is a 124B parameter, open-weight, multimodal model built on top of [Mistral Large 2](/"
+OpenRouter,qwen/qwen-2.5-coder-32b-instruct,Qwen2.5 Coder 32B Instruct,32768,0.00000003,0.00000011,1731368400,Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as Co
+OpenRouter,raifle/sorcererlm-8x22b,SorcererLM 8x22B,16000,0.0000045,0.0000045,1731105083,"SorcererLM is an advanced RP and storytelling model, built as a Low-rank 16-bit LoRA fine-tuned on ["
+OpenRouter,thedrummer/unslopnemo-12b,TheDrummer: UnslopNemo 12B,32768,0.0000004,0.0000004,1731103448,"UnslopNemo v4.1 is the latest addition from the creator of Rocinante, designed for adventure writing"
+OpenRouter,anthropic/claude-3.5-haiku-20241022,Anthropic: Claude 3.5 Haiku (2024-10-22),200000,0.0000008,0.000004,1730678400,"Claude 3.5 Haiku features enhancements across all skill sets including coding, tool use, and reasoni"
+OpenRouter,anthropic/claude-3.5-haiku,Anthropic: Claude 3.5 Haiku,200000,0.0000008,0.000004,1730678400,"Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engi"
+OpenRouter,anthropic/claude-3.5-sonnet,Anthropic: Claude 3.5 Sonnet,200000,0.000006,0.00003,1729555200,"New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same"
+OpenRouter,anthracite-org/magnum-v4-72b,Magnum v4 72B,16384,0.000003,0.000005,1729555200,"This is a series of models designed to replicate the prose quality of the Claude 3 models, specifica"
+OpenRouter,mistralai/ministral-8b,Mistral: Ministral 8B,131072,0.0000001,0.0000001,1729123200,Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-window attention patter
+OpenRouter,mistralai/ministral-3b,Mistral: Ministral 3B,131072,0.00000004,0.00000004,1729123200,Ministral 3B is a 3B parameter model optimized for on-device and edge computing. It excels in knowle
+OpenRouter,qwen/qwen-2.5-7b-instruct,Qwen: Qwen2.5 7B Instruct,32768,0.00000004,0.0000001,1729036800,Qwen2.5 7B is the latest series of Qwen large language models. Qwen2.5 brings the following improvem
+OpenRouter,nvidia/llama-3.1-nemotron-70b-instruct,NVIDIA: Llama 3.1 Nemotron 70B Instruct,131072,0.0000012,0.0000012,1728950400,NVIDIA's Llama 3.1 Nemotron 70B is a language model designed for generating precise and useful respo
+OpenRouter,inflection/inflection-3-pi,Inflection: Inflection 3 Pi,8000,0.0000025,0.00001,1728604800,"Inflection 3 Pi powers Inflection's [Pi](https://pi.ai) chatbot, including backstory, emotional inte"
+OpenRouter,inflection/inflection-3-productivity,Inflection: Inflection 3 Productivity,8000,0.0000025,0.00001,1728604800,Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring 
+OpenRouter,thedrummer/rocinante-12b,TheDrummer: Rocinante 12B,32768,0.00000017,0.00000043,1727654400,"Rocinante 12B is designed for engaging storytelling and rich prose.
+
+Early testers have reported:
+- "
+OpenRouter,meta-llama/llama-3.2-3b-instruct:free,Meta: Llama 3.2 3B Instruct (free),131072,0,0,1727222400,"Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natu"
+OpenRouter,meta-llama/llama-3.2-3b-instruct,Meta: Llama 3.2 3B Instruct,131072,0.00000002,0.00000002,1727222400,"Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natu"
+OpenRouter,meta-llama/llama-3.2-1b-instruct,Meta: Llama 3.2 1B Instruct,60000,0.000000027,0.0000002,1727222400,Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural langu
+OpenRouter,meta-llama/llama-3.2-90b-vision-instruct,Meta: Llama 3.2 90B Vision Instruct,32768,0.00000035,0.0000004,1727222400,"The Llama 90B Vision model is a top-tier, 90-billion-parameter multimodal model designed for the mos"
+OpenRouter,meta-llama/llama-3.2-11b-vision-instruct,Meta: Llama 3.2 11B Vision Instruct,131072,0.000000049,0.000000049,1727222400,"Llama 3.2 11B Vision is a multimodal model with 11 billion parameters, designed to handle tasks comb"
+OpenRouter,qwen/qwen-2.5-72b-instruct,Qwen2.5 72B Instruct,32768,0.00000007,0.00000026,1726704000,Qwen2.5 72B is the latest series of Qwen large language models. Qwen2.5 brings the following improve
+OpenRouter,neversleep/llama-3.1-lumimaid-8b,NeverSleep: Lumimaid v0.2 8B,32768,0.00000009,0.0000006,1726358400,"Lumimaid v0.2 8B is a finetune of [Llama 3.1 8B](/models/meta-llama/llama-3.1-8b-instruct) with a ""H"
+OpenRouter,mistralai/pixtral-12b,Mistral: Pixtral 12B,32768,0.0000001,0.0000001,1725926400,"The first multi-modal, text+image-to-text model from Mistral AI. Its weights were launched via torre"
+OpenRouter,cohere/command-r-08-2024,Cohere: Command R (08-2024),128000,0.00000015,0.0000006,1724976000,command-r-08-2024 is an update of the [Command R](/models/cohere/command-r) with improved performanc
+OpenRouter,cohere/command-r-plus-08-2024,Cohere: Command R+ (08-2024),128000,0.0000025,0.00001,1724976000,command-r-plus-08-2024 is an update of the [Command R+](/models/cohere/command-r-plus) with roughly 
+OpenRouter,sao10k/l3.1-euryale-70b,Sao10K: Llama 3.1 Euryale 70B v2.2,32768,0.00000065,0.00000075,1724803200,Euryale L3.1 70B v2.2 is a model focused on creative roleplay from [Sao10k](https://ko-fi.com/sao10k
+OpenRouter,qwen/qwen-2.5-vl-7b-instruct,Qwen: Qwen2.5-VL 7B Instruct,32768,0.0000002,0.0000002,1724803200,"Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enhancements:
+
+- SoTA un"
+OpenRouter,microsoft/phi-3.5-mini-128k-instruct,Microsoft: Phi-3.5 Mini 128K Instruct,128000,0.0000001,0.0000001,1724198400,"Phi-3.5 models are lightweight, state-of-the-art open models. These models were trained with Phi-3 d"
+OpenRouter,nousresearch/hermes-3-llama-3.1-70b,Nous: Hermes 3 70B Instruct,65536,0.0000003,0.0000003,1723939200,Hermes 3 is a generalist language model with many improvements over [Hermes 2](/models/nousresearch/
+OpenRouter,nousresearch/hermes-3-llama-3.1-405b:free,Nous: Hermes 3 405B Instruct (free),131072,0,0,1723766400,"Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced age"
+OpenRouter,nousresearch/hermes-3-llama-3.1-405b,Nous: Hermes 3 405B Instruct,131072,0.000001,0.000001,1723766400,"Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced age"
+OpenRouter,openai/chatgpt-4o-latest,OpenAI: ChatGPT-4o,128000,0.000005,0.000015,1723593600,OpenAI ChatGPT 4o is continually updated by OpenAI to point to the current version of GPT-4o used by
+OpenRouter,sao10k/l3-lunaris-8b,Sao10K: Llama 3 8B Lunaris,8192,0.00000004,0.00000005,1723507200,Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3. It's a strategic merge 
+OpenRouter,openai/gpt-4o-2024-08-06,OpenAI: GPT-4o (2024-08-06),128000,0.0000025,0.00001,1722902400,"The 2024-08-06 version of GPT-4o offers improved performance in structured outputs, with the ability"
+OpenRouter,meta-llama/llama-3.1-405b,Meta: Llama 3.1 405B (base),32768,0.000004,0.000004,1722556800,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This is the bas
+OpenRouter,meta-llama/llama-3.1-70b-instruct,Meta: Llama 3.1 70B Instruct,131072,0.0000004,0.0000004,1721692800,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instru
+OpenRouter,meta-llama/llama-3.1-405b-instruct,Meta: Llama 3.1 405B Instruct,130815,0.0000035,0.0000035,1721692800,The highly anticipated 400B class of Llama3 is here! Clocking in at 128k context with impressive eva
+OpenRouter,meta-llama/llama-3.1-8b-instruct,Meta: Llama 3.1 8B Instruct,131072,0.00000002,0.00000003,1721692800,Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 8B instruc
+OpenRouter,mistralai/mistral-nemo,Mistral: Mistral Nemo,131072,0.00000002,0.00000004,1721347200,A 12B parameter model with a 128k token context length built by Mistral in collaboration with NVIDIA
+OpenRouter,openai/gpt-4o-mini-2024-07-18,OpenAI: GPT-4o-mini (2024-07-18),128000,0.00000015,0.0000006,1721260800,"GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text"
+OpenRouter,openai/gpt-4o-mini,OpenAI: GPT-4o-mini,128000,0.00000015,0.0000006,1721260800,"GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text"
+OpenRouter,google/gemma-2-27b-it,Google: Gemma 2 27B,8192,0.00000065,0.00000065,1720828800,Gemma 2 27B by Google is an open model built from the same research and technology used to create th
+OpenRouter,google/gemma-2-9b-it,Google: Gemma 2 9B,8192,0.00000003,0.00000009,1719532800,"Gemma 2 9B by Google is an advanced, open-source language model that sets a new standard for efficie"
+OpenRouter,sao10k/l3-euryale-70b,Sao10k: Llama 3 Euryale 70B v2.1,8192,0.00000148,0.00000148,1718668800,"Euryale 70B v2.1 is a model focused on creative roleplay from [Sao10k](https://ko-fi.com/sao10k).
+
+-"
+OpenRouter,mistralai/mistral-7b-instruct:free,Mistral: Mistral 7B Instruct (free),32768,0,0,1716768000,"A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context "
+OpenRouter,mistralai/mistral-7b-instruct,Mistral: Mistral 7B Instruct,32768,0.000000028,0.000000054,1716768000,"A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context "
+OpenRouter,mistralai/mistral-7b-instruct-v0.3,Mistral: Mistral 7B Instruct v0.3,32768,0.0000002,0.0000002,1716768000,"A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context "
+OpenRouter,nousresearch/hermes-2-pro-llama-3-8b,NousResearch: Hermes 2 Pro - Llama-3 8B,8192,0.000000025,0.00000008,1716768000,"Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleane"
+OpenRouter,microsoft/phi-3-mini-128k-instruct,Microsoft: Phi-3 Mini 128K Instruct,128000,0.0000001,0.0000001,1716681600,"Phi-3 Mini is a powerful 3.8B parameter model designed for advanced language understanding, reasonin"
+OpenRouter,microsoft/phi-3-medium-128k-instruct,Microsoft: Phi-3 Medium 128K Instruct,128000,0.000001,0.000001,1716508800,Phi-3 128K Medium is a powerful 14-billion parameter model designed for advanced language understand
+OpenRouter,meta-llama/llama-guard-2-8b,Meta: LlamaGuard 2 8B,8192,0.0000002,0.0000002,1715558400,"This safeguard model has 8B parameters and is based on the Llama 3 family. Just like is predecessor,"
+OpenRouter,openai/gpt-4o,OpenAI: GPT-4o,128000,0.0000025,0.00001,1715558400,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and image inputs with text"
+OpenRouter,openai/gpt-4o:extended,OpenAI: GPT-4o (extended),128000,0.000006,0.000018,1715558400,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and image inputs with text"
+OpenRouter,openai/gpt-4o-2024-05-13,OpenAI: GPT-4o (2024-05-13),128000,0.000005,0.000015,1715558400,"GPT-4o (""o"" for ""omni"") is OpenAI's latest AI model, supporting both text and image inputs with text"
+OpenRouter,meta-llama/llama-3-8b-instruct,Meta: Llama 3 8B Instruct,8192,0.00000003,0.00000006,1713398400,Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 8B instruct-
+OpenRouter,meta-llama/llama-3-70b-instruct,Meta: Llama 3 70B Instruct,8192,0.0000003,0.0000004,1713398400,Meta's latest class of model (Llama 3) launched with a variety of sizes & flavors. This 70B instruct
+OpenRouter,mistralai/mixtral-8x22b-instruct,Mistral: Mixtral 8x22B Instruct,65536,0.000002,0.000006,1713312000,Mistral's official instruct fine-tuned version of [Mixtral 8x22B](/models/mistralai/mixtral-8x22b). 
+OpenRouter,microsoft/wizardlm-2-8x22b,WizardLM-2 8x22B,65536,0.00000048,0.00000048,1713225600,WizardLM-2 8x22B is Microsoft AI's most advanced Wizard model. It demonstrates highly competitive pe
+OpenRouter,openai/gpt-4-turbo,OpenAI: GPT-4 Turbo,128000,0.00001,0.00003,1712620800,The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and fun
+OpenRouter,anthropic/claude-3-haiku,Anthropic: Claude 3 Haiku,200000,0.00000025,0.00000125,1710288000,"Claude 3 Haiku is Anthropic's fastest and most compact model for
+near-instant responsiveness. Quick "
+OpenRouter,anthropic/claude-3-opus,Anthropic: Claude 3 Opus,200000,0.000015,0.000075,1709596800,Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level perfo
+OpenRouter,mistralai/mistral-large,Mistral Large,128000,0.000002,0.000006,1708905600,"This is Mistral AI's flagship model, Mistral Large 2 (version `mistral-large-2407`). It's a propriet"
+OpenRouter,openai/gpt-4-turbo-preview,OpenAI: GPT-4 Turbo Preview,128000,0.00001,0.00003,1706140800,"The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parall"
+OpenRouter,openai/gpt-3.5-turbo-0613,OpenAI: GPT-3.5 Turbo (older v0613),4095,0.000001,0.000002,1706140800,"GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, an"
+OpenRouter,mistralai/mistral-tiny,Mistral Tiny,32768,0.00000025,0.00000025,1704844800,Note: This model is being deprecated. Recommended replacement is the newer [Ministral 8B](/mistral/m
+OpenRouter,mistralai/mistral-small,Mistral Small,32768,0.0000002,0.0000006,1704844800,"With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo"
+OpenRouter,mistralai/mistral-7b-instruct-v0.2,Mistral: Mistral 7B Instruct v0.2,32768,0.0000002,0.0000002,1703721600,"A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context "
+OpenRouter,mistralai/mixtral-8x7b-instruct,Mistral: Mixtral 8x7B Instruct,32768,0.00000054,0.00000054,1702166400,"Mixtral 8x7B Instruct is a pretrained generative Sparse Mixture of Experts, by Mistral AI, for chat "
+OpenRouter,neversleep/noromaid-20b,Noromaid 20B,4096,0.000001,0.00000175,1700956800,"A collab between IkariDev and Undi. This merge is suitable for RP, ERP, and general knowledge.
+
+#mer"
+OpenRouter,alpindale/goliath-120b,Goliath 120B,6144,0.000006,0.000008,1699574400,A large LLM created by combining two fine-tuned Llama 70B models into one 120B model. Combines Xwin 
+OpenRouter,openrouter/auto,Auto Router,2000000,-1,-1,1699401600,"Your prompt will be processed by a meta-model and routed to one of dozens of models (see below), opt"
+OpenRouter,openai/gpt-4-1106-preview,OpenAI: GPT-4 Turbo (older v1106),128000,0.00001,0.00003,1699228800,The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and fun
+OpenRouter,mistralai/mistral-7b-instruct-v0.1,Mistral: Mistral 7B Instruct v0.1,2824,0.00000011,0.00000019,1695859200,"A 7.3B parameter model that outperforms Llama 2 13B on all benchmarks, with optimizations for speed "
+OpenRouter,openai/gpt-3.5-turbo-instruct,OpenAI: GPT-3.5 Turbo Instruct,4095,0.0000015,0.000002,1695859200,This model is a variant of GPT-3.5 Turbo tuned for instructional prompts and omitting chat-related o
+OpenRouter,openai/gpt-3.5-turbo-16k,OpenAI: GPT-3.5 Turbo 16k,16385,0.000003,0.000004,1693180800,"This model offers four times the context length of gpt-3.5-turbo, allowing it to support approximate"
+OpenRouter,mancer/weaver,Mancer: Weaver (alpha),8000,0.000001125,0.000001125,1690934400,"An attempt to recreate Claude-style verbosity, but don't expect the same level of coherence or memor"
+OpenRouter,undi95/remm-slerp-l2-13b,ReMM SLERP 13B,6144,0.00000045,0.00000065,1689984000,A recreation trial of the original MythoMax-L2-B13 but with updated models. #merge
+OpenRouter,gryphe/mythomax-l2-13b,MythoMax 13B,4096,0.00000006,0.00000006,1688256000,"One of the highest performing and most popular fine-tunes of Llama 2 13B, with rich descriptions and"
+OpenRouter,openai/gpt-3.5-turbo,OpenAI: GPT-3.5 Turbo,16385,0.0000005,0.0000015,1685232000,"GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, an"
+OpenRouter,openai/gpt-4,OpenAI: GPT-4,8191,0.00003,0.00006,1685232000,"OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficu"
+OpenRouter,openai/gpt-4-0314,OpenAI: GPT-4 (older v0314),8191,0.00003,0.00006,1685232000,"GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was su"

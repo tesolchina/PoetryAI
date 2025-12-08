@@ -1,0 +1,980 @@
+================================================================================
+PDF to Markdown Converter V2 - Batch Processing
+================================================================================
+
+📋 Loading tracker from /Users/simonwang/Documents/Usage/AIpoetry/PoetryAI/Literature/pdf_conversion_tracker.csv
+✅ 59 PDFs total
+   56 pending
+   3 already completed
+
+🤖 Using model: Google Gemini 2.0 Flash
+   Cost: $0.1/1M prompt, $0.4/1M completion tokens
+
+🚀 Starting batch conversion of 56 PDFs...
+📝 Real-time log: /Users/simonwang/Documents/Usage/AIpoetry/PoetryAI/Literature/conversion_process.log
+
+
+================================================================================
+[1/56] Processing PDF 2/59
+
+================================================================================
+📄 Ashktorab et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 20 pages
+🔄 Converting to markdown (est. 16,516 tokens)...
+✅ Saved to: Ashktorab_et_al.md
+💰 Cost: $0.005283
+📊 Tokens: 20,059 prompt + 8,192 completion
+✅ SUCCESS: Ashktorab et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[2/56] Processing PDF 4/59
+
+================================================================================
+📄 Clark et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 12 pages
+🔄 Converting to markdown (est. 14,632 tokens)...
+✅ Saved to: Clark_et_al.md
+💰 Cost: $0.004667
+📊 Tokens: 13,906 prompt + 8,192 completion
+✅ SUCCESS: Clark et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[3/56] Processing PDF 5/59
+
+================================================================================
+📄 Coenen et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 12 pages
+🔄 Converting to markdown (est. 14,090 tokens)...
+✅ Saved to: Coenen_et_al.md
+💰 Cost: $0.005059
+📊 Tokens: 17,821 prompt + 8,192 completion
+✅ SUCCESS: Coenen et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[4/56] Processing PDF 6/59
+
+================================================================================
+📄 Crosthwaite and Baisa.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 6,916 tokens)...
+✅ Saved to: Crosthwaite_and_Baisa.md
+💰 Cost: $0.003357
+📊 Tokens: 7,465 prompt + 6,527 completion
+✅ SUCCESS: Crosthwaite and Baisa.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[5/56] Processing PDF 7/59
+
+================================================================================
+📄 Fithriani.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 17 pages
+🔄 Converting to markdown (est. 9,030 tokens)...
+✅ Saved to: Fithriani.md
+💰 Cost: $0.004243
+📊 Tokens: 9,663 prompt + 8,192 completion
+✅ SUCCESS: Fithriani.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[6/56] Processing PDF 8/59
+
+================================================================================
+📄 Franceschelli and Musolesi.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 11 pages
+🔄 Converting to markdown (est. 15,915 tokens)...
+✅ Saved to: Franceschelli_and_Musolesi.md
+💰 Cost: $0.005117
+📊 Tokens: 18,401 prompt + 8,192 completion
+✅ SUCCESS: Franceschelli and Musolesi.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[7/56] Processing PDF 9/59
+
+================================================================================
+📄 Hanauer.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 180 pages
+🔄 Converting to markdown (est. 107,737 tokens)...
+✅ Saved to: Hanauer.md
+💰 Cost: $0.013286
+📊 Tokens: 100,087 prompt + 8,192 completion
+✅ SUCCESS: Hanauer.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[8/56] Processing PDF 10/59
+
+================================================================================
+📄 Holtzman et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 16 pages
+🔄 Converting to markdown (est. 11,586 tokens)...
+✅ Saved to: Holtzman_et_al.md
+💰 Cost: $0.004726
+📊 Tokens: 14,488 prompt + 8,193 completion
+✅ SUCCESS: Holtzman et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[9/56] Processing PDF 11/59
+
+================================================================================
+📄 Ippolito et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 18 pages
+🔄 Converting to markdown (est. 15,674 tokens)...
+✅ Saved to: Ippolito_et_al.md
+💰 Cost: $0.003680
+📊 Tokens: 18,336 prompt + 4,617 completion
+✅ SUCCESS: Ippolito et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[10/56] Processing PDF 12/59
+
+================================================================================
+📄 Li Lujun et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 10,575 tokens)...
+✅ Saved to: Li_Lujun_et_al.md
+💰 Cost: $0.004723
+📊 Tokens: 14,460 prompt + 8,192 completion
+✅ SUCCESS: Li Lujun et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[11/56] Processing PDF 13/59
+
+================================================================================
+📄 Li et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 31 pages
+🔄 Converting to markdown (est. 19,986 tokens)...
+✅ Saved to: Li_et_al.md
+💰 Cost: $0.005515
+📊 Tokens: 22,379 prompt + 8,192 completion
+✅ SUCCESS: Li et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[12/56] Processing PDF 14/59
+
+================================================================================
+📄 Lyster Ranta et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 30 pages
+🔄 Converting to markdown (est. 147,149 tokens)...
+✅ Saved to: Lyster_Ranta_et_al.md
+💰 Cost: $0.039495
+📊 Tokens: 389,373 prompt + 1,393 completion
+✅ SUCCESS: Lyster Ranta et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[13/56] Processing PDF 15/59
+
+================================================================================
+📄 Marije et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 15 pages
+🔄 Converting to markdown (est. 17,677 tokens)...
+✅ Saved to: Marije_et_al.md
+💰 Cost: $0.005485
+📊 Tokens: 22,087 prompt + 8,192 completion
+✅ SUCCESS: Marije et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[14/56] Processing PDF 16/59
+
+================================================================================
+📄 McGregor et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 9,452 tokens)...
+✅ Saved to: McGregor_et_al.md
+💰 Cost: $0.004282
+📊 Tokens: 10,051 prompt + 8,192 completion
+✅ SUCCESS: McGregor et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[15/56] Processing PDF 17/59
+
+================================================================================
+📄 Nguyen et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 19 pages
+🔄 Converting to markdown (est. 16,141 tokens)...
+✅ Saved to: Nguyen_et_al.md
+💰 Cost: $0.004845
+📊 Tokens: 15,687 prompt + 8,192 completion
+✅ SUCCESS: Nguyen et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[16/56] Processing PDF 18/59
+
+================================================================================
+📄 Orwig et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 14 pages
+🔄 Converting to markdown (est. 11,807 tokens)...
+✅ Saved to: Orwig_et_al.md
+💰 Cost: $0.004604
+📊 Tokens: 13,270 prompt + 8,192 completion
+✅ SUCCESS: Orwig et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[17/56] Processing PDF 20/59
+
+================================================================================
+📄 Peeperkorn et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 13,108 tokens)...
+✅ Saved to: Peeperkorn_et_al.md
+💰 Cost: $0.004843
+📊 Tokens: 15,661 prompt + 8,191 completion
+✅ SUCCESS: Peeperkorn et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[18/56] Processing PDF 21/59
+
+================================================================================
+📄 Qian et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 26 pages
+🔄 Converting to markdown (est. 22,254 tokens)...
+✅ Saved to: Qian_et_al.md
+💰 Cost: $0.005975
+📊 Tokens: 26,981 prompt + 8,192 completion
+✅ SUCCESS: Qian et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[19/56] Processing PDF 22/59
+
+================================================================================
+📄 Ravfogel et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 6 pages
+🔄 Converting to markdown (est. 4,962 tokens)...
+✅ Saved to: Ravfogel_et_al.md
+💰 Cost: $0.003239
+📊 Tokens: 6,454 prompt + 6,484 completion
+✅ SUCCESS: Ravfogel et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[20/56] Processing PDF 23/59
+
+================================================================================
+📄 Ripamonti.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 4,188 tokens)...
+✅ Saved to: Ripamonti.md
+💰 Cost: $0.001755
+📊 Tokens: 3,857 prompt + 3,422 completion
+✅ SUCCESS: Ripamonti.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[21/56] Processing PDF 24/59
+
+================================================================================
+📄 Shaumiwaty et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 7 pages
+🔄 Converting to markdown (est. 8,737 tokens)...
+✅ Saved to: Shaumiwaty_et_al.md
+💰 Cost: $0.003791
+📊 Tokens: 7,974 prompt + 7,485 completion
+✅ SUCCESS: Shaumiwaty et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[22/56] Processing PDF 25/59
+
+================================================================================
+📄 The Reading Teacher - 2024 - Kerbs - Playing with Words  Scaffolding Writing through Poetry.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 11,043 tokens)...
+✅ Saved to: Kerbs_2024_Playing_with_Words_Scaffolding_Writing_through_Poetry.md
+💰 Cost: $0.004496
+📊 Tokens: 12,191 prompt + 8,192 completion
+✅ SUCCESS: The Reading Teacher - 2024 - Kerbs - Playing with Words  Scaffolding Writing through Poetry.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[23/56] Processing PDF 26/59
+
+================================================================================
+📄 Wang and Wang.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 17 pages
+🔄 Converting to markdown (est. 22,109 tokens)...
+✅ Saved to: Wang_and_Wang.md
+💰 Cost: $0.005392
+📊 Tokens: 21,157 prompt + 8,192 completion
+✅ SUCCESS: Wang and Wang.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[24/56] Processing PDF 27/59
+
+================================================================================
+📄 Wang.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 22 pages
+🔄 Converting to markdown (est. 19,377 tokens)...
+✅ Saved to: Wang.md
+💰 Cost: $0.005230
+📊 Tokens: 19,536 prompt + 8,192 completion
+✅ SUCCESS: Wang.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[25/56] Processing PDF 28/59
+
+================================================================================
+📄 Zhao et al..pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 20 pages
+🔄 Converting to markdown (est. 23,266 tokens)...
+✅ Saved to: Zhao_et_al.md
+💰 Cost: $0.006039
+📊 Tokens: 27,623 prompt + 8,192 completion
+✅ SUCCESS: Zhao et al..pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[26/56] Processing PDF 29/59
+
+================================================================================
+📄 exploring-an-ai-supported-approach-to-creative-writing-in-secondary-school-english-classes.pdf
+   Category: root
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 3 pages
+🔄 Converting to markdown (est. 2,868 tokens)...
+✅ Saved to: exploring_an_ai_supported_approach_to_creative_writing_in_secondary_school_english_classes.md
+💰 Cost: $0.001158
+📊 Tokens: 2,865 prompt + 2,178 completion
+✅ SUCCESS: exploring-an-ai-supported-approach-to-creative-writing-in-secondary-school-english-classes.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[27/56] Processing PDF 30/59
+
+================================================================================
+📄 Ashktorab_2020_Human-AI_Collaboration.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 20 pages
+🔄 Converting to markdown (est. 16,516 tokens)...
+✅ Saved to: Ashktorab_2020_Human-AI_Collaboration.md
+💰 Cost: $0.005283
+📊 Tokens: 20,059 prompt + 8,192 completion
+✅ SUCCESS: Ashktorab_2020_Human-AI_Collaboration.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[28/56] Processing PDF 31/59
+
+================================================================================
+📄 Chakrabarty_2022_Poetry_Instruction_Tuning.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 16 pages
+🔄 Converting to markdown (est. 15,350 tokens)...
+✅ Saved to: Chakrabarty_2022_Poetry_Instruction_Tuning.md
+💰 Cost: $0.005083
+📊 Tokens: 18,054 prompt + 8,193 completion
+✅ SUCCESS: Chakrabarty_2022_Poetry_Instruction_Tuning.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[29/56] Processing PDF 32/59
+
+================================================================================
+📄 Clark_2018_CreativeWriting_MachineLoop.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 12 pages
+🔄 Converting to markdown (est. 14,632 tokens)...
+✅ Saved to: Clark_2018_CreativeWriting_MachineLoop.md
+💰 Cost: $0.004667
+📊 Tokens: 13,906 prompt + 8,192 completion
+✅ SUCCESS: Clark_2018_CreativeWriting_MachineLoop.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[30/56] Processing PDF 33/59
+
+================================================================================
+📄 Coenen_2022_Wordcraft_LLM.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 12 pages
+🔄 Converting to markdown (est. 14,090 tokens)...
+✅ Saved to: Coenen_2022_Wordcraft_LLM.md
+💰 Cost: $0.005059
+📊 Tokens: 17,821 prompt + 8,192 completion
+✅ SUCCESS: Coenen_2022_Wordcraft_LLM.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[31/56] Processing PDF 34/59
+
+================================================================================
+📄 Ippolito_2022_AI_Writing_Assistant.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 18 pages
+🔄 Converting to markdown (est. 15,674 tokens)...
+✅ Saved to: Ippolito_2022_AI_Writing_Assistant.md
+💰 Cost: $0.005110
+📊 Tokens: 18,336 prompt + 8,192 completion
+✅ SUCCESS: Ippolito_2022_AI_Writing_Assistant.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[32/56] Processing PDF 35/59
+
+================================================================================
+📄 Nguyen_2024_AI_Academic_Writing.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 19 pages
+🔄 Converting to markdown (est. 16,141 tokens)...
+✅ Saved to: Nguyen_2024_AI_Academic_Writing.md
+💰 Cost: $0.004845
+📊 Tokens: 15,687 prompt + 8,192 completion
+✅ SUCCESS: Nguyen_2024_AI_Academic_Writing.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[33/56] Processing PDF 36/59
+
+================================================================================
+📄 Park_2023_AI_Writing_Issue.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 4,027 tokens)...
+✅ Saved to: Park_2023_AI_Writing_Issue.md
+💰 Cost: $0.001928
+📊 Tokens: 4,198 prompt + 3,771 completion
+✅ SUCCESS: Park_2023_AI_Writing_Issue.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[34/56] Processing PDF 37/59
+
+================================================================================
+📄 Qian_2023_Human-AI_Co-creativity.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 26 pages
+🔄 Converting to markdown (est. 22,254 tokens)...
+✅ Saved to: Qian_2023_Human-AI_Co-creativity.md
+💰 Cost: $0.005975
+📊 Tokens: 26,981 prompt + 8,192 completion
+✅ SUCCESS: Qian_2023_Human-AI_Co-creativity.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[35/56] Processing PDF 38/59
+
+================================================================================
+📄 Ripamonti_2024_AI_Writing_Skills.pdf
+   Category: ai-creative-writing
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 4,188 tokens)...
+✅ Saved to: Ripamonti_2024_AI_Writing_Skills.md
+💰 Cost: $0.001746
+📊 Tokens: 3,857 prompt + 3,401 completion
+✅ SUCCESS: Ripamonti_2024_AI_Writing_Skills.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[36/56] Processing PDF 39/59
+
+================================================================================
+📄 Crosthwaite_2023_GenerativeAI_DDL.pdf
+   Category: ddl-research
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 6,916 tokens)...
+✅ Saved to: Crosthwaite_2023_GenerativeAI_DDL.md
+💰 Cost: $0.003357
+📊 Tokens: 7,465 prompt + 6,526 completion
+✅ SUCCESS: Crosthwaite_2023_GenerativeAI_DDL.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[37/56] Processing PDF 40/59
+
+================================================================================
+📄 Fithriani_2021_Poetry_EFL_Classrooms.pdf
+   Category: l2-poetry-pedagogy
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 17 pages
+🔄 Converting to markdown (est. 9,030 tokens)...
+✅ Saved to: Fithriani_2021_Poetry_EFL_Classrooms.md
+💰 Cost: $0.004243
+📊 Tokens: 9,663 prompt + 8,192 completion
+✅ SUCCESS: Fithriani_2021_Poetry_EFL_Classrooms.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[38/56] Processing PDF 41/59
+
+================================================================================
+📄 Hanauer_2010_Poetry_L2Writing_Research.pdf
+   Category: l2-poetry-pedagogy
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 180 pages
+🔄 Converting to markdown (est. 107,737 tokens)...
+✅ Saved to: Hanauer_2010_Poetry_L2Writing_Research.md
+💰 Cost: $0.013286
+📊 Tokens: 100,087 prompt + 8,192 completion
+✅ SUCCESS: Hanauer_2010_Poetry_L2Writing_Research.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[39/56] Processing PDF 42/59
+
+================================================================================
+📄 Kerbs_2024_Poetry_Scaffolding.pdf
+   Category: l2-poetry-pedagogy
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 11,043 tokens)...
+✅ Saved to: Kerbs_2024_Poetry_Scaffolding.md
+💰 Cost: $0.004496
+📊 Tokens: 12,191 prompt + 8,192 completion
+✅ SUCCESS: Kerbs_2024_Poetry_Scaffolding.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[40/56] Processing PDF 43/59
+
+================================================================================
+📄 McGregor_2016_Computer_Poetry_Evaluation.pdf
+   Category: l2-poetry-pedagogy
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 9,452 tokens)...
+✅ Saved to: McGregor_2016_Computer_Poetry_Evaluation.md
+💰 Cost: $0.004282
+📊 Tokens: 10,051 prompt + 8,192 completion
+✅ SUCCESS: McGregor_2016_Computer_Poetry_Evaluation.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[41/56] Processing PDF 44/59
+
+================================================================================
+📄 Li_2025_Generative_AI_L2Writing.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 31 pages
+🔄 Converting to markdown (est. 19,986 tokens)...
+✅ Saved to: Li_2025_Generative_AI_L2Writing.md
+💰 Cost: $0.005515
+📊 Tokens: 22,379 prompt + 8,192 completion
+✅ SUCCESS: Li_2025_Generative_AI_L2Writing.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[42/56] Processing PDF 45/59
+
+================================================================================
+📄 Lyster_Ranta_1997_Feedback_Uptake.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 30 pages
+🔄 Converting to markdown (est. 147,149 tokens)...
+✅ Saved to: Lyster_Ranta_1997_Feedback_Uptake.md
+💰 Cost: $0.042166
+📊 Tokens: 389,373 prompt + 8,072 completion
+✅ SUCCESS: Lyster_Ranta_1997_Feedback_Uptake.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[43/56] Processing PDF 46/59
+
+================================================================================
+📄 Michel_2025_Collaborative_Writing_AI.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 15 pages
+🔄 Converting to markdown (est. 17,677 tokens)...
+✅ Saved to: Michel_2025_Collaborative_Writing_AI.md
+💰 Cost: $0.005485
+📊 Tokens: 22,087 prompt + 8,192 completion
+✅ SUCCESS: Michel_2025_Collaborative_Writing_AI.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[44/56] Processing PDF 47/59
+
+================================================================================
+📄 Nazik_2024_AI_Creative_Writing_Secondary.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 3 pages
+🔄 Converting to markdown (est. 2,868 tokens)...
+✅ Saved to: Nazik_2024_AI_Creative_Writing_Secondary.md
+💰 Cost: $0.001158
+📊 Tokens: 2,865 prompt + 2,178 completion
+✅ SUCCESS: Nazik_2024_AI_Creative_Writing_Secondary.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[45/56] Processing PDF 48/59
+
+================================================================================
+📄 Shaumiwaty_2025_AI_Education_CaseStudy.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 7 pages
+🔄 Converting to markdown (est. 8,737 tokens)...
+✅ Saved to: Shaumiwaty_2025_AI_Education_CaseStudy.md
+💰 Cost: $0.003797
+📊 Tokens: 7,974 prompt + 7,500 completion
+✅ SUCCESS: Shaumiwaty_2025_AI_Education_CaseStudy.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[46/56] Processing PDF 49/59
+
+================================================================================
+📄 Wang_2024_AI_Writing_Processes.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 22 pages
+🔄 Converting to markdown (est. 19,377 tokens)...
+✅ Saved to: Wang_2024_AI_Writing_Processes.md
+💰 Cost: $0.005230
+📊 Tokens: 19,536 prompt + 8,192 completion
+✅ SUCCESS: Wang_2024_AI_Writing_Processes.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[47/56] Processing PDF 50/59
+
+================================================================================
+📄 Wang_Wang_2025_Critical_AI_Literacy.pdf
+   Category: l2-writing-ai
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 17 pages
+🔄 Converting to markdown (est. 22,109 tokens)...
+✅ Saved to: Wang_Wang_2025_Critical_AI_Literacy.md
+💰 Cost: $0.005392
+📊 Tokens: 21,157 prompt + 8,192 completion
+✅ SUCCESS: Wang_Wang_2025_Critical_AI_Literacy.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[48/56] Processing PDF 51/59
+
+================================================================================
+📄 Franceschelli_2025_LLM_Creativity.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 11 pages
+🔄 Converting to markdown (est. 15,915 tokens)...
+✅ Saved to: Franceschelli_2025_LLM_Creativity.md
+💰 Cost: $0.005117
+📊 Tokens: 18,401 prompt + 8,192 completion
+✅ SUCCESS: Franceschelli_2025_LLM_Creativity.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[49/56] Processing PDF 52/59
+
+================================================================================
+📄 Holtzman_2019_Neural_Text_Degeneration.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 16 pages
+🔄 Converting to markdown (est. 11,586 tokens)...
+✅ Saved to: Holtzman_2019_Neural_Text_Degeneration.md
+💰 Cost: $0.004726
+📊 Tokens: 14,488 prompt + 8,193 completion
+✅ SUCCESS: Holtzman_2019_Neural_Text_Degeneration.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[50/56] Processing PDF 53/59
+
+================================================================================
+📄 Li_2025_Temperature_Impact_LLM.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 10,575 tokens)...
+✅ Saved to: Li_2025_Temperature_Impact_LLM.md
+💰 Cost: $0.004723
+📊 Tokens: 14,460 prompt + 8,192 completion
+✅ SUCCESS: Li_2025_Temperature_Impact_LLM.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[51/56] Processing PDF 54/59
+
+================================================================================
+📄 Optimizing_AI_L2Writing_Temperature.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 24 pages
+🔄 Converting to markdown (est. 13,010 tokens)...
+✅ Saved to: Optimizing_AI_L2Writing_Temperature.md
+💰 Cost: $0.004733
+📊 Tokens: 14,561 prompt + 8,192 completion
+✅ SUCCESS: Optimizing_AI_L2Writing_Temperature.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[52/56] Processing PDF 55/59
+
+================================================================================
+📄 Orwig_2024_Language_Creativity.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 14 pages
+🔄 Converting to markdown (est. 11,807 tokens)...
+✅ Saved to: Orwig_2024_Language_Creativity.md
+💰 Cost: $0.004604
+📊 Tokens: 13,270 prompt + 8,192 completion
+✅ SUCCESS: Orwig_2024_Language_Creativity.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[53/56] Processing PDF 56/59
+
+================================================================================
+📄 Peeperkorn_2024_Temperature_Creativity.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 10 pages
+🔄 Converting to markdown (est. 13,108 tokens)...
+✅ Saved to: Peeperkorn_2024_Temperature_Creativity.md
+💰 Cost: $0.004843
+📊 Tokens: 15,661 prompt + 8,191 completion
+✅ SUCCESS: Peeperkorn_2024_Temperature_Creativity.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[54/56] Processing PDF 57/59
+
+================================================================================
+📄 Ravfogel_2023_Nucleus_Sampling.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 6 pages
+🔄 Converting to markdown (est. 4,962 tokens)...
+✅ Saved to: Ravfogel_2023_Nucleus_Sampling.md
+💰 Cost: $0.003073
+📊 Tokens: 6,454 prompt + 6,068 completion
+✅ SUCCESS: Ravfogel_2023_Nucleus_Sampling.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[55/56] Processing PDF 58/59
+
+================================================================================
+📄 Uzumcu_2025_Turkish_LLM_Parameters.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 4 pages
+🔄 Converting to markdown (est. 5,023 tokens)...
+✅ Saved to: Uzumcu_2025_Turkish_LLM_Parameters.md
+💰 Cost: $0.003896
+📊 Tokens: 8,144 prompt + 7,704 completion
+✅ SUCCESS: Uzumcu_2025_Turkish_LLM_Parameters.pdf
+⏳ Waiting 5s before next PDF...
+
+================================================================================
+[56/56] Processing PDF 59/59
+
+================================================================================
+📄 Zhao_2025_Assessing_LLM_Creativity.pdf
+   Category: parameter-studies
+   Model: Google Gemini 2.0 Flash ($0.1-$0.4/1M tokens)
+================================================================================
+📖 Extracting text from PDF...
+✅ Extracted 20 pages
+🔄 Converting to markdown (est. 23,266 tokens)...
+✅ Saved to: Zhao_2025_Assessing_LLM_Creativity.md
+💰 Cost: $0.006039
+📊 Tokens: 27,623 prompt + 8,192 completion
+✅ SUCCESS: Zhao_2025_Assessing_LLM_Creativity.pdf
+
+================================================================================
+✨ BATCH CONVERSION COMPLETE!
+================================================================================
+
+📊 Final Statistics:
+   Total PDFs: 59
+   ✅ Completed: 59
+   ❌ Errors: 0
+   💰 Total cost: $0.418766
+
+📝 Full log saved to: /Users/simonwang/Documents/Usage/AIpoetry/PoetryAI/Literature/conversion_process.log
+📊 Tracker updated: /Users/simonwang/Documents/Usage/AIpoetry/PoetryAI/Literature/pdf_conversion_tracker.csv
+================================================================================
