@@ -28,7 +28,7 @@ This study utilizes **parameter control** to investigate this question. LLM gene
 
 We predict that parameter configurations will systematically shape three distinct interaction types, each grounded in established pedagogical theory. **Low-temperature settings** imitate structured scaffolding pedagogies, mimicking processes where teachers identify structural or linguistic issues and provide corrections—what we term **Type A: Constraint Repair**. Here AI functions as diagnostic tool aligned with Lyster and Ranta's (1997) corrective feedback taxonomy, surfacing areas needing attention and enabling focused revision. **High-temperature settings** , with AI being more active and creative, are expected to generate unexpected possibilities uncommon in traditional classrooms—**Type C: Surprise Harvest**. Following Coenen et al.'s (2022) serendipitous discovery findings, this interaction capitalizes on AI's capacity to expand creative search spaces, supporting learners in transcending predictable patterns. **Type B: Exemplar Giving**—where AI provides model texts or line options students can select and adapt—may appear across both conditions, representing the universal imitation-transformation process fundamental to creative pedagogy (Hanauer, 2010). However, with AI as creative agent rather than human instructor, students' perception of exemplar-based interactions may differ significantly from traditional classroom experiences, potentially affecting authorship feelings and creative satisfaction in ways requiring empirical investigation.
 
-![Figure 4: Three Interaction Types in AI-Assisted L2 Poetry Writing](graphies/fig3_three_types_framework.png)
+![g]Figure 4: Three Interaction Types in AI-Assisted L2 Poetry Writin(graphies/fig3_three_types_framework.png)
 
 **Figure 4: Three Interaction Types Framework**
 
@@ -71,8 +71,8 @@ We trace three data sources throughout the experiment: (1) **Chat transcripts**�
 Convergent evidence across all three data sources demonstrates that parameter configuration emerges as the primary determinant of interaction type distribution, which subsequently shapes both authorship perception and collaborative satisfaction in profound ways.
 
 Systematic coding of chat transcripts revealed striking disparities between parameter conditions:
-
-![Figure 1: Interaction Type Distribution by Parameter Configuration](graphies/fig1_interaction_distribution.png)
+Figure 1: Interaction Type Distribution by Parameter Configuration
+![](graphies/fig1_interaction_distribution.png)
 
 **Figure 1: Interaction Type Distribution by Parameter Configuration**
 
