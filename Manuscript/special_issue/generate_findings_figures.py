@@ -86,9 +86,9 @@ def create_figure_1():
     print("✓ Figure 1 created: Interaction Type Distribution")
 
 # ============================================================================
-# Figure 2: Authorship Perception by Room Condition
+# Figure 3: Authorship Perception by Room Condition
 # ============================================================================
-def create_figure_2():
+def create_figure_3():
     """Authorship self-assessment with individual data points"""
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
     
@@ -151,21 +151,21 @@ def create_figure_2():
     ax2.spines['right'].set_visible(False)
     
     # Overall title
-    fig.suptitle('Figure 2: Authorship Perception by Parameter Configuration', 
+    fig.suptitle('Figure 3: Authorship Perception by Parameter Configuration', 
                  fontsize=13, fontweight='bold', y=1.02)
     
     plt.tight_layout()
-    plt.savefig(os.path.join(output_dir, 'Figure2_Authorship_Perception.png'), 
+    plt.savefig(os.path.join(output_dir, 'Figure3_Authorship_Perception.png'), 
                 bbox_inches='tight', dpi=300)
-    plt.savefig(os.path.join(output_dir, 'Figure2_Authorship_Perception.pdf'), 
+    plt.savefig(os.path.join(output_dir, 'Figure3_Authorship_Perception.pdf'), 
                 bbox_inches='tight')
     plt.close()
-    print("✓ Figure 2 created: Authorship Perception")
+    print("✓ Figure 3 created: Authorship Perception")
 
 # ============================================================================
-# Figure 3: Type B Paradox - Helpfulness vs Authorship
+# Figure 4: Type B Paradox - Helpfulness vs Authorship
 # ============================================================================
-def create_figure_3():
+def create_figure_4():
     """The 'Helpful but Alienating' paradox"""
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
     
@@ -231,21 +231,21 @@ def create_figure_3():
     ax2.spines['right'].set_visible(False)
     
     # Overall title
-    fig.suptitle('Figure 3: The Type B "Helpful but Alienating" Paradox', 
+    fig.suptitle('Figure 4: The Type B "Helpful but Alienating" Paradox', 
                  fontsize=13, fontweight='bold', y=1.00)
     
     plt.tight_layout()
-    plt.savefig(os.path.join(output_dir, 'Figure3_Type_B_Paradox.png'), 
+    plt.savefig(os.path.join(output_dir, 'Figure4_Type_B_Paradox.png'), 
                 bbox_inches='tight', dpi=300)
-    plt.savefig(os.path.join(output_dir, 'Figure3_Type_B_Paradox.pdf'), 
+    plt.savefig(os.path.join(output_dir, 'Figure4_Type_B_Paradox.pdf'), 
                 bbox_inches='tight')
     plt.close()
-    print("✓ Figure 3 created: Type B Paradox")
+    print("✓ Figure 4 created: Type B Paradox")
 
 # ============================================================================
-# Figure 4: Parameter-Interaction-Perception Pathway
+# Figure 6: Parameter-Interaction-Perception Pathway
 # ============================================================================
-def create_figure_4():
+def create_figure_6_pathway():
     """Flow diagram showing the mechanism"""
     fig, ax = plt.subplots(figsize=(10, 8))
     ax.set_xlim(0, 10)
@@ -302,18 +302,18 @@ def create_figure_4():
     ax.text(7.5, 2.3, '• "Like a very good friend"', ha='center', fontsize=8, style='italic')
     
     # Title
-    ax.text(5, 9.7, 'Figure 4: Parameter→Interaction→Perception Pathway', 
+    ax.text(5, 9.7, 'Figure 6: Parameter→Interaction→Perception Pathway', 
             ha='center', fontsize=13, fontweight='bold')
     ax.text(5, 0.5, 'Mechanism: Parameter configuration determines scaffolding intensity, shaping interaction patterns\nand ultimately learner perceptions of authorship and creative agency',
             ha='center', fontsize=9, style='italic', wrap=True)
     
     plt.tight_layout()
-    plt.savefig(os.path.join(output_dir, 'Figure4_Mechanism_Pathway.png'), 
+    plt.savefig(os.path.join(output_dir, 'Figure6_Mechanism_Pathway.png'), 
                 bbox_inches='tight', dpi=300)
-    plt.savefig(os.path.join(output_dir, 'Figure4_Mechanism_Pathway.pdf'), 
+    plt.savefig(os.path.join(output_dir, 'Figure6_Mechanism_Pathway.pdf'), 
                 bbox_inches='tight')
     plt.close()
-    print("✓ Figure 4 created: Mechanism Pathway")
+    print("✓ Figure 6 created: Mechanism Pathway")
 
 # ============================================================================
 # Figure 5: 2x2 ANOVA Results - Parameter and Awareness Effects
@@ -384,8 +384,8 @@ def create_figure_5():
     ax2.spines['right'].set_visible(False)
     
     # Overall title
-    fig.suptitle('Figure 5: Parameter Effects Dominate Over Awareness Effects', 
-                 fontsize=13, fontweight='bold', y=1.00)
+    fig.suptitle('Figure 5: 2×2 ANOVA Results - Parameter and Awareness Effects on Authorship',
+                 fontsize=13, fontweight='bold', y=0.98)
     
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, 'Figure5_ANOVA_Results.png'), 
@@ -396,9 +396,9 @@ def create_figure_5():
     print("✓ Figure 5 created: ANOVA Results")
 
 # ============================================================================
-# Figure 6: Poem Characteristics by Condition
+# Figure 2: Poem Characteristics by Condition
 # ============================================================================
-def create_figure_6():
+def create_figure_2():
     """Radar chart comparing poem features"""
     fig, ax = plt.subplots(figsize=(8, 8), subplot_kw=dict(projection='polar'))
     
@@ -438,16 +438,16 @@ def create_figure_6():
     ax.legend(loc='upper right', bbox_to_anchor=(1.3, 1.1), frameon=True, fancybox=True)
     
     # Title
-    ax.set_title('Figure 6: Poem Characteristics by Parameter Configuration\n(Qualitative Analysis of Creative Artifacts)',
+    ax.set_title('Figure 2: Poem Characteristics by Parameter Configuration\n(Qualitative Analysis of Creative Artifacts)',
                  fontsize=12, fontweight='bold', pad=20)
     
     plt.tight_layout()
-    plt.savefig(os.path.join(output_dir, 'Figure6_Poem_Characteristics.png'), 
+    plt.savefig(os.path.join(output_dir, 'Figure2_Poem_Characteristics.png'), 
                 bbox_inches='tight', dpi=300)
-    plt.savefig(os.path.join(output_dir, 'Figure6_Poem_Characteristics.pdf'), 
+    plt.savefig(os.path.join(output_dir, 'Figure2_Poem_Characteristics.pdf'), 
                 bbox_inches='tight')
     plt.close()
-    print("✓ Figure 6 created: Poem Characteristics")
+    print("✓ Figure 2 created: Poem Characteristics")
 
 # ============================================================================
 # Generate all figures
@@ -462,7 +462,7 @@ if __name__ == "__main__":
     create_figure_3()
     create_figure_4()
     create_figure_5()
-    create_figure_6()
+    create_figure_6_pathway()
     
     print("\n" + "="*70)
     print("ALL FIGURES GENERATED SUCCESSFULLY!")
@@ -470,9 +470,9 @@ if __name__ == "__main__":
     print(f"\nOutput location: {output_dir}")
     print("\nGenerated files:")
     print("  • Figure1_Interaction_Type_Distribution.png/.pdf")
-    print("  • Figure2_Authorship_Perception.png/.pdf")
-    print("  • Figure3_Type_B_Paradox.png/.pdf")
-    print("  • Figure4_Mechanism_Pathway.png/.pdf")
+    print("  • Figure2_Poem_Characteristics.png/.pdf")
+    print("  • Figure3_Authorship_Perception.png/.pdf")
+    print("  • Figure4_Type_B_Paradox.png/.pdf")
     print("  • Figure5_ANOVA_Results.png/.pdf")
-    print("  • Figure6_Poem_Characteristics.png/.pdf")
+    print("  • Figure6_Mechanism_Pathway.png/.pdf")
     print("\nReady for manuscript insertion!")
