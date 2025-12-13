@@ -1,8 +1,8 @@
-# What Is the "Temperature" of a Poem? Classroom Interactions in L2 Creative Writing with LLMs as Creative Partner
+# Parameter Configuration as Pedagogical Design: Shaping Authorship in AI-Assisted L2 Poetry Writing
 
 ## Abstract
 
-This study examines how LLM parameter configurations—temperature and top-p settings—systematically shape authorship perception and creative satisfaction in AI-assisted L2 poetry writing. Analyzing 10 students across temperature conditions (0.3 vs. 0.8), we coded interactions using three types: Constraint Repair, Exemplar Giving, Surprise Harvest. High-temperature generated Surprise Harvest at seven times low-temperature rates (35% vs. 5%), correlating with sixfold higher authorship (62.5% vs. 10%) and doubled satisfaction (4.75/5 vs. 2.0/5). Exemplar Giving showed paradox: 75% rated most helpful yet produced lowest authorship (10%). Findings demonstrate parameters systematically shape interaction types, affecting learner motivation and creative agency—establishing parameter configuration as fundamental pedagogical choice.
+When AI assists L2 poetry writing, does it amplify creative agency or diminish authorship? This study reveals the answer hinges on LLM parameter configurations—temperature and top-p settings—which systematically shape learner perceptions. Analyzing 10 students across temperature conditions (0.3 vs. 0.8), we coded interactions into three types: Constraint Repair, Exemplar Giving, Surprise Harvest. High-temperature generated Surprise Harvest at seven times low-temperature rates (35% vs. 5%), correlating with sixfold higher authorship (62.5% vs. 10%) and doubled satisfaction (4.75/5 vs. 2.0/5). Exemplar Giving showed paradox: 75% rated most helpful yet produced lowest authorship (10%). Findings demonstrate parameters systematically shape interaction types, affecting learner motivation and creative agency—establishing parameter configuration as fundamental pedagogical choice hidden in seemingly technical settings.
 
 **Keywords:** AI-assisted writing, L2 poetry, creative agency, LLM parameters, human-AI collaboration
 
@@ -169,3 +169,14 @@ Peeperkorn, M., Bewersdorff, A., & Zhai, X. (2024). Is temperature the creativit
 Qian, W., Ma, J., Fox, R., Zhang, B., Liaw, R., Krishna, K., & Laban, P. (2023). "It felt like having a second mind": Investigating human-AI co-creativity in prewriting with large language models. *arXiv preprint arXiv:2307.10811*. https://doi.org/10.48550/arXiv.2307.10811
 
 Ravfogel, S., Goldberg, Y., & Goldberger, J. (2023). Conformal nucleus sampling. *arXiv preprint arXiv:2305.02633*. https://doi.org/10.48550/arXiv.2305.02633
+---
+
+## Ethical Declaration Statement
+
+The project has been approved by the Human Research Ethics Committee of Hong Kong Baptist University (Reference Number: HASC/24-25/0XXX). All participants provided informed consent, and data were stored following institutional protocols for confidentiality and anonymization.
+
+---
+
+## Declaration of Use of AI in the Writing Process
+
+The author(s) used Claude (Anthropic) and ChatGPT (OpenAI) during the preparation of this work to assist with literature review organization, data visualization code generation, and manuscript drafting and editing. After utilizing these tools, the author(s) thoroughly reviewed and edited the content as necessary and assumed full responsibility for the publication's content. The AI writing assistant used in the research study itself (for participant interactions) utilized Claude Sonnet 4 via OpenRouter API, with parameter configurations (temperature and top-p settings) serving as the primary experimental manipulation.
