@@ -30,13 +30,15 @@ Discover how **AI parameter configuration transforms creative writing pedagogy**
 
 ---
 
-## What You'll Learn
+## bout This Workshop
 
-✅ **Platform Navigation**: Set up poetry writing sessions with customized AI support  
-✅ **Parameter Literacy**: Understand how temperature/top-p affect interaction patterns  
-✅ **Three Interaction Types**: Identify Constraint Repair, Exemplar Giving, Surprise Harvest  
-✅ **Pedagogical Design**: Configure parameters for different learning objectives  
-✅ **Managing the Paradox**: Balance helpful scaffolding with creative authorship  
+Discover how **AI parameter configuration transforms creative writing pedagogy**. This hands-on seminar introduces educators to **poetry.aitutor.ink**, a specialized platform designed for L2 poetry writing that puts pedagogical control in teachers' hands.
+
+**Learn how temperature and top-p settings shape student experiences:**
+
+- 🔹 **Low parameters (0.3/0.4)**: Structured guidance, pattern reinforcement, confidence building
+- 🔹 **High parameters (0.8/0.9)**: Creative exploration, surprising discoveries, authorship agency
+- 🔹 **Strategic configuration**: Match AI behavior to learning goals and student readiness
 
 ---
 

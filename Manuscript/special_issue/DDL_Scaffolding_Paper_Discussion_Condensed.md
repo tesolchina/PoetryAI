@@ -12,7 +12,7 @@ This discussion interprets Session 1 findings through three lenses: (1) how para
 
 ### 1.1 The Seven-Fold Difference: Parameter as Pedagogical Lever
 
-Our most striking finding—**the seven-fold increase in Type C (Surprise Harvest) interactions from structured to exploratory parameters** (5% to 35%, *p* < .001, Cramér's V = .38)—demonstrates parameter configuration as a **pedagogical lever** with immediate, measurable effects. This is not subtle influence but fundamental transformation. When parameters shift from low (temperature 0.3, top-p 0.4) to high (0.8, 0.9), AI's role metamorphoses from **pattern-enforcer** to **pattern-extender**, from **curator of corpus-typical options** to **generator of corpus-divergent provocations**.
+Our most striking finding�?*the seven-fold increase in Type C (Surprise Harvest) interactions from structured to exploratory parameters** (5% to 35%, *p* < .001, Cramér's V = .38)—demonstrates parameter configuration as a **pedagogical lever** with immediate, measurable effects. This is not subtle influence but fundamental transformation. When parameters shift from low (temperature 0.3, top-p 0.4) to high (0.8, 0.9), AI's role metamorphoses from **pattern-enforcer** to **pattern-extender**, from **curator of corpus-typical options** to **generator of corpus-divergent provocations**.
 
 In structured rooms, learners encountered AI as **meticulous editor**—catching deviations, offering polished alternatives, providing linguistic safety nets. The experience felt orderly and predictable: "It took our words and tried to put it in poem form." In exploratory rooms, learners encountered **imaginative interlocutor** suggesting unexpected techniques ("found poetry" using legal citations), posing philosophical questions ("Do you want the poem to condemn or understand?"), and venturing creative risks: "a very warm-hearted AI... like a very good friend, not just a machine."
 
@@ -89,3 +89,66 @@ The Parameter→Interaction→Perception pathway establishes **parameter literac
 The death Crosthwaite feared would come not from AI's existence but from failing to understand and control how it shapes learning. The evolution we demonstrate becomes possible when educators recognize **parameters as pedagogical levers** and design accordingly. Our most consequential contribution: demonstrating **generative AI is not a pedagogical intervention but a configurable platform** whose affordances must be deliberately shaped through informed design.
 
 Parameter configuration is **pedagogical decision-making disguised as engineering specification**. Making it visible, adjustable, and pedagogically grounded transforms AI from potential threat into powerful partner in DDL's ongoing evolution. The difference between alienation and authorship, between constraint and creativity, between DDL's death and evolution—may hinge on adjusting a temperature setting from 0.3 to 0.8.
+---
+
+## References
+
+Bernardini, S. (2004). Corpora in the classroom: An overview and some reflections on future development. *In J. M. Sinclair (Ed.), How to use corpora in language teaching* (pp. 15-36). John Benjamins.
+
+Bitchener, J., & Ferris, D. R. (2012). *Written corrective feedback in second language acquisition and writing*. Routledge.
+
+Boden, M. A. (2004). *The creative mind: Myths and mechanisms*. Routledge.
+
+Boulton, A. (2012). Data-driven learning: Taking the computer out of the equation. *Language Learning*, 62(2), 534572.
+
+Chakrabarty, T., Padmakumar, V., & He, H. (2022). Help me write a poem: Instruction tuning as a vehicle for collaborative poetry writing. *arXiv Preprint arXiv:2210.13669*. https://doi.org/10.48550/arXiv.2210.13669
+
+Coenen, A., Retelny, D., Wu, J., Michaux, J., Narayanan, A., Dang, H., Kua, T., Qian, H., Nham, K., Ma, F., & Agrawala, M. (2022). Wordcraft: Story writing with large language models. In *IUI '22: 27th International Conference on Intelligent User Interfaces Companion* (pp. 841843). Association for Computing Machinery. https://doi.org/10.1145/3490100.3516505
+
+Crosthwaite, P. (2023). Generative AI and the end of corpus-assisted data-driven learning? Not so fast! *Applied Corpus Linguistics*, 3(3), 100067.
+
+Crosthwaite, P., & Baisa, V. (2023). Generative AI and the end of corpus-assisted data-driven learning? Not so fast! *Applied Corpus Linguistics*, 3(3), 115.
+
+Ferris, D. R. (2004). The "grammar correction" debate in L2 writing: Where are we, and where do we go from here? *Journal of Second Language Writing*, 13(1), 4962.
+
+Fithriani, R. (2021). Poetry writing in EFL classrooms: Learning from Indonesian students' strategies. *KnE Social Sciences*.
+
+Guilford, J. P. (1967). *The nature of human intelligence*. McGraw-Hill.
+
+Hanauer, D. I. (2010). *Poetry as research: Exploring second language poetry writing*. John Benjamins Publishing Company.
+
+Holtzman, A., Buys, J., Du, L., Forbes, M., & Choi, Y. (2019). The curious case of neural text degeneration. *arXiv Preprint arXiv:1904.09751*. https://doi.org/10.48550/arXiv.1904.09751
+
+Hyland, K. (2007). Genre pedagogy: Language, literacy and L2 writing instruction. *Journal of Second Language Writing*, 16(3), 148164.
+
+Jefferson, G. (2004). Glossary of transcript symbols with an introduction. In G. H. Lerner (Ed.), *Conversation analysis: Studies from the first generation* (pp. 1331). John Benjamins.
+
+Johns, T. (1991). Should you be persuaded: Two examples of data-driven learning. *Classroom Concordancing Newsletter*, 4, 116.
+
+Kerbs, M., McQueston, J., & Lawrance, L. (2024). Playing with words: Scaffolding writing through poetry. *Reading Teacher*, 78(1).
+
+Lantolf, J. P., & Thorne, S. L. (2006). *Sociocultural theory and the genesis of second language development*. Oxford University Press.
+
+Li, L., Wei, Y., Xu, M., Xiao, M., He, X., Liu, W., & Liang, S. (2025). Exploring the impact of temperature on large language models: Hot or cold? *Procedia Computer Science*, 264, 242251. https://doi.org/10.1016/j.procs.2024.10.130
+
+Li, M. (2025). Generative artificial intelligence in second language writing: A comprehensive review of current research. *Language Teaching*, 129. https://doi.org/10.1017/S0261444824000424
+
+Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake: Negotiation of form in communicative classrooms. *Studies in Second Language Acquisition*, 19(1), 3766. https://doi.org/10.1017/S0272263197001034
+
+Peeperkorn, M., Bewersdorff, A., & Zhai, X. (2024). Is temperature the creativity parameter of large language models? *arXiv Preprint arXiv:2405.00492*. https://doi.org/10.48550/arXiv.2405.00492
+
+Puntambekar, S., & H��bscher, R. (2005). Tools for scaffolding students in a complex learning environment. *Computers & Education*, 45(2), 141162.
+
+Qian, W., Ma, J., Fox, R., Zhang, B., Liaw, R., Krishna, K., & Laban, P. (2023). "It felt like having a second mind": Investigating human-AI co-creativity in prewriting with large language models. *arXiv Preprint arXiv:2307.10811*. https://doi.org/10.48550/arXiv.2307.10811
+
+Shneiderman, B. (2007). Creativity support tools: Accelerating discovery and innovation. *Communications of the ACM*, 50(12), 2032.
+
+Sun, Y. C., & Wang, L. Y. (2003). Concordancers in the EFL classroom: Cognitive approaches and collocation difficulty. *Computer Assisted Language Learning*, 16(1), 8394.
+
+Tardy, C. M. (2006). Researching first and second language genre learning: A comparative review and a look ahead. *Journal of Second Language Writing*, 15(2), 79101.
+
+Van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacherstudent interaction: A decade of research. *Educational Psychology Review*, 22(3), 271296.
+
+Winne, P. H., & Hadwin, A. F. (2008). The weave of motivation and self-regulated learning. *In D. H. Schunk & B. J. Zimmerman (Eds.), Motivation and self-regulated learning: Theory, research, and applications* (pp. 297314). Routledge/Taylor & Francis.
+
+Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89100.
