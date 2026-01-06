@@ -8,12 +8,12 @@
 ---
 
 ### 📅 Date & Time
-**[Date TBD]**  
-**[Time: e.g., 2:00 PM - 4:00 PM]**
+**9 January 2025**  
+**2:00 PM - 4:00 PM**
 
 ### 📍 Location
-**[Venue TBD]**  
-Centre for Applied English Studies  
+**OEE 702A**  
+Ho Sin Hang Campus  
 Hong Kong Baptist University
 
 ---
@@ -44,20 +44,20 @@ Discover how **AI parameter configuration transforms creative writing pedagogy**
 
 ## Workshop Structure
 
-### Part 1: Introduction (30 min)
+### Part 1: Introduction (20 min)
 - Research findings: How parameters affect authorship perception
 - The "helpful but alienating" paradox explained
 - Live demonstration of the platform
 
-### Part 2: Hands-On Practice (60 min)
-- Participants write poetry with different parameter settings
-- Experience Type A, B, and C interactions firsthand
-- Reflect on authorship perception across conditions
+### Part 2: Hands-On Practice (50 min)
+- **Poetry writing** under different parameter and scaffolding conditions
+- **Revise your poems** based on AI feedback across conditions
+- **Text-image generation**: Create visual representations of your poems
 
-### Part 3: Pedagogical Applications (30 min)
-- Designing progressive curricula (scaffolding fading)
-- Troubleshooting common challenges
-- Q&A and discussion
+### Part 3: In-Class Sharing and Discussion (40 min)
+- **Share your poems and images** on the platform
+- **Reflect on your writing experience** across different parameter settings
+- **Discussion**: Creative agency and authorship perception across conditions
 
 ---
 
@@ -100,7 +100,7 @@ Discover how **AI parameter configuration transforms creative writing pedagogy**
 🔗 **Platform Demo**: poetry.aitutor.ink  
 👥 **Limited to 20 participants** (first-come, first-served)
 
-**Registration Deadline**: [Date TBD]
+**Registration Deadline**: 4 January 2025
 
 ---
 
