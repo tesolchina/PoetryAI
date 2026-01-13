@@ -9,12 +9,7 @@
 
 ## Executive Summary
 
-Integrate three complementary goals:
-1. **Service Learning Project** - Expand platform usage across institutions while supporting language learning
-2. **Research Data Collection** - Gather authentic participant data across multiple contexts (second/third rounds)
-3. **Publication Initiative** - Create bilingual anthology of participant poems + stories as tangible project output
-
-This approach maximizes social impact, research rigor, and publication visibility while creating sustainable engagement.
+The PoetryAI Platform Promotion & Publication Plan integrates service learning, research advancement, and creative publication into a cohesive three-phase expansion strategy. Beginning with HKBU as an anchor institution in Q1 2026, the initiative scales to other Hong Kong universities by Q3, then extends to mainland institutions by Q4 and beyond. This dual-purpose model leverages authentic participant engagement to simultaneously support L2 poetry writing development, collect rigorous research data on AI-assisted language learning, and produce a bilingual anthology of 300–500 participant poems. **Expected outcomes:** established institutional partnerships, validated pedagogical protocols, a professionally published anthology distributed to 50+ libraries, and peer-reviewed research publications advancing the field of AI in language education.
 
 ---
 
