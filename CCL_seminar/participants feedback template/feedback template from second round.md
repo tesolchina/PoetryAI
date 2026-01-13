@@ -1,15 +1,301 @@
-# Feedback Template from Second Round
+# Phase 2 Feedback Template - Second Round
+**PoetryAI Platform Evaluation (January 2026)**
 
-## Sheet1
+---
 
-| Unnamed: 0                 | participants' name and students' number   |   I enjoyed the seminar |    I felt comfortable using the PoetryAI platform during the seminar |   I would like to use the platform again in the future  |   Unnamed: 5 |   Unnamed: 6 |   Unnamed: 7 | When creating my poem, I mainly                     |    I would say the final poem is "mine" (I own the creative contribution) |   Unnamed: 10 |   Unnamed: 11 |   Unnamed: 12 |   Unnamed: 13 |   Unnamed: 14 |   Unnamed: 15 |   Unnamed: 16 |   Unnamed: 17 |   Unnamed: 18 |   Unnamed: 19 |   Unnamed: 20 |   Unnamed: 21 |   Unnamed: 22 |   Unnamed: 23 | If you had to assign a percentage, how much of your poem is "yours" vs. the AI's?   |   Unnamed: 25 |   Unnamed: 26 |  If you disagreed with the AI, what did you disagree about? (Select all that apply)   | Which type of interaction happened MOST OFTEN    | Which type was MOST HELPFUL for writing your poem today?   | Why was this type most helpful? Give a specific example if you can:   |   Unnamed: 31 |   Unnamed: 32 |   Unnamed: 33 |   Unnamed: 34 |   Unnamed: 35 |   Unnamed: 36 |   Unnamed: 37 |   Using AI made me more confident and encouraged in my English writing  |   Unnamed: 39 |   Unnamed: 40 |   Unnamed: 41 |   Unnamed: 42 | In what situations would you use this AI tool in the future? (Select all that apply)                                                                                                                                                                                                                                          |   The chatbot feels more like a creative partner than an instructor or a professor | Which interaction type was most frustrating?   |   I felt emotionally safe sharing personal themes with the AI  |   Unnamed: 47 |   Unnamed: 48 | Unnamed: 49                              | Unnamed: 50                            | Unnamed: 51                                                                                     | Unnamed: 52                                                                              | Unnamed: 53                                                       | Unnamed: 54                                                           |   I came to the seminar with poetry ideas |    The AI  helped me develop my poetry ideas | Any other comments or feedback?                                                                                                                                                           | ethical consent   |
-|:---------------------------|:------------------------------------------|------------------------:|---------------------------------------------------------------------:|--------------------------------------------------------:|-------------:|-------------:|-------------:|:----------------------------------------------------|--------------------------------------------------------------------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|:------------------------------------------------------------------------------------|--------------:|--------------:|:--------------------------------------------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------|:----------------------------------------------------------------------|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|--------------:|------------------------------------------------------------------------:|--------------:|--------------:|--------------:|--------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------:|:-----------------------------------------------|---------------------------------------------------------------:|--------------:|--------------:|:-----------------------------------------|:---------------------------------------|:------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------|:----------------------------------------------------------------------|------------------------------------------:|---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------|
-| 2026-01-09 15:42:43        | ZHENG ZIAN 22231153                       |                       4 |                                                                    4 |                                                       4 |          nan |          nan |          nan | Let the AI guide most creative decisions            |                                                                         2 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 90% AI                                                                              |           nan |           nan | nan                                                                                   | nan                                              | nan                                                        | nan                                                                   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                     nan |           nan |           nan |           nan |           nan | nan                                                                                                                                                                                                                                                                                                                           |                                                                                  4 | nan                                            |                                                              4 |           nan |           nan | I felt more comfortable and supported in | I felt more creative and in control in | In what kind of scenarios or situations would you prefer to use the Structured Studio?          | In what kind of scenarios or situations would you prefer to use the Exploratory Atelier? | Which room would you choose to use for a personal poetry writing? | Which room would you choose to use for academic or learning purposes? |                                       nan |                                          nan | It was an overall good experience                                                                                                                                                         | yes               |
-| 2026-01-09 15:43:21        | David                                     |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Let the AI guide most creative decisions            |                                                                         2 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | me 20%, AI 80%                                                                      |           nan |           nan | I didn't disagree with the AI                                                         | nan                                              | nan                                                        | nan                                                                   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       5 |           nan |           nan |           nan |           nan | nan                                                                                                                                                                                                                                                                                                                           |                                                                                  5 | nan                                            |                                                              3 |           nan |           nan | the Exploratory Atelier                  | the Exploratory Atelier                | nan                                                                                             | nan                                                                                      | the Exploratory Atelier                                           | the Structured Studio                                                 |                                         5 |                                            4 | no                                                                                                                                                                                        | yes               |
-| 2026-01-09 15:44:24.579000 | 24213721 zhu ying lam                     |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Explored a few different directions before deciding |                                                                         3 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 20%mine rest ai                                                                     |           nan |           nan | Word choices or language                                                              | Type B (Content Enhancement / Multiple options)  | Type B (Content Enhancement / Multiple options)            | TypeB                                                                 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       3 |           nan |           nan |           nan |           nan | Brainstorming ideas when stuck, Learning new poetic forms or techniques, Getting feedback on drafts, Exploring creative directions, Improving specific lines or phrases, Overcoming writer's block, Practicing English writing, Personal creative expression, Homework or class assignments, I probably wouldn't use it again |                                                                                  3 | Type A (Constraint Repair / Fixing issues)     |                                                              3 |           nan |           nan | the Structured Studio                    | the Exploratory Atelier                | Academic                                                                                        | Chill                                                                                    | the Exploratory Atelier                                           | the Structured Studio                                                 |                                         2 |                                            4 | Good flow                                                                                                                                                                                 | yes               |
-| 2026-01-09 15:44:43.027000 | Muhammad Hadi 24201413                    |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Let the AI guide most creative decisions            |                                                                         3 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | Mine 10%                                                                            |           nan |           nan | Word choices or language, The structure or form, The emotional aspect of the poem     | Type B (Content Enhancement / Multiple options)  | Type A (Constraint Repair / Fixing issues)                 | nan                                                                   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       5 |           nan |           nan |           nan |           nan | Getting feedback on drafts                                                                                                                                                                                                                                                                                                    |                                                                                  5 | Type A (Constraint Repair / Fixing issues)     |                                                              5 |           nan |           nan | the Exploratory Atelier                  | the Exploratory Atelier                | Something that i already thought about prior ot the Ai buildingnsession                         | To run wild with ur imagination                                                          | the Exploratory Atelier                                           | the Exploratory Atelier                                               |                                         5 |                                            5 | Nope                                                                                                                                                                                      | yes               |
-| 2026-01-09 15:46:18.172000 | Zhao Fangyu 25481681                      |                       5 |                                                                    4 |                                                       4 |          nan |          nan |          nan | Explored a few different directions before deciding |                                                                         4 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 0.6                                                                                 |           nan |           nan | Word choices or language, The meaning or message, The creativity level                | Type B (Content Enhancement / Multiple options)  | Type B (Content Enhancement / Multiple options)            | nan                                                                   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       4 |           nan |           nan |           nan |           nan | Brainstorming ideas when stuck, Learning new poetic forms or techniques, Exploring creative directions, Personal creative expression                                                                                                                                                                                          |                                                                                  1 | Type C (Surprise Harvest / Unexpected ideas)   |                                                              1 |           nan |           nan | the Exploratory Atelier                  | the Exploratory Atelier                | nan                                                                                             | Personal sharing                                                                         | the Exploratory Atelier                                           | the Structured Studio                                                 |                                         4 |                                            4 | The platform is well designed, very clear, concise, and elegant. I like the image generator function, all the pictures are very imaginative and coo, also the styles are very consistent. | yes               |
-| 2026-01-09 15:46:40.707000 | Wong Tiana 24235946                       |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Explored a few different directions before deciding |                                                                         5 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 90% me and 10% AI                                                                   |           nan |           nan | The creativity level                                                                  | Type B (Content Enhancement / Multiple options)  | Type C (Surprise Harvest / Unexpected ideas)               | It gives ne random non related stuff so i could think more about it   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       4 |           nan |           nan |           nan |           nan | Learning new poetic forms or techniques, Getting feedback on drafts, Exploring creative directions, Improving specific lines or phrases, Overcoming writer's block, Personal creative expression, Homework or class assignments                                                                                               |                                                                                  5 | Type A (Constraint Repair / Fixing issues)     |                                                              5 |           nan |           nan | the Exploratory Atelier                  | the Exploratory Atelier                | Teaching and learning formats                                                                   | When i have a concept in mind but dont know how to express it                            | the Exploratory Atelier                                           | the Exploratory Atelier                                               |                                         3 |                                            4 | The ai didn't really fixed my format problems, it gave me a even longer haiku                                                                                                             | yes               |
-| 2026-01-09 15:47:57.915000 | CHEN Yujing 25482467                      |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Followed one clear path from beginning to end       |                                                                         3 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 50% vs 50%                                                                          |           nan |           nan | The meaning or message, The emotional aspect of the poem                              | Type C (Surprise Harvest / Unexpected ideas)     | Type C (Surprise Harvest / Unexpected ideas)               | nan                                                                   |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       5 |           nan |           nan |           nan |           nan | Brainstorming ideas when stuck, Learning new poetic forms or techniques, Getting feedback on drafts, Exploring creative directions, Improving specific lines or phrases, Practicing English writing, Personal creative expression                                                                                             |                                                                                  3 | nan                                            |                                                              2 |           nan |           nan | the Exploratory Atelier                  | the Exploratory Atelier                | nan                                                                                             | nan                                                                                      | the Structured Studio                                             | the Exploratory Atelier                                               |                                         5 |                                            5 | I really like this platform and I will definitely use it again:)                                                                                                                          | yes               |
-| 2026-1-13 下午04:13:16       | Penny Pan 24483834                        |                       5 |                                                                    5 |                                                       5 |          nan |          nan |          nan | Constantly experimented with many different ideas   |                                                                         3 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan | 70% is mine, 30% belongs to AI                                                      |           nan |           nan | The tone or mood of the poem, The creativity level                                    | Type B (Content Enhancement / Multiple options)  | Type B (Content Enhancement / Multiple options)            | Lexical enhancement and vocabulary support                            |           nan |           nan |           nan |           nan |           nan |           nan |           nan |                                                                       3 |           nan |           nan |           nan |           nan | Brainstorming ideas when stuck, Learning new poetic forms or techniques, Getting feedback on drafts, Exploring creative directions, Improving specific lines or phrases, Overcoming writer's block, Practicing English writing, Personal creative expression, Homework or class assignments                                   |                                                                                  4 | Type A (Constraint Repair / Fixing issues)     |                                                              5 |           nan |           nan | the Exploratory Atelier                  | the Structured Studio                  | Poem writing which requires more vocabulary support (since I am not the native English speaker） | Poem writing which requires high structural thinking                                     | the Structured Studio                                             | the Structured Studio                                                 |                                         4 |                                            4 | Some poem examples and related brief introduction should be provided on the user interface ( For example: Hiku originated from xxx, soms typical Hiku examples are xxxxx）                 | yes               |
+## Participant Feedback Summary
+
+### 1. ZHENG ZIAN (22231153)
+**Timestamp:** 2026-01-09 15:42:43
+
+**Experience Ratings:**
+- Enjoyed seminar: 4/5
+- Platform comfort: 4/5
+- Would use again: 4/5
+
+**Creative Approach:** Let the AI guide most creative decisions
+**Authorship perception:** 2/5 ownership (90% AI)
+**Authorship %:** 90% AI
+
+**AI Partnership:**
+- Creative partner rating: 4/5
+- Emotional safety: 4/5
+
+**Overall:** It was an overall good experience
+
+---
+
+### 2. David
+**Timestamp:** 2026-01-09 15:43:21
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Let the AI guide most creative decisions
+**Authorship perception:** 2/5 ownership (20% me, 80% AI)
+
+**AI Disagreement:** I didn't disagree with the AI
+
+**Platform Preferences:**
+- Structured Studio preference: Exploratory Atelier
+- Exploratory Atelier preference: Exploratory Atelier
+- Personal poetry: Exploratory Atelier
+- Academic writing: Structured Studio
+
+**AI Development:** Helped develop ideas - 4/5
+**Confidence boost:** 5/5
+
+**Overall:** No additional comments
+
+---
+
+### 3. Zhu Ying Lam (24213721)
+**Timestamp:** 2026-01-09 15:44:24
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Explored a few different directions before deciding
+**Authorship perception:** 3/5 ownership (20% mine, rest AI)
+**Authorship %:** 20% mine, 80% AI
+
+**Disagreement Areas:** Word choices or language
+
+**Interaction Types:**
+- Most often: Type B (Content Enhancement / Multiple options)
+- Most helpful: Type B (Content Enhancement / Multiple options)
+- Most frustrating: Type A (Constraint Repair / Fixing issues)
+
+**Future use cases:** Brainstorming ideas, Learning poetic forms, Getting feedback, Exploring directions, Improving lines, Overcoming writer's block, Practicing English, Personal expression, Homework/assignments
+
+**AI as partner:** 3/5
+**Confidence boost:** 3/5
+**Emotional safety:** 3/5
+
+**Room preferences:**
+- Structured Studio: Academic use
+- Exploratory Atelier: Chill/personal use
+- Personal poetry: Exploratory Atelier
+- Academic writing: Structured Studio
+
+**Overall:** Good flow
+
+---
+
+### 4. Muhammad Hadi (24201413)
+**Timestamp:** 2026-01-09 15:44:43
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Let the AI guide most creative decisions
+**Authorship perception:** 3/5 ownership (10% mine)
+**Authorship %:** Mine 10%
+
+**Disagreement Areas:** Word choices/language, Structure/form, Emotional aspect
+
+**Interaction Types:**
+- Most often: Type B (Content Enhancement / Multiple options)
+- Most helpful: Type A (Constraint Repair / Fixing issues)
+- Most frustrating: Type A (Constraint Repair / Fixing issues)
+
+**Future use cases:** Getting feedback on drafts
+
+**AI as partner:** 5/5 (feels like creative partner)
+**Confidence boost:** 5/5
+**Emotional safety:** 5/5
+
+**Room preferences:**
+- Structured Studio: Something already thought about prior to AI session
+- Exploratory Atelier: To run wild with imagination
+- Personal poetry: Exploratory Atelier
+- Academic writing: Exploratory Atelier
+
+**Poetry ideas:** Started with: 5/5 | AI helped develop: 5/5
+
+**Overall:** Nope (no additional comments)
+
+---
+
+### 5. Zhao Fangyu (25481681)
+**Timestamp:** 2026-01-09 15:46:18
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 4/5
+- Would use again: 4/5
+
+**Creative Approach:** Explored a few different directions before deciding
+**Authorship perception:** 4/5 ownership (0.6 ratio)
+**Authorship %:** 60%
+
+**Disagreement Areas:** Word choices/language, Meaning/message, Creativity level
+
+**Interaction Types:**
+- Most often: Type B (Content Enhancement / Multiple options)
+- Most helpful: Type B (Content Enhancement / Multiple options)
+- Most frustrating: Type C (Surprise Harvest / Unexpected ideas)
+
+**Future use cases:** Brainstorming ideas, Learning poetic forms, Exploring directions, Personal expression
+
+**AI as partner:** 1/5
+**Confidence boost:** 4/5
+
+**Room preferences:**
+- Structured Studio: nan
+- Exploratory Atelier: Personal sharing
+- Personal poetry: Exploratory Atelier
+- Academic writing: Structured Studio
+
+**Poetry ideas:** Started with: 4/5 | AI helped develop: 4/5
+
+**Overall:** The platform is well designed, very clear, concise, and elegant. I like the image generator function—pictures are very imaginative and cool with consistent styles.
+
+---
+
+### 6. Wong Tiana (24235946)
+**Timestamp:** 2026-01-09 15:46:40
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Explored a few different directions before deciding
+**Authorship perception:** 5/5 ownership (90% me, 10% AI)
+**Authorship %:** 90% me and 10% AI
+
+**Disagreement Areas:** Creativity level
+
+**Interaction Types:**
+- Most often: Type B (Content Enhancement / Multiple options)
+- Most helpful: Type C (Surprise Harvest / Unexpected ideas)
+- Most helpful explanation: "It gives me random non-related stuff so I could think more about it"
+- Most frustrating: Type A (Constraint Repair / Fixing issues)
+
+**Future use cases:** Learning poetic forms, Getting feedback, Exploring directions, Improving lines, Overcoming writer's block, Personal expression, Homework/assignments
+
+**AI as partner:** 5/5
+**Confidence boost:** 4/5
+
+**Room preferences:**
+- Structured Studio: Teaching and learning formats
+- Exploratory Atelier: When I have a concept in mind but don't know how to express it
+- Personal poetry: Exploratory Atelier
+- Academic writing: Exploratory Atelier
+
+**Poetry ideas:** Started with: 3/5 | AI helped develop: 4/5
+
+**Overall:** The AI didn't really fix my format problems; it gave me an even longer haiku.
+
+---
+
+### 7. CHEN Yujing (25482467)
+**Timestamp:** 2026-01-09 15:47:57
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Followed one clear path from beginning to end
+**Authorship perception:** 3/5 ownership (50% vs 50%)
+**Authorship %:** 50% vs 50%
+
+**Disagreement Areas:** Meaning/message, Emotional aspect
+
+**Interaction Types:**
+- Most often: Type C (Surprise Harvest / Unexpected ideas)
+- Most helpful: Type C (Surprise Harvest / Unexpected ideas)
+
+**Future use cases:** Brainstorming ideas, Learning poetic forms, Getting feedback, Exploring directions, Improving lines, Practicing English, Personal expression
+
+**AI as partner:** 3/5
+**Confidence boost:** 5/5
+**Emotional safety:** 2/5
+
+**Room preferences:**
+- Structured Studio: nan
+- Exploratory Atelier: nan
+- Personal poetry: Structured Studio
+- Academic writing: Exploratory Atelier
+
+**Poetry ideas:** Started with: 5/5 | AI helped develop: 5/5
+
+**Overall:** I really like this platform and I will definitely use it again :)
+
+---
+
+### 8. Penny Pan (24483834)
+**Timestamp:** 2026-01-13 16:13:16
+
+**Experience Ratings:**
+- Enjoyed seminar: 5/5
+- Platform comfort: 5/5
+- Would use again: 5/5
+
+**Creative Approach:** Constantly experimented with many different ideas
+**Authorship perception:** 3/5 ownership (70% mine, 30% AI)
+**Authorship %:** 70% is mine, 30% belongs to AI
+
+**Disagreement Areas:** Tone/mood, Creativity level
+
+**Interaction Types:**
+- Most often: Type B (Content Enhancement / Multiple options)
+- Most helpful: Type B (Content Enhancement / Multiple options)
+- Most helpful explanation: "Lexical enhancement and vocabulary support"
+- Most frustrating: Type A (Constraint Repair / Fixing issues)
+
+**Future use cases:** Brainstorming ideas, Learning poetic forms, Getting feedback, Exploring directions, Improving lines, Overcoming writer's block, Practicing English, Personal expression, Homework/assignments
+
+**AI as partner:** 4/5
+**Confidence boost:** 3/5
+
+**Room preferences:**
+- Structured Studio: Poem writing requiring more vocabulary support (not a native English speaker)
+- Exploratory Atelier: Poem writing requiring high structural thinking
+- Personal poetry: Structured Studio
+- Academic writing: Structured Studio
+
+**Poetry ideas:** Started with: 4/5 | AI helped develop: 4/5
+
+**Overall:** Some poem examples and related brief introductions should be provided on the UI (e.g., "Haiku originated from xxx, typical Haiku examples are xxxxx")
+
+---
+
+## Key Findings Summary
+
+**Total Respondents:** 8 participants
+
+**Satisfaction Levels:**
+- Overall enjoyment: M=4.875/5
+- Platform comfort: M=4.75/5
+- Likelihood of future use: M=4.625/5
+
+**Authorship Patterns:**
+- Range: 10%-90% self-attribution
+- Mean: 48.75% self-attribution
+- Most common: Split ownership (40-50%)
+
+**Preferred Interaction Type:**
+- Type A (Constraint Repair): Preferred for frustration avoidance
+- Type B (Content Enhancement): Most common, helpful for language confidence
+- Type C (Surprise Harvest): Preferred for creative development
+
+**Platform Strengths:**
+- Clear, elegant interface
+- Good image generator
+- Effective vocabulary support
+- Creative brainstorming capability
+
+**Areas for Improvement:**
+- Provide poem examples and context
+- Better format handling
+- More intuitive interaction type guidance
 
