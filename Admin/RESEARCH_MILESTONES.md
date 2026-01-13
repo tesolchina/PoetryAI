@@ -17,6 +17,7 @@
 | **Pilot Analysis** | Nov 17-18, 2025 | ✅ Complete | 43,000+ words analysis & improvement solutions |
 | **Main Study Session 1** | Nov 24, 2025 | ✅ Complete | 10 participants, 500+ messages, preliminary findings |
 | **Data Analysis Session 1** | Nov 25-29, 2025 | ✅ Complete | Three-type coding, triangulation, preliminary essay (2,000 words) |
+| **Main Study Session 2 (CCL Seminar)** | Jan 2026 | ✅ Complete | 9 participants, 7 completed feedback, comprehensive analysis |
 | **Dissertation** | Ongoing | 🔄 In Progress | Introduction & Methodology chapters drafted |
 
 ---
@@ -291,6 +292,107 @@
 11. Submit to academic conferences (PolyU, international venues)
 12. Prepare journal article submission
 13. Finalize dissertation defense materials
+
+---
+
+### 7. Main Study Session 2 - CCL Seminar (January 2026)
+
+**Session Context:**
+- **Event:** CCL (Centre for Applied English Studies) Seminar Series
+- **Date:** January 2026
+- **Duration:** One-time workshop format
+- **Participants:** 9 graduate students from Hong Kong Baptist University
+- **Feedback Completion:** 7 participants completed the feedback form
+- **Setting:** Different from Session 1 (workshop vs. experimental session)
+- **Platform:** PoetryAI platform (poetry.aitutor.ink)
+
+**Participant Feedback Summary (N=7):**
+
+**Overall Satisfaction (Extremely High):**
+| Metric | Average | Range | Consensus |
+|--------|---------|-------|-----------|
+| Seminar Enjoyment | 4.9/5 | 4-5 | 86% gave 5/5 |
+| Platform Comfort | 4.7/5 | 4-5 | 86% gave 5/5 |
+| Future Usage Intent | 4.6/5 | 4-5 | 86% gave 5/5 |
+
+**Creative Ownership & Collaboration Patterns:**
+- **AI-Guided Approach (43%):** 3 participants allowed AI to guide most creative decisions (10-20% self-authorship)
+- **Exploratory Approach (43%):** 3 participants explored different directions (60-90% self-authorship)
+- **Linear Approach (14%):** 1 participant followed one clear path (50% self-authorship)
+- **Mean Authorship Attribution:** 40% self (consistent with Session 1)
+
+**Key Findings:**
+
+**Finding 1 - Type B Remains Most Utilized:**
+- 71% experienced Type B (Content Enhancement) most frequently
+- 57% rated Type B as most helpful for writing
+- Aligns with Session 1 findings of Type B prevalence
+
+**Finding 2 - Type A (Constraint Repair) Most Frustrating:**
+- 43% found Type A interactions most frustrating
+- Critical example: Wong Tiana - "The AI didn't really fix my format problems, it gave me an even longer haiku"
+- Validates pilot testing findings about over-scaffolding and constraint handling
+
+**Finding 3 - Word Choice Quality Concerns:**
+- 57% disagreed with AI-suggested word choices
+- 29% disagreed with meaning/message suggestions
+- 29% disagreed with emotional aspects
+- Indicates need for improved language quality and emotional authenticity
+
+**Finding 4 - High Autonomy Case (Wong Tiana):**
+- Only participant claiming 90% personal ownership
+- Maintained 5/5 satisfaction across all metrics
+- Preferred Type C (Surprise Harvest) interactions
+- Suggests high-autonomy approach yields strong engagement
+
+**Finding 5 - Interface Preferences:**
+- **Exploratory Atelier:** Strongly preferred for personal writing (71%)
+- **Structured Studio:** Slightly preferred for academic purposes (57%)
+- Both rooms serve distinct pedagogical purposes effectively
+
+**Top Future Use Cases (Ranked by Frequency):**
+1. Learning new poetic forms or techniques (71%)
+2. Getting feedback on drafts (71%)
+3. Exploring creative directions (71%)
+4. Personal creative expression (71%)
+5. Brainstorming ideas when stuck (57%)
+
+**Positive Feedback Highlights:**
+- Zhao Fangyu: "The platform is well designed, very clear, concise, and elegant. I like the image generator function, all the pictures are very imaginative and cool, also the styles are very consistent."
+- Chen Yujing: "I really like this platform and I will definitely use it again :)"
+- Overall sentiment: Strong appreciation for platform design and image generation features
+
+**Data Deliverables:**
+1. **Organized_Feedback_Data.md:** Structured participant responses with clear categorization
+2. **Feedback_Analysis_Report.md:** Comprehensive 11-section analysis including:
+   - Executive summary
+   - Satisfaction metrics
+   - Creative ownership patterns
+   - Interaction type analysis
+   - Disagreement patterns
+   - Interface preferences
+   - Critical issues & recommendations
+   - Longitudinal recommendations
+
+**Analytical Insights:**
+
+**Cross-Session Validation:**
+- Type B prevalence consistent across Session 1 and Session 2
+- Type A frustration issues validated (pilot → Session 1 → Session 2)
+- Mean authorship attribution (~40%) consistent across sessions
+- Word choice concerns identified in both sessions
+
+**New Session 2 Insights:**
+- **Design Excellence Recognized:** Participants spontaneously praised platform clarity and image generation
+- **Educational Scalability:** 71% identified multiple future use cases across academic and personal contexts
+- **Emotion-Centric Concerns:** More participants mentioned emotional aspects in Session 2 than Session 1
+- **Autonomy-Satisfaction Link:** High-autonomy participants (Wong Tiana, 90%) show stronger satisfaction
+- **Type C Engagement:** Chen Yujing's preference for Type C (Surprise Harvest) aligns with Session 1 high-autonomy pattern
+
+**Comparative Session Analysis:**
+- **Session 1 (Experimental):** 10 participants, controlled parameter conditions, focused on comparing room differences
+- **Session 2 (Workshop):** 7 participants, open exploration, focus on real-world usability and future applications
+- **Combined Effect:** Session 2 validates Session 1 findings in naturalistic setting while revealing design appreciation
 
 ---
 
