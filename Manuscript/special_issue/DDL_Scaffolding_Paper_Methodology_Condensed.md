@@ -36,9 +36,21 @@ This design isolates parameter effects (comparing structured vs. exploratory whi
 
 Participants were recruited from undergraduate poetry writing courses at Hong Kong Baptist University through purposive sampling targeting intermediate English proficiency (CEFR B1-B2). This proficiency range ensures sufficient linguistic competence to engage creatively while representing the population most likely to benefit from AI-assisted poetry writing—advanced enough to evaluate AI suggestions critically, yet developing enough to value scaffolding support. All participants had prior experience writing Chinese poetry but limited exposure to English poetic forms, making the cross-linguistic creative challenge authentic and meaningful.
 
-**Session Protocol (75 minutes)**
+**Study Phases**
 
-Each experimental session followed a standardized four-phase protocol balancing ecological validity with experimental control:
+**Phase 1: Main Study Sessions (November 2024 - January 2026)**
+
+The primary study comprised two distinct data collection phases:
+
+**Session 1 (November 24, 2025):** Following the 2×2 factorial design described above, 10 participants engaged in the experimental protocol with parameter-controlled scaffolding environments. This session focused on isolating parameter effects in controlled conditions, generating chat transcripts, interaction coding, artifact analysis, and immediate reflection data.
+
+**Session 2 - CCL Seminar (January 2026):** As a naturalistic follow-up validation study, 9 participants from the Centre for Applied English Studies (CCL) seminar series engaged with the PoetryAI platform in a workshop format (7 participants completed feedback forms). Unlike Session 1's controlled 2×2 factorial design, Session 2 allowed open exploration of both Exploratory Atelier (high-variability parameters) and Structured Studio (low-variability parameters) without experimental manipulation. This naturalistic design enabled validation of parameter effects in real-world educational settings while capturing authentic user preferences and long-term applicability perceptions. Comprehensive post-session feedback forms captured satisfaction metrics, authorship perceptions, interaction type preferences, and future use intentions.
+
+**Session Protocol (75 minutes for Session 1; Workshop Format for Session 2)**
+
+**Session 1 Protocol (75 minutes)**
+
+Each experimental session in Session 1 followed a standardized four-phase protocol balancing ecological validity with experimental control:
 
 **Phase 1: Platform Orientation (10 minutes)** — Facilitators demonstrated the chat interface, explained the chatbot's supportive (non-generative) role, and guided participants through poetry form selection. Participants chose from four options: haiku (5-7-5 syllable structure), free verse (no formal constraints), limerick (AABBA rhyme scheme), or open form (participant-defined structure). This choice preserved creative agency while providing optional structural scaffolding for those desiring it.
 
@@ -48,6 +60,14 @@ Each experimental session followed a standardized four-phase protocol balancing 
 
 **Phase 4: Panel Discussion (15 minutes)** — Participants gathered in room-based groups (5 per panel, 4 panels total) for facilitated discussions exploring their creative experiences. Facilitators used open-ended prompts ("How did the AI influence your creative process?" "Did you feel like a creator or a selector?") without mentioning parameters or experimental conditions. Audio-recorded discussions generated rich qualitative data revealing shared cultural understandings and condition-specific themes.
 
+**Session 2 Protocol (Workshop Format)**
+
+Session 2 (CCL Seminar) employed a simplified, non-experimental protocol focused on user experience and real-world applicability:
+
+**Phase 1: Platform Orientation & Open Exploration (45-50 minutes)** — Participants received brief platform orientation explaining the supportive chatbot role and interface navigation. Unlike Session 1's constrained room assignments, participants freely chose which room to enter (Exploratory Atelier with high-variability parameters or Structured Studio with low-variability parameters), enabling naturalistic parameter preference observation. Participants composed poetry organically without experimental constraints, with all interactions automatically logged.
+
+**Phase 2: Post-Session Feedback Collection (15-20 minutes)** — Participants completed comprehensive feedback forms (66 questions across multiple dimensions) capturing: overall satisfaction with seminar and platform, comfort using the platform, intention for future use, creative ownership percentages, disagreements with AI suggestions, interaction type preferences and helpfulness ratings, emotional safety perceptions, confidence gains, and detailed scenarios for future AI tool use. This expanded feedback instrument provided granular data on user perceptions, satisfaction drivers, and design appreciation.
+
 **Ethical Safeguards**
 
 All participants provided informed consent following HKBU IRB protocols. Unaware participants underwent two-stage consent: initial consent for "studying AI-assisted creative writing" without revealing parameter manipulation, then post-debriefing consent after full experimental disclosure with withdrawal option (none exercised). This approach balances methodological validity (preventing demand characteristics) with ethical transparency (ensuring genuine informed consent). All data stored on encrypted servers with participant anonymization.
@@ -56,7 +76,9 @@ All participants provided informed consent following HKBU IRB protocols. Unaware
 
 **Multi-Modal Data Sources**
 
-Six complementary data sources captured the multi-dimensional impact of parameter-driven scaffolding:
+Six complementary data sources captured the multi-dimensional impact of parameter-driven scaffolding in Session 1, with expanded feedback collection in Session 2:
+
+**Session 1 Data Sources (Experimental Design):**
 
 **1. Complete Chat Logs** — All human-AI dialogues were automatically captured with comprehensive metadata including timestamps, parameter settings, token counts, and message sequences. These logs document the moment-by-moment unfolding of scaffolded creative processes, preserving both explicit conversational content and implicit interaction patterns.
 
@@ -69,6 +91,16 @@ Six complementary data sources captured the multi-dimensional impact of paramete
 **5. Panel Discussion Transcripts** — Four room-based group discussions (5 participants each, 15 minutes, audio-recorded and transcribed) generated rich qualitative data through collaborative sense-making. Facilitators used open-ended prompts ("How did the AI influence your creative decisions?" "Did you feel like a creator or a selector?") without revealing experimental manipulations. Discussions revealed shared cultural understandings, condition-specific themes, and spontaneous metacognitive reflections absent from individual templates.
 
 **6. Platform Analytics** — Behavioral traces automatically logged by the system quantified engagement patterns: session duration, total messages exchanged, message initiation patterns (human-initiated vs. AI-initiated sequences), response latency (time between receiving AI response and sending next message), revision behaviors (editing previous inputs), and form selection distributions. Analytics provide objective behavioral complements to self-reported perceptions.
+
+**Session 2 Data Sources (Naturalistic Validation):**
+
+**7. Comprehensive Feedback Forms** — All participants completing Session 2 (7 of 9 participants) submitted detailed feedback forms capturing 66 questions across multiple dimensions: (a) overall satisfaction metrics (enjoyment, comfort, future use intention on 5-point scales), (b) creative process approach (learner-guided vs. AI-guided decision-making), (c) creative ownership percentages ("What percentage of your poem is yours vs. the AI's?"), (d) AI disagreement areas (word choices, structure, emotion, creativity level with multi-select options), (e) interaction type distribution and preferences (Type A, B, C frequency and helpfulness ratings), (f) confidence gains from AI engagement (5-point scale), (g) perceived AI partnership (whether AI felt like creative partner vs. instructor), (h) emotional safety with AI (5-point scale), (i) pre-existing poetry ideas (whether participants arrived with initial concepts), (j) future use scenarios (multiple-select options: brainstorming, technique learning, feedback, exploration, writing practice, personal expression, homework, etc.), (k) interface preferences (Exploratory Atelier vs. Structured Studio for personal vs. academic contexts), and (l) open-ended comments on platform design and experience quality.
+
+**8. Session 2 Chat Logs & Interaction Coding** — Like Session 1, all Session 2 conversations were logged and coded for interaction types, enabling comparison of parameter effects across experimental (Session 1) and naturalistic (Session 2) conditions.
+
+**9. Poem Artifacts** — Session 2 participants' final poems were collected and analyzed using identical quality evaluation procedures as Session 1, enabling cross-session product comparison.
+
+This expanded Session 2 data collection enabled validation of Session 1 parameter effects in realistic educational settings while providing rich user preference data informing practical implementation guidance.
 
 **Analytical Approaches**
 
