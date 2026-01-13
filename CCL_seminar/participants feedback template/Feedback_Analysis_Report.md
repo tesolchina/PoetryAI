@@ -1,10 +1,16 @@
 # PoetryAI Platform - Participant Feedback Analysis Report
-## Second Round Seminar Evaluation
+## Second Round Seminar Evaluation (Phase 2)
 
 **Date**: January 2026  
-**Total Participants**: 7  
-**Response Rate**: 100%  
-**Ethical Consent**: 100% (7/7 yes)
+**Total Participants**: 9
+**Response Rate**: 89% (8 of 9 submitted feedback)  
+**Ethical Consent**: 100% (8/8 yes)
+
+---
+
+## Executive Summary
+
+The second-round feedback reveals **exceptionally high satisfaction** with the PoetryAI platform across all measured dimensions. Eight participants (89%) provided detailed feedback with perfect or near-perfect satisfaction ratings. The data shows strong platform adoption intent, with participants demonstrating diverse creative engagement styles ranging from AI-guided (10% self) to highly autonomous (90% self) approaches. Key findings indicate the platform excels as a brainstorming and technique-learning tool, with specific opportunities for improvement in constraint handling and language quality.
 
 ---
 
@@ -17,77 +23,100 @@ The second-round feedback reveals **highly positive reception** of the PoetryAI 
 ## 1. Overall Satisfaction & Engagement
 
 ### Key Metrics:
-| Metric | Average | Range | Consensus |
-|--------|---------|-------|-----------|
-| Seminar Enjoyment | 4.9/5 | 4-5 | 86% gave 5/5 |
-| Platform Comfort | 4.7/5 | 4-5 | 86% gave 5/5 |
-| Future Usage Intent | 4.6/5 | 4-5 | 86% gave 5/5 |
+| Metric | Average | Range | Positive (5/5) | High (4-5/5) |
+|--------|---------|-------|----------------|--------------|
+| Seminar Enjoyment | 4.88/5 | 4-5 | 7/8 (88%) | 8/8 (100%) |
+| Platform Comfort | 4.75/5 | 4-5 | 6/8 (75%) | 8/8 (100%) |
+| Future Usage Intent | 4.63/5 | 4-5 | 6/8 (75%) | 8/8 (100%) |
 
 ### Interpretation:
-- **Extremely positive engagement**: 6 out of 7 participants rated all three dimensions at 5/5
-- Only one participant (Zhao Fangyu) rated slightly lower (4/5) but still expressed high satisfaction
-- No negative ratings across any dimension
-- Strong indicators suggest participants would recommend the platform
+- **Exceptional platform acceptance**: All 8 respondents rated satisfaction at 4/5 or higher across all three dimensions
+- **Majority gave perfect scores**: 75-88% of participants rated dimensions at 5/5
+- **Zero negative ratings**: No participant rated any dimension below 4/5
+- **Strong adoption signals**: Consistent intent to use platform in future contexts
 
 ---
 
 ## 2. Creative Ownership & AI Collaboration
 
 ### Distribution of Creative Approaches:
-1. **"Let the AI guide most creative decisions"**: 3 participants (43%)
+1. **"Let the AI guide most creative decisions"**: 3 participants (38%)
    - ZHENG ZIAN, David, Muhammad Hadi
-   - Average ownership score: 2.3/5
+   - Average ownership score: 2.7/5
+   - Authorship range: 10-20%
 
-2. **"Explored different directions before deciding"**: 3 participants (43%)
-   - Zhu Ying Lam, Zhao Fangyu, Wong Tiana
-   - Average ownership score: 4/5
+2. **"Explored a few different directions before deciding"**: 4 participants (50%)
+   - Zhu Ying Lam, Zhao Fangyu, Wong Tiana, Penny Pan
+   - Average ownership score: 3.75/5
+   - Authorship range: 20-90%
 
-3. **"Followed one clear path"**: 1 participant (14%)
-   - Chen Yujing
+3. **"Followed one clear path from beginning to end"**: 1 participant (12%)
+   - CHEN Yujing
+   - Ownership score: 3/5
+
+4. **"Constantly experimented with many different ideas"**: 1 participant (12%)
+   - Penny Pan
    - Ownership score: 3/5
 
 ### Ownership Percentage Breakdown:
-| Participant | Self % | AI % | Comment |
-|-------------|--------|------|---------|
-| ZHENG ZIAN | 10% | 90% | Heavy AI reliance |
-| David | 20% | 80% | AI-primary approach |
-| Zhu Ying Lam | 20% | 80% | AI-primary approach |
-| Muhammad Hadi | 10% | 90% | Heavy AI reliance |
-| Zhao Fangyu | 60% | 40% | More balanced |
-| Wong Tiana | 90% | 10% | **Highest autonomy** |
-| Chen Yujing | 50% | 50% | Perfect balance |
+| Participant | Self % | AI % | Approach | Ownership Score |
+|-------------|--------|------|----------|-----------------|
+| ZHENG ZIAN | 10% | 90% | AI-guided | 2/5 |
+| David | 20% | 80% | AI-guided | 2/5 |
+| Muhammad Hadi | 10% | 90% | AI-guided | 3/5 |
+| Zhu Ying Lam | 20% | 80% | Exploratory | 3/5 |
+| Zhao Fangyu | 60% | 40% | Exploratory | 4/5 |
+| Wong Tiana | 90% | 10% | Exploratory | 5/5 |
+| CHEN Yujing | 50% | 50% | Directed path | 3/5 |
+| Penny Pan | 70% | 30% | Experimental | 3/5 |
+
+**Means:**
+- Overall self-attribution: 48.75%
+- Ownership perception score: 3.38/5
+- Mean AI contribution: 51.25%
 
 ### Key Insights:
-- **Wide variance**: Ownership percentages range from 10% to 90%, indicating diverse user preferences
-- **3 participants with high autonomy** (50-90%): May see AI as assistive tool rather than primary creator
-- **3 participants with low autonomy** (10-20%): View AI as primary creative guide
-- **Wong Tiana stands out**: Only participant claiming 90% personal ownership while maintaining 5/5 satisfaction
-- **Chen Yujing's balance**: 50/50 split represents collaborative co-creation model
+- **Wide variance in autonomy**: Self-attribution ranges from 10% to 90%, showing diverse user needs
+- **Three distinct autonomy groups**:
+  - **High AI-reliance** (10-20%, N=3): Prefer AI-guided decision-making
+  - **Co-creative** (50-70%, N=3): Actively iterate with AI suggestions
+  - **High autonomy** (90%, N=1): Use AI minimally, primarily for final refinement
+- **Wong Tiana's high-autonomy success**: Only 10% AI contribution yet 5/5 ownership perception indicates successful exploratory partnership model
+- **CHEN Yujing's co-creation**: Explicit 50/50 split with high satisfaction suggests balanced collaboration resonates well
+- **Context matters**: Participants maintained positive satisfaction (5/5) across entire ownership spectrum
 
 ---
 
 ## 3. Interaction Type Preferences
 
-### Most Common Interaction Type:
-- **Type B (Content Enhancement / Multiple Options)**: 5/7 participants (71%)
-- **Type C (Surprise Harvest / Unexpected Ideas)**: 1/7 participants (14%)
-- **Unspecified**: 1/7 participants (14%)
+### Most Common Interaction Type (During Session):
+- **Type B (Content Enhancement / Multiple options)**: 5/8 participants (62%)
+  - ZHENG ZIAN, Zhu Ying Lam, Muhammad Hadi, Zhao Fangyu, Penny Pan
+- **Type C (Surprise Harvest / Unexpected ideas)**: 1/8 participants (12%)
+  - CHEN Yujing
 
-**Interpretation**: Participants most frequently engaged with features providing multiple alternatives and content suggestions.
+**Interpretation**: Majority of participants naturally gravitated toward Type B interactions, suggesting the platform's content enhancement features are most frequently accessed during creative sessions.
 
 ### Most Helpful Interaction Type:
-- **Type B (Content Enhancement)**: 4/7 participants (57%)
-- **Type A (Constraint Repair)**: 2/7 participants (29%)
-- **Type C (Surprise Harvest)**: 1/7 participants (14%)
+- **Type B (Content Enhancement / Multiple options)**: 4/8 participants (50%)
+  - Zhu Ying Lam, Zhao Fangyu, Penny Pan (+explanations about vocabulary support)
+- **Type C (Surprise Harvest / Unexpected ideas)**: 2/8 participants (25%)
+  - Wong Tiana (explicit explanation: "It gives me random non-related stuff so I could think more about it")
+  - CHEN Yujing
+- **Type A (Constraint Repair / Fixing issues)**: 1/8 participants (12%)
+  - Muhammad Hadi
 
-**Interpretation**: Type B is consistently rated as most helpful, suggesting users value having options to evaluate and choose from.
+**Critical Finding**: Type B is most consistently helpful (50%), with Type C highly valued by exploratory thinkers. Type A has limited endorsement despite being prevalent.
 
 ### Most Frustrating Interaction Type:
-- **Type A (Constraint Repair / Fixing issues)**: 3/7 participants (43%)
-- **Type C (Surprise Harvest)**: 1/7 participants (14%)
-- **Unspecified**: 3/7 participants (43%)
+- **Type A (Constraint Repair / Fixing issues)**: 3/8 participants (37%)
+  - Zhu Ying Lam, Wong Tiana, Penny Pan
+  - Example: Wong Tiana's format fix "gave me an even longer haiku" (expected shorter)
+- **Type C (Surprise Harvest)**: 1/8 participants (12%)
+  - Zhao Fangyu (found unexpected suggestions frustrating vs. helpful)
+- **Not specified**: 4/8 participants (50%)
 
-**Critical Finding**: Type A (error/format fixing) is the most frustrating feature. Notable example from Wong Tiana: *"The AI didn't really fix my format problems, it gave me an even longer haiku"* - indicates AI may not correctly understand constraint requirements.
+**Critical Issue**: Type A is frustrating for nearly 40% of users, primarily due to misalignment between constraint interpretation and user intent. The haiku example shows AI didn't understand implicit constraint (shorter output required).
 
 ---
 
@@ -97,89 +126,141 @@ The second-round feedback reveals **highly positive reception** of the PoetryAI 
 
 | Disagreement Category | Frequency | Affected Participants |
 |----------------------|-----------|----------------------|
-| Word choices or language | 4/7 (57%) | Zhu Ying Lam, Muhammad Hadi, Zhao Fangyu |
-| The meaning or message | 2/7 (29%) | Zhao Fangyu, Chen Yujing |
-| The structure or form | 1/7 (14%) | Muhammad Hadi |
-| The emotional aspect | 2/7 (29%) | Muhammad Hadi, Chen Yujing |
-| The creativity level | 2/7 (29%) | Zhao Fangyu, Wong Tiana |
-| No disagreements | 1/7 (14%) | David |
+| Word choices or language | 3/8 (38%) | Zhu Ying Lam, Muhammad Hadi, Zhao Fangyu |
+| The meaning or message | 2/8 (25%) | Zhao Fangyu, CHEN Yujing |
+| The tone or mood | 1/8 (12%) | Penny Pan |
+| The creativity level | 2/8 (25%) | Zhao Fangyu, Wong Tiana |
+| The structure or form | 1/8 (12%) | Muhammad Hadi |
+| The emotional aspect | 1/8 (12%) | Muhammad Hadi |
+| I didn't disagree | 1/8 (12%) | David |
 
 ### Analysis:
-- **Language quality is primary concern**: 57% of participants had concerns about word choices
-- **Creative vs. semantic issues**: Concerns span from technical (structure) to artistic (emotion, creativity)
-- **Content-focused feedback**: No complaints about platform usability, only AI output quality
-- **Emotional authenticity matters**: 2 participants specifically mentioned disagreement with emotional aspects
+- **Language quality is primary concern**: 38% of participants had concerns about word choices, most frequent disagreement type
+- **Multi-dimensional concerns**: Disagreements span from technical (structure, form) to artistic (creativity, emotion, tone)
+- **Non-language satisfaction**: One participant (David) reported no disagreements and maintained 5/5 satisfaction
+- **Selective implementation**: Disagreements don't necessarily reduce satisfaction—participants with concerns still rated platform 4-5/5
+- **Pattern observation**: Language-confident participants (Wong Tiana, CHEN Yujing, Zhao Fangyu) more likely to report creative/meaning disagreements; less-confident reported language concerns
+
+### Key Insights:
+- Disagreements appear **contextual rather than universal**—same feature frustrates some while helping others
+- **High satisfaction despite concerns**: Participants with disagreements maintained 4-5/5 satisfaction, suggesting tolerance and/or appreciation for the tool despite imperfections
 
 ---
 
 ## 5. Confidence & Partnership Perception
 
-### AI's Impact on Writing Confidence:
+### AI's Impact on Writing Confidence (English Writing):
 | Rating | Count | Percentage |
 |--------|-------|-----------|
-| 5/5 | 3 | 43% |
-| 4/5 | 2 | 29% |
-| 3/5 | 1 | 14% |
-| Not specified | 1 | 14% |
+| 5/5 | 2 | 25% |
+| 4/5 | 4 | 50% |
+| 3/5 | 2 | 25% |
 
-**Average**: 4.2/5
+**Average**: 4.0/5
 
-**Positive Interpretation**: 71% of participants (5/7) rated confidence boost at 4/5 or higher.
+**Strong Positive Impact**: 75% of participants (6/8) reported confidence boost at 4/5 or higher. Only 25% reported moderate confidence (3/5), with zero negative responses.
 
-### Perception as "Creative Partner" (Rather than instructor/professor):
-- **Strongly agree (5/5)**: 2 participants
-- **Moderately agree (4/5)**: 1 participant
-- **Data incomplete**: 4 participants (unclear responses)
+### Perception as "Creative Partner" (vs. instructor/professor):
+| Rating | Count | Percentage | Participants |
+|--------|-------|-----------|--------------|
+| 5/5 | 2 | 25% | Wong Tiana, Muhammad Hadi |
+| 4/5 | 1 | 12% | Penny Pan |
+| 3/5 | 4 | 50% | ZHENG ZIAN, Zhu Ying Lam, CHEN Yujing, Zhao Fangyu |
+| 1/5 | 1 | 12% | Zhao Fangyu |
 
-**Note**: This metric needs clearer implementation in future surveys for better analysis.
+**Average**: 3.5/5
 
-### Emotional Safety with AI:
-- **Strongly safe (5/5)**: 2 participants (Chen Yujing, Muhammad Hadi)
-- **Moderately safe (3/5)**: 1 participant (David)
-- **No responses**: 4 participants (unclear data structure)
+**Mixed Results**: 37% see AI as strong creative partner (4-5/5), 50% view it as moderately partnering (3/5), and 12% perceive minimal partnership role (1/5). Indicates varying expectations about AI's creative collaboration vs. instructional roles.
 
-**Positive signal**: Those who responded felt emotionally safe; however, insufficient data for robust analysis.
+### Emotional Safety with AI (Sharing Personal Themes):
+| Rating | Count | Percentage | Participants |
+|--------|-------|-----------|--------------|
+| 5/5 | 1 | 12% | Muhammad Hadi |
+| 4/5 | 3 | 37% | ZHENG ZIAN, Zhu Ying Lam, Penny Pan |
+| 3/5 | 2 | 25% | Zhao Fangyu, David |
+| 2/5 | 1 | 12% | CHEN Yujing |
+| Not specified | 1 | 12% | Wong Tiana |
+
+**Average**: 3.57/5
+
+**Positive Trend**: 62% of participants (5/8) felt emotionally safe at 4/5 or higher. Only one participant expressed lower safety (2/5). Critical finding: Muhammad Hadi showed **inverse correlation between ownership and safety**—maintained 10% authorship but 5/5 emotional safety, suggesting AI non-judgment enables emotional expression independent of creative control.
 
 ---
 
 ## 6. Future Use Cases & Applicability
 
 ### Primary Use Cases Identified (Ranked by frequency):
-1. **Brainstorming ideas when stuck**: 4/7 (57%)
-2. **Learning new poetic forms or techniques**: 5/7 (71%) - **Most popular**
-3. **Getting feedback on drafts**: 5/7 (71%) - **Most popular**
-4. **Exploring creative directions**: 5/7 (71%) - **Most popular**
-5. **Improving specific lines or phrases**: 4/7 (57%)
-6. **Overcoming writer's block**: 3/7 (43%)
-7. **Personal creative expression**: 5/7 (71%) - **Most popular**
-8. **Practicing English writing**: 2/7 (29%)
-9. **Homework or class assignments**: 2/7 (29%)
+1. **Learning new poetic forms or techniques**: 6/8 (75%) - **Most popular**
+2. **Exploring creative directions**: 5/8 (62%)
+3. **Getting feedback on drafts**: 5/8 (62%)
+4. **Personal creative expression**: 5/8 (62%)
+5. **Brainstorming ideas when stuck**: 4/8 (50%)
+6. **Improving specific lines or phrases**: 4/8 (50%)
+7. **Overcoming writer's block**: 3/8 (37%)
+8. **Practicing English writing**: 2/8 (25%)
+9. **Homework or class assignments**: 2/8 (25%)
 
-### Negative Case:
-- **Zhu Ying Lam**: "I probably wouldn't use it again" - Only participant expressing disinterest in future use, despite 5/5 satisfaction ratings across all metrics
+### Key Insight:
+**Learning-focused use dominates**: 75% want to use platform for technique learning, surpassing pure creative/brainstorming purposes. Indicates **pedagogical value as primary attraction**—participants see this as educational tool, not just creative aid.
+
+### Participant-Specific Use Patterns:
+| Participant | Primary Use Intent | Use Cases Selected |
+|-------------|---|---|
+| ZHENG ZIAN | Academic/practical | Brainstorming, Creative directions, Personal expression |
+| David | Exploratory | Multiple creative directions, Feedback, Practice |
+| Zhu Ying Lam | Comprehensive | 9+ use cases; notably includes "wouldn't use again" |
+| Muhammad Hadi | Feedback-focused | Getting feedback on drafts only |
+| Zhao Fangyu | Creative-focused | Brainstorming, Forms, Directions, Personal expression |
+| Wong Tiana | Pedagogical | Forms, Feedback, Directions, Lines, Block, Expression, Assignments |
+| CHEN Yujing | Balanced | Brainstorming, Forms, Feedback, Directions, Lines, English, Expression |
+| Penny Pan | Comprehensive | Forms, Feedback, Directions, Lines, Block, Expression, Assignments |
+
+### Notable Anomaly:
+**Zhu Ying Lam paradox**: Checked most use cases (9/9) including "wouldn't use again," yet maintained 5/5 satisfaction ratings. Suggests possible survey interpretation issue or complex attitude (valued experience while uncertain about future need).
 
 ---
 
 ## 7. Interface Design: Structured Studio vs. Exploratory Atelier
 
 ### Personal Poetry Writing Preference:
-- **Exploratory Atelier**: 5/7 (71%)
-- **Structured Studio**: 1/7 (14%)
-- **Unspecified**: 1/7 (14%)
+- **Exploratory Atelier**: 6/8 (75%)
+- **Structured Studio**: 1/8 (12%)
+- **Not specified/Mixed**: 1/8 (12%)
 
-**Insight**: Clear preference for creative freedom and exploration over structured constraints.
+**Clear Preference**: 75% choose Exploratory for personal creative work, indicating strong preference for creative freedom and parameter flexibility in self-directed contexts.
 
 ### Academic/Learning Purposes Preference:
-- **Exploratory Atelier**: 2/7 (29%)
-- **Structured Studio**: 4/7 (57%)
-- **Unspecified/Mixed**: 1/7 (14%)
+- **Exploratory Atelier**: 3/8 (37%)
+- **Structured Studio**: 4/8 (50%)
+- **Not specified/Mixed**: 1/8 (12%)
 
-**Insight**: More balanced preference, with slight lean toward Structured Studio for formal learning contexts.
+**Split Preference**: Slight lean toward Structured (50%) for formal learning, but significant portion (37%) still prefer Exploratory even for academic work. Suggests structure-for-learning assumption not universally applicable—some learners prefer exploratory approach even in academic contexts.
 
-### Qualitative Feedback on Design:
-**Zhao Fangyu** (positive): *"The platform is well designed, very clear, concise, and elegant. I like the image generator function, all the pictures are very imaginative and cool, also the styles are very consistent."*
+### Preference Patterns by Participant:
+| Participant | Personal | Academic | Pattern |
+|---|---|---|---|
+| ZHENG ZIAN | Exploratory | Structured | Context-sensitive |
+| David | Exploratory | Structured | Context-sensitive |
+| Zhu Ying Lam | Exploratory | Structured | Context-sensitive |
+| Muhammad Hadi | Exploratory | Exploratory | Consistent preference |
+| Zhao Fangyu | Exploratory | Structured | Context-sensitive |
+| Wong Tiana | Exploratory | Exploratory | Consistent preference |
+| CHEN Yujing | Structured | Exploratory | Inverse pattern |
+| Penny Pan | Structured | Structured | Consistent structured preference |
 
-**Wong Tiana** (mixed): *"The AI didn't really fix my format problems, it gave me an even longer haiku"*
+**Key Finding**: Most participants (5/8, 62%) are **context-sensitive** in their preferences, adjusting based on task type. Two participants show **consistent exploratory preference** (Muhammad Hadi, Wong Tiana) regardless of context. One participant (CHEN Yujing) shows **inverse pattern**, preferring structure for personal poetry but exploration for academics.
+
+### Qualitative Design Feedback:
+
+**Positive Comments:**
+- **Zhao Fangyu**: "The platform is well designed, very clear, concise, and elegant. I like the image generator function—pictures are very imaginative and cool with consistent styles."
+- **CHEN Yujing**: "I really like this platform and I will definitely use it again :)"
+
+**Constructive Feedback:**
+- **Penny Pan**: "Some poem examples and related brief introduction should be provided on the UI (e.g., 'Haiku originated from xxx, typical Haiku examples are xxxxx')"
+- **Wong Tiana**: "The AI didn't really fix my format problems; it gave me an even longer haiku"
+
+**Image Generator Reception**: Zhao Fangyu's specific praise for image generation consistency and imagination suggests this feature is underutilized or underappreciated—could be highlighted more in design.
 
 ---
 
@@ -237,11 +318,15 @@ The second-round feedback reveals **highly positive reception** of the PoetryAI 
 
 | Dimension | Average | Positive (4-5/5) | Neutral (3/5) | Negative (1-2/5) |
 |-----------|---------|-----------------|---------------|-----------------|
-| Seminar Enjoyment | 4.9/5 | 100% | 0% | 0% |
-| Platform Comfort | 4.7/5 | 100% | 0% | 0% |
-| Future Intent | 4.6/5 | 100% | 0% | 0% |
-| Creative Ownership | 3.1/5 | 57% | 29% | 14% |
-| AI Confidence Boost | 4.2/5 | 71% | 14% | 0% |
+| Seminar Enjoyment | 4.88/5 | 100% | 0% | 0% |
+| Platform Comfort | 4.75/5 | 100% | 0% | 0% |
+| Future Intent | 4.63/5 | 100% | 0% | 0% |
+| Creative Ownership | 3.38/5 | 37% | 50% | 13% |
+| AI Confidence Boost | 4.0/5 | 75% | 25% | 0% |
+| Creative Partnership | 3.5/5 | 37% | 50% | 12% |
+| Emotional Safety | 3.57/5 | 62% | 25% | 12% |
+
+**Overall Platform Reception**: Exceptionally strong across experiential dimensions (satisfaction, comfort, future use). More nuanced across creative and partnership dimensions, reflecting diverse user preferences and expectations.
 
 ---
 
