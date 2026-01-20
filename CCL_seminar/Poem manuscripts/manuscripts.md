@@ -6,7 +6,7 @@
 ## Avenge
 
 **Type**: Haiku  
-**Author**: Tia Lovell  
+**Author**: p 12
 **Timestamp**: 2026/1/9 15:25:35  
 **Status**: Public
 
@@ -17,7 +17,7 @@ With fury blazing in her eyes, the rose fae grasped the dark arcane, its ancient
 ## The Measure of Emotional Symphony
 
 **Type**: Poem  
-**Author**: Simon  
+**Author**: p 19
 **Timestamp**: 2026/1/9 15:22:58  
 **Status**: Public
 
@@ -36,7 +36,7 @@ While silent tears quietly sigh.
 ## My life
 
 **Type**: Free-verse  
-**Author**: Penny Pan  
+**Author**: P 15
 **Timestamp**: 2026/1/9 15:18:26  
 **Status**: Public
 
@@ -61,7 +61,7 @@ V me 50 to KFC.
 ## Sunlight dances on waves
 
 **Type**: Free-verse  
-**Author**: FZ  
+**Author**: p17
 **Timestamp**: 2026/1/9 15:14:28  
 **Status**: Public
 
@@ -88,7 +88,7 @@ cherishing each moment with family here.
 ## Reality Hurts
 
 **Type**: Free-verse  
-**Author**: using  
+**Author**: p 16
 **Timestamp**: 2026/1/9 15:12:32  
 **Status**: Public
 
@@ -103,7 +103,7 @@ At the summit, she whispers,
 ## Claude Sonnet
 
 **Type**: Sonnet  
-**Author**: Andy  
+**Author**: p 11
 **Timestamp**: 2026/1/9 15:10:32  
 **Status**: Public
 
@@ -127,7 +127,7 @@ Where human dreams meet machine's vision.
 ## Claude Haiku
 
 **Type**: Haiku  
-**Author**: Andy  
+**Author**: p11
 **Timestamp**: 2026/1/9 15:05:11  
 **Status**: Public
 
@@ -140,7 +140,7 @@ Echoes of our thoughts
 ## Lucky rushing
 
 **Type**: Narrative  
-**Author**: 24213721  
+**Author**: p 13
 **Timestamp**: 2026/1/9 15:04:43  
 **Status**: Public
 
@@ -162,7 +162,7 @@ A journey complete, as calmness comes.
 ## Echoes of Forgotten Joy
 
 **Type**: Free-verse  
-**Author**: using  
+**Author**: p 16
 **Timestamp**: 2026/1/9 15:04:00  
 **Status**: Public
 
@@ -191,7 +191,7 @@ of the joy time cannot divide.
 ## Navigating the Digital Maze
 
 **Type**: Free-verse  
-**Author**: test  
+**Author**: p 18
 **Timestamp**: 2026/1/9 15:03:55  
 **Status**: Public
 
@@ -210,7 +210,7 @@ Yet through the storm, they endure.
 ## Writing A Fiction
 
 **Type**: Free-verse  
-**Author**: Penny Pan  
+**Author**: p 15
 **Timestamp**: 2026/1/9 15:03:32  
 **Status**: Public
 
@@ -230,7 +230,7 @@ Yet endings are inevitable, scripted from the heart.
 ## dragon princess
 
 **Type**: Fantasy Narrative  
-**Author**: Tia Lovell  
+**Author**: p 12
 **Timestamp**: 2026/1/9 15:03:18  
 **Status**: Public
 
@@ -246,7 +246,7 @@ And transform back to the human she once was.
 ## Flavor's Embrace
 
 **Type**: Haiku  
-**Author**: hadi  
+**Author**: p 14
 **Timestamp**: 2026/1/9 14:53:53  
 **Status**: Public
 
