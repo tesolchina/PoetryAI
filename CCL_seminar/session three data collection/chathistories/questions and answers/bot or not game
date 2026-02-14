@@ -1,0 +1,365 @@
+{
+  "sessionId": "b3b80d06-6986-418e-b646-11e06b4f6861",
+  "exportedAt": "2026-01-28T04:43:55.182Z",
+  "overallStats": {
+    "totalVotes": 47,
+    "correctVotes": 27,
+    "accuracy": 57
+  },
+  "rounds": [
+    {
+      "roundNumber": 1,
+      "leftPoemTitle": "Red Faces",
+      "rightPoemTitle": "Orange Light",
+      "aiPosition": "right",
+      "status": "ended",
+      "createdAt": "2026-01-26T10:14:57.831057+00:00",
+      "revealedAt": "2026-01-26T10:17:14.133+00:00",
+      "stats": {
+        "leftVotes": 9,
+        "rightVotes": 3,
+        "correctVotes": 3,
+        "totalVotes": 12,
+        "accuracy": 25
+      },
+      "votes": [
+        {
+          "participantName": "ZHONG NANSHAN",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:11.59287+00:00"
+        },
+        {
+          "participantName": "Him",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:16.078122+00:00"
+        },
+        {
+          "participantName": "max",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:15:19.035074+00:00"
+        },
+        {
+          "participantName": "Fay",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:15:20.887529+00:00"
+        },
+        {
+          "participantName": "Yiyi Zhou",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:22.647489+00:00"
+        },
+        {
+          "participantName": "Bruce~",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:23.928288+00:00"
+        },
+        {
+          "participantName": "Jiang Mohan",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:34.990935+00:00"
+        },
+        {
+          "participantName": "Riley",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:41.805636+00:00"
+        },
+        {
+          "participantName": "Amy",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:44.544358+00:00"
+        },
+        {
+          "participantName": "YAN Gege",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:15:47.601501+00:00"
+        },
+        {
+          "participantName": "Veronica",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:15:50.699588+00:00"
+        },
+        {
+          "participantName": "Leo",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:16:38.33087+00:00"
+        }
+      ]
+    },
+    {
+      "roundNumber": 2,
+      "leftPoemTitle": "Becoming",
+      "rightPoemTitle": "Becoming",
+      "aiPosition": "right",
+      "status": "ended",
+      "createdAt": "2026-01-26T10:19:15.525459+00:00",
+      "revealedAt": "2026-01-26T10:21:21.618+00:00",
+      "stats": {
+        "leftVotes": 1,
+        "rightVotes": 11,
+        "correctVotes": 11,
+        "totalVotes": 12,
+        "accuracy": 92
+      },
+      "votes": [
+        {
+          "participantName": "ZHONG NANSHAN",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:25.961947+00:00"
+        },
+        {
+          "participantName": "max",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:39.930824+00:00"
+        },
+        {
+          "participantName": "Bruce~",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:43.280321+00:00"
+        },
+        {
+          "participantName": "Him",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:43.792287+00:00"
+        },
+        {
+          "participantName": "Yiyi Zhou",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:49.400289+00:00"
+        },
+        {
+          "participantName": "Amy",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:19:54.411287+00:00"
+        },
+        {
+          "participantName": "Leo",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:20:10.173348+00:00"
+        },
+        {
+          "participantName": "Fay",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:20:18.419065+00:00"
+        },
+        {
+          "participantName": "Veronica",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:20:29.836849+00:00"
+        },
+        {
+          "participantName": "YAN Gege",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:20:40.425882+00:00"
+        },
+        {
+          "participantName": "Jiang Mohan",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:20:53.637774+00:00"
+        },
+        {
+          "participantName": "Riley",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:21:01.133473+00:00"
+        }
+      ]
+    },
+    {
+      "roundNumber": 3,
+      "leftPoemTitle": "I AM 17. I HAVE A LOT TO SAY",
+      "rightPoemTitle": "I AM 17. I HAVE A LOT TO SAY",
+      "aiPosition": "right",
+      "status": "ended",
+      "createdAt": "2026-01-26T10:22:19.446774+00:00",
+      "revealedAt": "2026-01-26T10:24:21.553+00:00",
+      "stats": {
+        "leftVotes": 7,
+        "rightVotes": 4,
+        "correctVotes": 4,
+        "totalVotes": 11,
+        "accuracy": 36
+      },
+      "votes": [
+        {
+          "participantName": "Amy",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:22:42.995331+00:00"
+        },
+        {
+          "participantName": "Veronica",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:22:57.190585+00:00"
+        },
+        {
+          "participantName": "Yiyi Zhou",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:22:58.892919+00:00"
+        },
+        {
+          "participantName": "Him",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:23:03.320917+00:00"
+        },
+        {
+          "participantName": "Bruce~",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:23:04.366812+00:00"
+        },
+        {
+          "participantName": "ZHONG NANSHAN",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:23:16.321044+00:00"
+        },
+        {
+          "participantName": "YAN Gege",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:23:17.936212+00:00"
+        },
+        {
+          "participantName": "Riley",
+          "vote": "right",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:23:18.066129+00:00"
+        },
+        {
+          "participantName": "Leo",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:23:50.856794+00:00"
+        },
+        {
+          "participantName": "max",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:24:02.547145+00:00"
+        },
+        {
+          "participantName": "Jiang Mohan",
+          "vote": "left",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:24:02.856981+00:00"
+        }
+      ]
+    },
+    {
+      "roundNumber": 4,
+      "leftPoemTitle": "He Knows a Lot about the American Dream, Too",
+      "rightPoemTitle": "Poem for Friends",
+      "aiPosition": "left",
+      "status": "ended",
+      "createdAt": "2026-01-26T10:26:07.596635+00:00",
+      "revealedAt": "2026-01-26T10:28:09.295+00:00",
+      "stats": {
+        "leftVotes": 9,
+        "rightVotes": 3,
+        "correctVotes": 9,
+        "totalVotes": 12,
+        "accuracy": 75
+      },
+      "votes": [
+        {
+          "participantName": "Hui Ka Chun,John (25237233)",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:26:23.170664+00:00"
+        },
+        {
+          "participantName": "max",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:26:30.056082+00:00"
+        },
+        {
+          "participantName": "Yiyi Zhou",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:26:38.153394+00:00"
+        },
+        {
+          "participantName": "Riley",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:26:42.800488+00:00"
+        },
+        {
+          "participantName": "ZHONG NANSHAN",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:26:52.187476+00:00"
+        },
+        {
+          "participantName": "Jiang Mohan",
+          "vote": "right",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:27:01.319898+00:00"
+        },
+        {
+          "participantName": "Leo",
+          "vote": "right",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:27:03.409724+00:00"
+        },
+        {
+          "participantName": "Fay",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:27:27.404554+00:00"
+        },
+        {
+          "participantName": "Amy",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:27:32.77313+00:00"
+        },
+        {
+          "participantName": "Veronica",
+          "vote": "right",
+          "isCorrect": false,
+          "votedAt": "2026-01-26T10:27:42.959584+00:00"
+        },
+        {
+          "participantName": "Him",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:27:45.89065+00:00"
+        },
+        {
+          "participantName": "YAN Gege",
+          "vote": "left",
+          "isCorrect": true,
+          "votedAt": "2026-01-26T10:27:48.986994+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -74,6 +74,10 @@ Chat transcripts were coded using an interaction typology adapted from creative 
 
 Two independent coders achieved 87% inter-rater reliability on a subset of 200 message exchanges (Cohen's κ = 0.82). Authorship perception was analyzed through discourse analysis of panel discussion data, identifying explicit statements about creative ownership and AI's role.
 
+### Methodology Conclusion (Mixed-Methods)
+
+This study concludes with a convergent mixed-methods strategy. **Quantitatively**, the platform logs and chat records store and document user decisions, enabling analysis of interaction-type preferences, frequency distributions, and related behavioral indicators. **Qualitatively**, panel discussion transcripts, participant feedback, and review comments are examined to interpret authorship perception and creative agency.
+
 ---
 
 ## Findings

@@ -57,8 +57,6 @@ ax.annotate('7× increase', xy=(2 + width/2, 35), xytext=(2 + width/2 + 0.5, 45)
 # Formatting
 ax.set_ylabel('Percentage of Interactions (%)', fontsize=13, fontweight='bold')
 ax.set_xlabel('Interaction Type', fontsize=13, fontweight='bold')
-ax.set_title('Figure 1: Parameter Configuration Dramatically Reshapes Interaction Ecology\n' + 
-             'χ²=24.3, p<.001, Cramér\'s V=.38', fontsize=15, fontweight='bold', pad=20)
 ax.set_xticks(x)
 ax.set_xticklabels(categories, fontsize=12)
 ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
@@ -86,8 +84,6 @@ bars1 = ax1.barh(x_pos, helpful_ratings, color=['#e74c3c', '#f39c12', '#3498db']
 ax1.set_yticks(x_pos)
 ax1.set_yticklabels(phases, fontsize=11)
 ax1.set_xlabel('Percentage Rating Type B "Most Helpful" (%)', fontsize=12, fontweight='bold')
-ax1.set_title('"MOST HELPFUL" RATING (declining as autonomy increases)', 
-              fontsize=12, fontweight='bold', loc='left')
 ax1.set_xlim(0, 100)
 for i, (bar, val) in enumerate(zip(bars1, helpful_ratings)):
     ax1.text(val + 2, bar.get_y() + bar.get_height()/2, f'{val}%', 
@@ -102,8 +98,6 @@ bars2 = ax2.barh(x_pos, authorship_means, color=['#e74c3c', '#f39c12', '#3498db'
 ax2.set_yticks(x_pos)
 ax2.set_yticklabels(phases, fontsize=11)
 ax2.set_xlabel('Authorship Perception (%)', fontsize=12, fontweight='bold')
-ax2.set_title('AUTHORSHIP PERCEPTION (modest recovery when chosen)', 
-              fontsize=12, fontweight='bold', loc='left')
 ax2.set_xlim(0, 100)
 # Add range annotations
 for i, ((low, high), mean) in enumerate(zip(authorship_ranges, authorship_means)):
@@ -124,8 +118,6 @@ bars3 = ax3.barh(x_pos, satisfaction_scaled, color=colors_sat,
 ax3.set_yticks(x_pos)
 ax3.set_yticklabels(phases, fontsize=11)
 ax3.set_xlabel('Creative Satisfaction (scaled to 100%)', fontsize=12, fontweight='bold')
-ax3.set_title('CREATIVE SATISFACTION (dramatic jump with voluntary context)', 
-              fontsize=12, fontweight='bold', loc='left')
 ax3.set_xlim(0, 100)
 emojis = ['😐', '😊', '😊']
 for i, (bar, val, score, emoji) in enumerate(zip(bars3, satisfaction_scaled, satisfaction_scores, emojis)):
@@ -137,9 +129,6 @@ ax3.annotate('+0.75pts', xy=(95, 1), xytext=(85, 1.5),
             fontsize=11, fontweight='bold', color='green')
 ax3.grid(axis='x', alpha=0.3)
 
-fig.suptitle('Figure 2: The Type B Paradox—Helpful Yet Alienating Across Contexts\n' + 
-             'THE PARADOX: Usefulness ⬆ yet Ownership ⬇  |  THE RESOLUTION: Autonomy transforms experience',
-             fontsize=15, fontweight='bold', y=0.995)
 
 plt.tight_layout()
 plt.savefig(f'{output_dir}/figure2_type_b_paradox.png', dpi=300, bbox_inches='tight')
@@ -192,9 +181,6 @@ ax.text(45, 15, 'LOW AUTHORSHIP\nDESPITE SIMILAR AI CONTRIBUTION',
 # Formatting
 ax.set_xlabel('AI Word Contribution (%)', fontsize=13, fontweight='bold')
 ax.set_ylabel('Self-Attribution of Authorship (%)', fontsize=13, fontweight='bold')
-ax.set_title('Figure 3: Authorship Perception Decoupled from Word Contribution\n' + 
-             'KEY INSIGHT: Ownership = Procedural Control, NOT Word Count',
-             fontsize=15, fontweight='bold', pad=20)
 ax.set_xlim(0, 100)
 ax.set_ylim(0, 100)
 ax.legend(loc='upper right', fontsize=12, framealpha=0.9)
@@ -263,9 +249,6 @@ for i, desc in enumerate(descriptions):
 ax.set_yticks(y_pos)
 ax.set_yticklabels(dimensions, fontsize=12, fontweight='bold')
 ax.set_xlabel('Control Distribution (%)', fontsize=13, fontweight='bold')
-ax.set_title('Figure 4: Dimensional Structure of Human-AI Creative Collaboration\n' + 
-             'CRITICAL INSIGHT: Single metrics like "60% self, 40% AI" collapse multi-dimensional reality',
-             fontsize=15, fontweight='bold', pad=20)
 ax.set_xlim(0, 120)
 ax.legend(loc='lower right', fontsize=12, framealpha=0.9)
 ax.grid(axis='x', alpha=0.3)
@@ -311,9 +294,6 @@ for bars in [bars1, bars2]:
 # Formatting
 ax.set_ylabel('Percentage of Participants (%)', fontsize=13, fontweight='bold')
 ax.set_xlabel('Study Phase', fontsize=13, fontweight='bold')
-ax.set_title('Bonus Figure: Strategic Parameter Preference Across Contexts\n' + 
-             'Context-Sensitive Adaptation is Normative Learner Behavior',
-             fontsize=15, fontweight='bold', pad=20)
 ax.set_xticks(x)
 ax.set_xticklabels(phases, fontsize=12)
 ax.legend(loc='upper left', fontsize=11, framealpha=0.9)

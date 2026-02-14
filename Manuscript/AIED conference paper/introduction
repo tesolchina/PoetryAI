@@ -1,0 +1,25 @@
+ Introduction and Literature Review
+
+## Context and Motivation
+
+Large language models (LLMs) have transformed educational technology, yet their deployment in language learning remains underexamined—particularly regarding how configuration choices impact learner autonomy and creative agency. While educators increasingly recognize AI's potential as a scaffolding tool for second language (L2) writing, critical questions persist: *How do LLM parameters fundamentally shape learner interaction patterns? Can transparent parameter exposure cultivate deeper metacognitive awareness of AI behavior?* This study investigates whether LLM configuration—specifically the conceptual distance between deterministic and generative modes—redefines the quality of human-AI collaboration in creative writing tasks.
+
+## Literature Review
+
+### AI Scaffolding in L2 Writing
+
+Recent pedagogical research (Kellogg & Whiteford, 2009; Cumming, 2018) demonstrates that effective writing scaffolds reduce cognitive load while preserving learner agency—a balance CALL systems struggle to maintain. AI-assisted writing tools (e.g., machine translation, grammar checkers) have demonstrated measurable improvement in accuracy (Amaral & Meurers, 2011) but often diminish learner ownership of the composing process (Zheng et al., 2020). The critical gap: most systems present AI as a "black box," obscuring the mechanisms driving suggestions. By contrast, transparent parameter exposure—revealing the generative temperature and nucleus sampling values underlying AI responses—may enable learners to conceptualize AI not as infallible oracle but as a configurable tool with explicable biases.
+
+### LLM Parameter Configuration and Behavior
+
+Temperature and top-p (nucleus sampling) are fundamental hyperparameters controlling LLM output diversity. High temperatures (T ≈ 0.75+) increase entropy and novelty; low temperatures (T ≈ 0.25) prioritize highest-probability tokens, yielding deterministic, repetitive output. Empirically validated in NLP (Holtzman et al., 2020), these parameters directly influence how models distribute probability across response candidates. Yet educational applications rarely leverage this knowledge deliberately. No prior research, to our knowledge, explicitly examines how parameter *transparency* and *pedagogical framing* interact to shape learner perception of creative autonomy in human-AI writing partnerships.
+
+### Autonomy Support and Self-Determination Theory
+
+Self-Determination Theory (Ryan & Deci, 2000) posits that autonomy—perceived control over one's actions—is fundamental to intrinsic motivation. In writing instruction, autonomy manifests as authorship perception: the subjective sense that one's ideas drive the composition. Clark et al. (2014) found that AI scaffolds can paradoxically undermine autonomy even when functionally helpful, particularly when learners perceive suggestions as imposed rather than offered. Transparent parameter framing may disrupt this paradox by shifting learner mental models: "generative mode invites exploration; structured mode ensures consistency"—shifting from *algorithmic imposition* to *learner-chosen configuration*.
+
+## Research Gap and Study Contribution
+
+Current AI writing tools rarely expose parameter choices to learners. This study bridges three literature streams—AI scaffolding pedagogy, LLM parameter science, and autonomy support theory—by investigating whether *deliberate, transparent parameter configuration* in collaborative poetry writing produces measurably different patterns of interaction, perceived authorship, and creative satisfaction.
+
+The Poetry.AITutor.ink platform operationalizes this design: two transparent-parameter conditions (Structured: T=0.25, P=0.35; Exploratory: T=0.75, P=0.85) enable between-subjects comparison of how parameter framing shapes L2 learners' creative engagement and sense of authorial agency in AI-supported poetry composition.

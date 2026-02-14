@@ -76,10 +76,9 @@ During Phase 2's panel discussion—a revealing moment where we never mentioned 
 - **p 14** (structured condition): "Multiple options to choose from... very structured, like a menu"—capturing Type B's exemplar-selection dynamic with striking precision, the curated alternatives that feel organized yet constraining
 - **p 16** (mixed engagement): "I guided it through each step"—describing Type C's iterative reciprocity, the directional control through rejection-refinement cycles that preserves authorship despite AI collaboration
 
-Phase 3 Q&A responses revealed implicit parameter awareness even **before** extensive platform engagement, demonstrating that learners carry intuitive theories about scaffolding intensity into AI interactions:
+Phase 3 Q&A responses revealed implicit parameter awareness throughout extensive platform engagement, demonstrating that learners carry intuitive theories about scaffolding intensity into AI interactions:
 
-- **Jiang Mohan**: "Just do improvement, don't do creation"—expressing preference for structured constraint repair (Type A), actively rejecting exploratory generation (Type C)
-- **Riley**: "I hope what he creates can be quite profound and thought-provoking"—desiring exploratory surprise harvest, expecting AI to function as creative catalyst rather than mechanical corrector
+- p 27: "Just do improvement, don't do creation"—expressing preference for structured constraint repair (Type A), actively rejecting exploratory generation (Type C)
 
 **Key Insight:** Parameters function as learner-intuitive pedagogical levers, consistently determining which interaction types become available, how learners perceive authorship, and what scaffolding feels appropriate for different creative goals.
 
@@ -134,7 +133,7 @@ Now listen to Phase 2-3 participants—those who **chose** Type B voluntarily fo
 **Phase 2-3 participants (chosen Type B):**
 - **p 14**: Maintained merely 10% authorship claim yet reported maximum satisfaction (5/5): "It helped me build confidence in choosing words"—framing AI support not as creative displacement but as scaffolding for language learning, a strategic tool for vocabulary development
 - **p 15**: "In English, I find it more natural to use AI for writing assistance since English isn't my primary language"—articulating what we might call legitimate peripheral participation in linguistic competence, where AI fills gaps in language knowledge without threatening conceptual ownership
-- **Wang Sze Chit** (Phase 3): "It covers the corner I am not aware of"—appreciating AI's capacity to surface linguistic possibilities beyond current knowledge, valued precisely because it extends rather than replaces creative capability
+- **p 24** (Phase 3): "It covers the corner I am not aware of"—appreciating AI's capacity to surface linguistic possibilities beyond current knowledge, valued precisely because it extends rather than replaces creative capability
 
 ### The Autonomy Mechanism: Why the Same Tool Feels Completely Different
 
@@ -173,11 +172,10 @@ If Type B represents AI as helpful yet alienating collaborator, Type C emerges a
 
 Full autonomy in Phase 3 revealed fascinating individual differences in how learners experienced Type C interactions, demonstrating that the same interaction type can serve multiple creative functions:
 
-- **ZHONG NANSHAN** (Type C most often + most helpful): Claimed **85% authorship** with maximum ownership perception (5/5), explaining Type C's value through vivid metaphor: "Helps people already brain-rot"—describing AI as creative defibrillator, jolting stagnant thinking back into motion through unexpected provocations. The phrase "brain-rot" captures the experience of creative blockage, when ideas feel exhausted and imagination stalls. Type C interactions functioned as cognitive intervention, generating surprise that disrupted habitual patterns.
 
-- **Yiyi Zhou** (Type C most often, Type A most helpful): Reported **96% self-authorship**—the highest claim across all participants—yet rated Type A (not Type C) as most helpful. This apparent contradiction dissolves when we examine the rationale: "AI service for fixed things like grammar instead of replace my original creative thinking." This participant strategically **compartmentalized AI's role**—accepting Type A corrections for mechanical issues while maintaining fierce ownership over creative content. The minimal AI contribution (~4% by self-report) reflected deliberate boundaries: AI could fix form, but ideas remained inviolably human.
+- **p 30** (Type C most often, Type A most helpful): Reported **96% self-authorship**—the highest claim across all participants—yet rated Type A (not Type C) as most helpful. This apparent contradiction dissolves when we examine the rationale: "AI service for fixed things like grammar instead of replace my original creative thinking." This participant strategically **compartmentalized AI's role**—accepting Type A corrections for mechanical issues while maintaining fierce ownership over creative content. The minimal AI contribution (~4% by self-report) reflected deliberate boundaries: AI could fix form, but ideas remained inviolably human.
 
-- **Jiang Mohan** (Type C preference): Demonstrated that high satisfaction can coexist with modest authorship—**30% mine, 70% AI** yet rating AI partnership and emotional safety at maximum (5/5). The explanation illuminates why: "I feel like I can rely on AI to have some sparks in my brain"—valuing AI precisely for cognitive augmentation, treating the collaboration as **distributed creativity** where AI contributes generative capacity that the human lacks independently. High AI involvement didn't diminish satisfaction because the participant experienced it as collaborative enhancement rather than creative displacement.
+- **p 27** (Type C preference): Demonstrated that high satisfaction can coexist with modest authorship—**30% mine, 70% AI** yet rating AI partnership and emotional safety at maximum (5/5). The explanation illuminates why: "I feel like I can rely on AI to have some sparks in my brain"—valuing AI precisely for cognitive augmentation, treating the collaboration as **distributed creativity** where AI contributes generative capacity that the human lacks independently. High AI involvement didn't diminish satisfaction because the participant experienced it as collaborative enhancement rather than creative displacement.
 
 ### Why Type C Succeeds Where Type B Constrains
 
@@ -199,8 +197,8 @@ The cross-phase evidence reveals a consistent yet deeply counterintuitive patter
 │   p 09:        AI ~40% → Self-attribution 80%  ████████            │
 │   p 12:        AI ~20% → Self-attribution 90%  █████████           │
 │   p 16:        AI ~50% → Self-attribution 50%  █████               │
-│   Zhong:       AI ~15% → Self-attribution 85%  ████████            │
-│   Yiyi Zhou:   AI ~4%  → Self-attribution 96%  █████████           │
+│   p 22:       AI ~15% → Self-attribution 85%  ████████            │
+│   p30 :   AI ~4%  → Self-attribution 96%  █████████           │
 │                                                                    │
 │   Mechanism: ITERATIVE RECIPROCITY                                 │
 │   └─ Rejection → Refinement → Redirection cycles                  │
@@ -209,7 +207,7 @@ The cross-phase evidence reveals a consistent yet deeply counterintuitive patter
 │  LOW AUTHORSHIP DESPITE SIMILAR AI CONTRIBUTION (Type B)           │
 │   p 05/06:     AI ~40% → Self-attribution 15%  █                   │
 │   p 14:        AI ~20% → Self-attribution 10%  █                   │
-│   Wang:        AI ~80% → Self-attribution 20%  ██                  │
+│   p 23:        AI ~80% → Self-attribution 20%  ██                  │
 │                                                                    │
 │   Mechanism: PASSIVE SELECTION                                     │
 │   └─ Choosing from pre-made options                               │

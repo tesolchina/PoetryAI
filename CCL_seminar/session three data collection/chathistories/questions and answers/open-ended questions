@@ -1,0 +1,373 @@
+{
+  "sessionId": "b3b80d06-6986-418e-b646-11e06b4f6861",
+  "exportedAt": "2026-01-28T04:44:38.956Z",
+  "participants": [
+    {
+      "id": "862fc721-db61-4764-a3b6-820881890a4f",
+      "displayName": "Him",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Emotional depth and personal reflection",
+          "submittedAt": "2026-01-26T10:29:47.976406+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:46.308094+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:31:59.190358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7c249a83-b3e8-4249-b9bd-e0b0dfa03c9e",
+      "displayName": "Hui Ka Chun,John (25237233)",
+      "isOnline": true,
+      "responses": []
+    },
+    {
+      "id": "69381ec5-9246-46d8-a6ba-7d517c5a22cd",
+      "displayName": "Leo",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Thematic coherence and conceptual consistency",
+          "submittedAt": "2026-01-26T10:29:40.850053+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:54.563358+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Producing diverse outputs and exploring multiple creative variations quickly",
+          "submittedAt": "2026-01-26T10:31:53.10854+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "Clear and concise answers to the questions ",
+          "submittedAt": "2026-01-26T10:33:51.801398+00:00"
+        }
+      ]
+    },
+    {
+      "id": "06df4cff-3a2f-44eb-91f0-32b15dac9bef",
+      "displayName": "Yiyi Zhou",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Predictable patterns or overly polished structure",
+          "submittedAt": "2026-01-26T10:29:53.445879+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:51.615032+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "do not invade my privacy\nprohibit generating fake news",
+          "submittedAt": "2026-01-26T10:34:09.753195+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ce6681ce-7bdc-4e2c-8f3c-995114ca7cf8",
+      "displayName": "ZHONG NANSHAN",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Unexpected word choices and unique metaphors",
+          "submittedAt": "2026-01-26T10:29:32.42476+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:48.61334+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "Good user interface",
+          "submittedAt": "2026-01-26T10:33:09.409785+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7a86e9b2-43aa-4bde-9c6a-a6add4ebc519",
+      "displayName": "Veronica",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Emotional depth and personal reflection",
+          "submittedAt": "2026-01-26T10:29:35.809553+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:31:08.91051+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:31:46.861562+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "Give more accurate and immediate answers to my questions. ",
+          "submittedAt": "2026-01-26T10:34:14.94176+00:00"
+        }
+      ]
+    },
+    {
+      "id": "76e2acf5-e4a9-41bf-b798-4f5cff42939d",
+      "displayName": "Bruce~",
+      "isOnline": true,
+      "responses": []
+    },
+    {
+      "id": "77982fd3-4a24-4ffd-b83f-77733befe24d",
+      "displayName": "Jiang Mohan",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Unexpected word choices and unique metaphors",
+          "submittedAt": "2026-01-26T10:30:01.608428+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Originality and uniqueness of ideas",
+          "submittedAt": "2026-01-26T10:31:02.115997+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "just do improvement,  dont do creation",
+          "submittedAt": "2026-01-26T10:34:19.654266+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6714fa75-f986-4b3e-bdaf-9447fdccfb5b",
+      "displayName": "Riley",
+      "isOnline": true,
+      "responses": []
+    },
+    {
+      "id": "13533f50-6b74-4674-ab4b-d4262b6c18ff",
+      "displayName": "Fay",
+      "isOnline": true,
+      "responses": []
+    },
+    {
+      "id": "3057789b-986d-48ec-a577-617a396479b4",
+      "displayName": "Bruce~",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:31:53.344746+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f7006943-9cbd-499a-885f-707e195eb30c",
+      "displayName": "max",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:48.873024+00:00"
+        }
+      ]
+    },
+    {
+      "id": "72652751-7bb2-47b5-a175-b7fe9e7c5ff1",
+      "displayName": "Amy",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Predictable patterns or overly polished structure",
+          "submittedAt": "2026-01-26T10:29:34.760779+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "All of the above equally",
+          "submittedAt": "2026-01-26T10:30:49.060971+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Producing diverse outputs and exploring multiple creative variations quickly",
+          "submittedAt": "2026-01-26T10:31:56.19245+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "clear interface, efficient exploration of creative options, works in different languages. I want to see if it can generate poetry that is truly indistinguishable from human-composed works. ",
+          "submittedAt": "2026-01-26T10:34:29.537967+00:00"
+        }
+      ]
+    },
+    {
+      "id": "a26fb20a-476e-48c1-9ce5-278c2c3f36cf",
+      "displayName": "Riley",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Predictable patterns or overly polished structure",
+          "submittedAt": "2026-01-26T10:29:47.559882+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:31:07.804604+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:32:16.896964+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "I hope what he creates can be quite profound and thought-provoking .\n\n",
+          "submittedAt": "2026-01-26T10:34:21.094725+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2e64ac77-3b41-406a-9424-c049d0bc49fa",
+      "displayName": "YAN Gege",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 0,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"When distinguishing between AI-generated and human-written poetry, which of the following qualities do you find most helpful in making that distinction?\",\"options\":[\"Emotional depth and personal reflection\",\"Unexpected word choices and unique metaphors\",\"Predictable patterns or overly polished structure\",\"Thematic coherence and conceptual consistency\"],\"timeLimit\":150,\"taskIndex\":0}",
+          "taskType": "focus",
+          "response": "Unexpected word choices and unique metaphors",
+          "submittedAt": "2026-01-26T10:29:48.788279+00:00"
+        },
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "All of the above equally",
+          "submittedAt": "2026-01-26T10:31:02.574072+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:32:05.39908+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "Express more like humans",
+          "submittedAt": "2026-01-26T10:34:24.932048+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d59a2432-42a2-48c0-a131-5060556db301",
+      "displayName": "Fay",
+      "isOnline": true,
+      "responses": [
+        {
+          "taskIndex": 1,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In your opinion, which of the following is the most important factor in evaluating poetry quality?\",\"options\":[\"Technical mastery of language and form\",\"Emotional authenticity and personal experience\",\"Originality and uniqueness of ideas\",\"All of the above equally\"],\"timeLimit\":150,\"taskIndex\":1}",
+          "taskType": "focus",
+          "response": "Emotional authenticity and personal experience",
+          "submittedAt": "2026-01-26T10:30:54.975693+00:00"
+        },
+        {
+          "taskIndex": 2,
+          "taskPrompt": "{\"type\":\"mcq\",\"prompt\":\"In terms of poetry writing, what do you think AI is capable of or better at compared to humans?\",\"options\":[\"Pattern capturing and recognizing complex linguistic structures\",\"Generating consistent rhyme schemes and technical precision\",\"Producing diverse outputs and exploring multiple creative variations quickly\",\"Creating novel combinations of concepts and unexpected associations\"],\"timeLimit\":150,\"taskIndex\":2}",
+          "taskType": "focus",
+          "response": "Generating consistent rhyme schemes and technical precision",
+          "submittedAt": "2026-01-26T10:31:56.152962+00:00"
+        },
+        {
+          "taskIndex": 3,
+          "taskPrompt": "{\"type\":\"writing\",\"prompt\":\"What are your expectations for the AI tool we're using today?\",\"timeLimit\":300,\"taskIndex\":3}",
+          "taskType": "focus",
+          "response": "creat poems that feel truly vivid and emotionally",
+          "submittedAt": "2026-01-26T10:34:53.135904+00:00"
+        }
+      ]
+    }
+  ]
+}
